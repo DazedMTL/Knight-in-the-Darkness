@@ -1,0 +1,3315 @@
+[
+    null,
+    {
+        "id": 1,
+        "expanded": false,
+        "name": "滅びの森",
+        "order": 355,
+        "parentId": 270,
+        "scrollX": 1284,
+        "scrollY": 1492.6666666666667
+    },
+    {
+        "id": 2,
+        "expanded": false,
+        "name": "OP洞窟_ゲーム開始",
+        "order": 199,
+        "parentId": 125,
+        "scrollX": 1198,
+        "scrollY": 631
+    },
+    {
+        "id": 3,
+        "expanded": true,
+        "name": "OP洞窟_最深部01",
+        "order": 203,
+        "parentId": 2,
+        "scrollX": 1105.2,
+        "scrollY": 1425
+    },
+    {
+        "id": 4,
+        "expanded": false,
+        "name": "OP洞窟_ボス部屋",
+        "order": 200,
+        "parentId": 2,
+        "scrollX": 678,
+        "scrollY": 541.1999999999999
+    },
+    {
+        "id": 5,
+        "expanded": false,
+        "name": "奴隷収容所_OPイベント",
+        "order": 214,
+        "parentId": 87,
+        "scrollX": 1213,
+        "scrollY": 667
+    },
+    {
+        "id": 6,
+        "expanded": true,
+        "name": "民家_外観",
+        "order": 209,
+        "parentId": 125,
+        "scrollX": 1171.3333333333333,
+        "scrollY": 849.3333333333334
+    },
+    {
+        "id": 7,
+        "expanded": false,
+        "name": "奴隷収容所_生活区画",
+        "order": 346,
+        "parentId": 270,
+        "scrollX": 1448,
+        "scrollY": 978
+    },
+    {
+        "id": 8,
+        "expanded": true,
+        "name": "奴隷収容所_入り口",
+        "order": 349,
+        "parentId": 7,
+        "scrollX": 1187.4545454545455,
+        "scrollY": 480.54545454545456
+    },
+    {
+        "id": 9,
+        "expanded": true,
+        "name": "奴隷収容所_労働区画",
+        "order": 348,
+        "parentId": 7,
+        "scrollX": 1344,
+        "scrollY": 800
+    },
+    {
+        "id": 10,
+        "expanded": false,
+        "name": "奴隷収容所_看守室",
+        "order": 347,
+        "parentId": 7,
+        "scrollX": 1623.818181818182,
+        "scrollY": 800.1818181818182
+    },
+    {
+        "id": 11,
+        "expanded": false,
+        "name": "城_玉座の間01",
+        "order": 204,
+        "parentId": 3,
+        "scrollX": 1104.6,
+        "scrollY": 583.8
+    },
+    {
+        "id": 12,
+        "expanded": true,
+        "name": "城_外観",
+        "order": 345,
+        "parentId": 25,
+        "scrollX": 1406.6666666666667,
+        "scrollY": 1422
+    },
+    {
+        "id": 13,
+        "expanded": false,
+        "name": "chap04_OP_地下転移の間",
+        "order": 277,
+        "parentId": 118,
+        "scrollX": 816,
+        "scrollY": 1280
+    },
+    {
+        "id": 14,
+        "expanded": false,
+        "name": "魔導研究所_実験室",
+        "order": 359,
+        "parentId": 16,
+        "scrollX": 968.4,
+        "scrollY": 1042.8
+    },
+    {
+        "id": 15,
+        "expanded": false,
+        "name": "魔導研究所_収容室",
+        "order": 358,
+        "parentId": 16,
+        "scrollX": 978,
+        "scrollY": 541.1999999999999
+    },
+    {
+        "id": 16,
+        "expanded": false,
+        "name": "魔導研究所_入り口",
+        "order": 356,
+        "parentId": 270,
+        "scrollX": 999.5999999999999,
+        "scrollY": 531.6
+    },
+    {
+        "id": 17,
+        "expanded": false,
+        "name": "魔導研究所_施設中枢",
+        "order": 360,
+        "parentId": 16,
+        "scrollX": 999.5999999999999,
+        "scrollY": 1422
+    },
+    {
+        "id": 18,
+        "expanded": false,
+        "name": "魔導研究所_工場区",
+        "order": 357,
+        "parentId": 16,
+        "scrollX": 999.5999999999999,
+        "scrollY": 978
+    },
+    {
+        "id": 19,
+        "expanded": false,
+        "name": "歓楽街_ホテル2F",
+        "order": 353,
+        "parentId": 23,
+        "scrollX": 1016.5,
+        "scrollY": 1023
+    },
+    {
+        "id": 20,
+        "expanded": false,
+        "name": "歓楽街_ホテル1F",
+        "order": 351,
+        "parentId": 23,
+        "scrollX": 2962.2,
+        "scrollY": 733.8
+    },
+    {
+        "id": 21,
+        "expanded": false,
+        "name": "歓楽街_ホテル3F",
+        "order": 354,
+        "parentId": 23,
+        "scrollX": 1375.8,
+        "scrollY": 939.5999999999999
+    },
+    {
+        "id": 22,
+        "expanded": true,
+        "name": "テストルーム",
+        "order": 1,
+        "parentId": 0,
+        "scrollX": 885.5,
+        "scrollY": 1009
+    },
+    {
+        "id": 23,
+        "expanded": false,
+        "name": "歓楽街",
+        "order": 350,
+        "parentId": 270,
+        "scrollX": 1665.3333333333333,
+        "scrollY": 731.3333333333334
+    },
+    {
+        "id": 24,
+        "expanded": false,
+        "name": "魔導研究所_実験室02",
+        "order": 361,
+        "parentId": 16,
+        "scrollX": 968.4,
+        "scrollY": 978
+    },
+    {
+        "id": 25,
+        "expanded": false,
+        "name": "王都",
+        "order": 344,
+        "parentId": 270,
+        "scrollX": 1448,
+        "scrollY": 1422
+    },
+    {
+        "id": 26,
+        "expanded": true,
+        "name": "OP洞窟_最深部02",
+        "order": 205,
+        "parentId": 2,
+        "scrollX": 1060.5,
+        "scrollY": 1483.5
+    },
+    {
+        "id": 27,
+        "expanded": false,
+        "name": "城_玉座の間02",
+        "order": 206,
+        "parentId": 26,
+        "scrollX": 1044.5,
+        "scrollY": 550.5
+    },
+    {
+        "id": 28,
+        "expanded": false,
+        "name": "OP洞窟_最深部03",
+        "order": 207,
+        "parentId": 2,
+        "scrollX": 1158.5,
+        "scrollY": 898.5
+    },
+    {
+        "id": 29,
+        "expanded": false,
+        "name": "王都_軍備",
+        "order": 256,
+        "parentId": 123,
+        "scrollX": 885.5,
+        "scrollY": 1840
+    },
+    {
+        "id": 30,
+        "expanded": true,
+        "name": "民家_内部",
+        "order": 210,
+        "parentId": 6,
+        "scrollX": 1031.3333333333333,
+        "scrollY": 1014.6666666666666
+    },
+    {
+        "id": 31,
+        "expanded": false,
+        "name": "chapter.03",
+        "order": 69,
+        "parentId": 55,
+        "scrollX": 443.5,
+        "scrollY": 443
+    },
+    {
+        "id": 32,
+        "expanded": true,
+        "name": "奴隷収容所_OP_02",
+        "order": 215,
+        "parentId": 5,
+        "scrollX": 1276.6666666666667,
+        "scrollY": 1176
+    },
+    {
+        "id": 33,
+        "expanded": true,
+        "name": "奴隷収容所_OP_03",
+        "order": 216,
+        "parentId": 5,
+        "scrollX": 1414.2,
+        "scrollY": 1207.2
+    },
+    {
+        "id": 34,
+        "expanded": true,
+        "name": "奴隷収容所_OP_04",
+        "order": 219,
+        "parentId": 5,
+        "scrollX": 1357.8,
+        "scrollY": 966
+    },
+    {
+        "id": 35,
+        "expanded": true,
+        "name": "労働区画_自由行動",
+        "order": 220,
+        "parentId": 87,
+        "scrollX": 641.5,
+        "scrollY": 1477
+    },
+    {
+        "id": 36,
+        "expanded": false,
+        "name": "自由行動_分岐路",
+        "order": 223,
+        "parentId": 35,
+        "scrollX": 1126.5,
+        "scrollY": 992
+    },
+    {
+        "id": 37,
+        "expanded": false,
+        "name": "自由行動_生活区画",
+        "order": 221,
+        "parentId": 35,
+        "scrollX": 641.5,
+        "scrollY": 1964
+    },
+    {
+        "id": 38,
+        "expanded": false,
+        "name": "洞窟_ミニゲーム",
+        "order": 224,
+        "parentId": 36,
+        "scrollX": 585,
+        "scrollY": 2360.4
+    },
+    {
+        "id": 39,
+        "expanded": false,
+        "name": "洞窟_ミニゲーム終了",
+        "order": 225,
+        "parentId": 36,
+        "scrollX": 641,
+        "scrollY": 569
+    },
+    {
+        "id": 40,
+        "expanded": true,
+        "name": "崩落イベント_前",
+        "order": 226,
+        "parentId": 87,
+        "scrollX": 1411,
+        "scrollY": 1236
+    },
+    {
+        "id": 41,
+        "expanded": true,
+        "name": "崩落イベント_後",
+        "order": 227,
+        "parentId": 87,
+        "scrollX": 1519,
+        "scrollY": 901
+    },
+    {
+        "id": 42,
+        "expanded": true,
+        "name": "奴隷収容所_看守室",
+        "order": 228,
+        "parentId": 87,
+        "scrollX": 1815,
+        "scrollY": 901
+    },
+    {
+        "id": 43,
+        "expanded": false,
+        "name": "看守室_脱走前夜",
+        "order": 234,
+        "parentId": 88,
+        "scrollX": 1391.5,
+        "scrollY": 886
+    },
+    {
+        "id": 44,
+        "expanded": true,
+        "name": "脱走決行_アカネと",
+        "order": 238,
+        "parentId": 43,
+        "scrollX": 1168,
+        "scrollY": 901
+    },
+    {
+        "id": 45,
+        "expanded": true,
+        "name": "脱走計画_揺らぐ思い…",
+        "order": 239,
+        "parentId": 43,
+        "scrollX": 1584,
+        "scrollY": 1868
+    },
+    {
+        "id": 46,
+        "expanded": true,
+        "name": "脱走_他の者達も",
+        "order": 242,
+        "parentId": 88,
+        "scrollX": 975,
+        "scrollY": 886
+    },
+    {
+        "id": 47,
+        "expanded": true,
+        "name": "大脱走_救出",
+        "order": 240,
+        "parentId": 43,
+        "scrollX": 1584,
+        "scrollY": 856
+    },
+    {
+        "id": 48,
+        "expanded": true,
+        "name": "大脱走_決起",
+        "order": 241,
+        "parentId": 43,
+        "scrollX": 1168,
+        "scrollY": 1768
+    },
+    {
+        "id": 49,
+        "expanded": true,
+        "name": "大脱走_分岐路",
+        "order": 243,
+        "parentId": 88,
+        "scrollX": 1336.5,
+        "scrollY": 1057
+    },
+    {
+        "id": 50,
+        "expanded": true,
+        "name": "ホテル_B1_BAR",
+        "order": 352,
+        "parentId": 20,
+        "scrollX": 1424.6666666666667,
+        "scrollY": 841.3333333333334
+    },
+    {
+        "id": 51,
+        "expanded": false,
+        "name": "ホテル_BAR_OP",
+        "order": 258,
+        "parentId": 123,
+        "scrollX": 1368.5,
+        "scrollY": 1320
+    },
+    {
+        "id": 52,
+        "expanded": false,
+        "name": "ホテル_BAR_ミニゲーム",
+        "order": 260,
+        "parentId": 51,
+        "scrollX": 1216.5,
+        "scrollY": 1000
+    },
+    {
+        "id": 53,
+        "expanded": true,
+        "name": "大脱走_労働区",
+        "order": 245,
+        "parentId": 49,
+        "scrollX": 1627.5,
+        "scrollY": 1477
+    },
+    {
+        "id": 54,
+        "expanded": false,
+        "name": "大脱走_出口への道02",
+        "order": 247,
+        "parentId": 49,
+        "scrollX": 2246.5,
+        "scrollY": 1772
+    },
+    {
+        "id": 55,
+        "expanded": true,
+        "name": "回想部屋",
+        "order": 2,
+        "parentId": 22,
+        "scrollX": 927.5,
+        "scrollY": 781
+    },
+    {
+        "id": 56,
+        "expanded": true,
+        "name": "牛鬼_敗北",
+        "order": 201,
+        "parentId": 4,
+        "scrollX": 1104.6,
+        "scrollY": 1014
+    },
+    {
+        "id": 57,
+        "expanded": false,
+        "name": "BADEND_01",
+        "order": 202,
+        "parentId": 56,
+        "scrollX": 755.4,
+        "scrollY": 534
+    },
+    {
+        "id": 58,
+        "expanded": true,
+        "name": "OP洞窟_雑魚戦敗北",
+        "order": 208,
+        "parentId": 2,
+        "scrollX": 817.0909090909091,
+        "scrollY": 1076.1818181818182
+    },
+    {
+        "id": 59,
+        "expanded": true,
+        "name": "奴隷収容所_OP3.5",
+        "order": 217,
+        "parentId": 33,
+        "scrollX": 1219.5,
+        "scrollY": 625.5
+    },
+    {
+        "id": 60,
+        "expanded": true,
+        "name": "奴隷収容所_OP3.8",
+        "order": 218,
+        "parentId": 33,
+        "scrollX": 1082,
+        "scrollY": 1142.6666666666667
+    },
+    {
+        "id": 61,
+        "expanded": true,
+        "name": "☆イベント04_腋毛あり",
+        "order": 230,
+        "parentId": 65,
+        "scrollX": 677.5,
+        "scrollY": 1336.5
+    },
+    {
+        "id": 62,
+        "expanded": false,
+        "name": "クッションルーム",
+        "order": 3,
+        "parentId": 55,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 63,
+        "expanded": false,
+        "name": "民家_エロシーン",
+        "order": 211,
+        "parentId": 30,
+        "scrollX": 1219.3333333333333,
+        "scrollY": 1329.3333333333333
+    },
+    {
+        "id": 64,
+        "expanded": true,
+        "name": "☆イベント05",
+        "order": 232,
+        "parentId": 65,
+        "scrollX": 2422,
+        "scrollY": 1158
+    },
+    {
+        "id": 65,
+        "expanded": false,
+        "name": "イベント04_導入",
+        "order": 229,
+        "parentId": 87,
+        "scrollX": 1815,
+        "scrollY": 1237
+    },
+    {
+        "id": 66,
+        "expanded": false,
+        "name": "自由行動_chapter01",
+        "order": 5,
+        "parentId": 68,
+        "scrollX": 1132.6666666666667,
+        "scrollY": 792
+    },
+    {
+        "id": 67,
+        "expanded": true,
+        "name": "ｽﾄｰﾘｰ00_ゲーム開始",
+        "order": 8,
+        "parentId": 68,
+        "scrollX": 818,
+        "scrollY": 1041.3333333333333
+    },
+    {
+        "id": 68,
+        "expanded": false,
+        "name": "Chapter.01",
+        "order": 4,
+        "parentId": 55,
+        "scrollX": 1562.1818181818182,
+        "scrollY": 984
+    },
+    {
+        "id": 69,
+        "expanded": true,
+        "name": "☆00_OP雑魚戦敗北",
+        "order": 9,
+        "parentId": 68,
+        "scrollX": 818,
+        "scrollY": 1380
+    },
+    {
+        "id": 70,
+        "expanded": true,
+        "name": "ｽﾄｰﾘｰ1-1_ボス戦開始",
+        "order": 10,
+        "parentId": 68,
+        "scrollX": 759.3333333333334,
+        "scrollY": 601.3333333333334
+    },
+    {
+        "id": 71,
+        "expanded": true,
+        "name": "☆01_牛鬼戦敗北",
+        "order": 11,
+        "parentId": 68,
+        "scrollX": 818,
+        "scrollY": 1158.6666666666667
+    },
+    {
+        "id": 72,
+        "expanded": false,
+        "name": "ｽﾄｰﾘｰ1-2_洞窟最深部",
+        "order": 12,
+        "parentId": 68,
+        "scrollX": 748.6666666666666,
+        "scrollY": 1809.3333333333333
+    },
+    {
+        "id": 73,
+        "expanded": false,
+        "name": "回想_玉座01",
+        "order": 13,
+        "parentId": 72,
+        "scrollX": 699.6,
+        "scrollY": 596.4
+    },
+    {
+        "id": 74,
+        "expanded": false,
+        "name": "回想_洞窟最深部02",
+        "order": 14,
+        "parentId": 72,
+        "scrollX": 1060.8,
+        "scrollY": 1245.6
+    },
+    {
+        "id": 75,
+        "expanded": false,
+        "name": "回想_玉座02",
+        "order": 15,
+        "parentId": 72,
+        "scrollX": 1060.8,
+        "scrollY": 620.4
+    },
+    {
+        "id": 76,
+        "expanded": false,
+        "name": "回想_洞窟最深部03",
+        "order": 16,
+        "parentId": 72,
+        "scrollX": 1029.6,
+        "scrollY": 1316.3999999999999
+    },
+    {
+        "id": 77,
+        "expanded": false,
+        "name": "ｽﾄｰﾘｰ1-3_民家外観",
+        "order": 17,
+        "parentId": 68,
+        "scrollX": 1171.3333333333333,
+        "scrollY": 849.3333333333334
+    },
+    {
+        "id": 78,
+        "expanded": true,
+        "name": "回想_民家内部",
+        "order": 18,
+        "parentId": 77,
+        "scrollX": 1029.6,
+        "scrollY": 1012.8
+    },
+    {
+        "id": 79,
+        "expanded": false,
+        "name": "☆02_人さらい共に",
+        "order": 19,
+        "parentId": 68,
+        "scrollX": 1316.6666666666667,
+        "scrollY": 1064
+    },
+    {
+        "id": 80,
+        "expanded": true,
+        "name": "Chapter.02",
+        "order": 20,
+        "parentId": 55,
+        "scrollX": 443.5,
+        "scrollY": 443
+    },
+    {
+        "id": 81,
+        "expanded": true,
+        "name": "ｽﾄｰﾘｰ2-1_OP",
+        "order": 22,
+        "parentId": 224,
+        "scrollX": 1584.6666666666667,
+        "scrollY": 809.3333333333334
+    },
+    {
+        "id": 82,
+        "expanded": true,
+        "name": "ｽﾄｰﾘｰ2-1_労働説明",
+        "order": 23,
+        "parentId": 224,
+        "scrollX": 1411.5,
+        "scrollY": 809
+    },
+    {
+        "id": 83,
+        "expanded": true,
+        "name": "ｽﾄｰﾘｰ2-2_暗やみの中で",
+        "order": 24,
+        "parentId": 224,
+        "scrollX": 1308.5,
+        "scrollY": 747
+    },
+    {
+        "id": 84,
+        "expanded": true,
+        "name": "ｽﾄｰﾘｰ2-3_採掘坑の目的",
+        "order": 25,
+        "parentId": 224,
+        "scrollX": 1411.5,
+        "scrollY": 747
+    },
+    {
+        "id": 85,
+        "expanded": true,
+        "name": "ｽﾄｰﾘｰ2-3_自由行動まで",
+        "order": 26,
+        "parentId": 224,
+        "scrollX": 1154,
+        "scrollY": 1133.3333333333333
+    },
+    {
+        "id": 86,
+        "expanded": true,
+        "name": "自由行動_雑魚戦負け",
+        "order": 222,
+        "parentId": 37,
+        "scrollX": 1289,
+        "scrollY": 1337
+    },
+    {
+        "id": 87,
+        "expanded": false,
+        "name": "採掘坑編_前半(体験版部分)",
+        "order": 213,
+        "parentId": 126,
+        "scrollX": 540.5,
+        "scrollY": 451
+    },
+    {
+        "id": 88,
+        "expanded": true,
+        "name": "採掘坑編_後半",
+        "order": 233,
+        "parentId": 126,
+        "scrollX": 569.5,
+        "scrollY": 451
+    },
+    {
+        "id": 89,
+        "expanded": true,
+        "name": "ｽﾄｰﾘｰ2-4_崩落事故",
+        "order": 27,
+        "parentId": 224,
+        "scrollX": 1327.3333333333333,
+        "scrollY": 1246.6666666666667
+    },
+    {
+        "id": 90,
+        "expanded": true,
+        "name": "ｽﾄｰﾘｰ2-5_事故の責任",
+        "order": 28,
+        "parentId": 224,
+        "scrollX": 1307.3333333333333,
+        "scrollY": 1280
+    },
+    {
+        "id": 91,
+        "expanded": true,
+        "name": "ｽﾄｰﾘｰ2-6_新たな出会い",
+        "order": 29,
+        "parentId": 224,
+        "scrollX": 1307.3333333333333,
+        "scrollY": 753.3333333333334
+    },
+    {
+        "id": 92,
+        "expanded": false,
+        "name": "☆03_生活区_少年の世話",
+        "order": 30,
+        "parentId": 224,
+        "scrollX": 1192,
+        "scrollY": 1856
+    },
+    {
+        "id": 93,
+        "expanded": true,
+        "name": "☆ex_採掘坑_雑魚戦敗北",
+        "order": 31,
+        "parentId": 224,
+        "scrollX": 1193,
+        "scrollY": 1339.5
+    },
+    {
+        "id": 94,
+        "expanded": true,
+        "name": "☆00_OP雑魚戦敗北",
+        "order": 7,
+        "parentId": 66,
+        "scrollX": 1152,
+        "scrollY": 1380
+    },
+    {
+        "id": 95,
+        "expanded": true,
+        "name": "☆01_牛鬼戦敗北",
+        "order": 6,
+        "parentId": 66,
+        "scrollX": 1088,
+        "scrollY": 1022
+    },
+    {
+        "id": 96,
+        "expanded": true,
+        "name": "☆イベント04_腋毛なし",
+        "order": 231,
+        "parentId": 65,
+        "scrollX": 681,
+        "scrollY": 440.5
+    },
+    {
+        "id": 97,
+        "expanded": false,
+        "name": "☆04_看守長の折檻_導入",
+        "order": 32,
+        "parentId": 224,
+        "scrollX": 2390,
+        "scrollY": 1236
+    },
+    {
+        "id": 98,
+        "expanded": true,
+        "name": "回想_腋毛あり",
+        "order": 33,
+        "parentId": 97,
+        "scrollX": 806.5,
+        "scrollY": 636.5
+    },
+    {
+        "id": 99,
+        "expanded": true,
+        "name": "回想_腋毛なし",
+        "order": 34,
+        "parentId": 97,
+        "scrollX": 674.5,
+        "scrollY": 516.5
+    },
+    {
+        "id": 100,
+        "expanded": true,
+        "name": "自由行動_chapter02",
+        "order": 38,
+        "parentId": 224,
+        "scrollX": 1176,
+        "scrollY": 1164
+    },
+    {
+        "id": 101,
+        "expanded": true,
+        "name": "回想：chapter02_生活区画",
+        "order": 39,
+        "parentId": 100,
+        "scrollX": 1192.5,
+        "scrollY": 1736
+    },
+    {
+        "id": 102,
+        "expanded": false,
+        "name": "回想：chapter02_分岐路",
+        "order": 40,
+        "parentId": 100,
+        "scrollX": 1165.5,
+        "scrollY": 1477
+    },
+    {
+        "id": 103,
+        "expanded": true,
+        "name": "回想：chapter02_雑魚戦敗北",
+        "order": 43,
+        "parentId": 100,
+        "scrollX": 1190,
+        "scrollY": 1246
+    },
+    {
+        "id": 104,
+        "expanded": false,
+        "name": "回想：洞窟ミニゲーム",
+        "order": 41,
+        "parentId": 102,
+        "scrollX": 532.5,
+        "scrollY": 747
+    },
+    {
+        "id": 105,
+        "expanded": false,
+        "name": "回想：洞窟ミニゲーム終了",
+        "order": 42,
+        "parentId": 102,
+        "scrollX": 451.5,
+        "scrollY": 541
+    },
+    {
+        "id": 106,
+        "expanded": true,
+        "name": "歓楽街_雑魚戦敗北",
+        "order": 261,
+        "parentId": 52,
+        "scrollX": 3008,
+        "scrollY": 1024
+    },
+    {
+        "id": 107,
+        "expanded": false,
+        "name": "回想_連れ出される囚人",
+        "order": 235,
+        "parentId": 43,
+        "scrollX": 904.1999999999999,
+        "scrollY": 720.6
+    },
+    {
+        "id": 108,
+        "expanded": false,
+        "name": "幕間_アカネと旅路",
+        "order": 172,
+        "parentId": 138,
+        "scrollX": 732,
+        "scrollY": 932.4
+    },
+    {
+        "id": 109,
+        "expanded": true,
+        "name": "回想_室長_最後の言葉",
+        "order": 237,
+        "parentId": 43,
+        "scrollX": 1276.2,
+        "scrollY": 720.6
+    },
+    {
+        "id": 110,
+        "expanded": true,
+        "name": "脱走前夜_独居房",
+        "order": 236,
+        "parentId": 43,
+        "scrollX": 1162.2,
+        "scrollY": 720.6
+    },
+    {
+        "id": 111,
+        "expanded": false,
+        "name": "大脱走_収容所入り口",
+        "order": 248,
+        "parentId": 49,
+        "scrollX": 1387.5,
+        "scrollY": 1772
+    },
+    {
+        "id": 112,
+        "expanded": true,
+        "name": "Chap04_bad01",
+        "order": 330,
+        "parentId": 120,
+        "scrollX": 1544.7272727272727,
+        "scrollY": 984
+    },
+    {
+        "id": 113,
+        "expanded": false,
+        "name": "Chp04_bad01_訓練所",
+        "order": 333,
+        "parentId": 112,
+        "scrollX": 1562.1818181818182,
+        "scrollY": 984
+    },
+    {
+        "id": 114,
+        "expanded": true,
+        "name": "Chp04_bad01_兵士詰め所",
+        "order": 332,
+        "parentId": 112,
+        "scrollX": 1562.1818181818182,
+        "scrollY": 984
+    },
+    {
+        "id": 115,
+        "expanded": false,
+        "name": "chap02_boss敗北",
+        "order": 250,
+        "parentId": 111,
+        "scrollX": 1039,
+        "scrollY": 1237
+    },
+    {
+        "id": 116,
+        "expanded": true,
+        "name": "採掘坑_脱出成功",
+        "order": 252,
+        "parentId": 49,
+        "scrollX": 1387.5,
+        "scrollY": 1477
+    },
+    {
+        "id": 117,
+        "expanded": false,
+        "name": "脱出_日の光",
+        "order": 253,
+        "parentId": 116,
+        "scrollX": 1039,
+        "scrollY": 1034
+    },
+    {
+        "id": 118,
+        "expanded": true,
+        "name": "chap04_OP",
+        "order": 276,
+        "parentId": 120,
+        "scrollX": 1027.5,
+        "scrollY": 1427
+    },
+    {
+        "id": 119,
+        "expanded": false,
+        "name": "chap04_OP_ホテル3F",
+        "order": 278,
+        "parentId": 118,
+        "scrollX": 1027.5,
+        "scrollY": 997
+    },
+    {
+        "id": 120,
+        "expanded": false,
+        "name": "chapter04_story",
+        "order": 275,
+        "parentId": 0,
+        "scrollX": 649,
+        "scrollY": 451
+    },
+    {
+        "id": 121,
+        "expanded": false,
+        "name": "暗闇に続く道_入り口",
+        "order": 279,
+        "parentId": 120,
+        "scrollX": 1545,
+        "scrollY": 443
+    },
+    {
+        "id": 122,
+        "expanded": false,
+        "name": "Chp04_bad01_エロシーン",
+        "order": 334,
+        "parentId": 112,
+        "scrollX": 1562.1818181818182,
+        "scrollY": 984
+    },
+    {
+        "id": 123,
+        "expanded": true,
+        "name": "chapter03_story",
+        "order": 255,
+        "parentId": 0,
+        "scrollX": 540.5,
+        "scrollY": 439
+    },
+    {
+        "id": 124,
+        "expanded": true,
+        "name": "黄昏の臥所_OP",
+        "order": 257,
+        "parentId": 123,
+        "scrollX": 1070,
+        "scrollY": 1972.6666666666667
+    },
+    {
+        "id": 125,
+        "expanded": false,
+        "name": "chapter01_story",
+        "order": 198,
+        "parentId": 0,
+        "scrollX": 759.3333333333334,
+        "scrollY": 601.3333333333334
+    },
+    {
+        "id": 126,
+        "expanded": true,
+        "name": "chapter02_story",
+        "order": 212,
+        "parentId": 0,
+        "scrollX": 1562.1818181818182,
+        "scrollY": 984
+    },
+    {
+        "id": 127,
+        "expanded": false,
+        "name": "大脱走_出口への道01",
+        "order": 246,
+        "parentId": 49,
+        "scrollX": 2137.3333333333335,
+        "scrollY": 1448
+    },
+    {
+        "id": 128,
+        "expanded": true,
+        "name": "生活区_雑魚戦負け避難地",
+        "order": 244,
+        "parentId": 49,
+        "scrollX": 1336.5,
+        "scrollY": 1826
+    },
+    {
+        "id": 129,
+        "expanded": true,
+        "name": "看守_打倒成功 + 敗北",
+        "order": 254,
+        "parentId": 49,
+        "scrollX": 3513,
+        "scrollY": 1568
+    },
+    {
+        "id": 130,
+        "expanded": true,
+        "name": "BAR_ミニゲーム_11/06",
+        "order": 274,
+        "parentId": 52,
+        "scrollX": 1197.6,
+        "scrollY": 747.6
+    },
+    {
+        "id": 131,
+        "expanded": false,
+        "name": "BAR_ごろつき撃破",
+        "order": 262,
+        "parentId": 52,
+        "scrollX": 1328,
+        "scrollY": 1426
+    },
+    {
+        "id": 132,
+        "expanded": false,
+        "name": "歓楽街_ボス戦前01",
+        "order": 265,
+        "parentId": 52,
+        "scrollX": 1279,
+        "scrollY": 866
+    },
+    {
+        "id": 133,
+        "expanded": false,
+        "name": "歓楽街_ボス戦",
+        "order": 267,
+        "parentId": 132,
+        "scrollX": 1142.3999999999999,
+        "scrollY": 800.4
+    },
+    {
+        "id": 134,
+        "expanded": true,
+        "name": "歓楽街_ボス戦前_準備",
+        "order": 266,
+        "parentId": 132,
+        "scrollX": 1128,
+        "scrollY": 1067.3333333333333
+    },
+    {
+        "id": 135,
+        "expanded": true,
+        "name": "歓楽街_ボス戦_勝利",
+        "order": 268,
+        "parentId": 133,
+        "scrollX": 1130.3999999999999,
+        "scrollY": 792
+    },
+    {
+        "id": 136,
+        "expanded": true,
+        "name": "chap03_ボス戦後",
+        "order": 272,
+        "parentId": 52,
+        "scrollX": 1492,
+        "scrollY": 866
+    },
+    {
+        "id": 137,
+        "expanded": false,
+        "name": "歓楽街_ホテル3F",
+        "order": 273,
+        "parentId": 136,
+        "scrollX": 1232.7272727272727,
+        "scrollY": 984
+    },
+    {
+        "id": 138,
+        "expanded": false,
+        "name": "幕間",
+        "order": 171,
+        "parentId": 55,
+        "scrollX": 909.3333333333334,
+        "scrollY": 601.3333333333334
+    },
+    {
+        "id": 139,
+        "expanded": true,
+        "name": "幕間_君に吹く風",
+        "order": 177,
+        "parentId": 138,
+        "scrollX": 678,
+        "scrollY": 541.1999999999999
+    },
+    {
+        "id": 140,
+        "expanded": false,
+        "name": "幕間_お金がすごく無い",
+        "order": 173,
+        "parentId": 138,
+        "scrollX": 523.1999999999999,
+        "scrollY": 534.6
+    },
+    {
+        "id": 141,
+        "expanded": true,
+        "name": "暗闇に続く道_01",
+        "order": 281,
+        "parentId": 121,
+        "scrollX": 1456,
+        "scrollY": 652
+    },
+    {
+        "id": 142,
+        "expanded": false,
+        "name": "01",
+        "order": 174,
+        "parentId": 140,
+        "scrollX": 1052,
+        "scrollY": 624
+    },
+    {
+        "id": 143,
+        "expanded": true,
+        "name": "03",
+        "order": 176,
+        "parentId": 140,
+        "scrollX": 1104.6,
+        "scrollY": 1777.8
+    },
+    {
+        "id": 144,
+        "expanded": false,
+        "name": "02",
+        "order": 175,
+        "parentId": 140,
+        "scrollX": 917.5,
+        "scrollY": 804.5
+    },
+    {
+        "id": 145,
+        "expanded": false,
+        "name": "暗闇に続く道_小部屋",
+        "order": 285,
+        "parentId": 121,
+        "scrollX": 2248,
+        "scrollY": 2706.6666666666665
+    },
+    {
+        "id": 146,
+        "expanded": false,
+        "name": "暗闇に続く道_03",
+        "order": 283,
+        "parentId": 121,
+        "scrollX": 1021.3333333333334,
+        "scrollY": 1089.3333333333333
+    },
+    {
+        "id": 147,
+        "expanded": false,
+        "name": "暗闇に続く道_04",
+        "order": 284,
+        "parentId": 121,
+        "scrollX": 1021.3333333333334,
+        "scrollY": 1329.3333333333333
+    },
+    {
+        "id": 148,
+        "expanded": false,
+        "name": "暗闇に続く道_魔導士戦",
+        "order": 286,
+        "parentId": 121,
+        "scrollX": 1519,
+        "scrollY": 1352
+    },
+    {
+        "id": 149,
+        "expanded": true,
+        "name": "修道院　院長の寝所",
+        "order": 179,
+        "parentId": 139,
+        "scrollX": 561.5,
+        "scrollY": 461
+    },
+    {
+        "id": 150,
+        "expanded": true,
+        "name": "王女の部屋",
+        "order": 178,
+        "parentId": 139,
+        "scrollX": 1232.5,
+        "scrollY": 984
+    },
+    {
+        "id": 151,
+        "expanded": true,
+        "name": "修道院　宿舎1F",
+        "order": 181,
+        "parentId": 149,
+        "scrollX": 718.5,
+        "scrollY": 501
+    },
+    {
+        "id": 152,
+        "expanded": false,
+        "name": "修道院　宿舎2F",
+        "order": 180,
+        "parentId": 149,
+        "scrollX": 569.5,
+        "scrollY": 443
+    },
+    {
+        "id": 153,
+        "expanded": true,
+        "name": "修道院　中庭",
+        "order": 182,
+        "parentId": 149,
+        "scrollX": 762,
+        "scrollY": 898.8
+    },
+    {
+        "id": 154,
+        "expanded": false,
+        "name": "湖畔",
+        "order": 183,
+        "parentId": 139,
+        "scrollX": 708.6,
+        "scrollY": 1210.2
+    },
+    {
+        "id": 155,
+        "expanded": true,
+        "name": "魔導士_本戦",
+        "order": 287,
+        "parentId": 148,
+        "scrollX": 1544.7272727272727,
+        "scrollY": 984
+    },
+    {
+        "id": 156,
+        "expanded": true,
+        "name": "魔導研究所_入口",
+        "order": 292,
+        "parentId": 161,
+        "scrollX": 848,
+        "scrollY": 640
+    },
+    {
+        "id": 157,
+        "expanded": true,
+        "name": "魔導士_撃破後",
+        "order": 289,
+        "parentId": 148,
+        "scrollX": 1100,
+        "scrollY": 1228
+    },
+    {
+        "id": 158,
+        "expanded": false,
+        "name": "暗闇に続く道_02",
+        "order": 282,
+        "parentId": 121,
+        "scrollX": 1437.3333333333333,
+        "scrollY": 826.6666666666666
+    },
+    {
+        "id": 159,
+        "expanded": true,
+        "name": "入口_ゴーレム敗け",
+        "order": 280,
+        "parentId": 121,
+        "scrollX": 1298.6666666666667,
+        "scrollY": 590.6666666666666
+    },
+    {
+        "id": 160,
+        "expanded": false,
+        "name": "chapter.04",
+        "order": 90,
+        "parentId": 55,
+        "scrollX": 649,
+        "scrollY": 451
+    },
+    {
+        "id": 161,
+        "expanded": false,
+        "name": "後半 - 魔導研究所",
+        "order": 291,
+        "parentId": 120,
+        "scrollX": 1562.1818181818182,
+        "scrollY": 984
+    },
+    {
+        "id": 162,
+        "expanded": false,
+        "name": "魔導研究所_フロント",
+        "order": 293,
+        "parentId": 161,
+        "scrollX": 1948,
+        "scrollY": 842
+    },
+    {
+        "id": 163,
+        "expanded": true,
+        "name": "魔導研究所_工場区",
+        "order": 295,
+        "parentId": 161,
+        "scrollX": 944,
+        "scrollY": 801.3333333333334
+    },
+    {
+        "id": 164,
+        "expanded": false,
+        "name": "魔導研究所_収容室",
+        "order": 296,
+        "parentId": 161,
+        "scrollX": 1405.3333333333333,
+        "scrollY": 1089.3333333333333
+    },
+    {
+        "id": 165,
+        "expanded": false,
+        "name": "魔導研究所_実験室01",
+        "order": 298,
+        "parentId": 161,
+        "scrollX": 1011,
+        "scrollY": 1003.5
+    },
+    {
+        "id": 166,
+        "expanded": false,
+        "name": "BADEND_02",
+        "order": 251,
+        "parentId": 115,
+        "scrollX": 719.3333333333334,
+        "scrollY": 591.3333333333334
+    },
+    {
+        "id": 167,
+        "expanded": false,
+        "name": "歓楽街_ボス戦_敗北",
+        "order": 269,
+        "parentId": 133,
+        "scrollX": 1347.6,
+        "scrollY": 938.4
+    },
+    {
+        "id": 168,
+        "expanded": false,
+        "name": "chap03_ボス戦敗北",
+        "order": 270,
+        "parentId": 167,
+        "scrollX": 678,
+        "scrollY": 541.1999999999999
+    },
+    {
+        "id": 169,
+        "expanded": false,
+        "name": "BADEND_03",
+        "order": 271,
+        "parentId": 168,
+        "scrollX": 678,
+        "scrollY": 541.1999999999999
+    },
+    {
+        "id": 170,
+        "expanded": true,
+        "name": "boss_敗北_前説",
+        "order": 249,
+        "parentId": 111,
+        "scrollX": 975,
+        "scrollY": 1256
+    },
+    {
+        "id": 171,
+        "expanded": false,
+        "name": "NitD_導入01",
+        "order": 336,
+        "parentId": 172,
+        "scrollX": 1562.1818181818182,
+        "scrollY": 984
+    },
+    {
+        "id": 172,
+        "expanded": true,
+        "name": "Chap04_bad03_NitD",
+        "order": 335,
+        "parentId": 120,
+        "scrollX": 1562.1818181818182,
+        "scrollY": 984
+    },
+    {
+        "id": 173,
+        "expanded": false,
+        "name": "NitD_導入02",
+        "order": 337,
+        "parentId": 172,
+        "scrollX": 1562.1818181818182,
+        "scrollY": 984
+    },
+    {
+        "id": 174,
+        "expanded": true,
+        "name": "青年_自室",
+        "order": 338,
+        "parentId": 172,
+        "scrollX": 1562.1818181818182,
+        "scrollY": 984
+    },
+    {
+        "id": 175,
+        "expanded": true,
+        "name": "OP_支配人室",
+        "order": 259,
+        "parentId": 51,
+        "scrollX": 2964.6666666666665,
+        "scrollY": 680.6666666666666
+    },
+    {
+        "id": 176,
+        "expanded": false,
+        "name": "ミニゲーム結果_判定",
+        "order": 264,
+        "parentId": 52,
+        "scrollX": 1118.5,
+        "scrollY": 517
+    },
+    {
+        "id": 177,
+        "expanded": true,
+        "name": "スクロール_NitD01",
+        "order": 339,
+        "parentId": 172,
+        "scrollX": 1544.7272727272727,
+        "scrollY": 984
+    },
+    {
+        "id": 178,
+        "expanded": true,
+        "name": "青年_自室_事後",
+        "order": 341,
+        "parentId": 172,
+        "scrollX": 1562.1818181818182,
+        "scrollY": 984
+    },
+    {
+        "id": 179,
+        "expanded": false,
+        "name": "月夜の草原",
+        "order": 342,
+        "parentId": 172,
+        "scrollX": 1562.1818181818182,
+        "scrollY": 984
+    },
+    {
+        "id": 180,
+        "expanded": false,
+        "name": "切り替え",
+        "order": 340,
+        "parentId": 177,
+        "scrollX": 1562.1818181818182,
+        "scrollY": 984
+    },
+    {
+        "id": 181,
+        "expanded": false,
+        "name": "魔導研究所_実験室_軽減版",
+        "order": 362,
+        "parentId": 16,
+        "scrollX": 968.4,
+        "scrollY": 658.8
+    },
+    {
+        "id": 182,
+        "expanded": false,
+        "name": "魔導研究所_実験室02",
+        "order": 304,
+        "parentId": 161,
+        "scrollX": 1011,
+        "scrollY": 807
+    },
+    {
+        "id": 183,
+        "expanded": false,
+        "name": "魔導研究所_通路01",
+        "order": 303,
+        "parentId": 161,
+        "scrollX": 832,
+        "scrollY": 624
+    },
+    {
+        "id": 184,
+        "expanded": false,
+        "name": "魔導研究所_通路01",
+        "order": 363,
+        "parentId": 16,
+        "scrollX": 1191.6,
+        "scrollY": 668.4
+    },
+    {
+        "id": 185,
+        "expanded": false,
+        "name": "実験室01_イベ後",
+        "order": 299,
+        "parentId": 165,
+        "scrollX": 1088,
+        "scrollY": 864
+    },
+    {
+        "id": 186,
+        "expanded": false,
+        "name": "魔導研究所_通路02",
+        "order": 306,
+        "parentId": 161,
+        "scrollX": 1562.1818181818182,
+        "scrollY": 984
+    },
+    {
+        "id": 187,
+        "expanded": false,
+        "name": "資料室",
+        "order": 294,
+        "parentId": 162,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 188,
+        "expanded": false,
+        "name": "c02_H2_自由行動",
+        "order": 63,
+        "parentId": 225,
+        "scrollX": 540.5,
+        "scrollY": 451
+    },
+    {
+        "id": 189,
+        "expanded": false,
+        "name": "魔王城　5F",
+        "order": 364,
+        "parentId": 16,
+        "scrollX": 2240.4,
+        "scrollY": 986.4
+    },
+    {
+        "id": 190,
+        "expanded": false,
+        "name": "転送陣02",
+        "order": 307,
+        "parentId": 186,
+        "scrollX": 944,
+        "scrollY": 601.3333333333334
+    },
+    {
+        "id": 191,
+        "expanded": false,
+        "name": "個人研究室",
+        "order": 308,
+        "parentId": 161,
+        "scrollX": 1456,
+        "scrollY": 806.6666666666666
+    },
+    {
+        "id": 192,
+        "expanded": false,
+        "name": "魔導研究所_実験室02_イベ後",
+        "order": 305,
+        "parentId": 182,
+        "scrollX": 898.6666666666666,
+        "scrollY": 725.3333333333334
+    },
+    {
+        "id": 193,
+        "expanded": false,
+        "name": "書斎+ボス前転送",
+        "order": 309,
+        "parentId": 191,
+        "scrollX": 846,
+        "scrollY": 816
+    },
+    {
+        "id": 194,
+        "expanded": true,
+        "name": "Chap04_bad01_研究所",
+        "order": 331,
+        "parentId": 112,
+        "scrollX": 1562.1818181818182,
+        "scrollY": 984
+    },
+    {
+        "id": 195,
+        "expanded": false,
+        "name": "最終決戦01",
+        "order": 365,
+        "parentId": 16,
+        "scrollX": 1911.6,
+        "scrollY": 1345.2
+    },
+    {
+        "id": 196,
+        "expanded": false,
+        "name": "魔王城　3F",
+        "order": 366,
+        "parentId": 16,
+        "scrollX": 2046,
+        "scrollY": 1345.2
+    },
+    {
+        "id": 197,
+        "expanded": false,
+        "name": "魔王城　3F",
+        "order": 367,
+        "parentId": 16,
+        "scrollX": 1700.3999999999999,
+        "scrollY": 1054.8
+    },
+    {
+        "id": 198,
+        "expanded": false,
+        "name": "魔導研究所_2F",
+        "order": 301,
+        "parentId": 328,
+        "scrollX": 1694,
+        "scrollY": 1968
+    },
+    {
+        "id": 199,
+        "expanded": false,
+        "name": "魔導研究所_3F",
+        "order": 302,
+        "parentId": 328,
+        "scrollX": 2496,
+        "scrollY": 624
+    },
+    {
+        "id": 200,
+        "expanded": false,
+        "name": "最終決戦",
+        "order": 310,
+        "parentId": 120,
+        "scrollX": 1545,
+        "scrollY": 1416
+    },
+    {
+        "id": 201,
+        "expanded": false,
+        "name": "最終戦_前",
+        "order": 311,
+        "parentId": 200,
+        "scrollX": 1544.7272727272727,
+        "scrollY": 1416
+    },
+    {
+        "id": 202,
+        "expanded": false,
+        "name": "エンディング用",
+        "order": 186,
+        "parentId": 22,
+        "scrollX": 649,
+        "scrollY": 451
+    },
+    {
+        "id": 203,
+        "expanded": false,
+        "name": "姫_鼓舞",
+        "order": 192,
+        "parentId": 288,
+        "scrollX": 794.5,
+        "scrollY": 676.5
+    },
+    {
+        "id": 204,
+        "expanded": false,
+        "name": "お墓",
+        "order": 191,
+        "parentId": 288,
+        "scrollX": 848.5,
+        "scrollY": 876.5
+    },
+    {
+        "id": 205,
+        "expanded": false,
+        "name": "民家_外観",
+        "order": 190,
+        "parentId": 288,
+        "scrollX": 963.5,
+        "scrollY": 876.5
+    },
+    {
+        "id": 206,
+        "expanded": false,
+        "name": "ED_玉座の間_good",
+        "order": 195,
+        "parentId": 208,
+        "scrollX": 1562.1818181818182,
+        "scrollY": 984
+    },
+    {
+        "id": 207,
+        "expanded": false,
+        "name": "ED_玉座の間_true",
+        "order": 196,
+        "parentId": 208,
+        "scrollX": 1002,
+        "scrollY": 624
+    },
+    {
+        "id": 208,
+        "expanded": false,
+        "name": "エンドクレジット[本編]",
+        "order": 193,
+        "parentId": 202,
+        "scrollX": 799,
+        "scrollY": 517
+    },
+    {
+        "id": 209,
+        "expanded": true,
+        "name": "最終決戦01",
+        "order": 312,
+        "parentId": 200,
+        "scrollX": 1544.7272727272727,
+        "scrollY": 1416
+    },
+    {
+        "id": 210,
+        "expanded": true,
+        "name": "最終決戦02",
+        "order": 314,
+        "parentId": 200,
+        "scrollX": 1538,
+        "scrollY": 1352
+    },
+    {
+        "id": 211,
+        "expanded": true,
+        "name": "最終決戦03",
+        "order": 315,
+        "parentId": 200,
+        "scrollX": 1544,
+        "scrollY": 1312
+    },
+    {
+        "id": 212,
+        "expanded": true,
+        "name": "洞窟最深部",
+        "order": 317,
+        "parentId": 211,
+        "scrollX": 1544.7272727272727,
+        "scrollY": 1416
+    },
+    {
+        "id": 213,
+        "expanded": false,
+        "name": "魔導研究所_収容室",
+        "order": 368,
+        "parentId": 16,
+        "scrollX": 1335.6,
+        "scrollY": 978
+    },
+    {
+        "id": 214,
+        "expanded": false,
+        "name": "研究室",
+        "order": 189,
+        "parentId": 288,
+        "scrollX": 591.5,
+        "scrollY": 511.5
+    },
+    {
+        "id": 215,
+        "expanded": true,
+        "name": "最終決戦04",
+        "order": 321,
+        "parentId": 200,
+        "scrollX": 1544.7272727272727,
+        "scrollY": 1276.3636363636365
+    },
+    {
+        "id": 216,
+        "expanded": true,
+        "name": "最終決戦04-02",
+        "order": 322,
+        "parentId": 215,
+        "scrollX": 1545,
+        "scrollY": 1108
+    },
+    {
+        "id": 217,
+        "expanded": true,
+        "name": "最終決戦04-03",
+        "order": 323,
+        "parentId": 215,
+        "scrollX": 1544.7272727272727,
+        "scrollY": 1108.3636363636365
+    },
+    {
+        "id": 218,
+        "expanded": true,
+        "name": "最終決戦04-04",
+        "order": 324,
+        "parentId": 215,
+        "scrollX": 1545,
+        "scrollY": 1156
+    },
+    {
+        "id": 219,
+        "expanded": true,
+        "name": "最終決戦-バトルフィールド",
+        "order": 325,
+        "parentId": 215,
+        "scrollX": 1544.7272727272727,
+        "scrollY": 1213.0909090909092
+    },
+    {
+        "id": 220,
+        "expanded": true,
+        "name": "苗床導入",
+        "order": 318,
+        "parentId": 211,
+        "scrollX": 1544,
+        "scrollY": 1280
+    },
+    {
+        "id": 221,
+        "expanded": false,
+        "name": "苗床導入02",
+        "order": 319,
+        "parentId": 220,
+        "scrollX": 1544.7272727272727,
+        "scrollY": 1392
+    },
+    {
+        "id": 222,
+        "expanded": false,
+        "name": "イベント11",
+        "order": 320,
+        "parentId": 220,
+        "scrollX": 1562.1818181818182,
+        "scrollY": 984
+    },
+    {
+        "id": 223,
+        "expanded": false,
+        "name": "静かな汀",
+        "order": 184,
+        "parentId": 55,
+        "scrollX": 759.3333333333334,
+        "scrollY": 601.3333333333334
+    },
+    {
+        "id": 224,
+        "expanded": false,
+        "name": "前半",
+        "order": 21,
+        "parentId": 80,
+        "scrollX": 540.5,
+        "scrollY": 451
+    },
+    {
+        "id": 225,
+        "expanded": false,
+        "name": "後半",
+        "order": 44,
+        "parentId": 80,
+        "scrollX": 540.5,
+        "scrollY": 439
+    },
+    {
+        "id": 226,
+        "expanded": false,
+        "name": "ｽﾄｰﾘｰ2-10_言伝",
+        "order": 45,
+        "parentId": 225,
+        "scrollX": 1259.5,
+        "scrollY": 763
+    },
+    {
+        "id": 227,
+        "expanded": false,
+        "name": "回想[連れ出される囚人]",
+        "order": 46,
+        "parentId": 226,
+        "scrollX": 904.6666666666666,
+        "scrollY": 704.6666666666666
+    },
+    {
+        "id": 228,
+        "expanded": true,
+        "name": "回想[脱走前夜_独居房]",
+        "order": 47,
+        "parentId": 226,
+        "scrollX": 1162,
+        "scrollY": 704
+    },
+    {
+        "id": 229,
+        "expanded": true,
+        "name": "回想[最後の言葉]",
+        "order": 48,
+        "parentId": 226,
+        "scrollX": 1276,
+        "scrollY": 704
+    },
+    {
+        "id": 230,
+        "expanded": false,
+        "name": "ｽﾄｰﾘｰ2-11_脱出準備/決起",
+        "order": 49,
+        "parentId": 225,
+        "scrollX": 1259.5,
+        "scrollY": 763
+    },
+    {
+        "id": 231,
+        "expanded": true,
+        "name": "回想[揺らぐ思い…]",
+        "order": 50,
+        "parentId": 230,
+        "scrollX": 1568.6666666666667,
+        "scrollY": 1916.6666666666667
+    },
+    {
+        "id": 232,
+        "expanded": true,
+        "name": "回想[他の者達も]",
+        "order": 51,
+        "parentId": 230,
+        "scrollX": 1568.6666666666667,
+        "scrollY": 1915.3333333333333
+    },
+    {
+        "id": 233,
+        "expanded": true,
+        "name": "回想[救出]",
+        "order": 52,
+        "parentId": 230,
+        "scrollX": 1568.6666666666667,
+        "scrollY": 872.6666666666666
+    },
+    {
+        "id": 234,
+        "expanded": true,
+        "name": "回想[決起]",
+        "order": 53,
+        "parentId": 230,
+        "scrollX": 1168,
+        "scrollY": 1768
+    },
+    {
+        "id": 235,
+        "expanded": true,
+        "name": "☆H2_看守_敗北01",
+        "order": 54,
+        "parentId": 225,
+        "scrollX": 1335.5,
+        "scrollY": 1388
+    },
+    {
+        "id": 236,
+        "expanded": true,
+        "name": "☆H2_看守_敗北02",
+        "order": 55,
+        "parentId": 225,
+        "scrollX": 1324.5,
+        "scrollY": 1272
+    },
+    {
+        "id": 237,
+        "expanded": false,
+        "name": "☆H2_鼓舞(完全)",
+        "order": 56,
+        "parentId": 225,
+        "scrollX": 1564.1999999999998,
+        "scrollY": 1479.6
+    },
+    {
+        "id": 238,
+        "expanded": false,
+        "name": "☆H2_鼓舞(不完全)",
+        "order": 57,
+        "parentId": 225,
+        "scrollX": 1564.2857142857142,
+        "scrollY": 1287.4285714285713
+    },
+    {
+        "id": 239,
+        "expanded": true,
+        "name": "ｽﾄｰﾘｰ2-12_ボス前口上",
+        "order": 58,
+        "parentId": 225,
+        "scrollX": 1084.2857142857142,
+        "scrollY": 1097.142857142857
+    },
+    {
+        "id": 240,
+        "expanded": false,
+        "name": "☆06_BOSS敗北_BAD02",
+        "order": 59,
+        "parentId": 225,
+        "scrollX": 1084.8,
+        "scrollY": 1287.6
+    },
+    {
+        "id": 241,
+        "expanded": true,
+        "name": "回想[C02_boss敗北]",
+        "order": 60,
+        "parentId": 240,
+        "scrollX": 1095,
+        "scrollY": 884.4
+    },
+    {
+        "id": 242,
+        "expanded": false,
+        "name": "ｽﾄｰﾘｰ2-12_外へ。",
+        "order": 61,
+        "parentId": 225,
+        "scrollX": 1084.5,
+        "scrollY": 1161
+    },
+    {
+        "id": 243,
+        "expanded": false,
+        "name": "回想[日の光]",
+        "order": 62,
+        "parentId": 242,
+        "scrollX": 848,
+        "scrollY": 1040
+    },
+    {
+        "id": 244,
+        "expanded": false,
+        "name": "ｽﾄｰﾘｰ3-1_王都への帰還",
+        "order": 70,
+        "parentId": 31,
+        "scrollX": 894,
+        "scrollY": 1850.3999999999999
+    },
+    {
+        "id": 245,
+        "expanded": true,
+        "name": "ｽﾄｰﾘｰ3-2_黄昏れの臥所",
+        "order": 71,
+        "parentId": 31,
+        "scrollX": 1184.6666666666667,
+        "scrollY": 2192.6666666666665
+    },
+    {
+        "id": 246,
+        "expanded": false,
+        "name": "ｽﾄｰﾘｰ3-3_BAR_OP",
+        "order": 72,
+        "parentId": 31,
+        "scrollX": 1491.6,
+        "scrollY": 2347.2
+    },
+    {
+        "id": 247,
+        "expanded": true,
+        "name": "回想[OP_支配人室]",
+        "order": 73,
+        "parentId": 246,
+        "scrollX": 3009,
+        "scrollY": 640.1999999999999
+    },
+    {
+        "id": 248,
+        "expanded": true,
+        "name": "BAR_ごろつき敗北",
+        "order": 263,
+        "parentId": 131,
+        "scrollX": 1118.3999999999999,
+        "scrollY": 1611.6
+    },
+    {
+        "id": 249,
+        "expanded": true,
+        "name": "魔導士_打倒+敗北",
+        "order": 288,
+        "parentId": 148,
+        "scrollX": 962.6666666666666,
+        "scrollY": 882.6666666666666
+    },
+    {
+        "id": 250,
+        "expanded": true,
+        "name": "ev_C03_雑魚負け01/02",
+        "order": 74,
+        "parentId": 31,
+        "scrollX": 3008.4,
+        "scrollY": 786
+    },
+    {
+        "id": 251,
+        "expanded": true,
+        "name": "ev_C03戦士たちの休息",
+        "order": 75,
+        "parentId": 31,
+        "scrollX": 1491.6,
+        "scrollY": 753.6
+    },
+    {
+        "id": 252,
+        "expanded": false,
+        "name": "収容室_ごろつきイベ戦闘前",
+        "order": 297,
+        "parentId": 164,
+        "scrollX": 1405.3333333333333,
+        "scrollY": 936
+    },
+    {
+        "id": 253,
+        "expanded": false,
+        "name": "ED_朝陽",
+        "order": 194,
+        "parentId": 208,
+        "scrollX": 766.1999999999999,
+        "scrollY": 531.6
+    },
+    {
+        "id": 254,
+        "expanded": false,
+        "name": "城　地下牢",
+        "order": 188,
+        "parentId": 288,
+        "scrollX": 591.5,
+        "scrollY": 511.5
+    },
+    {
+        "id": 255,
+        "expanded": true,
+        "name": "ED_室長生存",
+        "order": 197,
+        "parentId": 208,
+        "scrollX": 1562.1818181818182,
+        "scrollY": 984
+    },
+    {
+        "id": 256,
+        "expanded": true,
+        "name": "最終決戦～EDへ",
+        "order": 326,
+        "parentId": 219,
+        "scrollX": 1544.7272727272727,
+        "scrollY": 1132.3636363636365
+    },
+    {
+        "id": 257,
+        "expanded": true,
+        "name": "敗北_NitDへ01",
+        "order": 327,
+        "parentId": 219,
+        "scrollX": 1544.7272727272727,
+        "scrollY": 984
+    },
+    {
+        "id": 258,
+        "expanded": true,
+        "name": "敗北_NitDへ02",
+        "order": 328,
+        "parentId": 257,
+        "scrollX": 1544.7272727272727,
+        "scrollY": 1156.3636363636365
+    },
+    {
+        "id": 259,
+        "expanded": true,
+        "name": "敗北_NitDへ03",
+        "order": 329,
+        "parentId": 257,
+        "scrollX": 1544.7272727272727,
+        "scrollY": 1263.2727272727273
+    },
+    {
+        "id": 260,
+        "expanded": true,
+        "name": "最終決戦01_イベスキップ",
+        "order": 313,
+        "parentId": 209,
+        "scrollX": 1450,
+        "scrollY": 1494
+    },
+    {
+        "id": 261,
+        "expanded": true,
+        "name": "王女戦(アカネIN)_開始前",
+        "order": 316,
+        "parentId": 211,
+        "scrollX": 1544,
+        "scrollY": 1416
+    },
+    {
+        "id": 262,
+        "expanded": true,
+        "name": "story3-5_ボス戦前01",
+        "order": 76,
+        "parentId": 31,
+        "scrollX": 1251.6,
+        "scrollY": 937.1999999999999
+    },
+    {
+        "id": 263,
+        "expanded": true,
+        "name": "story3-6_ボス戦前",
+        "order": 77,
+        "parentId": 31,
+        "scrollX": 1142.3999999999999,
+        "scrollY": 800.4
+    },
+    {
+        "id": 264,
+        "expanded": false,
+        "name": "story3-7_勝利",
+        "order": 78,
+        "parentId": 31,
+        "scrollX": 1130.3999999999999,
+        "scrollY": 793.1999999999999
+    },
+    {
+        "id": 265,
+        "expanded": true,
+        "name": "story3-7_上客",
+        "order": 79,
+        "parentId": 264,
+        "scrollX": 1328,
+        "scrollY": 952.6666666666666
+    },
+    {
+        "id": 266,
+        "expanded": false,
+        "name": "ev_C03ホテル3F",
+        "order": 82,
+        "parentId": 31,
+        "scrollX": 1348.8,
+        "scrollY": 908.4
+    },
+    {
+        "id": 267,
+        "expanded": false,
+        "name": "story04_OP",
+        "order": 91,
+        "parentId": 160,
+        "scrollX": 1544.7272727272727,
+        "scrollY": 1381.0909090909092
+    },
+    {
+        "id": 268,
+        "expanded": false,
+        "name": "回想C04_OP_地下転移の間",
+        "order": 92,
+        "parentId": 267,
+        "scrollX": 561.5,
+        "scrollY": 1469
+    },
+    {
+        "id": 269,
+        "expanded": false,
+        "name": "回想C04_OP_ホテル3F",
+        "order": 93,
+        "parentId": 267,
+        "scrollX": 1350.5,
+        "scrollY": 997
+    },
+    {
+        "id": 270,
+        "expanded": false,
+        "name": "未使用/テスト用マップ",
+        "order": 343,
+        "parentId": 0,
+        "scrollX": 978,
+        "scrollY": 541.1999999999999
+    },
+    {
+        "id": 271,
+        "expanded": true,
+        "name": "story4-2_ゴーレム戦/勝利",
+        "order": 94,
+        "parentId": 160,
+        "scrollX": 1647.2727272727273,
+        "scrollY": 966.5454545454546
+    },
+    {
+        "id": 272,
+        "expanded": false,
+        "name": "story4-3_魔導士戦",
+        "order": 95,
+        "parentId": 160,
+        "scrollX": 1329,
+        "scrollY": 2160
+    },
+    {
+        "id": 273,
+        "expanded": true,
+        "name": "ev_c04_洞窟",
+        "order": 98,
+        "parentId": 275,
+        "scrollX": 882,
+        "scrollY": 636
+    },
+    {
+        "id": 274,
+        "expanded": true,
+        "name": "回想_魔導士_打倒+敗北",
+        "order": 96,
+        "parentId": 272,
+        "scrollX": 2624.727272727273,
+        "scrollY": 966.5454545454546
+    },
+    {
+        "id": 275,
+        "expanded": false,
+        "name": "ev_c04汎用エロシーン[回想]",
+        "order": 97,
+        "parentId": 160,
+        "scrollX": 719.4,
+        "scrollY": 538.1999999999999
+    },
+    {
+        "id": 276,
+        "expanded": false,
+        "name": "ev_c04_小部屋",
+        "order": 99,
+        "parentId": 275,
+        "scrollX": 2151,
+        "scrollY": 2779.7999999999997
+    },
+    {
+        "id": 277,
+        "expanded": true,
+        "name": "[回想]_前半洞窟入り口",
+        "order": 100,
+        "parentId": 275,
+        "scrollX": 1342,
+        "scrollY": 624
+    },
+    {
+        "id": 278,
+        "expanded": false,
+        "name": "ev_c04_研究所奥",
+        "order": 101,
+        "parentId": 275,
+        "scrollX": 2066,
+        "scrollY": 636
+    },
+    {
+        "id": 279,
+        "expanded": false,
+        "name": "[回想]_後半実験室入口",
+        "order": 102,
+        "parentId": 275,
+        "scrollX": 1291.8,
+        "scrollY": 1151.3999999999999
+    },
+    {
+        "id": 280,
+        "expanded": true,
+        "name": "story4-4_工場労働者",
+        "order": 103,
+        "parentId": 160,
+        "scrollX": 817,
+        "scrollY": 1272.5
+    },
+    {
+        "id": 281,
+        "expanded": true,
+        "name": "story4-5_研究員詰所",
+        "order": 104,
+        "parentId": 160,
+        "scrollX": 1327.8,
+        "scrollY": 640.1999999999999
+    },
+    {
+        "id": 282,
+        "expanded": false,
+        "name": "story4-8_室長イベ通路",
+        "order": 110,
+        "parentId": 160,
+        "scrollX": 1562.1818181818182,
+        "scrollY": 984
+    },
+    {
+        "id": 283,
+        "expanded": false,
+        "name": "story4-6_収容室",
+        "order": 105,
+        "parentId": 160,
+        "scrollX": 1360,
+        "scrollY": 1089.3333333333333
+    },
+    {
+        "id": 284,
+        "expanded": true,
+        "name": "[回想]ごろつき兄貴_結果",
+        "order": 109,
+        "parentId": 283,
+        "scrollX": 1012.5,
+        "scrollY": 892.5
+    },
+    {
+        "id": 285,
+        "expanded": true,
+        "name": "[回想]_実験室",
+        "order": 106,
+        "parentId": 283,
+        "scrollX": 1104,
+        "scrollY": 760
+    },
+    {
+        "id": 286,
+        "expanded": false,
+        "name": "[回想]なりそこない実験室",
+        "order": 108,
+        "parentId": 283,
+        "scrollX": 1328.5,
+        "scrollY": 892.5
+    },
+    {
+        "id": 287,
+        "expanded": true,
+        "name": "[回想]子分の頼み",
+        "order": 107,
+        "parentId": 283,
+        "scrollX": 1472.5,
+        "scrollY": 840.5
+    },
+    {
+        "id": 288,
+        "expanded": false,
+        "name": "マップ撮影",
+        "order": 187,
+        "parentId": 202,
+        "scrollX": 649,
+        "scrollY": 451
+    },
+    {
+        "id": 289,
+        "expanded": false,
+        "name": "[回想]室長_実験室",
+        "order": 111,
+        "parentId": 282,
+        "scrollX": 1011.5999999999999,
+        "scrollY": 668.4
+    },
+    {
+        "id": 290,
+        "expanded": true,
+        "name": "story4-9_前哨戦",
+        "order": 112,
+        "parentId": 160,
+        "scrollX": 1544.7272727272727,
+        "scrollY": 1416
+    },
+    {
+        "id": 291,
+        "expanded": true,
+        "name": "story4-10_姫覚醒",
+        "order": 113,
+        "parentId": 160,
+        "scrollX": 1544.7272727272727,
+        "scrollY": 1359.2727272727273
+    },
+    {
+        "id": 292,
+        "expanded": true,
+        "name": "story4-11_アカネと共闘",
+        "order": 114,
+        "parentId": 160,
+        "scrollX": 1544.7272727272727,
+        "scrollY": 1311.2727272727273
+    },
+    {
+        "id": 293,
+        "expanded": true,
+        "name": "[回想]瀧音の剣",
+        "order": 115,
+        "parentId": 292,
+        "scrollX": 1544.7272727272727,
+        "scrollY": 1328.7272727272727
+    },
+    {
+        "id": 294,
+        "expanded": true,
+        "name": "story4-12_最終剣戦",
+        "order": 116,
+        "parentId": 160,
+        "scrollX": 1544.7272727272727,
+        "scrollY": 1276.3636363636365
+    },
+    {
+        "id": 295,
+        "expanded": true,
+        "name": "[回想]最終戦-02",
+        "order": 117,
+        "parentId": 294,
+        "scrollX": 1544.7272727272727,
+        "scrollY": 1108.3636363636365
+    },
+    {
+        "id": 296,
+        "expanded": true,
+        "name": "[回想]最終戦-03",
+        "order": 118,
+        "parentId": 294,
+        "scrollX": 1544.7272727272727,
+        "scrollY": 1108.3636363636365
+    },
+    {
+        "id": 297,
+        "expanded": true,
+        "name": "[回想]最終戦-04",
+        "order": 119,
+        "parentId": 294,
+        "scrollX": 1544.7272727272727,
+        "scrollY": 1237.0909090909092
+    },
+    {
+        "id": 298,
+        "expanded": true,
+        "name": "[回想]最終戦-BF",
+        "order": 120,
+        "parentId": 294,
+        "scrollX": 1544.7272727272727,
+        "scrollY": 1213.0909090909092
+    },
+    {
+        "id": 299,
+        "expanded": false,
+        "name": "ev_苗床導入",
+        "order": 121,
+        "parentId": 160,
+        "scrollX": 1724,
+        "scrollY": 866.6666666666666
+    },
+    {
+        "id": 300,
+        "expanded": false,
+        "name": "ev_苗床導入02",
+        "order": 122,
+        "parentId": 299,
+        "scrollX": 1390,
+        "scrollY": 1312
+    },
+    {
+        "id": 301,
+        "expanded": false,
+        "name": "ev11_本編[回想]",
+        "order": 123,
+        "parentId": 299,
+        "scrollX": 909.3333333333334,
+        "scrollY": 601.3333333333334
+    },
+    {
+        "id": 302,
+        "expanded": false,
+        "name": "ev_NitD_01",
+        "order": 124,
+        "parentId": 160,
+        "scrollX": 1021.3333333333334,
+        "scrollY": 609.3333333333334
+    },
+    {
+        "id": 303,
+        "expanded": false,
+        "name": "[回想]NitD_02",
+        "order": 125,
+        "parentId": 302,
+        "scrollX": 1088,
+        "scrollY": 624
+    },
+    {
+        "id": 304,
+        "expanded": true,
+        "name": "[回想]ev12_青年自室",
+        "order": 126,
+        "parentId": 302,
+        "scrollX": 674,
+        "scrollY": 751.5
+    },
+    {
+        "id": 305,
+        "expanded": true,
+        "name": "[回想]ev12_(スクロール)",
+        "order": 127,
+        "parentId": 302,
+        "scrollX": 816,
+        "scrollY": 680
+    },
+    {
+        "id": 306,
+        "expanded": true,
+        "name": "[回想]ev12_青年自室_事後",
+        "order": 128,
+        "parentId": 302,
+        "scrollX": 820,
+        "scrollY": 759.5
+    },
+    {
+        "id": 307,
+        "expanded": false,
+        "name": "[回想]ev12_月夜の草原",
+        "order": 129,
+        "parentId": 302,
+        "scrollX": 909.3333333333334,
+        "scrollY": 601.3333333333334
+    },
+    {
+        "id": 308,
+        "expanded": true,
+        "name": "story_エンディング",
+        "order": 132,
+        "parentId": 160,
+        "scrollX": 1544.7272727272727,
+        "scrollY": 1134.5454545454545
+    },
+    {
+        "id": 309,
+        "expanded": true,
+        "name": "storyEND_クレジット[回想]",
+        "order": 133,
+        "parentId": 308,
+        "scrollX": 1562.1818181818182,
+        "scrollY": 984
+    },
+    {
+        "id": 310,
+        "expanded": false,
+        "name": "storyEND_朝陽[回想]",
+        "order": 134,
+        "parentId": 308,
+        "scrollX": 921,
+        "scrollY": 519.5
+    },
+    {
+        "id": 311,
+        "expanded": false,
+        "name": "storyEND_good[回想]",
+        "order": 136,
+        "parentId": 308,
+        "scrollX": 1562.1818181818182,
+        "scrollY": 984
+    },
+    {
+        "id": 312,
+        "expanded": false,
+        "name": "storyEND_true[回想]",
+        "order": 137,
+        "parentId": 308,
+        "scrollX": 1201,
+        "scrollY": 833
+    },
+    {
+        "id": 313,
+        "expanded": true,
+        "name": "storyEND_室長生存[回想]",
+        "order": 135,
+        "parentId": 308,
+        "scrollX": 1562.1818181818182,
+        "scrollY": 984
+    },
+    {
+        "id": 314,
+        "expanded": true,
+        "name": "ev_05_看守長_アナル",
+        "order": 37,
+        "parentId": 224,
+        "scrollX": 2422,
+        "scrollY": 1158.5
+    },
+    {
+        "id": 315,
+        "expanded": true,
+        "name": "ev04_一画面化",
+        "order": 35,
+        "parentId": 97,
+        "scrollX": 2382,
+        "scrollY": 1228.5
+    },
+    {
+        "id": 316,
+        "expanded": false,
+        "name": "ev04全体+スクロール",
+        "order": 36,
+        "parentId": 97,
+        "scrollX": 816,
+        "scrollY": 680
+    },
+    {
+        "id": 317,
+        "expanded": false,
+        "name": "ev_C03_落書きイベント",
+        "order": 83,
+        "parentId": 31,
+        "scrollX": 951.5999999999999,
+        "scrollY": 1194
+    },
+    {
+        "id": 318,
+        "expanded": true,
+        "name": "[回想]ごろつき敗北",
+        "order": 84,
+        "parentId": 317,
+        "scrollX": 1491.6,
+        "scrollY": 2481.6
+    },
+    {
+        "id": 319,
+        "expanded": true,
+        "name": "[回想]_落書き控え室",
+        "order": 85,
+        "parentId": 317,
+        "scrollX": 1107.6,
+        "scrollY": 1148.3999999999999
+    },
+    {
+        "id": 320,
+        "expanded": false,
+        "name": "[回想]ev12_全体+scroll",
+        "order": 130,
+        "parentId": 302,
+        "scrollX": 674,
+        "scrollY": 655.5
+    },
+    {
+        "id": 321,
+        "expanded": false,
+        "name": "[回想]ev12_一画面版",
+        "order": 131,
+        "parentId": 302,
+        "scrollX": 411,
+        "scrollY": 440.5
+    },
+    {
+        "id": 322,
+        "expanded": false,
+        "name": "ev10_一覧",
+        "order": 138,
+        "parentId": 160,
+        "scrollX": 909.3333333333334,
+        "scrollY": 601.3333333333334
+    },
+    {
+        "id": 323,
+        "expanded": true,
+        "name": "[回想]ev10_研究所",
+        "order": 139,
+        "parentId": 322,
+        "scrollX": 1088,
+        "scrollY": 1040
+    },
+    {
+        "id": 324,
+        "expanded": true,
+        "name": "[回想]ev10_兵士詰め所",
+        "order": 140,
+        "parentId": 322,
+        "scrollX": 1202.6666666666667,
+        "scrollY": 676
+    },
+    {
+        "id": 325,
+        "expanded": false,
+        "name": "[回想]ev10_コロシアム",
+        "order": 141,
+        "parentId": 322,
+        "scrollX": 1417.5,
+        "scrollY": 1056.5
+    },
+    {
+        "id": 326,
+        "expanded": false,
+        "name": "[回想]ev10_エロシーン",
+        "order": 142,
+        "parentId": 322,
+        "scrollX": 1012,
+        "scrollY": 676
+    },
+    {
+        "id": 327,
+        "expanded": false,
+        "name": "c04_雑魚戦テスト部屋",
+        "order": 290,
+        "parentId": 121,
+        "scrollX": 909.3333333333334,
+        "scrollY": 601.3333333333334
+    },
+    {
+        "id": 328,
+        "expanded": false,
+        "name": "c04_H2_フリーエリア",
+        "order": 300,
+        "parentId": 161,
+        "scrollX": 1023,
+        "scrollY": 676.5
+    },
+    {
+        "id": 329,
+        "expanded": true,
+        "name": "[回想]自由行動_分岐路",
+        "order": 65,
+        "parentId": 188,
+        "scrollX": 1228.5,
+        "scrollY": 1237
+    },
+    {
+        "id": 330,
+        "expanded": true,
+        "name": "[回想]自由行動_労働区",
+        "order": 66,
+        "parentId": 188,
+        "scrollX": 1698.8571428571427,
+        "scrollY": 1546.2857142857142
+    },
+    {
+        "id": 331,
+        "expanded": false,
+        "name": "[回想]自行_出口への道",
+        "order": 67,
+        "parentId": 188,
+        "scrollX": 2643,
+        "scrollY": 1519.2
+    },
+    {
+        "id": 332,
+        "expanded": true,
+        "name": "[回想]自由行動_出口",
+        "order": 68,
+        "parentId": 188,
+        "scrollX": 970.5,
+        "scrollY": 883
+    },
+    {
+        "id": 333,
+        "expanded": true,
+        "name": "[回想]自由行動_H2生活区",
+        "order": 64,
+        "parentId": 188,
+        "scrollX": 1671.5,
+        "scrollY": 2068
+    },
+    {
+        "id": 334,
+        "expanded": true,
+        "name": "[回想]c03_自由行動",
+        "order": 86,
+        "parentId": 31,
+        "scrollX": 649,
+        "scrollY": 451
+    },
+    {
+        "id": 335,
+        "expanded": true,
+        "name": "ホテル_BAR_ミニゲーム",
+        "order": 87,
+        "parentId": 334,
+        "scrollX": 1079,
+        "scrollY": 1023
+    },
+    {
+        "id": 336,
+        "expanded": false,
+        "name": "[回想]ミニゲーム_判定",
+        "order": 88,
+        "parentId": 334,
+        "scrollX": 909.3333333333334,
+        "scrollY": 601.3333333333334
+    },
+    {
+        "id": 337,
+        "expanded": true,
+        "name": "[回想]_ごろつき撃破",
+        "order": 89,
+        "parentId": 334,
+        "scrollX": 1328,
+        "scrollY": 1090
+    },
+    {
+        "id": 338,
+        "expanded": false,
+        "name": "[回想]c03_ボス戦敗北",
+        "order": 80,
+        "parentId": 31,
+        "scrollX": 1348,
+        "scrollY": 938.6666666666666
+    },
+    {
+        "id": 339,
+        "expanded": true,
+        "name": "[回想]c03_ボス戦敗北エロ",
+        "order": 81,
+        "parentId": 338,
+        "scrollX": 678,
+        "scrollY": 541.1999999999999
+    },
+    {
+        "id": 340,
+        "expanded": false,
+        "name": "強敵バトル",
+        "order": 185,
+        "parentId": 55,
+        "scrollX": 909.3333333333334,
+        "scrollY": 601.3333333333334
+    },
+    {
+        "id": 341,
+        "expanded": true,
+        "name": "自由行動：c4",
+        "order": 143,
+        "parentId": 160,
+        "scrollX": 909.3333333333334,
+        "scrollY": 601.3333333333334
+    },
+    {
+        "id": 342,
+        "expanded": true,
+        "name": "[回想]暗道_入り口",
+        "order": 145,
+        "parentId": 361,
+        "scrollX": 2048,
+        "scrollY": 624
+    },
+    {
+        "id": 343,
+        "expanded": true,
+        "name": "[回想]暗道_01",
+        "order": 146,
+        "parentId": 361,
+        "scrollX": 1245.3333333333333,
+        "scrollY": 912
+    },
+    {
+        "id": 344,
+        "expanded": false,
+        "name": "[回想]暗道_02",
+        "order": 147,
+        "parentId": 361,
+        "scrollX": 1296,
+        "scrollY": 930
+    },
+    {
+        "id": 345,
+        "expanded": false,
+        "name": "[回想]暗道_03",
+        "order": 148,
+        "parentId": 361,
+        "scrollX": 1011,
+        "scrollY": 930
+    },
+    {
+        "id": 346,
+        "expanded": false,
+        "name": "[回想]暗道_04",
+        "order": 149,
+        "parentId": 361,
+        "scrollX": 1021.3333333333334,
+        "scrollY": 1089.3333333333333
+    },
+    {
+        "id": 347,
+        "expanded": true,
+        "name": "[回想]暗道_魔導士戦",
+        "order": 151,
+        "parentId": 361,
+        "scrollX": 1261.3333333333333,
+        "scrollY": 882.6666666666666
+    },
+    {
+        "id": 348,
+        "expanded": true,
+        "name": "[回想]魔研_入口",
+        "order": 155,
+        "parentId": 362,
+        "scrollX": 898.6666666666666,
+        "scrollY": 692
+    },
+    {
+        "id": 349,
+        "expanded": false,
+        "name": "[回想]魔研_フロント",
+        "order": 156,
+        "parentId": 362,
+        "scrollX": 1869,
+        "scrollY": 896
+    },
+    {
+        "id": 350,
+        "expanded": false,
+        "name": "[回想]資料室",
+        "order": 157,
+        "parentId": 349,
+        "scrollX": 909.3333333333334,
+        "scrollY": 601.3333333333334
+    },
+    {
+        "id": 351,
+        "expanded": true,
+        "name": "[回想]魔研_工場区",
+        "order": 158,
+        "parentId": 362,
+        "scrollX": 1012,
+        "scrollY": 896
+    },
+    {
+        "id": 352,
+        "expanded": true,
+        "name": "[回想]魔研_収容室",
+        "order": 159,
+        "parentId": 362,
+        "scrollX": 1293,
+        "scrollY": 1015.5
+    },
+    {
+        "id": 353,
+        "expanded": false,
+        "name": "[回想]魔研_実験室01",
+        "order": 160,
+        "parentId": 362,
+        "scrollX": 1011,
+        "scrollY": 676.5
+    },
+    {
+        "id": 354,
+        "expanded": false,
+        "name": "[回想]魔研_2F",
+        "order": 161,
+        "parentId": 362,
+        "scrollX": 2149.5,
+        "scrollY": 1435.5
+    },
+    {
+        "id": 355,
+        "expanded": false,
+        "name": "[回想]魔研_3F",
+        "order": 162,
+        "parentId": 362,
+        "scrollX": 2149.3333333333335,
+        "scrollY": 1352
+    },
+    {
+        "id": 356,
+        "expanded": false,
+        "name": "[回想]魔研_通路01",
+        "order": 163,
+        "parentId": 362,
+        "scrollX": 1261.3333333333333,
+        "scrollY": 609.3333333333334
+    },
+    {
+        "id": 357,
+        "expanded": false,
+        "name": "[回想]魔研_実験室02",
+        "order": 164,
+        "parentId": 362,
+        "scrollX": 898.6666666666666,
+        "scrollY": 601.3333333333334
+    },
+    {
+        "id": 358,
+        "expanded": true,
+        "name": "[回想]魔研_通路02",
+        "order": 165,
+        "parentId": 362,
+        "scrollX": 898.6666666666666,
+        "scrollY": 609.3333333333334
+    },
+    {
+        "id": 359,
+        "expanded": false,
+        "name": "[回想]魔研_転送陣02",
+        "order": 166,
+        "parentId": 362,
+        "scrollX": 954.6666666666666,
+        "scrollY": 601.3333333333334
+    },
+    {
+        "id": 360,
+        "expanded": true,
+        "name": "[回想]魔研_個人研究室",
+        "order": 167,
+        "parentId": 362,
+        "scrollX": 1448,
+        "scrollY": 1089.3333333333333
+    },
+    {
+        "id": 361,
+        "expanded": false,
+        "name": "[回想]暗道_全般",
+        "order": 144,
+        "parentId": 341,
+        "scrollX": 649,
+        "scrollY": 451
+    },
+    {
+        "id": 362,
+        "expanded": false,
+        "name": "[回想]魔研_全般",
+        "order": 154,
+        "parentId": 341,
+        "scrollX": 649,
+        "scrollY": 451
+    },
+    {
+        "id": 363,
+        "expanded": false,
+        "name": "[回想]暗道_小部屋",
+        "order": 150,
+        "parentId": 361,
+        "scrollX": 1011,
+        "scrollY": 777
+    },
+    {
+        "id": 364,
+        "expanded": false,
+        "name": "[回想]魔研_最終決戦",
+        "order": 169,
+        "parentId": 362,
+        "scrollX": 1544.7272727272727,
+        "scrollY": 1416
+    },
+    {
+        "id": 365,
+        "expanded": false,
+        "name": "[回想]書斎+ボス前転送",
+        "order": 168,
+        "parentId": 360,
+        "scrollX": 898.6666666666666,
+        "scrollY": 828
+    },
+    {
+        "id": 366,
+        "expanded": false,
+        "name": "c04_自由行動_モブ",
+        "order": 170,
+        "parentId": 341,
+        "scrollX": 0,
+        "scrollY": 0
+    },
+    {
+        "id": 367,
+        "expanded": true,
+        "name": "[回想]魔導士_本戦",
+        "order": 152,
+        "parentId": 347,
+        "scrollX": 1544.7272727272727,
+        "scrollY": 1944
+    },
+    {
+        "id": 368,
+        "expanded": true,
+        "name": "[回想]魔導士_打倒+敗北",
+        "order": 153,
+        "parentId": 347,
+        "scrollX": 1544.7272727272727,
+        "scrollY": 966.5454545454546
+    }
+]

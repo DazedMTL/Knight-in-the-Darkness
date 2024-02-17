@@ -1,0 +1,1533 @@
+[
+    null,
+    {
+        "id": 1,
+        "atypeId": 5,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 128,
+        "name": "盾",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            10,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 300
+    },
+    {
+        "id": 2,
+        "atypeId": 1,
+        "description": "",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 130,
+        "name": "帽子",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            10,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 300
+    },
+    {
+        "id": 3,
+        "atypeId": 1,
+        "description": "",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 135,
+        "name": "服",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            10,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 300
+    },
+    {
+        "id": 4,
+        "atypeId": 1,
+        "description": "",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 145,
+        "name": "指輪",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            10,
+            0,
+            0,
+            0
+        ],
+        "price": 300
+    },
+    {
+        "id": 5,
+        "atypeId": 7,
+        "description": "かろうじて恥部を隠す程度のほとんど防御能力の無い布切れ。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 139,
+        "name": "粗い布切れ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            15,
+            0,
+            15,
+            0,
+            0
+        ],
+        "price": 500
+    },
+    {
+        "id": 6,
+        "atypeId": 7,
+        "description": "奴隷労働者が怪我を防ぐために用いる目の荒いバンテージ。\nもちろん戦闘用ではない。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 150,
+        "name": "目の荒い包帯",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 500
+    },
+    {
+        "id": 7,
+        "atypeId": 7,
+        "description": "着ることを渋っていたがいざ着てみると「似合ってる」「凛々しい」「えっちだ」と好評で、\n普段あまり袖を通さぬ女性的な装いを褒められ、レイシアはしばらく鏡の前を離れなかったとか。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 154,
+        "name": "バニースーツ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            20,
+            0,
+            20,
+            25,
+            5
+        ],
+        "price": 3500
+    },
+    {
+        "id": 8,
+        "atypeId": 7,
+        "description": "ウサギの耳を模したヘアバンド。防御能力の乏しさを憂慮したレイシアが、\nヘアバンドの裏に鉄板を仕込もうとしたところを支配人が必死に止めていた。",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 149,
+        "name": "ヘアバンド",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            8,
+            0,
+            10,
+            5
+        ],
+        "price": 3500
+    },
+    {
+        "id": 9,
+        "atypeId": 7,
+        "description": "ウサギの尻尾を模したアクセサリー。さわるとモフモフとして肌触りが良いためか、\nこれだけはレイシアも気に入っているらしい。気持ちも運気も少しだけ上向き。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 291,
+        "name": "ウサギの尻尾",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            5
+        ],
+        "price": 3500
+    },
+    {
+        "id": 10,
+        "atypeId": 1,
+        "description": "酒が一式揃ったセット。照明を受けてキラキラと輝く酒瓶はさながらフロアの華である。\nだからといって全種類持ち運ぶやつもそうそういない。",
+        "etypeId": 6,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 43,
+                "dataId": 96,
+                "value": 1
+            },
+            {
+                "code": 43,
+                "dataId": 97,
+                "value": 1
+            },
+            {
+                "code": 43,
+                "dataId": 98,
+                "value": 1
+            },
+            {
+                "code": 43,
+                "dataId": 99,
+                "value": 1
+            },
+            {
+                "code": 43,
+                "dataId": 100,
+                "value": 1
+            },
+            {
+                "code": 43,
+                "dataId": 101,
+                "value": 1
+            },
+            {
+                "code": 43,
+                "dataId": 102,
+                "value": 1
+            },
+            {
+                "code": 43,
+                "dataId": 103,
+                "value": 1
+            }
+        ],
+        "iconIndex": 176,
+        "name": "カクテルセット",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 3500
+    },
+    {
+        "id": 11,
+        "atypeId": 1,
+        "description": "レイシアが外套の下に身に着けた騎士鎧。\n手入れの跡を消すように表面を土で汚し、光の反射を防いでいる。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 137,
+        "name": "汚れた騎士鎧",
+        "note": "",
+        "params": [
+            100,
+            0,
+            0,
+            25,
+            0,
+            25,
+            0,
+            0
+        ],
+        "price": 2000
+    },
+    {
+        "id": 12,
+        "atypeId": 7,
+        "description": "姿を隠すための長めのローブ。厚手であり防御効果も期待できる。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 139,
+        "name": "厚手の外套",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            5,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 13,
+        "atypeId": 7,
+        "description": "修行の効果を上げる為の装飾品。因果を引き寄せるそれは装備者に苦痛を伴わせる。\n獲得率上昇：入手金額、アイテム入手率、獲得経験値(内部換算)",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 64,
+                "dataId": 4,
+                "value": 1
+            },
+            {
+                "code": 64,
+                "dataId": 5,
+                "value": 1
+            },
+            {
+                "code": 23,
+                "dataId": 9,
+                "value": 1.5
+            }
+        ],
+        "iconIndex": 150,
+        "name": "ストラグルバンド",
+        "note": "",
+        "params": [
+            -50,
+            -50,
+            0,
+            -25,
+            0,
+            -25,
+            -15,
+            -15
+        ],
+        "price": 3000
+    },
+    {
+        "id": 14,
+        "atypeId": 7,
+        "description": "毒を防ぐ加護が施された指輪。小さな指輪に編むにはやや高度な魔術加工であるが、\n指輪にはめられた魔鉱晶石がそれを可能にしている。",
+        "etypeId": 6,
+        "traits": [
+            {
+                "code": 14,
+                "dataId": 4,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 15,
+                "value": 1
+            }
+        ],
+        "iconIndex": 145,
+        "name": "抗毒の指輪",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            3
+        ],
+        "price": 1500
+    },
+    {
+        "id": 15,
+        "atypeId": 7,
+        "description": "出血を防ぐ加護が施された指輪。小さな指輪に編むにはやや高度な魔術加工であるが、\n指輪にはめられた魔鉱晶石がそれを可能にしている。ただし特殊な出血は防ぐことが出来ない。",
+        "etypeId": 6,
+        "traits": [
+            {
+                "code": 14,
+                "dataId": 16,
+                "value": 1
+            }
+        ],
+        "iconIndex": 145,
+        "name": "抗出血の指輪",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            3
+        ],
+        "price": 1500
+    },
+    {
+        "id": 16,
+        "atypeId": 7,
+        "description": "目潰し状態を防ぐバンダナ。不意を突き視界を奪うのは賊の常套手段である。\nその威力を知っている分、防ぐ手段も同時に用意している。賊は懺悔と共に騎士へ手渡した。",
+        "etypeId": 6,
+        "traits": [
+            {
+                "code": 14,
+                "dataId": 5,
+                "value": 1
+            }
+        ],
+        "iconIndex": 151,
+        "name": "粉塵除け",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            3,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1500
+    },
+    {
+        "id": 17,
+        "atypeId": 7,
+        "description": "身に付けると徐々に体力が回復する指輪。体力に余裕があると人は無理をしがちである。\n装備者を助ける意図で作られた指輪がむしろ持ち主を危険へと導くというのも皮肉である。",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 7,
+                "value": 0.03
+            }
+        ],
+        "iconIndex": 145,
+        "name": "野生の指輪",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 3000
+    },
+    {
+        "id": 18,
+        "atypeId": 7,
+        "description": "身に付けると徐々に精神力が回復する指輪。高位の術式が編まれた魔術道具であるが、\n精神面をケアする用途からか装着感や見た目が良く、またほんのりと落ち着く香りもする。",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 8,
+                "value": 0.03
+            }
+        ],
+        "iconIndex": 145,
+        "name": "秘術の指輪",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 3000
+    },
+    {
+        "id": 19,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 20,
+        "atypeId": 7,
+        "description": "腕輪より止め処なく溢れる力の流れは冒険者の突き進む意思を後押しする。\n攻撃能力全般の弱体を防ぐ特殊な装飾品。",
+        "etypeId": 6,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 12,
+                "dataId": 2,
+                "value": 0
+            },
+            {
+                "code": 12,
+                "dataId": 4,
+                "value": 0
+            },
+            {
+                "code": 12,
+                "dataId": 6,
+                "value": 0
+            }
+        ],
+        "iconIndex": 144,
+        "name": "奔放の腕輪",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            15,
+            0
+        ],
+        "price": 3000
+    },
+    {
+        "id": 21,
+        "atypeId": 7,
+        "description": "防御能力が向上します。負けたい場合はアイテムショップ『自決薬』から。\nまた一部敗北イベントなどが正常に動作しなかった場合は外してみてください。",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 14,
+                "dataId": 4,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 15,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 14,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 13,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 5,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 16,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 46,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 7,
+                "value": 0.2
+            },
+            {
+                "code": 22,
+                "dataId": 8,
+                "value": 0.2
+            },
+            {
+                "code": 22,
+                "dataId": 9,
+                "value": 0.5
+            },
+            {
+                "code": 22,
+                "dataId": 2,
+                "value": 1.5
+            }
+        ],
+        "iconIndex": 147,
+        "name": "覇者のお守り",
+        "note": "",
+        "params": [
+            1000,
+            1000,
+            0,
+            200,
+            0,
+            200,
+            0,
+            100
+        ],
+        "price": 0
+    },
+    {
+        "id": 22,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 23,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 24,
+        "atypeId": 1,
+        "description": "騎士としてはやや軽微な鎧。\n任務の性質上豪華な装飾の類は見受けられず機動性が重視されている。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 137,
+        "name": "騎士の鎧",
+        "note": "チュートリアル防具。",
+        "params": [
+            150,
+            0,
+            0,
+            25,
+            0,
+            25,
+            0,
+            0
+        ],
+        "price": 1500
+    },
+    {
+        "id": 25,
+        "atypeId": 1,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 129,
+        "name": "騎士の盾",
+        "note": "チュートリアル防具。",
+        "params": [
+            0,
+            50,
+            0,
+            10,
+            0,
+            10,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 26,
+        "atypeId": 1,
+        "description": "王都を出立した折に宰相より授かった書簡。\nレイシアへ与えられた任務が書かれている。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 187,
+        "name": "密命書簡",
+        "note": "チュートリアル防具。",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 500
+    },
+    {
+        "id": 27,
+        "atypeId": 1,
+        "description": "王都ニアレイクにて爵位を授かった騎士に贈られる青色のバラ飾り。\n湖の畔に僅かばかり咲くその花は国と騎士精神の清らかさの象徴である。",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 148,
+        "name": "青い花飾り",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            5,
+            5,
+            0,
+            10
+        ],
+        "price": 500
+    },
+    {
+        "id": 28,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 29,
+        "atypeId": 7,
+        "description": "兵士に支給される一般的な鉄鎧。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 137,
+        "name": "鉄の鎧",
+        "note": "",
+        "params": [
+            150,
+            0,
+            0,
+            10,
+            0,
+            10,
+            0,
+            0
+        ],
+        "price": 500
+    },
+    {
+        "id": 30,
+        "atypeId": 7,
+        "description": "木製の板に鉄板をはりつけた盾。見た目よりも軽く取り回しが効く。",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 129,
+        "name": "バトルシールド",
+        "note": "",
+        "params": [
+            0,
+            50,
+            0,
+            5,
+            0,
+            5,
+            0,
+            0
+        ],
+        "price": 500
+    },
+    {
+        "id": 31,
+        "atypeId": 7,
+        "description": "兵士に支給される一般的な鉄兜。",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 131,
+        "name": "鉄の兜",
+        "note": "",
+        "params": [
+            0,
+            50,
+            0,
+            5,
+            0,
+            5,
+            0,
+            0
+        ],
+        "price": 500
+    },
+    {
+        "id": 32,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 33,
+        "atypeId": 7,
+        "description": "動きやすさを重視したジャケット。\n簡素に見えるが職業柄か、内側には多数の「仕込み」が見られる。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 135,
+        "name": "ライトジャケット",
+        "note": "",
+        "params": [
+            100,
+            0,
+            0,
+            18,
+            0,
+            18,
+            0,
+            0
+        ],
+        "price": 1500
+    },
+    {
+        "id": 34,
+        "atypeId": 7,
+        "description": "様々なアイテムが入った道具袋。開錠道具から爆薬まで様々詰め込んである。\n回復アイテムの効果も引き上げる。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 23,
+                "dataId": 3,
+                "value": 1.25
+            }
+        ],
+        "iconIndex": 209,
+        "name": "アイテムボックス",
+        "note": "",
+        "params": [
+            0,
+            0,
+            8,
+            5,
+            8,
+            5,
+            0,
+            5
+        ],
+        "price": 1500
+    },
+    {
+        "id": 35,
+        "atypeId": 7,
+        "description": "髪を結うための紐。意外としっかりした素材で出来ている。\n「こういうのが手元にあるといざという時に便利なんだよな～」とのアカネ談。",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 146,
+        "name": "髪結い紐",
+        "note": "",
+        "params": [
+            0,
+            10,
+            0,
+            3,
+            5,
+            3,
+            0,
+            0
+        ],
+        "price": 1500
+    },
+    {
+        "id": 36,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 37,
+        "atypeId": 2,
+        "description": "本来王位を継いだ者は伝統的な王族衣を来て公務を執り行うのだが、\nまだ彼女に合うサイズのものが無いため法衣以外は王女時代のものをそのまま着用している。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 154,
+        "name": "プリンセスドレス",
+        "note": "",
+        "params": [
+            0,
+            50,
+            0,
+            40,
+            0,
+            40,
+            0,
+            0
+        ],
+        "price": 5000
+    },
+    {
+        "id": 38,
+        "atypeId": 2,
+        "description": "豪華な装飾が施された王冠。彼女にはまだ重いようである。",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 8,
+                "value": 0.05
+            }
+        ],
+        "iconIndex": 134,
+        "name": "ロイヤルクラウン",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            30,
+            30,
+            0,
+            0
+        ],
+        "price": 5000
+    },
+    {
+        "id": 39,
+        "atypeId": 2,
+        "description": "王都ニアレイクの精神性の象徴である青色のバラを用いた衣装飾り。\n湖の畔に僅かに咲くその花が風に揺れたある日の風景は彼女の一番大切な思い出である。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 148,
+        "name": "青い花飾り",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            15,
+            15,
+            0,
+            25
+        ],
+        "price": 5000
+    },
+    {
+        "id": 40,
+        "atypeId": 7,
+        "description": "ソアラの故郷である異邦の首飾り。彼女の母の形見でもある。",
+        "etypeId": 6,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 14,
+                "value": 0.65
+            },
+            {
+                "code": 13,
+                "dataId": 4,
+                "value": 0.65
+            },
+            {
+                "code": 13,
+                "dataId": 5,
+                "value": 0.65
+            },
+            {
+                "code": 13,
+                "dataId": 13,
+                "value": 0.65
+            }
+        ],
+        "iconIndex": 147,
+        "name": "古い首飾り",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            5,
+            0,
+            10
+        ],
+        "price": 5000
+    },
+    {
+        "id": 41,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 42,
+        "atypeId": 7,
+        "description": "始末屋が落とした光の反射が無い小振りの苦無。殺傷のみを目的としたそれは、\n重心が工夫され短距離投擲に威力を発揮する。[腕装備、スキル追加有り]",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 43,
+                "dataId": 211,
+                "value": 1
+            },
+            {
+                "code": 43,
+                "dataId": 212,
+                "value": 1
+            }
+        ],
+        "iconIndex": 96,
+        "name": "始末屋のクナイ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            12,
+            0,
+            0,
+            0,
+            12,
+            0
+        ],
+        "price": 5000
+    },
+    {
+        "id": 43,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 44,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 45,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 46,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 47,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 48,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 49,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 50,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    }
+]
