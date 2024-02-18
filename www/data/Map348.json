@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "魔研_入口",
+    "displayName": "Demon Research Entrance",
     "encounterList": [],
     "encounterStep": 30,
     "height": 35,
@@ -7429,7 +7429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "移動先を選択してください。"
+                                "Please select a destination."
                             ]
                         },
                         {
@@ -7437,11 +7437,11 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "洞窟入口へ",
-                                    "魔導研究所入口へ",
-                                    "実験室前へ",
-                                    "個人研究室前へ",
-                                    "移動しない"
+                                    "To the cave entrance",
+                                    "To the entrance of the magic research institute",
+                                    "To the front of the laboratory",
+                                    "To the front of the private study",
+                                    "Do not move"
                                 ],
                                 2,
                                 0,
@@ -8319,14 +8319,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "搬入出された物資のリストだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "物資の中に労働者の記載もある。搬入はあるが搬出の数字は無い。"
+                                "This is a list of the supplies that were brought in and out.\nIt includes a record of the workers as well. There are\nnumbers for the supplies brought in, but none for those\ntaken out."
                             ]
                         },
                         {
@@ -8672,7 +8665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "立ち絵の衣装を変えますか？(イベントＣＧに変化はありません。)"
+                                "Would you like to change the standing picture's outfit?\n(There will be no change to the event CG.)"
                             ]
                         },
                         {
@@ -8680,10 +8673,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "騎士鎧",
-                                    "ローブ",
-                                    "ローブ(顔出し)",
-                                    "このままでいい"
+                                    "Knight Armor",
+                                    "Robe",
+                                    "Robe (Face Visible)",
+                                    "Stay as is"
                                 ],
                                 3,
                                 0,
@@ -8727,7 +8720,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "では先を急ごうか。"
+                                "Then, shall we hurry on?"
                             ]
                         },
                         {
@@ -8778,7 +8771,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "では先を急ごうか。"
+                                "Then, shall we hurry on?"
                             ]
                         },
                         {
@@ -8829,7 +8822,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "では先を急ごうか。"
+                                "Then, shall we hurry on?"
                             ]
                         },
                         {

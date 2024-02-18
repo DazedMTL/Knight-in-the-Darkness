@@ -9370,14 +9370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ようやく外に出れたってのに、何だか陽の光が目に染みて痛ぇや。"
+                                "Akane: Even though we finally made it outside, the sunlight\nis so harsh it hurts my eyes."
                             ]
                         },
                         {
@@ -9408,7 +9401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁ…、そうだな。"
+                                "Ah... yeah, that's true."
                             ]
                         },
                         {
@@ -9425,7 +9418,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "青抜けの光が目の奥を刺す。こんなに嬉しい痛みは他にない……！"
+                                "The piercing light of the clear blue sky stabs at the back\nof my eyes. There's no other pain quite as pleasant as\nthis...!"
                             ]
                         },
                         {
@@ -9592,7 +9585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここまでの進行状況をセーブしますか？"
+                                "Would you like to save your progress up to this point?"
                             ]
                         },
                         {
@@ -9600,8 +9593,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

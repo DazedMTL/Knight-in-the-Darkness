@@ -12247,7 +12247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "移動する場所を選択してください。"
+                                "Please select a destination to move to."
                             ]
                         },
                         {
@@ -12255,12 +12255,12 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "生活区",
-                                    "分岐路",
-                                    "労働区_看守前",
-                                    "出口への道",
-                                    "出口_ボス戦前(現在地)",
-                                    "やっぱりやめる。"
+                                    "Residential Area",
+                                    "Fork in the Road",
+                                    "Labor District_Before the Guard",
+                                    "Path to the Exit",
+                                    "Exit_Before Boss Battle(Current Location)",
+                                    "Actually, never mind."
                                 ],
                                 5,
                                 0,
@@ -12497,7 +12497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "強敵に再戦しますか？ - 『監獄看守長』"
+                                "Would you like to rematch the formidable enemy? - \"Prison\nWarden\""
                             ]
                         },
                         {
@@ -12505,8 +12505,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -12699,7 +12699,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "敗北イベントを見ますか？"
+                                "Would you like to view the defeat event?"
                             ]
                         },
                         {
@@ -12707,8 +12707,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

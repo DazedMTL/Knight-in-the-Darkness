@@ -18106,14 +18106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王女："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "流す血は民と共に。その血は国のための光に。"
+                                "Princess Soara: The blood I shed is one with the people.\nThat blood becomes the light for our nation."
                             ]
                         },
                         {
@@ -18151,14 +18144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ならばこの身は国守る盾に。王を支える剣になりましょう。"
+                                "Reisha: Then let this body be the shield that protects the\nnation, and the sword that supports the king."
                             ]
                         },
                         {
@@ -18205,14 +18191,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王女："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その刀身に映すは朝を待つ願いの光。"
+                                "Princess Soara: Reflected in that blade is the light of\nhope, waiting for dawn."
                             ]
                         },
                         {
@@ -18245,21 +18224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王女："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今はまだ未熟な一筋かもしれません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ですが国を願うその想いはきっと闇夜に届くと信じています。"
+                                "Princess Soara: It may still be a single, inexperienced\nstreak now. But I believe that this wish for our country\nwill surely reach through the dark night."
                             ]
                         },
                         {
@@ -18332,7 +18297,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{『　暁の剣を以って、今この国に夜明けの光を──！！　』"
+                                "\"With the sword of dawn, let there be light to break the\ndarkness of this nation──!!\""
                             ]
                         },
                         {

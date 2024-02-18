@@ -12247,7 +12247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戻りますか？"
+                                "Would you like to return?"
                             ]
                         },
                         {
@@ -12255,8 +12255,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -12620,7 +12620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "移動する場所を選択してください。"
+                                "Please select a destination to move to."
                             ]
                         },
                         {
@@ -12628,12 +12628,12 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "生活区",
-                                    "分岐路(現在地)",
-                                    "労働区_看守前",
-                                    "出口への道(イベント前)",
-                                    "出口_ボス戦前",
-                                    "やっぱりやめる。"
+                                    "Residential Area",
+                                    "Intersection (Current Location)",
+                                    "Labor Area_Before the Guard",
+                                    "Path to the Exit (Before Event)",
+                                    "Exit_Before Boss Battle",
+                                    "On second thought, never mind."
                                 ],
                                 5,
                                 0,
@@ -12870,7 +12870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者をパーティに加えますか？"
+                                "Would you like to add the worker to your party?"
                             ]
                         },
                         {
@@ -12878,8 +12878,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -12921,14 +12921,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "よろしくな！"
+                                "Worker: Nice to meet you!"
                             ]
                         },
                         {
@@ -13188,7 +13181,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "chapter02-前半[自由行動]にて魔術労働者加入のイベントを行ってください。"
+                                "Please proceed with the event where the Magic Worker joins\nduring the first half of Chapter 02 [Free Action]."
                             ]
                         },
                         {
@@ -13227,7 +13220,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "労働者(魔)をパーティに加えますか？"
+                                "Would you like to add the Magic Worker to your party?"
                             ]
                         },
                         {
@@ -13235,8 +13228,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -13278,14 +13271,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "労働者(魔)："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "また世話になるよ。まぁゆっくり光を目指そうじゃないか。"
+                                "Magic Worker: I'm in your care again. Well, let's take our\ntime and head towards the light."
                             ]
                         },
                         {
@@ -13415,7 +13401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者(魔)をパーティに加えますか？"
+                                "Would you like to add the Demon Worker to your party?"
                             ]
                         },
                         {
@@ -13423,8 +13409,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -13466,14 +13452,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "労働者(魔)："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "また世話になるよ。まぁゆっくり光を目指そうじゃないか。"
+                                "Demon Worker: \"I'm in your care again. Well, let's slowly\nhead towards the light.\""
                             ]
                         },
                         {
@@ -13834,7 +13813,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "chapter02-前半[自由行動]にてミニゲームをクリアして加入条件を満たしてください。"
+                                "Please clear the minigame in chapter02-first half [Free\nAction] to meet the joining conditions."
                             ]
                         },
                         {
@@ -13873,7 +13852,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "労働者(闘)をパーティに加えますか？"
+                                "Would you like to add the Worker (Fighter) to your party?"
                             ]
                         },
                         {
@@ -13881,8 +13860,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -13924,14 +13903,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "労働者(魔)："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "久々に腕がなるぜ！！"
+                                "Worker (Mage): It's been a while since my arms have felt\nthis way!!"
                             ]
                         },
                         {
@@ -14061,7 +14033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者(闘)をパーティに加えますか？"
+                                "Would you like to add the Worker (Fighter) to your party?"
                             ]
                         },
                         {
@@ -14069,8 +14041,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -14112,14 +14084,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "労働者(魔)："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "久々に腕がなるぜ！！"
+                                "Worker (Mage): It's been a while since my arms have felt\nthis way!!"
                             ]
                         },
                         {
@@ -14257,14 +14222,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "少年労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "回復してあげるね！"
+                                "Young Worker: I'll heal you up!"
                             ]
                         },
                         {
@@ -14308,7 +14266,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "chapter02-前半[自由行動]にて少年労働者の参加条件を満たしてください。"
+                                "Please meet the participation conditions for the Young\nWorker during chapter02-前半[Free Action]."
                             ]
                         },
                         {
@@ -14398,14 +14356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少年労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "回復してあげるね！"
+                                "Young Worker: I'll heal you up!"
                             ]
                         },
                         {
@@ -14566,7 +14517,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（道が塞がれている。）"
+                                "(The path is blocked.)"
                             ]
                         },
                         {
@@ -14991,7 +14942,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "強敵に再戦しますか？ - 『看守(分岐路)』"
+                                "Would you like to rematch the formidable enemy? - \"Guardian\n(Crossroads)\""
                             ]
                         },
                         {
@@ -14999,8 +14950,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -15114,7 +15065,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "敗北イベントを見ますか？"
+                                "Would you like to view the defeat event?"
                             ]
                         },
                         {
@@ -15122,8 +15073,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

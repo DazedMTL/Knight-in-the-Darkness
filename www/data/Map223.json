@@ -16,7 +16,7 @@
         "volume": 50
     },
     "disableDashing": false,
-    "displayName": "静かな汀",
+    "displayName": "Quiet Shore",
     "encounterList": [],
     "encounterStep": 30,
     "height": 20,
@@ -3452,7 +3452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おぉ～！本当にここまで来る人がいるもんなんですねぇ！！"
+                                "Wow! I can't believe someone actually made it this far!!"
                             ]
                         },
                         {
@@ -3469,7 +3469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "では、ここに来た人に伝えて欲しいって伝言を預かってるので読みますね！"
+                                "So, I've been entrusted with a message to tell anyone who\ncomes here! Let me read it to you!"
                             ]
                         },
                         {
@@ -3486,14 +3486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『ここが本当にこのゲームの終わりです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  ここまで遊んでくれて本当にありがとうございます。』、ですって！"
+                                "\"This is truly the end of the game. Thank you so much for\nplaying this far.\""
                             ]
                         },
                         {
@@ -3526,7 +3519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もしかしてあなたって本当にスゴイ人だったりするんですか？このこのぉ～～♪"
+                                "Could it be that you're really an amazing person? Tee-hee-\nhee♪"
                             ]
                         },
                         {

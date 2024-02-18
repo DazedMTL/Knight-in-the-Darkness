@@ -11621,7 +11621,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お前は、いいのか？　あのような者に、人を人とは思わぬような扱いを受けて…！"
+                                "Are you okay with this? Being treated like you're not even\nhuman by someone like that...!"
                             ]
                         },
                         {
@@ -11690,14 +11690,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっきからなんだい。わかってないのはあんたの方さ。"
+                                "Manager: What's with you since a while ago. You're the one\nwho doesn't understand."
                             ]
                         },
                         {
@@ -11714,14 +11707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何も知らないくせに迷惑なんだよ。私たちは余計なことをせずに黙って従ってればいいのさ。"
+                                "Manager: It's annoying when someone who knows nothing\ninterferes. We just need to keep quiet and follow orders\nwithout doing anything unnecessary."
                             ]
                         },
                         {
@@ -11944,14 +11930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ホラ、これ使いな。"
+                                "Manager: Here, use this."
                             ]
                         },
                         {
@@ -12196,7 +12175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お、おっと…！"
+                                "Oh, whoa...!"
                             ]
                         },
                         {
@@ -12272,14 +12251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おいおい、「かまし」でブン投げたってのに…その重さのモン素手で受け取れるのかよ…"
+                                "Manager: Hey, hey, I tossed it at you with a swing... Can\nyou even catch something that heavy with your bare hands...?"
                             ]
                         },
                         {
@@ -12305,14 +12277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんた、穴掘りは、まぁやったことないだろうけど。"
+                                "Manager: You've probably never dug a hole before, have you?"
                             ]
                         },
                         {
@@ -12329,21 +12294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "細かい作業は他に出来るもんがいるからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "理由は後だよ、あんたはまずはひたすら壁を掘り進めな。"
+                                "Manager: There are others who can do the detailed work. The\nreason comes later. For now, just keep digging through the\nwall."
                             ]
                         },
                         {
@@ -12412,7 +12363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………………………"
+                                "..."
                             ]
                         },
                         {
@@ -12429,14 +12380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(使命の事はあるが、自分の置かれた状況を把握せずに闇雲に行動を起こすべきではないな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " ここはしばらく様子を見て情報を整理するとしよう。)"
+                                "(There is a mission, but I shouldn't act recklessly without\nunderstanding the situation I'm in. I'll observe for a while\nand gather information.)"
                             ]
                         },
                         {
@@ -12453,7 +12397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この道具でだな。わかった。どのくらい掘り進めばいいのだ？"
+                                "With this tool, I see. How far should I dig?"
                             ]
                         },
                         {
@@ -12484,21 +12428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなもんは考えるだけ無駄だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とにかく腕が上がらなくなるまで、腕が上がらなくなっても働かされ続けるんだからね。"
+                                "Manager: Thinking about that is a waste of time. Anyway,\nyou'll keep working until your arms can't lift anymore, and\neven when they can't, you'll still be made to work."
                             ]
                         },
                         {
@@ -12524,14 +12454,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まぁ、コツくらいなら教えといてやるよ。"
+                                "Manager: Well, I can at least teach you the trick to it."
                             ]
                         },
                         {
@@ -12548,14 +12471,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最初からあまり全力でやろうと思わないこったね。適度にチカラを抜いて進めていくんだ。"
+                                "Manager: Don't try to go all out from the start. Proceed\nwith moderate effort, letting some power off."
                             ]
                         },
                         {
@@ -12624,7 +12540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうか、かたじけない。たしかに、いきなり身体を壊しても続かないからな。"
+                                "Is that so, much obliged. Indeed, if I break my body from\nthe start, I won't last long."
                             ]
                         },
                         {
@@ -12693,14 +12609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "違う違う。"
+                                "Manager: No, no."
                             ]
                         },
                         {
@@ -12717,14 +12626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よくいるんだよ。入ってきたばかりで張り切っちまうバカが。"
+                                "Manager: It happens all the time. Idiots who get all fired\nup just because they're new here."
                             ]
                         },
                         {
@@ -12741,21 +12643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そういう奴がノルマの基準にでもなっちまったら迷惑するのはアタシらだろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だから釘刺してんだよ。"
+                                "Manager: If those kinds of guys become the standard for\nquotas, it's us who suffer. That's why I'm driving the point\nhome."
                             ]
                         },
                         {
@@ -12772,21 +12660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんたの心配してるわけじゃないよ。アタシらの心配してんだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…ったく世間知らずのバカはこれだから困る。"
+                                "Manager: I'm not worried about you. It's us I'm worried\nabout... Seriously, naive idiots like you are such a hassle."
                             ]
                         },
                         {
@@ -12826,14 +12700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんだと！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっきから聞いてれば、人のことを世間知らずだのバカだのと…！"
+                                "What did you say! If I've been listening correctly, you've\nbeen calling me naive and an idiot...!"
                             ]
                         },
                         {
@@ -12895,14 +12762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふん、違うっていうのかい？"
+                                "Manager: Hmph, are you saying it's not true?"
                             ]
                         },
                         {
@@ -12933,7 +12793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "違いは、しないかも、だが。しかしなぁ…！言い方というものがあるだろう！！"
+                                "I might not differ, but still...! There's something called\nmanners in speaking!!"
                             ]
                         },
                         {
@@ -12964,14 +12824,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そういう怒りは壁の穴にでもぶつけるんだな。"
+                                "Manager: Channel that anger into the holes in the wall then."
                             ]
                         },
                         {
@@ -12988,14 +12841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "──……………"
+                                "Manager:──..."
                             ]
                         },
                         {
@@ -13012,14 +12858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここでは無くなってから気付くんだよ。それがどんだけ貴重な感情だったかってね…"
+                                "Manager: It's only after they're gone that people realize\nhow precious those feelings were..."
                             ]
                         },
                         {
@@ -13102,14 +12941,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まずは以上だ！ほら、さっさと手を動かしなッ！"
+                                "Manager: That's all for now! Come on, get moving!"
                             ]
                         },
                         {
@@ -13228,7 +13060,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…ええいっ！！"
+                                "...Damn it!!"
                             ]
                         },
                         {

@@ -18,7 +18,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "剣",
+        "name": "Sword",
         "note": "",
         "params": [
             0,
@@ -51,7 +51,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "斧",
+        "name": "Axe",
         "note": "",
         "params": [
             0,
@@ -84,7 +84,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "杖",
+        "name": "Staff",
         "note": "",
         "params": [
             0,
@@ -117,7 +117,7 @@
             }
         ],
         "iconIndex": 102,
-        "name": "弓",
+        "name": "Bow",
         "note": "",
         "params": [
             0,
@@ -135,7 +135,7 @@
     {
         "id": 5,
         "animationId": 11,
-        "description": "騎士レイシアが使う斬撃も可能なやや大型の刺突剣。\n風吹く湖面のようにゆるく光る刀身は戦う相手への敬意を示す。細やかな手入れの賜物である。",
+        "description": "A somewhat large thrusting sword that Knight Reisha can also use for slashing.\nThe blade, shimmering gently like the wind-blown surface of a lake, signifies\nrespect for the opponent. It is the result of meticulous care.",
         "etypeId": 1,
         "traits": [
             {
@@ -170,7 +170,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "風立ちのエストック",
+        "name": "Windrider's Estoc",
         "note": "初期ダンジョンで装備",
         "params": [
             0,
@@ -188,7 +188,7 @@
     {
         "id": 6,
         "animationId": 1,
-        "description": "くたびれた採掘道具。武器として用いるとなると只金属製の打撃武器に成り下がる。\n",
+        "description": "Worn-out mining tools. If used as a weapon, they are reduced to mere metal\nbludgeons.",
         "etypeId": 1,
         "traits": [
             {
@@ -223,7 +223,7 @@
             }
         ],
         "iconIndex": 110,
-        "name": "汚れたつるはし",
+        "name": "Dirty Pickaxe",
         "note": "採掘坑編装備",
         "params": [
             0,
@@ -274,7 +274,7 @@
     {
         "id": 8,
         "animationId": 2,
-        "description": "厳密に言えば装備ではないが、「存分に暴れられる」という気概は武器そのもの。\n店より渡されたのは恥ずかしい衣装と腹いっぱいの食事。その恩に拳にて報いよう。",
+        "description": "Strictly speaking, it's not equipment, but the spirit of 'rampaging to one's\ncontent' is a weapon in itself. What was handed over from the store was an\nembarrassing outfit and a full meal. Let's repay this kindness with our fists.",
         "etypeId": 1,
         "traits": [
             {
@@ -299,7 +299,7 @@
             }
         ],
         "iconIndex": 106,
-        "name": "頑強な拳",
+        "name": "Sturdy Fist",
         "note": "バニー時装備",
         "params": [
             100,
@@ -372,7 +372,7 @@
             }
         ],
         "iconIndex": 176,
-        "name": "カクテルセット",
+        "name": "Cocktail Set",
         "note": "バニー時装備",
         "params": [
             0,
@@ -390,7 +390,7 @@
     {
         "id": 10,
         "animationId": 82,
-        "description": "映す色に染まる刀身は周囲の魔力を吸収する性質を持つ。\nこの美しい剣が今手の中にあるのは、彼女の旅と出会いがけして無駄でなかった証である。",
+        "description": "The blade that changes color reflecting its surroundings has the property of\nabsorbing the magical power around it. The fact that this beautiful sword is now\nin her hands is proof that her journey and encounters were not in vain.",
         "etypeId": 1,
         "traits": [
             {
@@ -420,7 +420,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "辺境の地、滝音の剣",
+        "name": "Frontier Land, Waterfall Sound Sword",
         "note": "アカネと共闘時に装備",
         "params": [
             500,
@@ -438,7 +438,7 @@
     {
         "id": 11,
         "animationId": 150,
-        "description": "王家の血の能力により折れた刀身を補った輝きの剣。\n失くしたのなら探せばいい、折れたのなら補えばいい、重いのなら共に支えればいい。",
+        "description": "A shining sword that repaired its broken blade with the power of the royal\nblood. If it's lost, then search for it; if it's broken, then mend it; if it's\nheavy, then support it together.",
         "etypeId": 1,
         "traits": [
             {
@@ -478,7 +478,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "宝剣：あかつきの剣",
+        "name": "Treasured Sword: Dawn Sword",
         "note": "ラストバトルで装備",
         "params": [
             500,
@@ -496,7 +496,7 @@
     {
         "id": 12,
         "animationId": 6,
-        "description": "騎士が使うには無骨な幅広剣。重さによる殺傷力、頑丈さによる継戦能力が重視されている。\nまたその一般性故、戦場で打ち捨てたそれを調べられても身元へ辿り着かぬ特徴も備える。",
+        "description": "A broadsword too crude for a knight to use. Emphasis is placed on killing power\ndue to its weight and on sustained combat capability due to its sturdiness.\nAlso, due to its commonality, if one discards it on the battlefield, it's\nunlikely to be traced back to the owner.",
         "etypeId": 1,
         "traits": [
             {
@@ -516,7 +516,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "ブロードソード",
+        "name": "Broadsword",
         "note": "",
         "params": [
             450,
@@ -534,7 +534,7 @@
     {
         "id": 13,
         "animationId": 12,
-        "description": "魔導研究所のエリート兵が落とした斧槍。小型の魔鉱晶石が埋め込まれている。\n強力な武器であるが非常に重く、また持ち主の生命力を徐々に奪っていく。[スキル追加有り]",
+        "description": "An axe-spear dropped by an elite soldier from the magical research institute. It\nhas small magic ore crystals embedded in it. Although a powerful weapon, it is\nvery heavy and gradually saps the life force of its wielder. [Skill addition\navailable]",
         "etypeId": 1,
         "traits": [
             {
@@ -564,7 +564,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "エリート兵のハルバード",
+        "name": "Elite Soldier's Halberd",
         "note": "",
         "params": [
             350,
@@ -582,7 +582,7 @@
     {
         "id": 14,
         "animationId": 1,
-        "description": "刀身が折れた剣。\n陽をうけてキラキラと輝くそれは、まるで役目を終え静かに眠っているようである。",
+        "description": "A sword with a broken blade. Bathed in sunlight, it sparkles and seems as if it\nhas completed its duty and rests in peace.",
         "etypeId": 1,
         "traits": [
             {
@@ -597,7 +597,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "折れた剣",
+        "name": "Broken Sword",
         "note": "",
         "params": [
             0,
@@ -615,7 +615,7 @@
     {
         "id": 15,
         "animationId": 147,
-        "description": "魔導の研究の末王家の血より造り上げた人造の魔剣。刀身は常に赤く濡れ、地に月を作る。\n遂には狂気へと至ったが、人の知による力を最後まで信じた男の結晶でもあった。",
+        "description": "A man-made magic sword created from the royal blood after extensive magical\nresearch. The blade is always wet with red and creates moons upon the earth. It\nultimately led to madness, but it was also the crystallization of a man who\nbelieved in the power of human knowledge until the end.",
         "etypeId": 1,
         "traits": [
             {
@@ -645,7 +645,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "人造魔剣：赤月の剣",
+        "name": "Artificial Magic Sword: Red Moon Sword",
         "note": "",
         "params": [
             0,
@@ -696,7 +696,7 @@
     {
         "id": 17,
         "animationId": 1,
-        "description": "一般武器：打撃",
+        "description": "General Weapon: Blunt",
         "etypeId": 1,
         "traits": [
             {
@@ -716,7 +716,7 @@
             }
         ],
         "iconIndex": 108,
-        "name": "一般打撃武器",
+        "name": "General Blunt Weapon",
         "note": "",
         "params": [
             0,
@@ -734,7 +734,7 @@
     {
         "id": 18,
         "animationId": 6,
-        "description": "一般的な鉄製の剣であるが、鍔の部分に特殊な晶石が取り付けられており\nこれを用いることにより使う者の身体能力を底上げすることが出来る。",
+        "description": "A typical iron sword, but with a special crystal attached to the guard that can\nenhance the physical abilities of its user.",
         "etypeId": 1,
         "traits": [
             {
@@ -754,7 +754,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "鉄の剣",
+        "name": "Iron Sword",
         "note": "",
         "params": [
             0,
@@ -772,7 +772,7 @@
     {
         "id": 19,
         "animationId": 1,
-        "description": "金属製の打撃武器。\n「必要なのは技術でなく腕力。わかりやすくて私は好きだな。」",
+        "description": "Metallic blunt weapon. \"What's needed isn't technique but strength. It's\nstraightforward, and I like that.\"",
         "etypeId": 1,
         "traits": [
             {
@@ -797,7 +797,7 @@
             }
         ],
         "iconIndex": 110,
-        "name": "メイス",
+        "name": "Mace",
         "note": "",
         "params": [
             0,
@@ -815,7 +815,7 @@
     {
         "id": 20,
         "animationId": 0,
-        "description": "棒の先にチェーンで重りを付けた打撃武器。両手持ち。\n先端が自由に稼働するため、剣などで棒を受けると勢いを増して重りが飛んでくる。",
+        "description": "A blunt weapon with a weight attached to a chain at the end of a stick, held\nwith both hands. Since the tip moves freely, if you block the stick with a\nsword, the momentum increases and the weight flies towards you.",
         "etypeId": 1,
         "traits": [
             {
@@ -845,7 +845,7 @@
             }
         ],
         "iconIndex": 110,
-        "name": "フレイル",
+        "name": "Flail",
         "note": "",
         "params": [
             0,
@@ -883,7 +883,7 @@
             }
         ],
         "iconIndex": 110,
-        "name": "つるはし",
+        "name": "Pickaxe",
         "note": "",
         "params": [
             0,
@@ -959,7 +959,7 @@
             }
         ],
         "iconIndex": 66,
-        "name": "技テスト",
+        "name": "Skill Test",
         "note": "",
         "params": [
             0,
@@ -1030,7 +1030,7 @@
             }
         ],
         "iconIndex": 110,
-        "name": "萎びた棒きれ",
+        "name": "Withered Stick",
         "note": "",
         "params": [
             0,
@@ -1048,7 +1048,7 @@
     {
         "id": 26,
         "animationId": 1,
-        "description": "くたびれた採掘道具。",
+        "description": "Worn-out mining tools.",
         "etypeId": 1,
         "traits": [
             {
@@ -1063,7 +1063,7 @@
             }
         ],
         "iconIndex": 110,
-        "name": "つるはし",
+        "name": "Pickaxe",
         "note": "",
         "params": [
             0,
@@ -1081,7 +1081,7 @@
     {
         "id": 27,
         "animationId": 6,
-        "description": "軽いがしっかりした作りの短剣。様々な用途で用いられる。\n戦闘面では魔物との交戦よりは対人戦闘で効果を発揮する。",
+        "description": "A light but well-made dagger. It can be used for various purposes. In combat, it\nis more effective in fighting against humans than against monsters.",
         "etypeId": 1,
         "traits": [
             {
@@ -1096,7 +1096,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "盗賊のナイフ",
+        "name": "Thief's Knife",
         "note": "",
         "params": [
             468,
@@ -1114,7 +1114,7 @@
     {
         "id": 28,
         "animationId": 144,
-        "description": "君主が持つ装飾的な王笏。戦闘に用いられることなどまず無い。\n何故か内部には魔力に関連する意匠が幾重にも組まれているが、今それを知る者は少ない。",
+        "description": "A decorative royal scepter held by a monarch, hardly ever used in battle. For\nsome reason, it contains multiple layers of designs related to magical power\ninside, but few people know about this now.",
         "etypeId": 1,
         "traits": [
             {
@@ -1129,7 +1129,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "ロイヤルセプター",
+        "name": "Royal Scepter",
         "note": "",
         "params": [
             0,
@@ -1195,7 +1195,7 @@
             }
         ],
         "iconIndex": 1,
-        "name": "ラストソード",
+        "name": "Rust Sword",
         "note": "",
         "params": [
             50,
@@ -1228,7 +1228,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "中盤ソード",
+        "name": "Midgame Sword",
         "note": "",
         "params": [
             0,
@@ -1266,7 +1266,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "中盤ハンマー",
+        "name": "Midgame Hammer",
         "note": "",
         "params": [
             0,
@@ -1299,7 +1299,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "牢獄ハンマー",
+        "name": "Dungeon Hammer",
         "note": "",
         "params": [
             0,

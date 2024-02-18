@@ -7398,7 +7398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ショートソードを手に入れた！"
+                                "Obtained a Short Sword!"
                             ]
                         },
                         {
@@ -7645,7 +7645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ロングソードを手に入れた！"
+                                "Obtained a Long Sword!"
                             ]
                         },
                         {
@@ -7892,7 +7892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイピアを手に入れた！"
+                                "Obtained a Rapier!"
                             ]
                         },
                         {
@@ -8244,7 +8244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハンドアクスを手に入れた！"
+                                "Obtained a Hand Axe!"
                             ]
                         },
                         {
@@ -8491,7 +8491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポーションを手に入れた！"
+                                "Gained a Potion!"
                             ]
                         },
                         {
@@ -9131,7 +9131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メイル01を手に入れた！"
+                                "Gained Mail01!"
                             ]
                         },
                         {
@@ -9378,7 +9378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シールド01を手に入れた！"
+                                "Obtained Shield01!"
                             ]
                         },
                         {
@@ -9692,7 +9692,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "技テストを手に入れた！"
+                                "Gained the Skill Test!"
                             ]
                         },
                         {
@@ -9820,7 +9820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者を加えます。"
+                                "Adding a worker."
                             ]
                         },
                         {
@@ -10040,7 +10040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[01]メッセージ色変更"
+                                "\\c[01]Change Message Color"
                             ]
                         },
                         {
@@ -10074,7 +10074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "変数にカクテル名を格納します。"
+                                "Storing the cocktail name in a variable."
                             ]
                         },
                         {
@@ -10179,28 +10179,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\V[50],"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\V[51],"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\v[52],"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\V[53],"
+                                "\\V[50],\\V[51],\\v[52],\\V[53],"
                             ]
                         },
                         {
@@ -10217,28 +10196,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\v[54],"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\V[55],"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\V[56],"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\V[57],"
+                                "\\v[54],\\V[55],\\V[56],\\V[57],"
                             ]
                         },
                         {
@@ -10678,12 +10636,12 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ノーマル",
-                                    "奴隷服",
-                                    "バニー",
-                                    "フード",
-                                    "ローブ(顔出し)",
-                                    "キャンセル"
+                                    "Normal",
+                                    "Slave Outfit",
+                                    "Bunny",
+                                    "Hood",
+                                    "Robe (Face Visible)",
+                                    "Cancel"
                                 ],
                                 4,
                                 0,
@@ -11002,7 +10960,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "回想部屋へを手に入れた！"
+                                "Obtained access to the Recollection Room!"
                             ]
                         },
                         {
@@ -11137,7 +11095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "通常"
+                                "Normal"
                             ]
                         },
                         {
@@ -11161,7 +11119,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "笑顔"
+                                "Smiling"
                             ]
                         },
                         {
@@ -11185,7 +11143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "怒り"
+                                "Angry"
                             ]
                         },
                         {
@@ -11209,7 +11167,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "悲しみ"
+                                "Sad"
                             ]
                         },
                         {
@@ -11233,7 +11191,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "驚き"
+                                "Surprised"
                             ]
                         },
                         {
@@ -11257,7 +11215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "照れ"
+                                "Bashful"
                             ]
                         },
                         {
@@ -11281,7 +11239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "呆れ"
+                                "Dumbfounded"
                             ]
                         },
                         {
@@ -11305,7 +11263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "真顔"
+                                "Serious"
                             ]
                         },
                         {
@@ -11329,7 +11287,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "怯え"
+                                "Frightened"
                             ]
                         },
                         {
@@ -11353,7 +11311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "非表示"
+                                "Invisible"
                             ]
                         },
                         {
@@ -11763,7 +11721,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "騎士装備一式を手に入れた！"
+                                "Acquired a full set of knight's equipment!"
                             ]
                         },
                         {
@@ -12033,7 +11991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奴隷装備一式を手に入れた！"
+                                "Acquired a full set of slave equipment!"
                             ]
                         },
                         {
@@ -12277,7 +12235,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バニー装備一式を手に入れた！"
+                                "Obtained a full Bunny Equipment set!"
                             ]
                         },
                         {
@@ -12771,7 +12729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "パーティを切り換えます"
+                                "Switching the party."
                             ]
                         },
                         {
@@ -12779,9 +12737,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "パーティ[0]",
-                                    "パーティ[1]",
-                                    "かえない"
+                                    "Party [0]",
+                                    "Party [1]",
+                                    "Do not change"
                                 ],
                                 2,
                                 -1,
@@ -12968,7 +12926,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "おっと、注文を受けるなら「カクテルセット」を身に付けておかねばな……"
+                                "Oops, if I'm going to take orders, I need to have my\n\"Cocktail Set\" on me..."
                             ]
                         },
                         {
@@ -13452,14 +13410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者A："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お、おい…本当に出口ってこっちで合ってるの？"
+                                "Worker A: Hey... are we sure the exit is this way?"
                             ]
                         },
                         {
@@ -13483,21 +13434,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者B："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "し、知らねぇよ…！オレは付いていってるだけだぜ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなに心配なら尻尾まいて帰ったらいいだろう！"
+                                "Worker B: I-I don't know...! I'm just following along! If\nyou're that worried, why don't you just tuck your tail and\nhead back!"
                             ]
                         },
                         {
@@ -13521,21 +13458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者A："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな真っ暗な中を引き返すなんてそれこそ無理だろうが！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちったぁ頭使って物言えや！"
+                                "Worker A: As if I could just turn back in this pitch\ndarkness! Use your head before you speak, will ya!"
                             ]
                         },
                         {
@@ -13566,14 +13489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（しまったな。想定していたよりも時間がかかってしまっている…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　先行しているアカネに道を示す目印の用意のひとつでもさせておくべきだった。）"
+                                "(Damn it. This is taking longer than I expected... I should\nhave had Akane, who went ahead, prepare some sort of marker\nto guide us.)"
                             ]
                         },
                         {
@@ -13590,14 +13506,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（今は少しでも前に進む事を優先すべきだが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　このような状態で先へ進んでも危険なだけだ…）"
+                                "(Right now, we need to prioritize moving forward, but\nproceeding in this state is just dangerous...)"
                             ]
                         },
                         {
@@ -13637,14 +13546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "不安なら少し休もうか。ここで揉めた所で不安は解消されない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大丈夫、私がきっと出口まで連れて行くと約束する。今は私を信じて着いてきて欲しい。"
+                                "If you're feeling anxious, shall we take a short break?\nArguing here won't alleviate our worries. Don't worry, I\npromise I'll definitely lead us to the exit. For now, I just\nneed you to trust me and follow."
                             ]
                         },
                         {
@@ -13675,14 +13577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そ、そうだよな。取り乱して悪かったよ…"
+                                "Worker: Y-Yeah, you're right. Sorry for losing my cool..."
                             ]
                         },
                         {
@@ -13757,14 +13652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "道中の身の安全は私に任せ、君たちは慎重に付いてきてくれればいい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それでは先を急ぐぞ。"
+                                "Leave your safety during the journey to me, and all you need\nto do is follow carefully. Let's hurry on ahead."
                             ]
                         },
                         {
@@ -13869,14 +13757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者A："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お、おい…本当に出口ってこっちで合ってるの？"
+                                "Worker A: Hey... are you sure the exit is this way?"
                             ]
                         },
                         {
@@ -13900,21 +13781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者B："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "し、知らねぇよ…！オレは付いていってるだけだぜ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなに心配なら尻尾まいて帰ったらいいだろう！"
+                                "Worker B: I-I don't know...! I'm just following along! If\nyou're that worried, why don't you just turn tail and head\nback!"
                             ]
                         },
                         {
@@ -13938,21 +13805,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者A："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな真っ暗な中を引き返すなんてそれこそ無理だろうが！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちったぁ頭使って物言えや！"
+                                "Worker A: As if I could just turn back in this pitch\ndarkness! Use your head before you speak, will you!"
                             ]
                         },
                         {
@@ -13983,14 +13836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（しまったな。想定していたよりも時間がかかってしまっている…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　先行しているアカネに道を示す目印の用意のひとつでもさせておくべきだった。）"
+                                "(Damn it. This is taking longer than I expected... I should\nhave had Akane, who went ahead, prepare some sort of sign to\nmark the path.)"
                             ]
                         },
                         {
@@ -14007,14 +13853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（今は少しでも前に進む事を優先すべきだが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　このような状態で先へ進んでも危険なだけだ…）"
+                                "(Right now, the priority should be to make even a little\nprogress, but moving forward in this state is just\ndangerous...)"
                             ]
                         },
                         {
@@ -14370,21 +14209,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄役人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何だぁテメェ……　驚かしやがって、随分ナメたことするじゃねぇか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今の時間はネズミ共は牢の中に居るはずだろうが、オイ？"
+                                "Prison Guard: What the hell... You scared me, you've got\nsome nerve! At this hour, all the rats should be in their\ncells, right?"
                             ]
                         },
                         {
@@ -14401,7 +14226,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うくっ……！"
+                                "Ouch...!"
                             ]
                         },
                         {
@@ -14418,7 +14243,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（マズいな……　何とかして、せめて同行者連中が隠れるまで私が時間を稼がねば……！）"
+                                "(This is bad... I need to do something, at least until my\ncompanions have time to hide...!)"
                             ]
                         },
                         {
@@ -14435,7 +14260,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "じ、実はなある仕事を君も知るここのボスから与えられてな。"
+                                "Actually, I've been given a certain job by the boss you know\nwell here."
                             ]
                         },
                         {
@@ -14452,14 +14277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄役人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボスだとぉ……？"
+                                "Prison Guard: The boss, huh...?"
                             ]
                         },
                         {
@@ -14476,14 +14294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "遅くまで働く君を労うように遣わされたが、それだけでは面白くないだろう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だから他の者も用意してもらい、少しだけお前を驚かせてやろうと余興を、な。"
+                                "I was sent to show my appreciation for your hard work late\ninto the night, but that alone wouldn't be fun, right? So I\nhad others prepare a little surprise for you, as a sort of\nentertainment."
                             ]
                         },
                         {
@@ -14500,14 +14311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "軽く小突くだけという約束だったが、加減も出来ん者たちだったようだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも君の、その逞しい身体ならば大丈夫であったろう？"
+                                "It was supposed to be just a light jab, but it seems they\ncouldn't hold back. But with your sturdy body, you should be\nfine, right?"
                             ]
                         },
                         {
@@ -14524,7 +14328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "彼らのことなら心配はいらないさ。用が済めば牢に戻るだけさ。"
+                                "No need to worry about them. Once they're done, they'll just\ngo back to their cells."
                             ]
                         },
                         {
@@ -14541,14 +14345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それよりどうだい？頭にきたかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのイラついた分だけ、私の身体に猛りのまま欲望を吐き出して欲しいんだ。"
+                                "So how about it? Are you pissed off? I want you to release\nyour pent-up desires into my body with all that fury."
                             ]
                         },
                         {
@@ -14565,7 +14362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私も激しい方が好みでな。だから、な？　ホラ、頼むよ……"
+                                "I prefer it rough too. So, come on? Please..."
                             ]
                         },
                         {
@@ -14582,21 +14379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄役人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "へへへ、そうかよ。ボスからの頂戴モンってんなら受け取らねぇとな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの野郎が自分のモンにしたのを寄こすなんて珍しいが、余程うまくやってるようだな。"
+                                "Prison Guard: Hehehe, is that so. If it's a gift from the\nboss, I can't refuse. It's rare for that bastard to send\nover something he's claimed as his own, but you must be\ndoing something right."
                             ]
                         },
                         {
@@ -14613,21 +14396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄役人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "テメェも物好きだな。じゃあ望み通り激しくしてやるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "周りの奴らにもシッカリ見えもらえよな……！　オラッ！！"
+                                "Prison Guard: You've got some peculiar tastes. Alright then,\nI'll give it to you rough just like you want. Make sure the\nothers get a good look... Here I come!!"
                             ]
                         },
                         {
@@ -14644,7 +14413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっ…！　ぐぅっ…！　はぁ…！はぁ……！！"
+                                "Ah...! Ugh...! Haah...! Haah...!!"
                             ]
                         },
                         {
@@ -14661,7 +14430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "う゛っ！うぐっ…！　はっ！はっ！　あっ…あ゛あぁぁぁぁ……ッッッ！！"
+                                "Ugh! Ugh...! Hah! Hah! Ah... Aaahhh...!!!"
                             ]
                         },
                         {
@@ -14948,7 +14717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おいっ…！　やめろ…はなせッ…！"
+                                "Hey...! Stop it... Let go...!"
                             ]
                         },
                         {
@@ -14965,21 +14734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ホヒヒ♪　まだ抵抗するの？元気だね♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でもお互い汗まみれなんだ。そんなにゆすったら湿った身体がずり落ちちゃうよ？"
+                                "Prison Guard Captain: Hehehe♪ Still resisting? You're so\nlively♪ But we're both drenched in sweat. If you shake that\nmuch, your wet body will slip down, you know?"
                             ]
                         },
                         {
@@ -15008,21 +14763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "動く度に広がったおまんこから精子垂らして、やっぱり下品だなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "落っこちないようにギュってしててあげるからね♪"
+                                "Prison Guard Captain: Every time you move, you drip semen\nfrom your spread pussy, you're really indecent. I'll hold on\ntight so you don't fall♪"
                             ]
                         },
                         {
@@ -15061,14 +14802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やめろ…見るな…ッ　ぐっ…！　これは…お前が…ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　あぐっ……！　そんなに絞めるな…　苦し……ぃ……！"
+                                "Stop it... Don't look... Ugh...! This is... your doing...!\nAggh...! Don't squeeze so hard... It's suffocating...!"
                             ]
                         },
                         {
@@ -15085,21 +14819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ホヒヒ。絞めれば絞めるほどおまんこ精子ヨダレみたいに垂らして、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もっとも～～っと甘えたいんでしょ？"
+                                "Prison Guard Captain: Hehehe. The more I squeeze, the more\nyour pussy drips semen like drool, you want to be spoiled\neven more, don't you?"
                             ]
                         },
                         {
@@ -15116,14 +14836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でもダメだよ～♪　ボクちんが好きなのは、『こっちの穴ぼこ』♪"
+                                "Prison Guard Captain: But no can do～♪ What I really like is,\n\"this hole\"♪"
                             ]
                         },
                         {
@@ -15182,7 +14895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ひっ…！　うぐ…っ……　う、うそだ、ろ……　じょ、冗談はよせッ…！！"
+                                "Gasp...! Ugh... That's a lie, right... Stop joking\naround...!!"
                             ]
                         },
                         {
@@ -15199,21 +14912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "冗談なんか言わないよ～？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "文字通り、この採掘坑の『穴』は全部ボクちんの監督物だもんね。"
+                                "Prison Guard Captain: I'm not joking～? Literally, all the\n\"holes\" in this mine are under my supervision."
                             ]
                         },
                         {
@@ -15230,21 +14929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大丈夫だよ。まずは先っぽからツポツポして慣らしてあげるから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ホラ、自分からケツハメ交尾のおねだりしてみてごらん？"
+                                "Prison Guard Captain: It's okay. I'll start with just the\ntip and ease it in. Come on, beg for butt-fucking on your\nown?"
                             ]
                         },
                         {
@@ -15261,7 +14946,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キサマ…ッッ！！　うぅ……誰がこのようなことを望むものか……ッ！　"
+                                "You bastard...!! Ugh... Who would ever want something like\nthis...!"
                             ]
                         },
                         {
@@ -15278,21 +14963,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君の仲間だっけ？助けたいんじゃなかったの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だったらちゃんと自分からお願いしてみなよ。"
+                                "Prison Guard Captain: Wasn't it your friend? Didn't you want\nto save them? If so, then properly beg for it yourself."
                             ]
                         },
                         {
@@ -15325,7 +14996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぐっ…　わ、わかった……"
+                                "Ugh... I understand..."
                             ]
                         },
                         {
@@ -15342,7 +15013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お前にだけは、許す、から……　私の…、し、尻の穴に……"
+                                "Only to you, I will allow it... My... my ass hole..."
                             ]
                         },
                         {
@@ -15359,14 +15030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "んんん～～～？聞こえないよぉ？"
+                                "Prison Guard Captain: Nnnnn～～～? I can't hear you?"
                             ]
                         },
                         {
@@ -15399,7 +15063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{わ…私の、尻の穴を…！！　好きに、使ってくれ…！！ッッ！！！！"
+                                "Please... Use my ass hole... however you like...!! Ughhh!!"
                             ]
                         },
                         {
@@ -15416,14 +15080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ホヒヒ。それじゃ遠慮なく抉ってあげるねん…♪"
+                                "Prison Guard Captain: Hehehe. Then I won't hold back and\ngouge it out...♪"
                             ]
                         },
                         {
@@ -15506,7 +15163,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{～～～～～～ッッッツツ！！！！"
+                                "～～～～～～Ughhhhhhhhh！！！！"
                             ]
                         },
                         {
@@ -15523,7 +15180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっ…　あっ…　づぐっ…！！"
+                                "Ah... Ah... Tsk ughh...!!"
                             ]
                         },
                         {
@@ -15552,14 +15209,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ホッ…！ほッ…！ほッ…！いきなりブチ込むと穴が硬直して尻の中がキュポキュポ締まる…♪"
+                                "Prison Guard Captain: Hah...! Hah...! Hah...! When I\nsuddenly thrust in, the hole tightens up and the inside of\nthe ass clenches...♪"
                             ]
                         },
                         {
@@ -15576,21 +15226,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ホヒヒ。これこれ♪何の価値もないネズミ共もこの瞬間だけは役に立つ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほら、身体落としてやるからケツ穴の中でちんぽこ舐り回せッ！！"
+                                "Prison Guard Captain: Hehehe. That's it♪ Even worthless rats\nlike you are useful at moments like this. Here, I'll let\nyour body down so you can lick and swirl around the cock\ninside your ass!!"
                             ]
                         },
                         {
@@ -15635,14 +15271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ゛あッ…！あ゛ッ…！　あ゛あ゛ッ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　やめてくれ…！！　こんなの…ムリだ…ッッ！　んあ゛ッ…！"
+                                "Ahh ahh...! Ahh...! Ahh ahh...! Stop it...!! I can't handle\nthis... Ughh ahh...!"
                             ]
                         },
                         {
@@ -15659,7 +15288,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お゛ッ…！　あ゛ッ…！　まてッ…！　まってくれ…ッ！　ん゛ッ…！ん゛ぎッ…！"
+                                "Ahh...! Ahh...! Wait...! Please wait...! Nghh...! Nghh\nick...!"
                             ]
                         },
                         {
@@ -15700,14 +15329,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんなに…したら…！　あ゛ッ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　しりのあなが…！　あ゛ッ…！　こわれて、しまう…ッッ！！"
+                                "If you do it that much...! Ahh...! My ass hole is going to\nbreak... Ahh...!"
                             ]
                         },
                         {
@@ -15724,21 +15346,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ホヒヒ。泣き言いわないの。何でもするっていったのは君でしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それにボクちん最初からこっちの穴は壊すまで楽しむつもりだったもねぇ～♪"
+                                "Prison Guard Captain: Hehehe. Don't whine. You said you'd do\nanything, didn't you? Besides, I've always intended to enjoy\nthis hole until it breaks～♪"
                             ]
                         },
                         {
@@ -15755,14 +15363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ホラッ、いくよっ！！"
+                                "Prison Guard Captain: Here we go!!"
                             ]
                         },
                         {
@@ -15807,7 +15408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ひっ…！　ひっ…！　お゛ッ…！お゛ッ…！　んあ…あ゛あ゛ッ…！"
+                                "Gasp...! Gasp...! Ahh...! Ahh...! Ngh ahh ahh...!"
                             ]
                         },
                         {
@@ -15824,21 +15425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなにリキんじゃって♪　我慢しても辛くなるだけだよ。ホヒヒ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君が気持ちよくなってちゃ～んとお尻の穴でイクまで続けてあげるからねん♪"
+                                "Prison Guard Captain: You're clenching so hard♪ It'll only\nhurt more if you resist. Hehehe. I'll keep going until you\nfeel good and properly cum from your ass hole♪"
                             ]
                         },
                         {
@@ -15855,14 +15442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はっ…！　はっ…！　んぎぃ…！　あああッッ！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　お゛ッ…！　お゛ぐッッ…！　無理だ！　気持ちよく、なんて……！！"
+                                "Hah...! Hah...! Nghii...! Aaaaahhhh!!! Ahh...! Ahh ughhh...!\nIt's impossible! To feel good...!!"
                             ]
                         },
                         {
@@ -15907,21 +15487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなこと言って、お尻の穴からヨダレ垂れて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あったかいお腹の中の滑りが良くなってきてるよ～？"
+                                "Prison Guard Captain: Despite what you say, drool is\ndripping from your ass hole, and the inside of your warm\nbelly is getting slicker～?"
                             ]
                         },
                         {
@@ -15938,7 +15504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まてッ…！　まってくれ…ッ！　ん゛ッ…！　ん゛ぐッッ…！　あああッッ！！！"
+                                "Wait...! Please wait...! Nghh...! Nghh ughhh...!\nAaaaahhhh!!!"
                             ]
                         },
                         {
@@ -15955,14 +15521,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それじゃあ、そのお尻穴ヒクつかせていっぱい精液飲み込んでね…♪"
+                                "Prison Guard Captain: Then let that ass hole twitch and\nswallow lots of semen...♪"
                             ]
                         },
                         {
@@ -15991,14 +15550,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やッ！やめろッ！！　ひっ…！　ひっ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　やめてくれぇ！！！　お゛ッ…！お゛ッ…！　んあ…あ゛あ゛…ッ……！！！！"
+                                "No! Stop it!! Gasp...! Gasp...! Please stop!!! Ahh...!\nAhh...! Ngh ahh ahh...!!!"
                             ]
                         },
                         {
@@ -16149,7 +15701,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{んんッッ…！！あああッッ！！　～～～～～～～ッッ！！♡♡"
+                                "Nnnn ughhh...!! Aaaaahhhh!!! ～～～～～～Ughhhhhhh♡♡"
                             ]
                         },
                         {
@@ -16178,7 +15730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっ…！　あ゛あっ…！　あがっ…♥"
+                                "Ah...! Ah ahh...! Agghh...♥"
                             ]
                         },
                         {
@@ -16195,14 +15747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほっ…！ほっ…！ほひっ…！"
+                                "Prison Guard Captain: Hah...! Hah...! Hee hee hee..."
                             ]
                         },
                         {
@@ -16254,7 +15799,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "は～……ッ！は～……ッ！　はぐ～ッ……ヅッ！♡"
+                                "Haa-..! Haa-..! Haguu-.. Tsk..♡"
                             ]
                         },
                         {
@@ -16283,21 +15828,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "腹の中がウネる！尻穴肉に舐られるッ！ホ、ホヒヒ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　さ、最初は優しく容赦してあげようと、お、思ったけど……！"
+                                "Prison Guard Captain: The inside of the belly is writhing!\nLicked by the ass hole flesh! Ho, hee hee♪ Well, I thought\nabout being gentle at first but..."
                             ]
                         },
                         {
@@ -16314,21 +15845,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほっ…！ほっ…！ほひっ…！こんな甘メス穴！我慢なんて無理だよぉ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　ヘソの奥まで深く掻き回して！もっともっとグシャグシャにしてやるから……ッ！！"
+                                "Prison Guard Captain: Hah...! Hah...! Hee hee hee..! Such a\nsweet pussy hole! It's impossible to hold back♪ I'll stir\ndeeply up to the navel and make it even more mushy for\nyou..!!"
                             ]
                         },
                         {
@@ -16430,7 +15947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ッッッ！！！　あ゛あ゛あ゛あ゛ッッ…ッ！！！"
+                                "Ahhh ahhh ahhh ahhh!!!"
                             ]
                         },
                         {
@@ -16459,14 +15976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっ…！　あ゛あっ…！　やめろ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　あ゛ああッッ…！　腹が…、圧迫されて…！　やめて、くれ…ッ！"
+                                "Ah..! Ah ahh..! Stop it..! Ah ahhh!!! My belly is being\ncompressed..! Please stop..!"
                             ]
                         },
                         {
@@ -16483,7 +15993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はっ…♥　はっ…♥　いやだいやだいやだ…♥　もうやめてくれ…♥"
+                                "Hah...♥ Hah...♥ I don't want this, I don't want this...♥\nPlease stop already...♥"
                             ]
                         },
                         {
@@ -16500,14 +16010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "涙とヨダレと腸汁で、カワイイ顔も淫らな肉体もぐしゃぐしゃ…♪　ほひひっ！！"
+                                "Prison Guard Captain: With tears, drool, and intestinal\njuices, your cute face and lewd body are all messed up...♪\nHee hee hee!!"
                             ]
                         },
                         {
@@ -16536,7 +16039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっ…！　あ゛あっ…！♥　ぃぐっ…♥♥"
+                                "Ah...! Ahh...! ♥ Iguh...♥♥"
                             ]
                         },
                         {
@@ -16553,14 +16056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はっ…♥　はっ…♥　いやだいやだいやだ…♥　もうやめてくれ…♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　い、ぐっ…♥　ダメだ…♥　いっ…♥　い゛ッ…♥　やめろ゛ッ…！！♥"
+                                "Hah...♥ Hah...♥ I don't want this, I don't want this...♥\nPlease stop already...♥ Iguh...♥ It's no good...♥ I\ncan't...♥ Iguh...♥ Stop it...!! ♥"
                             ]
                         },
                         {
@@ -16577,21 +16073,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お尻穴でアクメ決めて失神するまでちゃんと見ててあげるからね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほら逝けよッ！　尻穴壊されて情けなく逝けッッ！！！"
+                                "Prison Guard Captain: I'll make sure to watch as you climax\nwith your ass hole and faint! Come on, cum! Cum pathetically\nwith your ass hole destroyed!!!"
                             ]
                         },
                         {
@@ -16742,14 +16224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お゛ッ…♥お゛ッ…♥　ほごお゛ッ…♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　お゛ッ…♥　お゛お゛ッ…ッ…♥♥　いぐ…　いぐ…♥♥　ッッッ……♥♥♥"
+                                "Ogh...♥ Ogh...♥ Hogooogh...♥♥ Ogh...♥ Ogh ogh...♥♥\nIguh...iguh...♥♥ Ughhh...♥♥♥"
                             ]
                         },
                         {
@@ -16778,7 +16253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぐっ！♥　ううううぅツッッ！！♥♥　いぐッ♥　ッ♥♥"
+                                "Guh! ♥ Uuuuutsu!! ♥♥ Iguh! ♥ Ugh! ♥♥"
                             ]
                         },
                         {
@@ -16811,14 +16286,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いぐッ♥いぐッ♥いぐッ♥いぐッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　\\{ぃぃぃッッ～～～～～～～ッッッ！！！！！♥♥♥"
+                                "Iguh! ♥ Iguh! ♥ Iguh! ♥ Iguh! ♥ Iiiiiiiiiiiiiiiiiiiiiiiiiiii\niiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiigh!\n!! ♥♥♥"
                             ]
                         },
                         {
@@ -16861,7 +16329,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んッ♥　ん゛ん゛ん゛ッッ♥　～～～ッッッ！！♥♥　\\{ぐぅ……ッッ……♥♥"
+                                "Nngh! ♥ Nnngh nnngh nnngh!! ♥\nUuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuugh!! ♥♥ Guuuh...ugh...♥♥"
                             ]
                         },
                         {
@@ -16941,7 +16409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はー～……♥　はー～……♥　はー～……♥　ッッ♥♥♥"
+                                "Ha-...♥ Ha-...♥ Ha-...♥ Ugh! ♥♥♥"
                             ]
                         },
                         {
@@ -16958,21 +16426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ハヒッ…！ハヒッ…！　ハァ～～…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出された後も、甘イキ繰り返して♪　気に入ってくれたのかな♪"
+                                "Prison Guard Captain: Hahi...! Hahi...! Haaah...! Even after\nbeing released, you keep having sweet climaxes♪ Seems like\nyou've taken a liking to it♪"
                             ]
                         },
                         {
@@ -17029,7 +16483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ん…♥　あっ……♥　あっ♥あっ♥　……ッ♥♥"
+                                "Nn...♥ Ah...♥ Ah! ♥ Ah! ♥ Ugh! ♥♥"
                             ]
                         },
                         {
@@ -17046,21 +16500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オホッ♪　お尻穴だけじゃなくおしっこ穴もゆるくなっちゃったのかな♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "金玉にあったかおしっこかけて、まだ精子おねだりするんだねぇ…♪"
+                                "Prison Guard Captain: Ohoh♪ Not just your ass hole, but your\npee hole has loosened up too, huh♪ Let's pour some warm pee\non the balls and keep begging for more semen...♪"
                             ]
                         },
                         {
@@ -17126,7 +16566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はっ…　はっ…　はぁ……ッ……　うぅっ……"
+                                "Hah...hah...haah...ugh...uuuh..."
                             ]
                         },
                         {
@@ -17161,14 +16601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ……はぁ……　ぁぅ……っぅ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　はー……　はー……　はー……　はぁ～～ー……"
+                                "Haah...haah...auh...uhh...ha-...ha-...ha-...haaah-..."
                             ]
                         },
                         {
@@ -17875,7 +17308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宝剣：あかつきの剣を手に入れた！"
+                                "Treasured Sword: Acquired the Sword of Dawn!"
                             ]
                         },
                         {
@@ -17994,9 +17427,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "滝音",
-                                    "あかつき",
-                                    "キャンセル"
+                                    "Waterfall Sound",
+                                    "Dawn",
+                                    "Cancel"
                                 ],
                                 4,
                                 0,
@@ -18305,7 +17738,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くそっ！やめろ！はなせっ！触手ども…！　"
+                                "Damn it! Stop! Let me go, you tentacles...!"
                             ]
                         },
                         {
@@ -18322,7 +17755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うぅ…ぐ…　粘性の液体を纏う触手が絡みついて……、ダメだ身体の自由が奪われる……！！"
+                                "Ugh...ugh...tentacles coated in viscous fluid are entwining\naround me...it's no use, I'm losing control of my body...!!"
                             ]
                         },
                         {
@@ -18339,14 +17772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（残った魔力を喰らおうと触手が身体の上を這いまわる…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　本能のまま捕食しようと迫ってくる……　はやくどうにかしないとマズいぞ…！）"
+                                "(The tentacles crawl over my body, trying to devour the\nremaining magic power...they're pressing in, driven by\ninstinct...I must do something quickly...!)"
                             ]
                         },
                         {
@@ -18363,14 +17789,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（この苗床の中に私同様に姫さまも捕らわれているならば尚のこと！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　一刻も早くなんとかせねば……！）"
+                                "(If Princess Soara is captured here just like me, then it's\nall the more urgent! I must do something at once...!)"
                             ]
                         },
                         {
@@ -18403,14 +17822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ…はぁ…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　ここです！レイシアはここにおります！姫さま！どうかご返事をっ！！"
+                                "I'm here...I'm here!! Reisha is right here! Princess Soara!\nPlease respond!!"
                             ]
                         },
                         {
@@ -18457,7 +17869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここに……。　ここにいたのですね、レイシア。"
+                                "You were here...here all along, Reisha."
                             ]
                         },
                         {
@@ -18474,7 +17886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "！！？？　ひ、姫さま…！！意識を取り戻されたのですね！？"
+                                "!!?? P-Princess Soara...!! You've regained consciousness,\nhaven't you!?"
                             ]
                         },
                         {
@@ -18491,7 +17903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "助かりました！触手を振り払いすぐに私と共にここから脱出しましょう！！"
+                                "We're saved! Shake off the tentacles and let's escape from\nhere together immediately!!"
                             ]
                         },
                         {
@@ -18508,14 +17920,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア…　私の騎士……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　あぁ、何処へ行ってしまったの……　その声をもう一度聞かせて……"
+                                "Reisha...my knight...ahh, where have you gone...let me hear\nyour voice once more..."
                             ]
                         },
                         {
@@ -18532,14 +17937,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大丈夫ですか！？　ここです！レイシアはここにおります！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　気を強くもって下さい！！私はあなたの元へ戻ってきたのです！！"
+                                "Are you alright?! Here! I am here! Reisha is right here!\nStay strong!! I have returned to your side!!"
                             ]
                         },
                         {
@@ -18556,14 +17954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（くっ…！苗床の中の強い魔力に長く充てられているせいで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　触手と混同し姫さま自身の意識が朧気になってしまっているのか！？）"
+                                "(Damn it...! Is it because she's been exposed to the strong\nmagic power in this breeding ground for so long that\nPrincess Soara's own consciousness is becoming hazy and\nconfused with the tentacles!? )"
                             ]
                         },
                         {
@@ -18580,14 +17971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア…　私の騎士……　私だけの騎士……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　どうして旅立ってしまったの…　どうして私を独りにしてしまったの……？"
+                                "Reisha...my knight...my only knight...why did you leave on a\njourney...why did you leave me alone...?"
                             ]
                         },
                         {
@@ -18604,7 +17988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うくっ……　姫さま……　それは、それは……"
+                                "Ugh...Princess Soara...that is, that is..."
                             ]
                         },
                         {
@@ -18621,7 +18005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私を残して…　独りで……　ずっと私は独りだった……"
+                                "You left me...alone...I've always been alone..."
                             ]
                         },
                         {
@@ -18638,14 +18022,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私の騎士よ……　ずっと一緒にいて……　ずっと傍で声を聴かせて……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　ずっと共に、融け合うように……　レイシア、私だけの美しい騎士……"
+                                "My knight...always stay with me...always let me hear your\nvoice by my side...always together, melting into one\nanother...Reisha, my only beautiful knight..."
                             ]
                         },
                         {
@@ -18678,14 +18055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんな……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それが、望みなのですか、我が主よ…　それは本当に、あなた自身の……"
+                                "Such a thing...is that really what you wish for, my\nlord...is that truly your own..."
                             ]
                         },
                         {
@@ -18732,7 +18102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ッ！！？？　これはッッ！？　姫さまが、ふたり…ッ！？"
+                                "!!?? What is this!? Princess Soara, there are two of\nyou...!!?"
                             ]
                         },
                         {
@@ -18765,7 +18135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あなたが拒むのならば、それでもいいでしょう。しかし私も、以前の私とはもう違う。"
+                                "If you refuse, then so be it. However, I am no longer the\nsame as I once was."
                             ]
                         },
                         {
@@ -18789,7 +18159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（違うッ！これは姫さまじゃない！！彼女の姿を模した触手に過ぎない！！）"
+                                "(No, this isn't Princess Soara!! It's just a tentacle\nmimicking her appearance!!)"
                             ]
                         },
                         {
@@ -18806,14 +18176,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（まさか姫さまは触手側に精神だけでなく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もう既に肉体まで侵食され取り込まれているというのか！？）"
+                                "(Could it be that Princess Soara has already been invaded\nand assimilated by the tentacles, not just mentally but\nphysically as well!? )"
                             ]
                         },
                         {
@@ -18830,7 +18193,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このようなこと、許されるはずがない！！あってはならない！！"
+                                "This cannot be allowed!! It must not happen!!"
                             ]
                         },
                         {
@@ -18847,14 +18210,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "姫さま！我が主よ！気を強くもって下さい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔力による精神汚染になど負けてはなりません！！けして取り込まれてはいけません！！"
+                                "Princess Soara! My lord! Please stay strong! Do not succumb\nto the mental contamination by magic power!! You must not be\nassimilated!!"
                             ]
                         },
                         {
@@ -18871,14 +18227,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私の美しい騎士よ…、ようやく私の元へ戻ってきてくれたのですね……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "嬉しい……　いつかの日のように共に語り合いましょう……"
+                                "My beautiful knight...you've finally returned to me...I'm so\nhappy...let's talk together again, like we did on that\nday..."
                             ]
                         },
                         {
@@ -18895,7 +18244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もっとあなたを感じさせてください。もっと近くで。さぁ……──"
+                                "Let me feel you more. Closer. Come..."
                             ]
                         },
                         {
@@ -18924,14 +18273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んくっ！　……っぁ！　おやめ、ください……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　私の身体なぞに、舌を這わすような真似を……　ぁ…ぅぅ…っ…！！"
+                                "Ngh! Ah! Please stop...! Don't do such things with your\ntongue on my body...ahh...uhh...!!"
                             ]
                         },
                         {
@@ -18948,7 +18290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さぁ、美しい騎士よ……　共に混ざりあい、融け合いましょう……"
+                                "Come now, beautiful knight...let's blend together and melt\ninto one another..."
                             ]
                         },
                         {
@@ -18993,7 +18335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "づづっっ！！　\\{……ぐあ゛あ゛ぁっっ！！"
+                                "Zuzuzzt!! ...Guaaahhhhh!!"
                             ]
                         },
                         {
@@ -19010,7 +18352,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁ……　とける……　やわらかく……　つつまれ…　あたたかい……　"
+                                "Ahh...melting...softly enveloped...warm..."
                             ]
                         },
                         {
@@ -19027,7 +18369,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウフフ、嬉しい。私を受け入れて、その身体で飲み込んでくれるのですね……♡"
+                                "Ufufu, I'm glad. You're accepting me and swallowing me with\nyour body...♡"
                             ]
                         },
                         {
@@ -19044,14 +18386,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うぐっ…！　ぁぁ……！！　いけま、せん…姫さま……！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　おやめくだ、さい！　ぐっ、うぅぅ……！このようなこと、は……ッ！！"
+                                "Ughh...! Ahh...!! I can't do it, Princess Soara...!! Please\nstop! Ugh, uhhhh...! Such things are...!!"
                             ]
                         },
                         {
@@ -19068,7 +18403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さぁあなたの中をもっと見せて…。　私にもっと可愛い声を聞かせてください。"
+                                "Come on, show me more of your insides...let me hear more of\nyour cute voice."
                             ]
                         },
                         {
@@ -19085,7 +18420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いやだ！違う！　うぅぅ…あぁ……ッ！！"
+                                "No! It's wrong! Uhhhh...ahh...!!"
                             ]
                         },
                         {
@@ -19102,14 +18437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんなのは、違うっ！！あなたらしくない……！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　このようなこと…！んっ！…あなたが望むことではない……！！"
+                                "This is wrong!! This isn't like you at all...!! Such\nthings...! Nnh! ...It's not what you desire...!!"
                             ]
                         },
                         {
@@ -19126,14 +18454,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私の騎士よ。私の想いがまだ足りないというのですか……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いいでしょう、わかりました……──"
+                                "My knight. Is my love still not enough for you? Very well, I\nunderstand..."
                             ]
                         },
                         {
@@ -19192,7 +18513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{ああっっ！！うぐっ！あ゛ぁっっ！！あ゛あ゛あ゛ぁっっ！！"
+                                "Ahhh!! Ughh! Aaaahhhhh!! Aaaahhhhhhhhh!!"
                             ]
                         },
                         {
@@ -19209,14 +18530,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あなたの中を私で満たして？ 私の全てを受け入れて？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　あなたの声、あなたの髪、あなたの汗、あなたの香り、その全てがいとおしい。"
+                                "Fill yourself with me? Accept all of me? Your voice, your\nhair, your sweat, your scent, I cherish all of it."
                             ]
                         },
                         {
@@ -19233,7 +18547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もっと私にあなたを感じさせてください……♡"
+                                "Let me feel more of you...♡"
                             ]
                         },
                         {
@@ -19250,7 +18564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{ぐぅうう！！ ああっ！あっ！！"
+                                "Guhhhh!! Ahh! Ahh!!"
                             ]
                         },
                         {
@@ -19267,14 +18581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くそぉ…！！腹の中で、触手が、うねる……ぅ……あぐ…ッ♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　このような冒涜…！このような快楽など…、許されない…ッ！のに……ぃ……！♡"
+                                "Damn it...!! Inside my belly, the tentacles are\nwrithing...ughh...aghh...♡ Such blasphemy...! Such pleasure\nis not permissible...! Yet...ahh...!♡"
                             ]
                         },
                         {
@@ -19291,7 +18598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ…っ！はぁ…っ！はぁ…っ！　\\{ふぐぅぅうううっ！！"
+                                "Haaahh! Haaahh! Haaahh! Fughuuuuuuhh!!"
                             ]
                         },
                         {
@@ -19308,14 +18615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（姫さまの姿かたちを模してはいるが、行動は魔力を貪ろうとする苗床そのもの…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こんなのあんまりではないか……！愚弄するなぁ！！姫さまの心を穢すなぁ……ッ！）"
+                                "(Though it takes the form of the princess, its actions are\nthose of a seedbed consumed by magical power...! This is too\ncruel...! Do not mock me!! Do not defile the princess's\nheart...!)"
                             ]
                         },
                         {
@@ -19332,14 +18632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "我が主よ！今ひと度問いかけますっ！！触手に取り込まれ負けてはなりません！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気を強く保つのです！あなたの本当の気持ちを思い出してください！！"
+                                "My lord! I ask you once more!! Do not succumb to the\ntentacles that engulf you! Maintain your strong will!\nRemember your true feelings!!"
                             ]
                         },
                         {
@@ -19356,7 +18649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "我が主よ！あなたの心はこの国と共にあること！全ての民と共にあることを！！"
+                                "My lord! Remember that your heart belongs with this country!\nWith all its people!!"
                             ]
                         },
                         {
@@ -19373,14 +18666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぐぁああ！！　ひぅ……♡　あっ…♡あっ……♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　だから、いけません……ッッ！！いけないのです……ッッ……！！"
+                                "Aghaaa!! Hiu...♡ Ah...♡ Ah...♡ That's why you mustn't...!!\nYou mustn't...!!"
                             ]
                         },
                         {
@@ -19397,7 +18683,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その想いは私に向けられるべきものでは決してない！！！"
+                                "Those feelings should never be directed towards me!!!"
                             ]
                         },
                         {
@@ -19414,7 +18700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うづっ…！あ゛っ！あ゛あ゛あ゛ッ！！♡♡"
+                                "Uzuh...! Agh! Aghaghagh!!♡♡"
                             ]
                         },
                         {
@@ -19431,7 +18717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あなたがひた向きに己の運命と向き合おうとする姿を、私は見てきた！"
+                                "I have seen you face your destiny with unwavering\ndetermination!"
                             ]
                         },
                         {
@@ -19448,14 +18734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その度に私は！より強い騎士であろうと…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　王を、国を支えることの出来る存在になろうと心に誓ってきたのです！！"
+                                "Each time, I have vowed in my heart to be a stronger\nknight...! To be someone who can support the king, the\ncountry!!"
                             ]
                         },
                         {
@@ -19472,14 +18751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ひぐっ！うぅぅ…あぁああ！！触手が、うねる…ぅ……！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　あっ…♡ああっ……♡　やめろ……やめろおお……！！♡♡"
+                                "Higuu! Uuu... Aaaaahhh!! The tentacles, they writhe...\nugh...!! Ah...♡ Ahhh...♡ Stop it... stop it...!!♡♡"
                             ]
                         },
                         {
@@ -19496,7 +18768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（触手が腹の中で蠢く……！腰が浮く……ッ！頭の中が霞んでいく…ッ！！）"
+                                "(The tentacles squirm inside my belly...! My hips rise...!\nMy mind grows hazy...!!)"
                             ]
                         },
                         {
@@ -19513,14 +18785,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（だめだ！こんなものは、受け入れてはいけない！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こんな快楽……受け入れるわけには…いかないと、いうの、にぃ……ッッ！！♡♡）"
+                                "(No! I must not accept this!! Such pleasure... I must not\nallow myself to accept it, and yet...!!♡♡)"
                             ]
                         },
                         {
@@ -19537,14 +18802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔術による汚染に屈するなソアラッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　我が主！ニアレイクの若き王よ！！　はぁ…！はぁ……！　ッッ……！♡♡"
+                                "Do not yield to the corruption of magic, Soara!! My lord!\nThe young king of Near Lake!! Haa...! Haa...! Ugh...!♡♡"
                             ]
                         },
                         {
@@ -19561,14 +18819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いやだ！いやです！！　私は……ぁぁ…っ♡♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたも含めて、弱き者の力となるべく、強くあろうと誓ったの、にぃッッ！！！♡♡"
+                                "No! I don't want this!! I vowed to be strong, to be a force\nfor the weak, including you...!!♡♡"
                             ]
                         },
                         {
@@ -19585,14 +18836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁ、レイシア私の騎士よ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　さぁ、あなたの中に、私を受け入れるのです……"
+                                "Ah, Reisha my knight... Now, accept me inside of you..."
                             ]
                         },
                         {
@@ -19609,14 +18853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんなこと…ッ！こんなことがあああぁぁ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　\\{あ゛あ゛っ！！　……～～～～～～～～～ッッ！！！♡♡♡♡"
+                                "This shouldn't be happening...! This shouldn't be happening\nat all!! Aghagh!! ...~~~~~~~~~~~!!!♡♡♡♡"
                             ]
                         },
                         {
@@ -19760,7 +18997,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{ッッ～～～～～～～～～～～♡♡♡ンンッッッ♡♡♡"
+                                "~~~~~~~~~~~♡♡♡Nnghhhh!!♡♡♡"
                             ]
                         },
                         {
@@ -19777,7 +19014,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぅぅ……！！♡♡　ぐぅ……ぁぁ……♡♡♡"
+                                "Uuu...!!♡♡ Guh... ahh...♡♡♡"
                             ]
                         },
                         {
@@ -19794,14 +19031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ビチビチと……這いまわる……♡♡　かはっ……♡♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　快楽が、私の中を……♡♡　満たしていく……♡♡♡"
+                                "Bichibichi to... crawling around...♡♡ Kahah...♡♡ Pleasure\nfills me up inside...♡♡♡"
                             ]
                         },
                         {
@@ -19818,14 +19048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いやだ……♡いやだ♡いやだ…♡　イキたく、ないのに……♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　あ、甘く…霞んでいく……♡　女の快楽を、求めて疼いてしま……ぅ……♡♡"
+                                "I don't want this...♡ I don't want this♡ I don't want\nthis...♡ I don't want to come, but...♡ It's so sweetly...\nblurring...♡ My body throbs seeking the pleasure of a\nwoman... ugh...♡♡"
                             ]
                         },
                         {
@@ -19938,7 +19161,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ～…♡　はぁ～…♡　はぁ～～…♡"
+                                "Haa~...♡ Haa~...♡ Haa~~...♡"
                             ]
                         },
                         {
@@ -19973,14 +19196,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっ…♡　あっ…♡　あっ…♡　あっ…♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　うぁ……、腹の中で…、触手が……、うあ…あ゛あ゛っ♡♡♡"
+                                "Ah...♡ Ah...♡ Ah...♡ Ah...♡ Uwaah, inside my belly, the\ntentacles are... uwaah... aghagh!!♡♡♡"
                             ]
                         },
                         {
@@ -19997,7 +19213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぐす……　ひめ…さま……　おやめ、くださ……ぃ…っっ♡"
+                                "Gusu... princess-sama... please stop, please...!!♡"
                             ]
                         },
                         {
@@ -20032,14 +19248,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うふふ……　レイシア、私の騎士よ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　これでもうあなたは私のもの……私はもう独りじゃない……"
+                                "Ufufu... Reisha, my knight... With this, you are mine\nalone... I'm no longer alone..."
                             ]
                         },
                         {
@@ -20056,14 +19265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大丈夫、ここには私達を邪魔するものは何もありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　さぁもっと私のために泣いてください。全てを忘れ、共に融け合いましょう……──"
+                                "It's alright, there's nothing here to disturb us. Now cry\nmore for me. Forget everything and let's melt together..."
                             ]
                         },
                         {
@@ -20236,7 +19438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ～…♡　はぁ～…♡　はぁ～～…♡　"
+                                "Haa~...♡ Haa~...♡ Haa~~...♡"
                             ]
                         },
                         {
@@ -20271,7 +19473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "っぐぅ……　ああっ……♡♡　はぁ～…♡　はぁ～…♡　はぁ～～…♡"
+                                "Guhh... ahhhh...♡♡ Haa~...♡ Haa~...♡ Haa~~...♡"
                             ]
                         },
                         {
@@ -20295,7 +19497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どれ程続けられただろうか。どれ程の刻を快楽に蹂躙されたのだろうか。"
+                                "How long could it have lasted? How much time has been\nravaged by pleasure?"
                             ]
                         },
                         {
@@ -20319,7 +19521,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "触手の芽を植え付けられた若き騎士の腹は醜く膨張していた。"
+                                "The belly of the young knight, implanted with the seeds of\ntentacles, was grotesquely swollen."
                             ]
                         },
                         {
@@ -20336,14 +19538,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本来ならば思い合った者同士の為に使われるであろう彼女の胎の中の臓腑は今、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大切な者を模しただけの薄皮より伸びる、無数の触手共のために踏みにじられている。"
+                                "The organs within her womb, which should have been used for\nthose who love each other, are now trampled upon for the\nsake of countless tentacles sprouting from nothing more than\na thin imitation."
                             ]
                         },
                         {
@@ -20367,14 +19562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "内部で蠢くそれらはおぞましい見た目とは裏腹に彼女に絶え間ない快楽を与え続ける。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その肉体を、その精神を犯し尽くしてやろうと強烈な淫欲が背筋を這いのぼってくる。"
+                                "The writhing inside her is hideous to behold yet provides\nher with incessant pleasure. An intense lust to ravage her\nbody and spirit crawls up her spine."
                             ]
                         },
                         {
@@ -20398,7 +19586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "っ……♡　ぐっ……♡　ああっ……♡　\\{あ゛あ゛……っっ！！♡♡"
+                                "Ughh...!! Gughh...!! Ahhhhh...!! Aghaghagh!!♡♡"
                             ]
                         },
                         {
@@ -20523,7 +19711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{ッッ～～～～～～～～～～～♡♡♡ッッッ♡♡♡"
+                                "~~~~~~~~~~~♡♡♡Ghhh!!♡♡♡"
                             ]
                         },
                         {
@@ -20540,7 +19728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ～…♡　はぁ～…♡　はぁ～～…♡"
+                                "Haa~...♡ Haa~...♡ Haa~~...♡"
                             ]
                         },
                         {
@@ -20557,7 +19745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぅぅ……！！♡♡　ぐぅ……ぁぁ……♡♡♡"
+                                "Uuuu...!!♡♡ Guhuhh... ahhh...♡♡♡"
                             ]
                         },
                         {
@@ -20625,14 +19813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "無数の触手の先端から灼けるような濃い吐精が行われる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう何度目か、数えることも出来なくなった頭で、彼女はただ絶頂を受け入れる。"
+                                "The tips of countless tentacles perform a burning\nejaculation. Her mind too numb to count how many times, she\nsimply accepts the climax."
                             ]
                         },
                         {
@@ -20656,14 +19837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア…　私の騎士……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　あぁ、もう何処へも行かないで……　その声を私だけに聞かせて……"
+                                "Reisha… my knight… ah, don’t go anywhere anymore… let only\nme hear that voice..."
                             ]
                         },
                         {
@@ -20696,7 +19870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私の美しい騎士よ…、ようやく私の元へ戻ってきてくれたのですね……"
+                                "My beautiful knight… you’ve finally returned to me..."
                             ]
                         },
                         {
@@ -20713,7 +19887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もっとあなたを感じさせてください。もっと近くで……　もっと近くで……"
+                                "Please let me feel more of you. Closer… even closer..."
                             ]
                         },
                         {
@@ -20755,7 +19929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "邪悪な悪意に満ちた苗床がふたりを飲み込んでいく。"
+                                "The evil seedbed engulfs them both."
                             ]
                         },
                         {
@@ -20779,7 +19953,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うぅ……　あぁ……　ひめ……　さま……　……っっ♡♡"
+                                "Uuu… ahh… princess-sama......!!♡♡"
                             ]
                         },
                         {
@@ -20819,14 +19993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少女が抱いた決意も……、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　友への想いも……、国への誓いも……、共に描いた夢も……"
+                                "The girl's determination... her feelings for her friend...\nher oath to her country... the dreams they painted\ntogether..."
                             ]
                         },
                         {
@@ -20843,7 +20010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あの日に見た、二人だけの風吹く記憶の風景さえも……　何もかもが貪られていく……"
+                                "Even the landscape of memories with the wind blowing just\nfor the two of them, seen on that day... everything is being\ndevoured..."
                             ]
                         },
                         {
@@ -20897,7 +20064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うぅ……♡♡　あぁ……♡♡　あぁ……♡……♡♡♡"
+                                "Uuu...♡♡ Ahh...♡♡ Ahh...♡...♡♡♡"
                             ]
                         },
                         {
@@ -20921,7 +20088,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もうここには、光、そして闇すら届かないだろう。"
+                                "No longer will light, nor even darkness, reach this place."
                             ]
                         },
                         {
@@ -20945,7 +20112,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……♡　…………♡♡　……………………♡♡♡"
+                                "...♡...♡♡...♡♡♡"
                             ]
                         },
                         {
@@ -20969,14 +20136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "彼女が好きだと語り、そしていつか好きだと語れるようにと少女が誓った、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの日の風が吹くことはないのだ……　もう二度と……──"
+                                "The wind of that day, when she vowed to speak of love and to\nsomeday be able to declare it, will never blow again...\nnever again...──"
                             ]
                         },
                         {
@@ -21040,7 +20200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・BADEND05 - 『　～　少女の夢の終わり。　～　』"
+                                ".BADEND05 - \"The End of the Girl's Dream.\""
                             ]
                         },
                         {

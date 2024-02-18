@@ -33948,7 +33948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポーションを手に入れた！"
+                                "You obtained a Potion!"
                             ]
                         },
                         {
@@ -34195,7 +34195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "目の荒い包帯を手に入れた！"
+                                "Gained a Coarse Bandage!"
                             ]
                         },
                         {
@@ -34442,7 +34442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スティミュラントを手に入れた！"
+                                "Gained a Stimulant!"
                             ]
                         },
                         {
@@ -34587,7 +34587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここで果てた骸か……。　悪いが使えるものは何でも使わせてもらうぞ。"
+                                "A corpse that met its end here... Sorry, but I'll make use\nof whatever I can."
                             ]
                         },
                         {
@@ -34623,7 +34623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一握りの微細な遺灰を懐に忍ばせた。"
+                                "She slipped a handful of fine ashes into her pocket."
                             ]
                         },
                         {

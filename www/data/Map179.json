@@ -4353,7 +4353,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "騎士といえば、こんな噂を知っているか？"
+                                "Speaking of knights, have you heard this rumor?"
                             ]
                         },
                         {
@@ -4370,14 +4370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "月の照らす夜の暗闇から領内各地にふらりと現れては、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔物を斬り捨てて再び暗闇へとその姿をくらますって騎士の噂だよ。"
+                                "They say there's a knight who appears from the darkness on\nmoonlit nights, slaying monsters and then vanishing back\ninto the dark."
                             ]
                         },
                         {
@@ -4394,14 +4387,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "血に濡れた鎧は黒ずんで、その姿を見てしまった者は生きて帰ることはないって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今はもうその名も忘れ去られちまった一人の騎士の話さ。"
+                                "The knight's armor, stained with blood, has turned black,\nand those who have seen him never return alive. It's the\ntale of a knight whose name has now been forgotten."
                             ]
                         },
                         {
@@ -4418,14 +4404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "生きて帰ったもんがいないなら、いったい誰がそんな噂を流したのだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さぁね、そんなの知ったこっちゃない。"
+                                "If no one has returned alive, then who spread such rumors?\nWho knows, I don't care about such things."
                             ]
                         },
                         {
@@ -4449,7 +4428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それでもね──、"
+                                "And yet──,"
                             ]
                         },
                         {
@@ -4466,7 +4445,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それでもこんな月夜をみると想うのさ。"
+                                "And yet, when I see a moonlit night like this, I can't help\nbut think."
                             ]
                         },
                         {
@@ -4490,7 +4469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日もひとり孤独に草原を駆ける、この国最後の騎士の、その姿を……──"
+                                "Of the lone knight who still rides through the plains in\nsolitude, the last knight of this country...──"
                             ]
                         },
                         {
@@ -4646,7 +4625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　・NormalEND　～『　ナイトインザダークネス　』～"
+                                ".NormalEND～ \"Knight in the Darkness\" ～"
                             ]
                         },
                         {
@@ -4679,7 +4658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベントの前へ戻ります。現在の進行状況をセーブしますか？"
+                                "Returning to the event screen. Would you like to save your\ncurrent progress?"
                             ]
                         },
                         {
@@ -4687,8 +4666,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

@@ -45079,7 +45079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちらに用はない。出口へ急ぐぞ。"
+                                "There's no need for us here. Let's hurry to the exit."
                             ]
                         },
                         {
@@ -45451,14 +45451,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（この先には疲れ果てた多くの者がいまだ残っている……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今は彼らを説得するよりも出口への活路を開いてやるのが私達に出来ることだろう。）"
+                                "(Many weary souls still remain ahead... For now, it's better\nto forge a path to the exit than to try convincing them.\nThat's what we can do for them.)"
                             ]
                         },
                         {
@@ -45686,14 +45679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だ、大丈夫か嬢ちゃん…"
+                                "Worker: Are you alright, miss..."
                             ]
                         },
                         {
@@ -45724,7 +45710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁ…何とかな……"
+                                "Ah... somehow..."
                             ]
                         },
                         {
@@ -45741,14 +45727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（逃げることには成功したが出口からは遠のいてしまったか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アカネも待っている。夜明けまで時間がない、傷の手当てを済ませ出口へと急ぐぞ…！）"
+                                "(I managed to escape, but I've moved away from the exit.\nAkane is waiting too. There's no time until dawn, I must\ntend to my wounds and hurry to the exit...!)"
                             ]
                         },
                         {
@@ -45781,14 +45760,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "少年労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お姉ちゃん、これ探してきたんだ。良かったら使って！"
+                                "Young Worker: Big sister, I found this for you. Please use\nit if it helps!"
                             ]
                         },
                         {
@@ -45817,7 +45789,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポーションをいくつか渡された。"
+                                "I was handed several potions."
                             ]
                         },
                         {
@@ -47088,7 +47060,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（疲れ切っていてこの場を動く気力すらないようだ……）"
+                                "(It seems like she's completely exhausted and doesn't even\nhave the energy to move from this spot...)"
                             ]
                         },
                         {
@@ -47165,7 +47137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（疲れ切っていてこの場を動く気力すらないようだ……）"
+                                "(It seems she's too exhausted to even muster the energy to\nmove from this spot...)"
                             ]
                         },
                         {
@@ -48639,14 +48611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少年労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボクももっと大人なら、一緒に戦えるのに…！"
+                                "Young Worker: If only I were older, I could fight alongside\nyou...!"
                             ]
                         },
                         {

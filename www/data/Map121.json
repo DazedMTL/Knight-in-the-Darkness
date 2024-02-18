@@ -5659,7 +5659,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先、何があるかわからん。準備だけは整えておいた方が無難だろう……"
+                                "We don't know what lies ahead. It's best to be prepared just\nin case..."
                             ]
                         },
                         {
@@ -6153,7 +6153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こいつは復興地区で戦った魔導ゴーレム……！！"
+                                "This is the magic golem we fought in the reconstruction\ndistrict...!!"
                             ]
                         },
                         {
@@ -6277,7 +6277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "望まぬ来客を追い返すのが役割か！だがこいつとの戦い方は心得ている……！"
+                                "Its role must be to drive away unwanted visitors! But I know\nhow to fight this thing...!"
                             ]
                         },
                         {
@@ -6327,7 +6327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "時間が惜しいのでな。邪魔をするなら退いてもらうぞ岩石人形……！！"
+                                "Time is of the essence. If you're going to get in the way,\nthen step aside, stone puppet...!!"
                             ]
                         },
                         {
@@ -6679,7 +6679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "守衛ご苦労！だが今回はそこで眠っていろッ！！"
+                                "Guard, thank you for your hard work! But this time, just\nsleep there!!"
                             ]
                         },
                         {
@@ -7103,14 +7103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（量産される魔導兵器、採掘坑より運ばれる特殊鉱石や労働者。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　王都の混乱の影で何かが起きている。あるいはそれらは繋がっているのだろうか。）"
+                                "(Mass-produced magical weapons, special ores and laborers\ntransported from the mines. Something is happening in the\nshadow of the capital's chaos. Perhaps all these things are\nconnected.)"
                             ]
                         },
                         {
@@ -7127,7 +7120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（道が細く延びている。進めばさて……）"
+                                "(The path narrows as it stretches out. If I proceed,\nwell...)"
                             ]
                         },
                         {
@@ -7359,7 +7352,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何が待つのだろうな……！"
+                                "I wonder what awaits...!"
                             ]
                         },
                         {
@@ -7794,14 +7787,14 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "負けると最大体力を犠牲に無理やり身体を奮い立たせる。"
+                                "Forced to Rally the Body at the Cost of Max HP upon Defeat"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "(全回復、最大体力マイナス、攻撃力プラス)"
+                                "(Full Recovery, Max HP Decrease, Attack Increase)"
                             ]
                         },
                         {
@@ -8221,7 +8214,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔力のパスが切られたのか、もう起動はしないようだ。"
+                                "It seems the magic path has been severed; it won't activate\nanymore."
                             ]
                         },
                         {
@@ -8473,7 +8466,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "立ち絵の衣装を変えますか？(イベントＣＧに変化はありません。)"
+                                "Would you like to change the standing picture's outfit?\n(There will be no change to the event CG.)"
                             ]
                         },
                         {
@@ -8481,10 +8474,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "騎士鎧",
-                                    "ローブ",
-                                    "ローブ(顔出し)",
-                                    "このままでいい"
+                                    "Knight Armor",
+                                    "Robe",
+                                    "Robe (Face Showing)",
+                                    "Keep it as it is"
                                 ],
                                 3,
                                 0,
@@ -8528,7 +8521,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "では先を急ごうか。"
+                                "Then, shall we hurry on?"
                             ]
                         },
                         {
@@ -8579,7 +8572,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "では先を急ごうか。"
+                                "Then, shall we hurry on?"
                             ]
                         },
                         {
@@ -8630,7 +8623,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "では先を急ごうか。"
+                                "Then, shall we hurry on?"
                             ]
                         },
                         {

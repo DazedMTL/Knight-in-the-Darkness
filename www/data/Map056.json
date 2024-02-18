@@ -9888,7 +9888,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "このシーンは一度閲覧済みです。スキップしますか？"
+                                "This scene has been viewed before. Would you like to skip?"
                             ]
                         },
                         {
@@ -9896,8 +9896,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -10112,7 +10112,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これで…ッッ！！！"
+                                "With this...!!"
                             ]
                         },
                         {
@@ -10213,7 +10213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうだ……ッッ！！！"
+                                "How's that...!!"
                             ]
                         },
                         {
@@ -10272,7 +10272,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なん、だと……！？"
+                                "What, the...!?"
                             ]
                         },
                         {
@@ -10872,7 +10872,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ボフウウウウウウ……　ボヒッ…ボヒヒッ……！"
+                                "Groan... gasp... pant...!"
                             ]
                         },
                         {
@@ -10889,7 +10889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ニクダッ…！　メスノニクダッ…！！　ブルルルルルッッ……！！"
+                                "Flesh...! Female flesh...!! Rumble rumble rumble...!!"
                             ]
                         },
                         {
@@ -10913,7 +10913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くそっ！　ふざけるな！離せッ！！！"
+                                "Damn it! Don't mess with me! Let go!!"
                             ]
                         },
                         {
@@ -10949,14 +10949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブルルルルルッッ……！！ボヒッ…！　ブルヒィ…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　オンナ、オカス！コワス！　ブルヒッ……！！"
+                                "Rumble rumble rumble...!! Gasp...! Pant...!! Woman, I'll\nbreak you! I'll destroy you! Pant...!!"
                             ]
                         },
                         {
@@ -10980,14 +10973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（こいつ…、暴れるだけに飽き足らず、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　他種族であろうと相手が女とわかれば猛りにまかせ雄を誇示しようというのか…！）"
+                                "(This creature... not satisfied with just rampaging, it\nseems to flaunt its masculinity at the realization of facing\na female of another species...!)"
                             ]
                         },
                         {
@@ -11011,7 +10997,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "調子に乗るなよ化け物め…！　貴様なんぞの好きにさせてたまるか…！！"
+                                "Don't get cocky, you monster...! I won't let you have your\nway with me...!!"
                             ]
                         },
                         {
@@ -11035,14 +11021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（しかしなんて怪力だ…！こいつ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　戦闘のダメージが残っているせいでうまく振りほどくことが出来ん…！）"
+                                "(But what incredible strength...! This creature...! I can't\nshake it off properly because of the damage from the\nbattle...!)"
                             ]
                         },
                         {
@@ -11078,7 +11057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ボヒヒッ！イキノイイ、オンナ…！　アバレル！アバレル！オモシロイッ！"
+                                "Pant pant! A lively woman...! Struggle! Struggle! It's\namusing!"
                             ]
                         },
                         {
@@ -11095,7 +11074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブルヒッ！ブルヒッ！　\\{ブルヒィィイイイン！！！！"
+                                "Pant pant! Pant pant! Paaaant!!"
                             ]
                         },
                         {
@@ -11178,7 +11157,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぐぁ…！！　肩が……！！！"
+                                "Aggh...!! My shoulder...!!!"
                             ]
                         },
                         {
@@ -11202,7 +11181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ボヒヒッ！　ボヒッ！　ブルヒッ！ブルヒッ！！"
+                                "Pant pant! Pant! Pant pant! Pant pant!!"
                             ]
                         },
                         {
@@ -11250,7 +11229,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "げほっ…　露出した化け物の陰部のニオイが、周囲に充満し…　なんとヒドイ臭いだ…　"
+                                "*cough*... The stench of the exposed monster's genitals\nfills the air around... What a terrible smell..."
                             ]
                         },
                         {
@@ -11274,14 +11253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "下種め！そんなものを押し付けるな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!我が身体は忠義を誓った祖国の一部。私を汚す事は国を汚すことと同義だと思え！！"
+                                "Scum! Don't push that on me! My body is a part of the\nhomeland to which I've sworn loyalty. To defile me is to\ndefile the nation itself!"
                             ]
                         },
                         {
@@ -11298,7 +11270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんなことは決して許されるわけにはいかないのだ！！　絶対に……ッ！！！"
+                                "Such an act will never be allowed!! Absolutely...!!"
                             ]
                         },
                         {
@@ -11329,7 +11301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブヒッ！　ブヒヒ！！　ブホッ！！ブホッ！！"
+                                "Pant! Pant pant!! Pant!! Pant!!"
                             ]
                         },
                         {
@@ -11353,14 +11325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くそ、なんて大きさだ…やめろ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　\\!そんなもの…無理に…挿入れたら………ッッッッ！！！"
+                                "Damn, what size... stop it...! If you force that thing in...\nit'll be too much...!!!"
                             ]
                         },
                         {
@@ -11396,7 +11361,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{ブモオオオオオおおおおお！！"
+                                "ROOOAAARRRRR!!!"
                             ]
                         },
                         {
@@ -11505,7 +11470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あがっ…！　ぐぅ…！　あぁ…ッッ！！！"
+                                "Aghh...! Guh...! Ahh...!!"
                             ]
                         },
                         {
@@ -11522,7 +11487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんて、大きさだ…　腹の奥まで…　ぁぐっ……！"
+                                "What size it is... reaching deep into my belly... aggh...!"
                             ]
                         },
                         {
@@ -11558,7 +11523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブモオオオオ！！！ブモオオオオオオオオオオ！！！！"
+                                "ROOOAAARRRRR!!! ROOOAAARRRRR!!!"
                             ]
                         },
                         {
@@ -11610,14 +11575,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっ…　あっ…　ぐぅ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　\\!あがっ…！　あづ…！　ああぁ…ッッ！！！"
+                                "Ahh... ahh... guh...! Agghh...! It's hot...! Ahh ahh...!!"
                             ]
                         },
                         {
@@ -11646,7 +11604,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちらの苦痛なぞ、まるでおかまいなしか…！！　低能の怪物め…！！！"
+                                "You don't care about my pain at all...!! You lowly\nbeast...!!!"
                             ]
                         },
                         {
@@ -11698,14 +11656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ…　はぁ…　はぁ…　ぅく…ッッ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　\\!んっ…　あぁ…　はぁ…　はぐっ……！！"
+                                "Pant... pant... pant... ughh...nnghh... ahh... pant...\npant..."
                             ]
                         },
                         {
@@ -11729,7 +11680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "乱暴に…、己の快楽を満足させるためだけに、女の腹を掻き回して……！"
+                                "Roughly satisfying your own pleasure, stirring up a woman's\nbelly..."
                             ]
                         },
                         {
@@ -11746,7 +11697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "苦しい…　\\!腹が内側から破れそうだ……ッッ！"
+                                "It's painful... My belly feels like it's going to burst from\nthe inside out...!!"
                             ]
                         },
                         {
@@ -11805,14 +11756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くそ…私は騎士だ…！　こんな化け物相手に、無様を晒すなど…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　\\!けして、あっては…　ならん、のに……ッッ！！　アアアッ！！！"
+                                "Damn it... I am a knight...! To be disgraced by such a\nmonster...! It must not happen, yet here I am... Ahhh!!"
                             ]
                         },
                         {
@@ -11848,7 +11792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブモオオオオ！！！ブモオオオオオオオオオオ！！！！"
+                                "ROOOAAARRRRR!!! ROOOAAARRRRR!!!"
                             ]
                         },
                         {
@@ -11865,7 +11809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハラメッ！　ハラメッ！　ヨワイニンゲンッ！　\\{チカラノナイ、オンナッ…！！"
+                                "Breed! Breed! Weak human! Powerless woman..."
                             ]
                         },
                         {
@@ -11901,14 +11845,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "騎士として国に捧げると誓った我が身体を…!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "       \\!まるで…、まるで雄の欲を満たすだけの…道具同然に扱いおって……ッッ！！"
+                                "My body, which I vowed to dedicate to the country as a\nknight...! It's being treated like nothing more than a tool\nto satisfy male desire..."
                             ]
                         },
                         {
@@ -11925,14 +11862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くそッ…　くそッ…！　くそッ…！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　\\!\\{いやだあぁ！！　くそおおおおおおおおおッッッ！！！！！"
+                                "Damn it... damn it...! Damn it all... I don't want this!!\nDamn youuuuuu!!!"
                             ]
                         },
                         {
@@ -12085,7 +12015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "吐き出されている…　吐き出されている…っっ！！"
+                                "It's being released inside me... being released inside\nme...!!"
                             ]
                         },
                         {
@@ -12102,7 +12032,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔物の汚い子種が……！　\\!腹の中をびちびちと暴力で満たしていく…！！"
+                                "The filthy seed of the monster is filling up my belly with\nviolence..."
                             ]
                         },
                         {
@@ -12138,7 +12068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブフウウ！！　\\!ブフフウウウウウウ！！！！！"
+                                "ROAR!!! ROAR ROAR ROAR ROAR!!!"
                             ]
                         },
                         {
@@ -12204,7 +12134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あが…　があぁッ…！！　はぁぁ…！！　\\!ぐぅ…　ぃぐぅ……ッっ！！！！"
+                                "Aghaahh...!! Haahh...!! Guh...iguhh...!!"
                             ]
                         },
                         {
@@ -12242,7 +12172,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大量の精液が…　\\!腹の中を、押し広げて……"
+                                "A large amount of semen is expanding inside my belly..."
                             ]
                         },
                         {
@@ -12278,7 +12208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブフウウ！！ウウウウウウ！！！！ッッッ！！"
+                                "ROAR!!! ROAR ROAR ROAR ROAR!!!"
                             ]
                         },
                         {
@@ -12429,7 +12359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うぁあああ！！　また腹の中に……！！！　がぁ…！　"
+                                "Aaaaah!! Again, inside my belly...!!! Gah...!"
                             ]
                         },
                         {
@@ -12446,7 +12376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ…！　はぁ…！　はぁ…！　あぐっ……！！　\\!熱い…っ裂ける……ッッ！！"
+                                "Haah...! Haah...! Haah...! Aguh...!! It's hot... it's\ntearing...!!"
                             ]
                         },
                         {
@@ -12508,14 +12438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ようやく…　おさまったか…　なんてやつだ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　\\!内臓が圧迫されて…　はぁ…　呼吸が出来ん……"
+                                "Finally... it's settled down... What a creature... My organs\nare being compressed... Haah... I can hardly breathe..."
                             ]
                         },
                         {
@@ -12551,7 +12474,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブフウウ！！ブフウウウウゥウウウウゥウ！！！！ッッッ！！"
+                                "ROOOAAARRRRR!!! ROOOAAARRRRR!!!"
                             ]
                         },
                         {
@@ -12641,7 +12564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぐっ…！！　お゛づッ…！！　\\!お゛おお…ッッ！！"
+                                "Haguh...!! Ogutsu...!! Ooooh...!!"
                             ]
                         },
                         {
@@ -12703,14 +12626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ…　はぁ…　はぁ…　んくぅ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　\\!はぁ…　はぁ…　はぁ…　ぁぁ……"
+                                "Haah... haah... haah... nghuu... haah... haah... haah...\naaah..."
                             ]
                         },
                         {
@@ -12734,14 +12650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くそぉ…　嬲られ…　犯され…　穢された……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　\\!力が抜ける…　ダメだ……　意識が遠退いていく……"
+                                "Damn it... tormented... violated... defiled... My strength\nis leaving me... No good... My consciousness is fading\naway..."
                             ]
                         },
                         {
@@ -12770,7 +12679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ…　はぁ…　はぁ…　"
+                                "Haah... haah... haah..."
                             ]
                         },
                         {
@@ -12794,7 +12703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんな所で意識を失ったら最後…　洞窟内の化け物共に…"
+                                "If I lose consciousness here, it's the end... I'll be at the\nmercy of the monsters in this cave..."
                             ]
                         },
                         {
@@ -12823,7 +12732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ…　はぁ…　はぁ…　"
+                                "Haah... haah... haah..."
                             ]
                         },
                         {
@@ -12879,7 +12788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "国のため…　我が若き君主のためにも……　はぁ…　はぁ…"
+                                "For the sake of the country... for the sake of our young\nruler... haah... haah..."
                             ]
                         },
                         {
@@ -12896,14 +12805,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "使命遂げるまで…、こんなところで…　はぁ…　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　\\!堕とされるわけには…、いかんと、いうの、に…　っ……"
+                                "I must fulfill my mission... In a place like this... haah...\nI cannot allow myself to fall..., to be defeated..., yet..."
                             ]
                         },
                         {

@@ -17809,7 +17809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "向かい側まで移動しますか？"
+                                "Would you like to move to the opposite side?"
                             ]
                         },
                         {
@@ -17817,8 +17817,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -17955,7 +17955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "向かい側まで移動しますか？"
+                                "Would you like to move to the opposite side?"
                             ]
                         },
                         {
@@ -17963,8 +17963,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

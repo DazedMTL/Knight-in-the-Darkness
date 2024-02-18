@@ -18657,7 +18657,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "イベントをスキップしますか？"
+                                "Would you like to skip the event?"
                             ]
                         },
                         {
@@ -18665,8 +18665,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -18961,14 +18961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "クッ……！！"
+                                "Chancellor: Gah...!!"
                             ]
                         },
                         {
@@ -19097,7 +19090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "覚悟しろ、これで終わりだッ……！！"
+                                "Prepare yourself, this is the end...!!"
                             ]
                         },
                         {
@@ -19152,14 +19145,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "チィ……、まだぁ……ッ！！"
+                                "Chancellor: Tch... not yet...!!"
                             ]
                         },
                         {
@@ -19268,7 +19254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "往生際が悪いぞ！！観念しろ宰相殿。あなたでは私は倒せない…！"
+                                "Your persistence is futile!! Resign yourself, Chancellor.\nYou cannot defeat me...!"
                             ]
                         },
                         {
@@ -19323,21 +19309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見事な太刀筋だ。騎士としてまた一段と腕を上げたようだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今は敵ながら、この国を想う一人として誠誉れ高いよ。"
+                                "Chancellor: Impressive swordsmanship. It seems you've\nimproved your skills as a knight. Even as an enemy, I must\nhonor your dedication to this country."
                             ]
                         },
                         {
@@ -19354,14 +19326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、だからこそ君は間に合わなかった……！！"
+                                "Chancellor: However, that is precisely why you were too\nlate...!!"
                             ]
                         },
                         {
@@ -19385,7 +19350,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何、だと……？"
+                                "What do you mean...?"
                             ]
                         },
                         {
@@ -19560,21 +19525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "戦いの最中にも相手への敬意を失わないその騎士精神が仇になったな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ひと思いに斬って捨てればよかったものを、負かすことにこだわるとは。"
+                                "Chancellor: Your knightly spirit, never losing respect for\nyour opponent even in battle, has become your downfall. You\nshould have cut me down without a second thought, rather\nthan being fixated on defeating me."
                             ]
                         },
                         {
@@ -19591,21 +19542,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これは試合ではないのだぞ。捕らわれの姫を前に何を悠長な。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いや姫の前だからこそかな？ククク……"
+                                "Chancellor: This is not a match. What are you doing taking\nyour time in front of the captured princess? Or is it\nbecause it's in front of the princess? Kukuku..."
                             ]
                         },
                         {
@@ -19629,7 +19566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何がおかしい！"
+                                "What's so funny!"
                             ]
                         },
                         {
@@ -19653,14 +19590,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "時間は十分に稼がせてもらったという事だ。見ろ、そろそろ目を覚ますぞ。"
+                                "Chancellor: It means I've bought enough time. Look, she's\nabout to wake up."
                             ]
                         },
                         {
@@ -19686,14 +19616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さぁ、王女様、食事の時間ですよ。それも飛び切り豪勢のな……！"
+                                "Chancellor: Now, Princess, it's time for your meal. And it's\ngoing to be a lavish one...!"
                             ]
                         },
                         {
@@ -19726,14 +19649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王女："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "う、うぅ……………、くっ……………"
+                                "Princess: Ugh, uhh... erk..."
                             ]
                         },
                         {
@@ -19764,14 +19680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "意識がお戻りになられたのですね！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "王女様！レイシアです！旅路より今戻りました！！さぁ私と共にここを出ましょう！！"
+                                "You've regained consciousness, haven't you!? Princess! It's\nReisha! I've just returned from my journey!! Come, let's\nleave this place together!!"
                             ]
                         },
                         {
@@ -19811,14 +19720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王女："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "レイ…、シア……？"
+                                "Princess: Rei... sha...?"
                             ]
                         },
                         {
@@ -19849,7 +19751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうです！騎士レイシアです！我が主よ！！"
+                                "Yes! It's Knight Reisha! Your servant!!"
                             ]
                         },
                         {
@@ -19889,14 +19791,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王女："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "レイシア…、私の…騎士……　う、ううぅぅうぅぅ……あぁぁ……！！！"
+                                "Princess: Reisha... my... knight... ugh, ughhhhh...\nahhh...!!!"
                             ]
                         },
                         {
@@ -19927,7 +19822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お気を確かに！今お助けします！！"
+                                "Stay strong! I will save you now!!"
                             ]
                         },
                         {
@@ -20016,14 +19911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王女："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{あああああぁぁぁぁぁぁああああ！！！"
+                                "Princess: Aaaaaahhhhhhhhh!!!"
                             ]
                         },
                         {
@@ -20085,7 +19973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よせ、やめろぉぉ！！宰相！！キサマァ！！！"
+                                "Stop it, stop it!! Chancellor!! You bastard!!!"
                             ]
                         },
                         {
@@ -20109,14 +19997,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "感じるだろう。この場に満ちる魔力の大きな流れを。"
+                                "Chancellor: You can feel it, can't you? The great flow of\nmagical power filling this place."
                             ]
                         },
                         {
@@ -20263,14 +20144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これを見てまだコイツが以前の小娘だと同一視出来るのならば君の眼は節穴のようだな。"
+                                "Chancellor: If after seeing this you still think she's the\nsame little girl as before, then you must be blind."
                             ]
                         },
                         {
@@ -20507,14 +20381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私にはもう血の呪いに穢れた化け物にしか見えんがね。"
+                                "Chancellor: To me, she's nothing more than a monster tainted\nwith a blood curse."
                             ]
                         },
                         {
@@ -20538,14 +20405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "誰がこうした！！口を慎め！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これ以上の愚弄を重ねること決して許されんっ！！"
+                                "Who did this to her!! Watch your mouth!! Such mockery will\nnot be tolerated any further!!"
                             ]
                         },
                         {
@@ -20600,14 +20460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう十分楽しんだろう。これで遊びは終わりだ。"
+                                "Chancellor: You've had your fun. The game ends here."
                             ]
                         },
                         {
@@ -20624,21 +20477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{さぁやれ！！感動の再開だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "流すのは涙ではなく、大量の血であるがなッッ！！"
+                                "Chancellor: Now do it!! A touching reunion indeed! But the\ntears will be replaced by a flood of blood!!"
                             ]
                         },
                         {
@@ -20725,14 +20564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王女："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{ッッッ！！！……ッ！！！！！！！！"
+                                "Princess: Ggggghh!!! ...Gahhhhhhhhhh!!!"
                             ]
                         },
                         {
@@ -20749,14 +20581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王女："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{いやああああああああ！！！！レイシアァァァァッッ！！！"
+                                "Princess: Nooooooo!!! Reisha!!!!"
                             ]
                         },
                         {
@@ -20787,7 +20612,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{姫様ッッ……！！！！"
+                                "Your Highness...!!!!"
                             ]
                         },
                         {
@@ -20827,14 +20652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王女："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "……………………ッッッ！！！！"
+                                "Princess: ...Ggggghh!!!"
                             ]
                         },
                         {
@@ -20851,14 +20669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王女："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "……………………お前の、せいで……私はァ……！！！！"
+                                "Princess: ...because of you... I am...!!!!"
                             ]
                         },
                         {
@@ -20875,14 +20686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王女："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{許さない…、許さない許さない許さない許さない！！"
+                                "Princess: I won't forgive... won't forgive won't forgive\nwon't forgive won't forgive!!"
                             ]
                         },
                         {
@@ -20899,14 +20703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王女："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{アアアアアアァァアアアアアアアアアアアアッ！！！！！！"
+                                "Princess: AAAAAAAAAAAAAAAAAHHHHHHHHH!!!!"
                             ]
                         },
                         {
@@ -20968,7 +20765,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんな……いやだ……、おやめください！！！！"
+                                "No... I don't want this... please stop!!!!"
                             ]
                         },
                         {

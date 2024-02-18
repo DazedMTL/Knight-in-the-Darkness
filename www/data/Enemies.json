@@ -61,7 +61,7 @@
             }
         ],
         "gold": 40,
-        "name": "洞窟こうもり",
+        "name": "Cave Bat",
         "note": "通常攻撃　３回くらい",
         "params": [
             300,
@@ -135,7 +135,7 @@
             }
         ],
         "gold": 30,
-        "name": "スライム",
+        "name": "Slime",
         "note": "",
         "params": [
             350,
@@ -207,7 +207,7 @@
             }
         ],
         "gold": 0,
-        "name": "オーク",
+        "name": "Orc",
         "note": "",
         "params": [
             300,
@@ -274,7 +274,7 @@
             }
         ],
         "gold": 40,
-        "name": "戦闘テスト",
+        "name": "Combat Test",
         "note": "通常攻撃　３回くらい",
         "params": [
             15000,
@@ -408,7 +408,7 @@
             }
         ],
         "gold": 0,
-        "name": "野盗",
+        "name": "Bandit",
         "note": "",
         "params": [
             250,
@@ -520,7 +520,7 @@
             }
         ],
         "gold": 500,
-        "name": "牛鬼",
+        "name": "Ox Demon",
         "note": "",
         "params": [
             2800,
@@ -632,7 +632,7 @@
             }
         ],
         "gold": 800,
-        "name": "牛鬼（回想）",
+        "name": "Ox Demon (Flashback)",
         "note": "",
         "params": [
             2800,
@@ -718,7 +718,7 @@
             }
         ],
         "gold": 150,
-        "name": "ジャイアントラット",
+        "name": "Giant Rat",
         "note": "",
         "params": [
             300,
@@ -804,7 +804,7 @@
             }
         ],
         "gold": 150,
-        "name": "赤舌スネーク",
+        "name": "Red-Tongued Snake",
         "note": "",
         "params": [
             400,
@@ -890,7 +890,7 @@
             }
         ],
         "gold": 150,
-        "name": "地底蜘蛛",
+        "name": "Underground Spider",
         "note": "",
         "params": [
             450,
@@ -998,7 +998,7 @@
             }
         ],
         "gold": 1200,
-        "name": "監獄役人",
+        "name": "Prison Officer",
         "note": "(中ボス用)",
         "params": [
             2500,
@@ -1370,7 +1370,7 @@
             }
         ],
         "gold": 500,
-        "name": "人さらい",
+        "name": "Kidnapper",
         "note": "",
         "params": [
             2200,
@@ -1465,7 +1465,7 @@
             }
         ],
         "gold": 300,
-        "name": "人さらい：子分",
+        "name": "Kidnapper: Henchman",
         "note": "",
         "params": [
             2000,
@@ -1649,7 +1649,7 @@
             }
         ],
         "gold": 900,
-        "name": "ごろつきリーダー",
+        "name": "Thug Leader",
         "note": "",
         "params": [
             1200,
@@ -1775,7 +1775,7 @@
             }
         ],
         "gold": 300,
-        "name": "ごろつき子分：阿",
+        "name": "Thug Henchman: A",
         "note": "",
         "params": [
             800,
@@ -1901,7 +1901,7 @@
             }
         ],
         "gold": 300,
-        "name": "ごろつき子分：吽",
+        "name": "Thug Henchman: Un",
         "note": "",
         "params": [
             800,
@@ -2165,7 +2165,7 @@
             }
         ],
         "gold": 3000,
-        "name": "魔導ゴーレム：近衛型",
+        "name": "Magical Golem: Guard Type",
         "note": "",
         "params": [
             3200,
@@ -2310,7 +2310,7 @@
             }
         ],
         "gold": 0,
-        "name": "兵士",
+        "name": "Soldier",
         "note": "",
         "params": [
             500,
@@ -2427,7 +2427,7 @@
             }
         ],
         "gold": 0,
-        "name": "戦闘人形",
+        "name": "Combat Doll",
         "note": "",
         "params": [
             2500,
@@ -2562,7 +2562,7 @@
             }
         ],
         "gold": 0,
-        "name": "近衛魔術師",
+        "name": "Royal Mage",
         "note": "",
         "params": [
             1500,
@@ -2690,7 +2690,7 @@
             }
         ],
         "gold": 0,
-        "name": "近衛騎士兵",
+        "name": "Royal Knight",
         "note": "",
         "params": [
             2500,
@@ -2853,7 +2853,7 @@
             }
         ],
         "gold": 3000,
-        "name": "宰相",
+        "name": "Chancellor",
         "note": "",
         "params": [
             6000,
@@ -3070,7 +3070,7 @@
             }
         ],
         "gold": 0,
-        "name": "赤月の宰相",
+        "name": "Chancellor of the Red Moon",
         "note": "<PosX:80><PosY:480>",
         "params": [
             30000,
@@ -3308,7 +3308,7 @@
             }
         ],
         "gold": 1200,
-        "name": "魔導服の男",
+        "name": "Man in Magical Garb",
         "note": "",
         "params": [
             3500,
@@ -3448,7 +3448,7 @@
             }
         ],
         "gold": 3000,
-        "name": "魔導ゴーレム",
+        "name": "Magical Golem",
         "note": "",
         "params": [
             2800,
@@ -3550,7 +3550,7 @@
             }
         ],
         "gold": 500,
-        "name": "マジックガード",
+        "name": "Magic Guard",
         "note": "最終ダンジョン前の迎撃戦のステです。",
         "params": [
             1000,
@@ -3638,7 +3638,7 @@
             }
         ],
         "gold": 150,
-        "name": "魔術学士",
+        "name": "Magician Scholar",
         "note": "ごろつき実験",
         "params": [
             600,
@@ -3733,7 +3733,7 @@
             }
         ],
         "gold": 500,
-        "name": "実験室主任",
+        "name": "Laboratory Head",
         "note": "ごろつき実験",
         "params": [
             1500,
@@ -3847,7 +3847,7 @@
             }
         ],
         "gold": 1200,
-        "name": "エリートガード",
+        "name": "Elite Guard",
         "note": "魔導士戦：援護",
         "params": [
             1500,
@@ -3976,7 +3976,7 @@
             }
         ],
         "gold": 0,
-        "name": "BAR_戦闘イベントテスト",
+        "name": "BAR_Combat Event Test",
         "note": "",
         "params": [
             1500,
@@ -4068,7 +4068,7 @@
             }
         ],
         "gold": 1000,
-        "name": "女性客",
+        "name": "Female Patron",
         "note": "<PosX:100><PosY:500>",
         "params": [
             1500,
@@ -4170,7 +4170,7 @@
             }
         ],
         "gold": 1200,
-        "name": "気のいいおじさん",
+        "name": "Friendly Old Man",
         "note": "<PosX:100><PosY:500>",
         "params": [
             1500,
@@ -4272,7 +4272,7 @@
             }
         ],
         "gold": 1000,
-        "name": "熟年夫婦？",
+        "name": "Mature Couple?",
         "note": "<PosX:100><PosY:500>",
         "params": [
             1500,
@@ -4374,7 +4374,7 @@
             }
         ],
         "gold": 800,
-        "name": "フロアＤＪ",
+        "name": "Floor DJ",
         "note": "<PosX:100><PosY:500>",
         "params": [
             1500,
@@ -4476,7 +4476,7 @@
             }
         ],
         "gold": 2000,
-        "name": "商人",
+        "name": "Merchant",
         "note": "<PosX:100><PosY:500>",
         "params": [
             1500,
@@ -4743,7 +4743,7 @@
             }
         ],
         "gold": 1500,
-        "name": "監獄看守長",
+        "name": "Prison Warden",
         "note": "",
         "params": [
             2000,
@@ -4815,7 +4815,7 @@
             }
         ],
         "gold": 100,
-        "name": "労働者A",
+        "name": "Laborer A",
         "note": "",
         "params": [
             600,
@@ -4887,7 +4887,7 @@
             }
         ],
         "gold": 100,
-        "name": "労働者B",
+        "name": "Laborer B",
         "note": "",
         "params": [
             600,
@@ -4959,7 +4959,7 @@
             }
         ],
         "gold": 100,
-        "name": "労働者C",
+        "name": "Laborer C",
         "note": "",
         "params": [
             600,
@@ -5031,7 +5031,7 @@
             }
         ],
         "gold": 100,
-        "name": "労働者D",
+        "name": "Worker D",
         "note": "",
         "params": [
             600,
@@ -5103,7 +5103,7 @@
             }
         ],
         "gold": 100,
-        "name": "労働者E",
+        "name": "Worker E",
         "note": "",
         "params": [
             600,
@@ -5268,7 +5268,7 @@
             }
         ],
         "gold": 500,
-        "name": "監獄役人",
+        "name": "Prison Official",
         "note": "（ボス戦用）",
         "params": [
             600,
@@ -5589,7 +5589,7 @@
             }
         ],
         "gold": 0,
-        "name": "魔導ゴーレム",
+        "name": "Magical Golem",
         "note": "",
         "params": [
             3333,
@@ -5713,7 +5713,7 @@
             }
         ],
         "gold": 2500,
-        "name": "岩砕き",
+        "name": "Rock Crusher",
         "note": "",
         "params": [
             3500,
@@ -5848,7 +5848,7 @@
             }
         ],
         "gold": 3200,
-        "name": "魔導ゴーレム：自律型",
+        "name": "Magical Golem: Autonomous Type",
         "note": "",
         "params": [
             3500,
@@ -5973,7 +5973,7 @@
             }
         ],
         "gold": 1800,
-        "name": "毒濡れ",
+        "name": "Poison Soaked",
         "note": "",
         "params": [
             2800,
@@ -6081,7 +6081,7 @@
             }
         ],
         "gold": 600,
-        "name": "跳ね毒虫",
+        "name": "Leaping Poison Bug",
         "note": "",
         "params": [
             1200,
@@ -6162,7 +6162,7 @@
             }
         ],
         "gold": 400,
-        "name": "警備兵(剣)",
+        "name": "Guard (Sword)",
         "note": "",
         "params": [
             900,
@@ -6250,7 +6250,7 @@
             }
         ],
         "gold": 400,
-        "name": "警備兵(槍)",
+        "name": "Guard (Spear)",
         "note": "",
         "params": [
             900,
@@ -6343,7 +6343,7 @@
             }
         ],
         "gold": 400,
-        "name": "警備兵(弓)",
+        "name": "Guard (Bow)",
         "note": "",
         "params": [
             900,
@@ -6431,7 +6431,7 @@
             }
         ],
         "gold": 400,
-        "name": "警備兵(槍)",
+        "name": "Guard (Spear)",
         "note": "",
         "params": [
             980,
@@ -6519,7 +6519,7 @@
             }
         ],
         "gold": 250,
-        "name": "ハンティングドッグ",
+        "name": "Hunting Dog",
         "note": "",
         "params": [
             900,
@@ -6605,7 +6605,7 @@
             }
         ],
         "gold": 400,
-        "name": "警備兵(魔)",
+        "name": "Guard (Magic)",
         "note": "",
         "params": [
             600,
@@ -6698,7 +6698,7 @@
             }
         ],
         "gold": 250,
-        "name": "屍肉喰らい",
+        "name": "Carrion Eater",
         "note": "",
         "params": [
             800,
@@ -6793,7 +6793,7 @@
             }
         ],
         "gold": 300,
-        "name": "帰らぬもの",
+        "name": "The Unreturned",
         "note": "",
         "params": [
             1000,
@@ -6888,7 +6888,7 @@
             }
         ],
         "gold": 100,
-        "name": "鬼火",
+        "name": "Will-o'-the-Wisp",
         "note": "",
         "params": [
             500,
@@ -6995,7 +6995,7 @@
             }
         ],
         "gold": 750,
-        "name": "エリート兵",
+        "name": "Elite Soldier",
         "note": "",
         "params": [
             1200,
@@ -7083,7 +7083,7 @@
             }
         ],
         "gold": 280,
-        "name": "インプ",
+        "name": "Imp",
         "note": "",
         "params": [
             950,
@@ -7169,7 +7169,7 @@
             }
         ],
         "gold": 750,
-        "name": "バイオオーガ",
+        "name": "Bio Ogre",
         "note": "",
         "params": [
             1800,
@@ -7257,7 +7257,7 @@
             }
         ],
         "gold": 120,
-        "name": "アガシオン",
+        "name": "Agathion",
         "note": "",
         "params": [
             600,
@@ -7371,7 +7371,7 @@
             }
         ],
         "gold": 680,
-        "name": "始末屋",
+        "name": "Cleaner",
         "note": "",
         "params": [
             2200,
@@ -7483,7 +7483,7 @@
             }
         ],
         "gold": 2800,
-        "name": "魔術警報装置",
+        "name": "Magic Alarm Device",
         "note": "",
         "params": [
             1800,
@@ -7705,7 +7705,7 @@
             }
         ],
         "gold": 800,
-        "name": "オーガ兵士",
+        "name": "Ogre Soldier",
         "note": "",
         "params": [
             2000,
@@ -7872,7 +7872,7 @@
             }
         ],
         "gold": 320,
-        "name": "イービルプラント",
+        "name": "Evil Plant",
         "note": "",
         "params": [
             1500,
@@ -7996,7 +7996,7 @@
             }
         ],
         "gold": 0,
-        "name": "触手：",
+        "name": "Tentacle:",
         "note": "イベント戦用",
         "params": [
             100,
@@ -8115,7 +8115,7 @@
             }
         ],
         "gold": 0,
-        "name": "触手：ポーン",
+        "name": "Tentacle: Pawn",
         "note": "<PosX:-150><PosY:500>",
         "params": [
             2500,
@@ -8248,7 +8248,7 @@
             }
         ],
         "gold": 0,
-        "name": "触手：ビショップ",
+        "name": "Tentacle: Bishop",
         "note": "<PosX:-25><PosY:350>",
         "params": [
             2500,
@@ -8384,7 +8384,7 @@
             }
         ],
         "gold": 0,
-        "name": "触手：キング",
+        "name": "Tentacle: King",
         "note": "",
         "params": [
             3500,
@@ -8513,7 +8513,7 @@
             }
         ],
         "gold": 0,
-        "name": "触手：ナイト",
+        "name": "Tentacle: Knight",
         "note": "",
         "params": [
             4800,
@@ -8651,7 +8651,7 @@
             }
         ],
         "gold": 0,
-        "name": "触手：ルーク",
+        "name": "Tentacle: Rook",
         "note": "<PosX:450><PosY:500>",
         "params": [
             3500,
@@ -8784,7 +8784,7 @@
             }
         ],
         "gold": 0,
-        "name": "触手：クイーン",
+        "name": "Tentacle: Queen",
         "note": "<PosX:600><PosY:500>",
         "params": [
             3000,
@@ -8935,7 +8935,7 @@
             }
         ],
         "gold": 3000,
-        "name": "王女",
+        "name": "Princess",
         "note": "",
         "params": [
             15000,
@@ -9071,7 +9071,7 @@
             }
         ],
         "gold": 0,
-        "name": "触手：キング",
+        "name": "Tentacle: King",
         "note": "",
         "params": [
             3500,
@@ -9324,7 +9324,7 @@
             }
         ],
         "gold": 1500,
-        "name": "魔導服の男",
+        "name": "Man in Magical Garb",
         "note": "クリア後仕様",
         "params": [
             8000,
@@ -9492,7 +9492,7 @@
             }
         ],
         "gold": 3000,
-        "name": "宰相",
+        "name": "Chancellor",
         "note": "クリア後仕様",
         "params": [
             12000,
@@ -9676,7 +9676,7 @@
             }
         ],
         "gold": 1000,
-        "name": "牛鬼（強）",
+        "name": "Ox Demon (Strong)",
         "note": "クリア後仕様",
         "params": [
             15000,
@@ -9812,7 +9812,7 @@
             }
         ],
         "gold": 2500,
-        "name": "岩砕き(強)",
+        "name": "Rock Crusher (Strong)",
         "note": "クリア後仕様",
         "params": [
             10000,
@@ -9910,7 +9910,7 @@
             }
         ],
         "gold": 800,
-        "name": "オーガ兵士",
+        "name": "Ogre Soldier",
         "note": "",
         "params": [
             6000,
@@ -10001,7 +10001,7 @@
             }
         ],
         "gold": 750,
-        "name": "バイオオーガ",
+        "name": "Bio Ogre",
         "note": "",
         "params": [
             6000,
@@ -10221,7 +10221,7 @@
             }
         ],
         "gold": 1500,
-        "name": "監獄看守長(復讐)",
+        "name": "Prison Warden (Vengeance)",
         "note": "クリア後仕様",
         "params": [
             15000,
@@ -10334,7 +10334,7 @@
             }
         ],
         "gold": 1200,
-        "name": "監獄役人",
+        "name": "Prison Official",
         "note": "クリア後仕様",
         "params": [
             7000,
@@ -10448,7 +10448,7 @@
             }
         ],
         "gold": 500,
-        "name": "人さらい",
+        "name": "Kidnapper",
         "note": "クリア後仕様",
         "params": [
             6000,
@@ -10543,7 +10543,7 @@
             }
         ],
         "gold": 300,
-        "name": "人さらい：子分",
+        "name": "Kidnapper: Henchman",
         "note": "クリア後仕様",
         "params": [
             6000,
@@ -10753,7 +10753,7 @@
             }
         ],
         "gold": 3000,
-        "name": "魔導ゴーレム",
+        "name": "Magical Golem",
         "note": "",
         "params": [
             15000,
@@ -10896,7 +10896,7 @@
             }
         ],
         "gold": 3000,
-        "name": "魔導ゴーレム：近衛型",
+        "name": "Magical Golem: Guard Model",
         "note": "",
         "params": [
             12000,
@@ -11048,7 +11048,7 @@
             }
         ],
         "gold": 3200,
-        "name": "魔導ゴーレム：自律型",
+        "name": "Magical Golem: Autonomous Model",
         "note": "",
         "params": [
             12000,
@@ -11337,7 +11337,7 @@
             }
         ],
         "gold": 3000,
-        "name": "赤月の宰相",
+        "name": "Red Moon Chancellor",
         "note": "<PosX:80><PosY:480>",
         "params": [
             30000,
@@ -11524,7 +11524,7 @@
             }
         ],
         "gold": 2000,
-        "name": "戦闘人形：悪",
+        "name": "Combat Doll: Evil",
         "note": "",
         "params": [
             25000,

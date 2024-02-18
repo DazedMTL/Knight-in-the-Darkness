@@ -2147,7 +2147,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・BADEND 02　～　『地下深く、光閉ざされた場所で。』　～"
+                                ".BADEND 02 - \"In the Depths, Where Light is Sealed Away.\""
                             ]
                         },
                         {
@@ -2171,7 +2171,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "進行状況をセーブしてやりなおしますか？（ボス前から再開します）"
+                                "Would you like to save your progress and try again? (You\nwill restart from before the boss.)"
                             ]
                         },
                         {
@@ -2179,8 +2179,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "タイトルに戻る"
+                                    "Yes",
+                                    "Return to Title"
                                 ],
                                 1,
                                 0,

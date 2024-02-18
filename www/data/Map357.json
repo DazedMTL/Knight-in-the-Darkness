@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "魔研_実験室02",
+    "displayName": "Magic Research Laboratory 02",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -8738,7 +8738,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（息はあるようだが反応が虚ろだ……。だがあまりに、これは……。）"
+                                "(She seems to be breathing, but her response is vacant...\nHowever, this is too much...)"
                             ]
                         },
                         {
@@ -8829,7 +8829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（息はあるようだが反応が虚ろだ……。だがあまりに、これは……。）"
+                                "(She seems to be breathing, but her response is vacant...\nHowever, this is too much...)"
                             ]
                         },
                         {
@@ -8920,7 +8920,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（息はあるようだが反応が虚ろだ……。だがあまりに、これは……。）"
+                                "(She seems to be breathing, but her response is vacant...\nHowever, this is too much...)"
                             ]
                         },
                         {
@@ -9011,7 +9011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（息はあるようだが反応が虚ろだ……。だがあまりに、これは……。）"
+                                "(She seems to be breathing, but her response is vacant...\nHowever, this is too much...)"
                             ]
                         },
                         {
@@ -9102,7 +9102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（息はあるようだが反応が虚ろだ……。だがあまりに、これは……。）"
+                                "(She seems to be breathing, but her response is vacant...\nHowever, this is too much...)"
                             ]
                         },
                         {
@@ -9193,7 +9193,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（息はあるようだが反応が虚ろだ……。だがあまりに、これは……。）"
+                                "(She seems to be breathing, but her response is vacant...\nHowever, this is too much...)"
                             ]
                         },
                         {
@@ -9284,7 +9284,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（息はあるようだが反応が虚ろだ……。だがあまりに、これは……。）"
+                                "(She seems to be breathing, but her response is vacant...\nHowever, this is too much...)"
                             ]
                         },
                         {
@@ -9375,7 +9375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（息はあるようだが反応が虚ろだ……。だがあまりに、これは……。）"
+                                "(She seems to be breathing, but her response is vacant...\nHowever, this is too much...)"
                             ]
                         },
                         {
@@ -9466,7 +9466,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（息はあるようだが反応が虚ろだ……。だがあまりに、これは……。）"
+                                "(She seems to be breathing, but her response is vacant...\nHowever, this is too much...)"
                             ]
                         },
                         {
@@ -9557,7 +9557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（息はあるようだが反応が虚ろだ……。だがあまりに、これは……。）"
+                                "She seems to be breathing, but her response is vacant...\nHowever, this is too much..."
                             ]
                         },
                         {
@@ -9648,7 +9648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（息はあるようだが反応が虚ろだ……。だがあまりに、これは……。）"
+                                "(She seems to be breathing, but her response is vacant...\nHowever, this is too much...)"
                             ]
                         },
                         {
@@ -9739,7 +9739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（息はあるようだが反応が虚ろだ……。だがあまりに、これは……。）"
+                                "(She seems to be breathing, but her response is vacant...\nHowever, this is too much...)"
                             ]
                         },
                         {
@@ -9830,7 +9830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（息はあるようだが反応が虚ろだ……。だがあまりに、これは……。）"
+                                "She seems to be breathing, but her response is vacant...\nHowever, this is too much..."
                             ]
                         },
                         {
@@ -9921,7 +9921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（息はあるようだが反応が虚ろだ……。だがあまりに、これは……。）"
+                                "She seems to be breathing, but her response is vacant...\nHowever, this is too much..."
                             ]
                         },
                         {
@@ -10014,14 +10014,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究員："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴様、何者だッ！？"
+                                "Researcher: Who the hell are you?!"
                             ]
                         },
                         {
@@ -10284,14 +10277,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "敗北イベントを閲覧しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・イベント：\\c[27]♡10\\c[0] - [ 騎士の時代の終わり。 ]"
+                                "Would you like to view the defeat event? Event:\n\\c[27]♡10\\c[0] - [ The End of the Knight's Era. ]"
                             ]
                         },
                         {
@@ -10299,8 +10285,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -10510,14 +10496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究員："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴様、何者だッ！？"
+                                "Researcher: Who the hell are you?!"
                             ]
                         },
                         {
@@ -10780,14 +10759,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "敗北イベントを閲覧しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・イベント：\\c[27]♡10\\c[0] - [ 騎士の時代の終わり。 ]"
+                                "Would you like to view the defeat event? Event:\n\\c[27]♡10\\c[0] - [ The End of the Knight's Era. ]"
                             ]
                         },
                         {
@@ -10795,8 +10767,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

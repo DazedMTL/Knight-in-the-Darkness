@@ -11299,14 +11299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よし、扉は開いているようだな。アカネがうまくやってくれているようだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私たちも後に続くぞ。警戒を怠るなよ。"
+                                "Alright, it looks like the door is open. Akane seems to have\ndone a good job. Let's follow after her. Don't let your\nguard down."
                             ]
                         },
                         {
@@ -11341,14 +11334,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "看守がまだ残っているようだが、大丈夫だろうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "先を急ぐべきか、打倒しておくべきか……"
+                                "It seems there are still some guards left, but will it be\nokay? Should we hurry on ahead, or should we take them down\nfirst..."
                             ]
                         },
                         {
@@ -11414,14 +11400,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "看守がまだ残っているようだが、大丈夫だろうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "先を急ぐべきか、打倒しておくべきか……"
+                                "It seems there are still some guards left, but will it be\nokay? Should we hurry on ahead, or should we take them down\nfirst..."
                             ]
                         },
                         {
@@ -11761,14 +11740,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "看守と数名の労働者がいる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今ならこちらに気付いていない。不意を付けば討つことも可能だろう。"
+                                "There are guards and several workers here. They haven't\nnoticed us yet. We could possibly take them down by\nsurprise."
                             ]
                         },
                         {
@@ -11785,14 +11757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ただ時間を浪費してしまえば脱出に支障が出るかもしれんし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "騒ぎになるような行動も出来るだけ避けたいところだが。どうする……"
+                                "However, wasting time might hinder our escape, and I'd\nprefer to avoid any actions that could cause a commotion.\nWhat to do..."
                             ]
                         },
                         {
@@ -11800,8 +11765,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "看守と戦う",
-                                    "この場を去る"
+                                    "Fight the guard",
+                                    "Leave this place"
                                 ],
                                 1,
                                 -1,
@@ -12633,14 +12598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "看守と数名の労働者がいる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今ならこちらに気付いていない。不意を付けば討つことも可能だろう。"
+                                "There are guards and several workers here. They haven't\nnoticed us yet. We could possibly take them by surprise if\nwe act now."
                             ]
                         },
                         {
@@ -12657,14 +12615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ただ時間を浪費してしまえば脱出に支障が出るかもしれんし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "騒ぎになるような行動も出来るだけ避けたいところだが。どうする……"
+                                "However, wasting time could hinder our escape, and I'd like\nto avoid any actions that could cause a commotion as much as\npossible. What to do..."
                             ]
                         },
                         {
@@ -12672,8 +12623,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "看守と戦う",
-                                    "この場を去る"
+                                    "Fight the guard",
+                                    "Leave this place"
                                 ],
                                 1,
                                 -1,
@@ -13156,14 +13107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "看守と数名の労働者がいる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今ならこちらに気付いていない。不意を付けば討つことも可能だろう。"
+                                "There are guards and several workers here. They haven't\nnoticed us yet. We could possibly take them by surprise."
                             ]
                         },
                         {
@@ -13180,14 +13124,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ただ時間を浪費してしまえば脱出に支障が出るかもしれんし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "騒ぎになるような行動も出来るだけ避けたいところだが。どうする……"
+                                "However, wasting time could hinder our escape, and I'd\nprefer to avoid any actions that could cause a commotion.\nWhat to do..."
                             ]
                         },
                         {
@@ -13195,8 +13132,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "看守と戦う",
-                                    "この場を去る"
+                                    "Fight the guard",
+                                    "Leave this place"
                                 ],
                                 1,
                                 -1,
@@ -15351,7 +15288,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マジックウォーターを手に入れた！"
+                                "Gained Magic Water!"
                             ]
                         },
                         {
@@ -15767,7 +15704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（………………………………………）"
+                                "（...）"
                             ]
                         },
                         {

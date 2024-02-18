@@ -5133,7 +5133,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぐあっ！！"
+                                "Gahh!!"
                             ]
                         },
                         {
@@ -5254,7 +5254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こいつめ、やはり強いな……ッ！"
+                                "This guy, as expected, is strong...!"
                             ]
                         },
                         {
@@ -5662,14 +5662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（追ってはこないか、どうやら守衛に徹するように教育されているようだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　隙を見せればあるいは躱して奥へと思ったが、そうはさせてくれないか。）"
+                                "(They're not chasing after me, it seems they've been trained\nto stick to their guard duty. I thought if I showed a gap,\nmaybe I could dodge and go deeper, but they won't let me do\nthat, huh.)"
                             ]
                         },
                         {
@@ -5693,7 +5686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ならいいさ、準備を整え何度でも立ち向かうまでッ！！）"
+                                "(Well, that's fine. I'll just get ready and keep confronting\nthem until I can get through!!)"
                             ]
                         },
                         {
@@ -6151,7 +6144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔力のパスが切られたのか、もう起動はしないようだ。"
+                                "It seems the magic path has been severed; it won't activate\nanymore."
                             ]
                         },
                         {

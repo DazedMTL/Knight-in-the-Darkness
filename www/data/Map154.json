@@ -15744,21 +15744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうですか姫様。お城で過ごすのもいいですが、政務とはいえ折角の遠出ですからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このように陽の光の下で羽を伸ばすというのも良いものでしょう！"
+                                "Reisha: How do you find it, Princess Soara? It's nice to\nspend time in the castle, but since we're out on official\nbusiness, it's also good to stretch our wings under the sun\nlike this!"
                             ]
                         },
                         {
@@ -15805,14 +15791,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見て下さい、そこに野薔薇が咲いていますよ。キレイなものですね。"
+                                "Reisha: Look over there, wild roses are blooming. They're\nbeautiful, aren't they?"
                             ]
                         },
                         {
@@ -15829,21 +15808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本来ならば夜半から明方にかけての少しの間だけ花を咲かせるのですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この時間に見られるとは珍しい。さすが姫様だ、運が大変によろしい。"
+                                "Reisha: Normally, they would only bloom for a short time\nfrom midnight to early dawn, but to see them at this hour is\nrare. As expected of you, Princess Soara, your luck is quite\nsplendid."
                             ]
                         },
                         {
@@ -15860,21 +15825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "青い薔薇はこの国の清らかさの象徴です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "我ら騎士もその心と常に共にあるように薔薇飾りを身に付けているんです。"
+                                "Reisha: The blue rose is a symbol of purity in our country.\nWe knights wear rose decorations to always keep that spirit\nclose to our hearts."
                             ]
                         },
                         {
@@ -15891,21 +15842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この地固有の種のようで他の土地では見かけたことがありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "姫様の目にも珍しく見えるのではないですか？"
+                                "Reisha: It seems to be a species unique to this land; I\nhaven't seen it anywhere else. Does it look unusual to your\neyes as well, Princess?"
                             ]
                         },
                         {
@@ -15961,7 +15898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………………………………"
+                                "..."
                             ]
                         },
                         {
@@ -15999,21 +15936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（これはまいったな……。互いに立場の違いはあれど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　女の私ならば多少は心を開いてくれるものと思っていたが。）"
+                                "Reisha: (This is troubling... I thought that as a woman, she\nmight open up to me a little, despite our different\npositions.)"
                             ]
                         },
                         {
@@ -16030,14 +15953,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（フタを開ければ私ばかりが話をしてしまっているじゃないか。う～んどうしたものか…）"
+                                "Reisha: (But it turns out I'm the one doing all the talking.\nHmm, what should I do...)"
                             ]
                         },
                         {
@@ -16084,14 +16000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア、女の身でありながら騎士としてこの国に仕える者。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼女なりに気を遣ってくれているのか、歳頃も近い私にこの国のことを語ってくれました。"
+                                "Reisha, a woman who serves this country as a knight. She\nseems to be considerate in her own way, telling me about\nthis country, as we are close in age."
                             ]
                         },
                         {
@@ -16108,14 +16017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "街の事、歴史の事、自然の事。様々に語るのです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "異邦より連れられた私にこの国を良い国だと思って欲しい、そのような口振りで。"
+                                "About the town, its history, nature. She speaks of various\nthings. She wants me, who was brought from a foreign land,\nto think of this country as a good place, with such an\nexpression."
                             ]
                         },
                         {
@@ -16132,14 +16034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "とはいえ、彼女の言葉は偽りがなく聞こえました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当にこの国を大事に想うその気持ちが、彼女の言葉の中に確かにありました。"
+                                "However, her words sounded sincere without deceit. She truly\ncherishes this country, and that feeling was certainly\npresent in her words."
                             ]
                         },
                         {
@@ -16156,7 +16051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そう思った時、ふと口をついて言葉がこぼれたのです──"
+                                "When I thought so, words inadvertently spilled from my\nmouth──"
                             ]
                         },
                         {
@@ -16203,7 +16098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア。あなたは何故、この国をそこまで想うことが出来るのでしょうか…？"
+                                "Reisha. Why can you care so much for this country...?"
                             ]
                         },
                         {
@@ -16241,21 +16136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私が国を思う理由、ですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それは私が騎士の立場に身を置いている以上当然のことだと思いますが…"
+                                "Reisha: My reason for caring about the country? I believe\nit's natural since I stand in the position of a knight..."
                             ]
                         },
                         {
@@ -16302,7 +16183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そう、ですか。"
+                                "Is that so."
                             ]
                         },
                         {
@@ -16340,21 +16221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このような答えでは納得しておられぬようで。そうですねぇ……理由、理由かぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "う～ん、改めて問われてみるとあまり考えたことはなかったかもしれません。"
+                                "Reisha: It seems my answer does not satisfy you. Well...\nreason, reason huh. Hmm, when asked like this, I realize I\nmight not have thought about it much before."
                             ]
                         },
                         {
@@ -16401,7 +16268,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………………………"
+                                "..."
                             ]
                         },
                         {
@@ -16439,14 +16306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この国に生まれ、育ったから…というのでは、期待に足る答えにはなりえないでしょうし。"
+                                "Reisha: Because I was born and raised in this country...\nthat wouldn't be a satisfactory answer for you, would it?"
                             ]
                         },
                         {
@@ -16470,14 +16330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうですねぇ…、しいて言えば…"
+                                "Reisha: Well... if I had to say..."
                             ]
                         },
                         {
@@ -16524,7 +16377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しいていえば……？"
+                                "If you had to say...?"
                             ]
                         },
                         {
@@ -16574,14 +16427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は、この国の風が好きなのです。"
+                                "Reisha: I love the wind of this country."
                             ]
                         },
                         {
@@ -16619,14 +16465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "湖面より王都へ届く風が頬を撫でる時、私はとても誇らしくそして穏やかな気持ちになる。"
+                                "Reisha: When the wind from the lake caresses my cheeks on\nits way to the royal capital, I feel very proud and at\npeace."
                             ]
                         },
                         {
@@ -16643,21 +16482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "陽の光にあたり、風が草原を撫でる音に包まれる時、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この国で生まれ育ったことが価値あることと心より思えるのです。"
+                                "Reisha: When bathed in sunlight and surrounded by the sound\nof the wind brushing through the grasslands, I truly feel\nit's valuable to have been born and raised in this country."
                             ]
                         },
                         {
@@ -16681,21 +16506,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そして今は私が、この国が育てた歴々の騎士の心のその一部となっていることが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "国を護る一翼となっていることがとても嬉しいのです"
+                                "Reisha: And now, I am happy to be a part of the heart of the\nmany knights raised by this country, to be a part of\nprotecting it."
                             ]
                         },
                         {
@@ -16719,21 +16530,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "戦で遠く離れた地にいても、騎士へと手向けられた青い薔薇飾りを見ると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この地の風を思い出すのです。"
+                                "Reisha: Even when I'm far away on the battlefield, seeing\nthe blue rose decoration dedicated to knights reminds me of\nthe wind of this land."
                             ]
                         },
                         {
@@ -16750,14 +16547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "湖畔で微かに揺れる、青い花咲くこの風景と共に。"
+                                "Reisha: Along with this scenery of blue flowers swaying\nfaintly by the lakeside."
                             ]
                         },
                         {
@@ -16804,7 +16594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "彼女がその時語ったことは今でも記憶に残っている。"
+                                "I still remember what she said at that time."
                             ]
                         },
                         {
@@ -16821,14 +16611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だけれどそれ以上に、彼女がその長い髪を風になびかせて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まっすぐに先を見つめるその瞳が、ひどく印象的だったのを覚えている。"
+                                "But more than that, I remember how striking it was when she\nlet her long hair flutter in the wind and looked straight\nahead with those eyes."
                             ]
                         },
                         {
@@ -16845,14 +16628,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "噓がなく、正直で、成長するうちに失ってしまうであろう"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "子どもの頃に憧れた風景をいまだ大事に心に抱えているような誠実さを。"
+                                "There was no lie, just honesty and an integrity that seemed\nto cherish the landscapes one dreams of as a child and might\nlose as one grows up."
                             ]
                         },
                         {
@@ -16869,7 +16645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それを愚かだと笑うことも出来たでしょう。"
+                                "You could have laughed at it as foolishness."
                             ]
                         },
                         {
@@ -16886,7 +16662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "でもその時に思ったのです。『私には無いものを、彼女は持っている』、と。"
+                                "But at that moment I thought, \"She has something I don't.\""
                             ]
                         },
                         {
@@ -16903,14 +16679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そして、『いつか私も彼女のようになれるだろうか』、と。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この国を、この風が好きだと、いつかまっすぐに誰かに話せるように……"
+                                "And then, \"Will I ever be able to be like her?\" To love this\ncountry, to love this wind and someday speak of it\nstraightforwardly to someone..."
                             ]
                         },
                         {
@@ -16948,21 +16717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無論、この国には正さねばならない所も多くある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "盲目的に全てを肯定することはけして出来ません。"
+                                "Reisha: Of course, there are many things in this country\nthat need to be corrected. It's impossible to blindly affirm\neverything."
                             ]
                         },
                         {
@@ -16979,21 +16734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でもそれは私自身だって同じだ。そして間違っているのなら認め正していけばいい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "国は人と共にある。多くの人にとってそうあるべきだ。ひとりでも多くの人のために。"
+                                "Reisha: But that's the same for me too. And if something is\nwrong, then we just have to acknowledge it and correct it.\nThe country exists with its people. It should be so for many\npeople. For as many people as possible."
                             ]
                         },
                         {
@@ -17017,14 +16758,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ははは……、なんて、少し気取った言い方になってしまって恥ずかしいですね。"
+                                "Reisha: Hahaha... what a pretentious way of speaking I've\ntaken up. It's embarrassing."
                             ]
                         },
                         {
@@ -17048,21 +16782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ですが私の気持ちを言葉にするならばそういうことになります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "姫様の疑問に答えられているかはわからないですが、これでよろしいでしょうか？"
+                                "Reisha: But if I were to put my feelings into words, that's\nwhat they would be. I don't know if I've answered your\nquestion, Princess Soara, but is this alright?"
                             ]
                         },
                         {
@@ -17109,14 +16829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はい、十分です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の方こそあなたを試すような物言いになってしまい悪かったですね。"
+                                "Yes, that's enough. It was wrong of me to speak as if\ntesting you."
                             ]
                         },
                         {
@@ -17154,21 +16867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "滅相もない！気になったことは何でも口にされるがいい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私にこたえられることなら何でもこたえますよ！"
+                                "Reisha: Not at all! Feel free to speak up about anything\nthat concerns you. If it's within my power to answer, I will\nanswer anything!"
                             ]
                         },
                         {
@@ -17215,7 +16914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうなのですか？　ではレイシア。"
+                                "Is that so? Then Reisha."
                             ]
                         },
                         {
@@ -17253,14 +16952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はいなんでしょうか姫さま。"
+                                "Reisha: Yes? What is it, Princess Soara?"
                             ]
                         },
                         {
@@ -17307,7 +16999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あなたは今、想い人などはいるのでしょうか？"
+                                "Do you currently have someone you're in love with?"
                             ]
                         },
                         {
@@ -17345,14 +17037,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "は、はぁ！？想い人ですかぁ…！？　な、何ですか急にそのようなことを……！"
+                                "Reisha: Ha, haa!? In love with someone...!? Why would you\nask such a thing all of a sudden...!?"
                             ]
                         },
                         {
@@ -17399,7 +17084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あら、何でも気になったことは口にして良いといったのはあなたの方ですよ？"
+                                "Oh, but wasn't it you who said that it's fine to speak up\nabout anything that's on your mind?"
                             ]
                         },
                         {
@@ -17437,14 +17122,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そ、それはそうですがぁ～……　"
+                                "Reisha: That is true, but..."
                             ]
                         },
                         {
@@ -17491,7 +17169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宮廷恋愛は騎士の華と聞きます。"
+                                "I've heard that courtly romance is the flower of knighthood."
                             ]
                         },
                         {
@@ -17508,14 +17186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "幼少の頃はおとぎ話の中の話だと夢見てばかりいましたが、今は私もお城暮らしです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当にそのようなロマンスがあるのかと少し伺い知れないかと思いまして。"
+                                "When I was younger, I used to dream about such tales as if\nthey were fairy stories, but now that I live in the castle\ntoo, I wonder if such romances truly exist and thought I\nmight inquire about it."
                             ]
                         },
                         {
@@ -17532,7 +17203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私だって歳の頃です。そういった話に興味を持ってもよろしいでしょう？"
+                                "I am also of an age where it's appropriate to take an\ninterest in such matters, don't you think?"
                             ]
                         },
                         {
@@ -17570,21 +17241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうは言われましても、諸先輩方ならともかく"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私はまだ修業が必要な身である故、そのような事には縁遠く…"
+                                "Reisha: Even so, while the senior knights might have such\nexperiences, I still need more training and thus am far from\nsuch matters..."
                             ]
                         },
                         {
@@ -17601,21 +17258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いや宮廷学徒時代にも別にそのような経験があったわけでもなく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何というかひたすら鍛錬に明け暮れているのが性に合っていたわけで……"
+                                "Reisha: No, even during my time as a court student, I didn't\nhave such experiences either. Somehow, dedicating myself to\ntraining just suited my nature..."
                             ]
                         },
                         {
@@ -17632,21 +17275,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あると言えば慣れぬ戦地で気を落としている指揮下の兵を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少しだけ慰めてやったりすることがある程度で…、いやこんな話をしてもなぁ……"
+                                "Reisha: If anything, the extent of my experience is just\noffering a bit of comfort to the soldiers under my command\nwho are feeling down in unfamiliar battlefields... No, this\nisn't really the kind of story to tell..."
                             ]
                         },
                         {
@@ -17693,7 +17322,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フフ、冗談ですよ。"
+                                "Haha, I'm just joking."
                             ]
                         },
                         {
@@ -17731,14 +17360,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なっ！！　ゴホッ、ゴホッ！　ま、全く！姫様！お人が悪いですよ！"
+                                "Reisha: What!! Cough, cough! Really now! Princess Soara!\nThat's not very kind of you!"
                             ]
                         },
                         {
@@ -17785,14 +17407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このような話軽く流せばよいものを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまりに真剣に受け止めているのが面白くて、つい遊んでしまいました。"
+                                "To think I could have just brushed off such a conversation\nlightly, but seeing you take it so seriously was amusing, so\nI couldn't help but tease you a bit."
                             ]
                         },
                         {
@@ -17809,7 +17424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウフフ、あなたはおもしろい人ですね、レイシア。"
+                                "Ufufu, you are an interesting person, Reisha."
                             ]
                         },
                         {
@@ -17847,14 +17462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お、おもしろいですかぁ！？　ハ、ハハハハ！！"
+                                "Reisha: Interesting, you say!? Ha, hahaha!!"
                             ]
                         },
                         {
@@ -17871,21 +17479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり言われたことはなかったですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この私でよければいつでも退屈しのぎのお相手になりますよ！"
+                                "Reisha: I haven't been told that very often, but if it\npleases you, I'm always available to keep you entertained!"
                             ]
                         },
                         {
@@ -17932,7 +17526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうですか。"
+                                "Is that so?"
                             ]
                         },
                         {
@@ -17979,7 +17573,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "では今日はもう少しだけ、私もこの風にあたっていこうかしら。"
+                                "Then maybe today I'll spend a little more time out in this\nwind."
                             ]
                         },
                         {
@@ -18017,14 +17611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ハイッ！　そうしましょう……！"
+                                "Reisha: Yes! Let's do that...!"
                             ]
                         },
                         {

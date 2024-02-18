@@ -11,7 +11,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "標準的な回復薬。",
+        "description": "A standard healing potion.",
         "effects": [
             {
                 "code": 11,
@@ -23,7 +23,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "ポーション",
+        "name": "Potion",
         "note": "",
         "occasion": 0,
         "price": 150,
@@ -44,7 +44,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "標準的な精神回復薬。",
+        "description": "A standard mental recovery potion.",
         "effects": [
             {
                 "code": 12,
@@ -56,7 +56,7 @@
         "hitType": 0,
         "iconIndex": 178,
         "itypeId": 1,
-        "name": "マジックウォーター",
+        "name": "Magic Water",
         "note": "",
         "occasion": 0,
         "price": 300,
@@ -77,7 +77,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "状態異常に効果のある血清。",
+        "description": "A serum effective against status abnormalities.",
         "effects": [
             {
                 "code": 22,
@@ -137,7 +137,7 @@
         "hitType": 0,
         "iconIndex": 183,
         "itypeId": 1,
-        "name": "ディスペルハーブ",
+        "name": "Dispel Herb",
         "note": "",
         "occasion": 0,
         "price": 200,
@@ -158,7 +158,7 @@
             "type": 3,
             "variance": 20
         },
-        "description": "気付け薬。戦闘不能者の意識を回復する。",
+        "description": "An awakening drug. Restores consciousness to those unable to fight.",
         "effects": [
             {
                 "code": 22,
@@ -170,7 +170,7 @@
         "hitType": 0,
         "iconIndex": 221,
         "itypeId": 1,
-        "name": "スティミュラント",
+        "name": "Stimulant",
         "note": "",
         "occasion": 0,
         "price": 300,
@@ -191,7 +191,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "戦闘効果を打ち消す希少なハーブ。",
+        "description": "A rare herb that negates combat effects.",
         "effects": [
             {
                 "code": 34,
@@ -245,7 +245,7 @@
         "hitType": 0,
         "iconIndex": 184,
         "itypeId": 1,
-        "name": "アンダウンハーブ",
+        "name": "Undaun Herb",
         "note": "",
         "occasion": 0,
         "price": 300,
@@ -266,7 +266,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "高い効果が期待出来る回復薬。美味しくはない。",
+        "description": "A healing potion with high expected efficacy. Not tasty, though.",
         "effects": [
             {
                 "code": 11,
@@ -278,7 +278,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "ハイポーション",
+        "name": "High Potion",
         "note": "",
         "occasion": 0,
         "price": 700,
@@ -299,7 +299,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "速度補正付きの回復薬。",
+        "description": "A healing potion with a speed boost effect.",
         "effects": [
             {
                 "code": 11,
@@ -311,7 +311,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "クイックハイポーション",
+        "name": "Quick High Potion",
         "note": "",
         "occasion": 0,
         "price": 700,
@@ -332,7 +332,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "しなびてはいるが最低限の効能は期待出来るだろう。",
+        "description": "Withered, but should provide the minimum expected efficacy.",
         "effects": [
             {
                 "code": 11,
@@ -344,7 +344,7 @@
         "hitType": 0,
         "iconIndex": 181,
         "itypeId": 1,
-        "name": "薬草",
+        "name": "Herb",
         "note": "",
         "occasion": 0,
         "price": 150,
@@ -365,12 +365,12 @@
             "type": 1,
             "variance": 0
         },
-        "description": "このようなものに説明の必要は無いだろう。",
+        "description": "There's no need to explain such a thing.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 177,
         "itypeId": 1,
-        "name": "自決薬",
+        "name": "Decisive Drug",
         "note": "",
         "occasion": 1,
         "price": 5,
@@ -391,7 +391,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "希少な回復薬。その効能は圧倒的であるが高価であるが故に使い渋る者も多く、\n洞窟の奥地にて冒険者の骸の横でキレイなまま転がっていることも多い。",
+        "description": "A rare healing potion. Its effects are overwhelming, but due to its high cost,\nmany hesitate to use it, often found rolling next to the corpses of adventurers\nin the depths of caves, still pristine.",
         "effects": [
             {
                 "code": 11,
@@ -409,7 +409,7 @@
         "hitType": 0,
         "iconIndex": 179,
         "itypeId": 1,
-        "name": "エリクシール",
+        "name": "Elixir",
         "note": "",
         "occasion": 0,
         "price": 5000,
@@ -430,7 +430,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "もっとも希少な回復薬。その効果は絶大であり周囲の者も含めて癒しを与える。\nキラキラと輝く純なる小瓶は少しだけあたたかく、困難に立ち向かう勇気をももたらす。",
+        "description": "The most rare healing potion. Its effects are tremendous, providing healing to\nthose around as well. The pure small bottle that sparkles and is slightly warm\nbrings courage to face hardships.",
         "effects": [
             {
                 "code": 11,
@@ -544,7 +544,7 @@
         "hitType": 0,
         "iconIndex": 179,
         "itypeId": 1,
-        "name": "エリクシールティアーズ",
+        "name": "Elixir Tears",
         "note": "",
         "occasion": 1,
         "price": 25000,
@@ -565,7 +565,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "より高い効果が期待出来る上位の回復薬。味も良し。",
+        "description": "An advanced healing potion with higher expected efficacy. Tastes good as well.",
         "effects": [
             {
                 "code": 11,
@@ -577,7 +577,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "レカーポーション",
+        "name": "Recover Potion",
         "note": "",
         "occasion": 0,
         "price": 1200,
@@ -603,7 +603,7 @@
         "hitType": 0,
         "iconIndex": 161,
         "itypeId": 1,
-        "name": "デバッグアイテム(敵殲滅)",
+        "name": "Debug Item (Enemy Annihilation)",
         "note": "",
         "occasion": 1,
         "price": 0,
@@ -624,7 +624,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "メッセージの表示設定、メッセージの自動送りの表示時間の設定を行います。",
+        "description": "Configure display settings for messages and set the display time for auto-\nadvance.",
         "effects": [
             {
                 "code": 44,
@@ -636,7 +636,7 @@
         "hitType": 0,
         "iconIndex": 4,
         "itypeId": 2,
-        "name": "メッセージ表示設定",
+        "name": "Message Display Settings",
         "note": "",
         "occasion": 2,
         "price": 0,
@@ -657,7 +657,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "イベント回想部屋へ移動します。",
+        "description": "Move to the event recollection room.",
         "effects": [
             {
                 "code": 44,
@@ -669,7 +669,7 @@
         "hitType": 0,
         "iconIndex": 84,
         "itypeId": 2,
-        "name": "回想部屋へ",
+        "name": "Go to the Recollection Room",
         "note": "",
         "occasion": 2,
         "price": 0,
@@ -690,7 +690,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "イベントCGの腋毛表示のオンオフを切り換えます。苦手な人はお使いください。",
+        "description": "Toggle on and off the display of armpit hair in event CGs. Please use if you're\nnot comfortable with it.",
         "effects": [
             {
                 "code": 44,
@@ -702,7 +702,7 @@
         "hitType": 0,
         "iconIndex": 75,
         "itypeId": 2,
-        "name": "腋毛非表示スイッチ",
+        "name": "Armpit Hair Visibility Switch",
         "note": "",
         "occasion": 2,
         "price": 0,
@@ -723,7 +723,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "砕けた骨の欠片。\n握れば手の中で容易に崩れるそれは小石と混ぜれば目潰しとして使えるだろう。",
+        "description": "Fragments of shattered bone. If gripped, they easily crumble in the hand and\ncould be mixed with pebbles to use as a blinding agent.",
         "effects": [
             {
                 "code": 21,
@@ -735,7 +735,7 @@
         "hitType": 0,
         "iconIndex": 3,
         "itypeId": 1,
-        "name": "微細な遺灰",
+        "name": "Fine Ashes",
         "note": "",
         "occasion": 1,
         "price": 100,
@@ -756,7 +756,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "味方単体の攻撃能力を一時的に向上させるマジックアイテム。\n魔術知識の無い者でも使える簡易術式が書かれた特殊な紙片。使用すると消滅する。",
+        "description": "A magic item that temporarily enhances the attack ability of a single ally. A\nspecial piece of paper with a simple spell written on it that can be used even\nby those without magical knowledge. It disappears after use.",
         "effects": [
             {
                 "code": 31,
@@ -768,7 +768,7 @@
         "hitType": 0,
         "iconIndex": 194,
         "itypeId": 1,
-        "name": "アタックアップ",
+        "name": "Attack Up",
         "note": "",
         "occasion": 1,
         "price": 800,
@@ -789,7 +789,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "味方単体の魔法力を一時的に向上させるマジックアイテム。\n魔術知識の無い者でも使える簡易術式が書かれた特殊な紙片。使用すると消滅する。",
+        "description": "A magic item that temporarily enhances the magical power of a single ally. A\nspecial piece of paper with a simple spell written on it that can be used even\nby those without magical knowledge. It disappears after use.",
         "effects": [
             {
                 "code": 31,
@@ -801,7 +801,7 @@
         "hitType": 0,
         "iconIndex": 194,
         "itypeId": 1,
-        "name": "マジックアップ",
+        "name": "Magic Up",
         "note": "",
         "occasion": 1,
         "price": 800,
@@ -822,7 +822,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "味方単体の防御能力を一時的に向上させるマジックアイテム。\n魔術知識の無い者でも使える簡易術式が書かれた特殊な紙片。使用すると消滅する。",
+        "description": "A magic item that temporarily enhances the defense ability of a single ally. A\nspecial piece of paper with a simple spell written on it that can be used even\nby those without magical knowledge. It disappears after use.",
         "effects": [
             {
                 "code": 31,
@@ -834,7 +834,7 @@
         "hitType": 0,
         "iconIndex": 194,
         "itypeId": 1,
-        "name": "ディフェンスアップ",
+        "name": "Defense Up",
         "note": "",
         "occasion": 1,
         "price": 800,
@@ -855,7 +855,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "味方単体の抗魔力を一時的に向上させるマジックアイテム。\n魔術知識の無い者でも使える簡易術式が書かれた特殊な紙片。使用すると消滅する。",
+        "description": "A magic item that temporarily enhances the magic resistance of a single ally. A\nspecial piece of paper with a simple spell written on it that can be used even\nby those without magical knowledge. It disappears after use.",
         "effects": [
             {
                 "code": 31,
@@ -867,7 +867,7 @@
         "hitType": 0,
         "iconIndex": 194,
         "itypeId": 1,
-        "name": "アンティマアップ",
+        "name": "Anti-Magic Up",
         "note": "",
         "occasion": 1,
         "price": 800,
@@ -888,7 +888,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "高い効果が期待できる上位の精神回復薬。",
+        "description": "An advanced mental recovery potion with high expected efficacy.",
         "effects": [
             {
                 "code": 12,
@@ -900,7 +900,7 @@
         "hitType": 0,
         "iconIndex": 178,
         "itypeId": 1,
-        "name": "マジックミスト",
+        "name": "Magic Mist",
         "note": "",
         "occasion": 0,
         "price": 800,
@@ -921,12 +921,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "レイシアが身体の落書きを拭き取るのに使ったタオル。染料と女のやわらかな香りがする。",
+        "description": "The towel Reisha used to wipe off body graffiti. It smells of dye and a woman's\nsoft scent.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 314,
         "itypeId": 2,
-        "name": "使用済みタオル",
+        "name": "Used Towel",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -947,12 +947,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "望まぬ妊娠を避けるために膣内より排出した精液。\n掻き出す為に滑り込ませた指が柔らかな膣壁に受け入れてはいけない刺激を覚えさせる。",
+        "description": "Semen expelled from the vagina to avoid unwanted pregnancy. The fingers slipped\nin to scrape it out make the soft vaginal walls remember a stimulation they\nshould not accept.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 304,
         "itypeId": 2,
-        "name": "掻き出した精液",
+        "name": "Scraped Out Semen",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -973,12 +973,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "情欲に汚された性器の内より生温い精液に混じり掻き出された恥垢。\n不衛生な魔物の物か、白く泡立つ性器の中に残された誰かの物か、もう判別がつかない。",
+        "description": "Shameful smegma scraped out from a lust-dirtied genitalia, mixed with lukewarm\nsemen. Whether it's from an unhygienic monster or left inside someone's frothy\ngenitals, it's indistinguishable now.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 304,
         "itypeId": 2,
-        "name": "異臭放つ恥垢",
+        "name": "Foul-Smelling Smegma",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -999,7 +999,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "異常なまでの回復力を誇るが大容量の為、飲むのに時間がかかる。",
+        "description": "Boasts abnormal recovery power but takes time to drink due to its large volume.",
         "effects": [
             {
                 "code": 11,
@@ -1203,7 +1203,7 @@
         "hitType": 0,
         "iconIndex": 180,
         "itypeId": 1,
-        "name": "不死の秘薬",
+        "name": "Elixir of Immortality",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -1224,7 +1224,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "武器に炎の属性を付与する。",
+        "description": "Imbues weapons with the attribute of fire.",
         "effects": [
             {
                 "code": 21,
@@ -1236,7 +1236,7 @@
         "hitType": 0,
         "iconIndex": 162,
         "itypeId": 1,
-        "name": "炎の",
+        "name": "Flame of ",
         "note": "",
         "occasion": 1,
         "price": 0,
@@ -1283,12 +1283,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "「実験区」と彫り痕がある複雑な形状をした鍵。",
+        "description": "A key with complex shapes and \"Experiment Area\" engraved on it.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 195,
         "itypeId": 2,
-        "name": "「実験区」の鍵",
+        "name": "\"Experimental Area\" Key",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -1309,12 +1309,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "「資料室」と彫り痕がある複雑な形状をした鍵。",
+        "description": "A key with complex shapes and \"Library\" engraved on it.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 195,
         "itypeId": 2,
-        "name": "「資料室」の鍵",
+        "name": "\"Archive Room\" Key",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -1335,12 +1335,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "「個人研究室」と彫り痕がある複雑な形状をした鍵。",
+        "description": "A key with complex shapes and \"Private Research Room\" engraved on it.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 195,
         "itypeId": 2,
-        "name": "「個人研究室」の鍵",
+        "name": "\"Personal Research Lab\" Key",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -1361,12 +1361,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "「最上階」と彫り痕がある簡素な形状をした魔術施錠を解く鍵。",
+        "description": "A key with a simple shape and \"Top Floor\" engraved on it, used to unlock magical\nlocks.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 195,
         "itypeId": 2,
-        "name": "「最上階」の鍵",
+        "name": "\"Top Floor\" Key",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -1387,7 +1387,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "資料室にあった手記のひとつ。『魔導ゴーレムについて』と書かれている。",
+        "description": "One of the notebooks found in the library. It's titled \"About Magic Golems.\"",
         "effects": [
             {
                 "code": 44,
@@ -1399,7 +1399,7 @@
         "hitType": 0,
         "iconIndex": 193,
         "itypeId": 2,
-        "name": "資料01-a『魔導ゴーレムについて』",
+        "name": "Document 01-a \"On Magic Golems\"",
         "note": "",
         "occasion": 2,
         "price": 0,
@@ -1420,7 +1420,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "資料室にあった手記のひとつ。『魔鉱晶石について』と書かれている。",
+        "description": "One of the notebooks found in the library. It's titled \"About Magic Ore\nCrystals.\"",
         "effects": [
             {
                 "code": 44,
@@ -1432,7 +1432,7 @@
         "hitType": 0,
         "iconIndex": 193,
         "itypeId": 2,
-        "name": "資料01-b『魔鉱晶石について』",
+        "name": "Document 01-b \"On Magic Ore Crystals\"",
         "note": "",
         "occasion": 2,
         "price": 0,
@@ -1453,7 +1453,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "資料室にあった手記のひとつ。この研究所の責任者の手で書かれたもののようだ。",
+        "description": "One of the notebooks found in the library. It seems to be written by the person\nin charge of this research facility.",
         "effects": [
             {
                 "code": 44,
@@ -1465,7 +1465,7 @@
         "hitType": 0,
         "iconIndex": 193,
         "itypeId": 2,
-        "name": "資料01-c『魔導研究者の手記01』",
+        "name": "Document 01-c \"Notes of a Magic Researcher 01\"",
         "note": "",
         "occasion": 2,
         "price": 0,
@@ -1486,7 +1486,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "資料室にあった手記のひとつ。この研究所の責任者の手で書かれたもののようだ。",
+        "description": "One of the notebooks found in the library. It seems to be written by the person\nin charge of this research facility.",
         "effects": [
             {
                 "code": 44,
@@ -1498,7 +1498,7 @@
         "hitType": 0,
         "iconIndex": 192,
         "itypeId": 2,
-        "name": "資料-『魔導研究者の手記02』",
+        "name": "Document - \"Notes of a Magic Researcher 02\"",
         "note": "",
         "occasion": 2,
         "price": 0,
@@ -1545,7 +1545,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "書斎にあった手記のひとつ。『王家に起こる不運』と書かれている。",
+        "description": "One of the notebooks found in the study. It's titled \"The Royal Family's\nMisfortunes.\"",
         "effects": [
             {
                 "code": 44,
@@ -1557,7 +1557,7 @@
         "hitType": 0,
         "iconIndex": 189,
         "itypeId": 2,
-        "name": "資料02-a『王家に起こる不運』",
+        "name": "Document 02-a \"The Royal Family's Misfortunes\"",
         "note": "",
         "occasion": 2,
         "price": 0,
@@ -1578,7 +1578,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "書斎にあった手記のひとつ。『王兄殿下の離反』と書かれている。",
+        "description": "One of the notebooks found in the study. It's titled \"The Prince's Defection.\"",
         "effects": [
             {
                 "code": 44,
@@ -1590,7 +1590,7 @@
         "hitType": 0,
         "iconIndex": 189,
         "itypeId": 2,
-        "name": "資料02-b『王兄殿下の離反』",
+        "name": "Document 02-b \"His Highness the Prince's Defection\"",
         "note": "",
         "occasion": 2,
         "price": 0,
@@ -1611,7 +1611,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "書斎にあった手記のひとつ。『王家の血の濃さとは』と書かれている。",
+        "description": "One of the notebooks found in the study. It's titled \"The Purity of Royal\nBlood.\"",
         "effects": [
             {
                 "code": 44,
@@ -1623,7 +1623,7 @@
         "hitType": 0,
         "iconIndex": 189,
         "itypeId": 2,
-        "name": "資料02-c『王家の血の濃さとは』",
+        "name": "Document 02-c \"On the Purity of the Royal Blood\"",
         "note": "",
         "occasion": 2,
         "price": 0,
@@ -1644,7 +1644,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "書斎にあった手記のひとつ。『血脈の研究について』と書かれている。",
+        "description": "One of the notebooks found in the study. It's titled \"Research on Bloodlines.\"",
         "effects": [
             {
                 "code": 44,
@@ -1656,7 +1656,7 @@
         "hitType": 0,
         "iconIndex": 189,
         "itypeId": 2,
-        "name": "資料03-a『血脈の研究について』",
+        "name": "Document 03-a \"On the Study of Bloodlines\"",
         "note": "",
         "occasion": 2,
         "price": 0,
@@ -1677,7 +1677,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "書斎にあった手記のひとつ。『あかつきの剣について』と書かれている。",
+        "description": "One of the notebooks found in the study. It's titled \"About the Sword of Dawn.\"",
         "effects": [
             {
                 "code": 44,
@@ -1689,7 +1689,7 @@
         "hitType": 0,
         "iconIndex": 189,
         "itypeId": 2,
-        "name": "資料03-b『あかつきの剣について:01』",
+        "name": "Document 03-b \"About the Sword of Dawn:01\"",
         "note": "",
         "occasion": 2,
         "price": 0,
@@ -1710,7 +1710,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "書斎にあった手記のひとつ。『あかつきの剣について』と書かれている。",
+        "description": "One of the journals found in the study. It's titled \"About the Sword of Dawn.\"",
         "effects": [
             {
                 "code": 44,
@@ -1722,7 +1722,7 @@
         "hitType": 0,
         "iconIndex": 189,
         "itypeId": 2,
-        "name": "資料03-c『あかつきの剣について:02』",
+        "name": "Document 03-c \"About the Sword of Dawn:02\"",
         "note": "",
         "occasion": 2,
         "price": 0,
@@ -1769,12 +1769,12 @@
             "type": 1,
             "variance": 0
         },
-        "description": "このようなものに説明の必要は無いだろう。",
+        "description": "There's no need for an explanation for such a thing.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 177,
         "itypeId": 1,
-        "name": "自決薬(個別)",
+        "name": "Seppuku Medicine (Individual)",
         "note": "",
         "occasion": 1,
         "price": 5,
@@ -1847,7 +1847,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "強敵を撃破した証。騎士の経験を分け与えパーティ全体のレベルを上昇させる。\n",
+        "description": "A proof of defeating a formidable enemy. It shares the knight's experience and\nraises the entire party's level.",
         "effects": [
             {
                 "code": 44,
@@ -1859,7 +1859,7 @@
         "hitType": 0,
         "iconIndex": 208,
         "itypeId": 1,
-        "name": "騎士の誉れ",
+        "name": "Knight's Honor",
         "note": "",
         "occasion": 2,
         "price": 0,
@@ -1906,7 +1906,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "洞窟コウモリが落としたそれなりに大きい牙。売った金で武具の強化でもと冒険者は好む。\n実用面よりは装飾や魔除けの意味合いで用いられることが多い。[使用：DEF+3]",
+        "description": "A reasonably large fang dropped by a cave bat. Adventurers prefer to sell it for\nmoney to enhance their equipment. It is often used more for decoration or as a\ntalisman than for practical purposes. [Use: DEF+3]",
         "effects": [
             {
                 "code": 42,
@@ -1918,7 +1918,7 @@
         "hitType": 0,
         "iconIndex": 294,
         "itypeId": 1,
-        "name": "吸血コウモリの牙",
+        "name": "Vampire Bat Fang",
         "note": "",
         "occasion": 2,
         "price": 500,
@@ -1939,7 +1939,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "スライムの中で研磨された石。魔力を帯びたものもあればそうでないものもある。\n使用の際はよく洗った方がいいのは確か。[使用：MAT+3]",
+        "description": "A stone polished inside a slime. Some are imbued with magical power, while\nothers are not. It's certain that one should wash it well before use. [Use:\nMAT+3]",
         "effects": [
             {
                 "code": 42,
@@ -1951,7 +1951,7 @@
         "hitType": 0,
         "iconIndex": 299,
         "itypeId": 1,
-        "name": "キレイな石",
+        "name": "Pretty Stone",
         "note": "",
         "occasion": 2,
         "price": 500,
@@ -1972,7 +1972,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "人の澱の魔物は妙に大きい。その流す血も黒く、固まったそれは魔力の残滓が濃い。\n魔術的な触媒を求める物には重宝されるだろう。[使用：MDF+3]",
+        "description": "The demons of human stagnation are oddly large. The blood they shed is black,\nand the clotted remains are rich in magical residue. It will be treasured by\nthose seeking a magical catalyst. [Use: MDF+3]",
         "effects": [
             {
                 "code": 42,
@@ -1984,7 +1984,7 @@
         "hitType": 0,
         "iconIndex": 297,
         "itypeId": 1,
-        "name": "大ネズミの黒血",
+        "name": "Giant Rat's Black Blood",
         "note": "",
         "occasion": 2,
         "price": 500,
@@ -2005,7 +2005,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "人の澱の魔物は妙に大きい。故に蛇眼も大きく取れる皮の量も多い。\n返り討ちのついでだ、財布の足しに少し頂いていこう。[使用：LUK+3]",
+        "description": "The demons of human stagnation are oddly large. Hence, their snake eyes are\nlarge, and a lot of skin can be harvested. It's just incidental loot, let's take\na little as a supplement to our wallet. [Use: LUK+3]",
         "effects": [
             {
                 "code": 42,
@@ -2017,7 +2017,7 @@
         "hitType": 0,
         "iconIndex": 302,
         "itypeId": 1,
-        "name": "赤舌蛇の眼",
+        "name": "Red-Tongued Serpent's Eye",
         "note": "",
         "occasion": 2,
         "price": 500,
@@ -2038,7 +2038,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "地底蜘蛛の吐く糸。トラップに使う際には非常に便利であり一部の職業の者は好んで用いる。\n野ウサギ程度なら簡単に自由を奪える程度に丈夫。喜べ今夜は肉だぞ。[使用：MHP+10]",
+        "description": "The thread spun by an underground spider. Extremely convenient for setting\ntraps, and some professionals prefer to use it. Sturdy enough to easily deprive\nsomething as small as a wild rabbit of its freedom. Rejoice, for tonight we\nfeast on meat. [Use: MHP+10]",
         "effects": [
             {
                 "code": 42,
@@ -2050,7 +2050,7 @@
         "hitType": 0,
         "iconIndex": 290,
         "itypeId": 1,
-        "name": "地底蜘蛛の糸",
+        "name": "Subterranean Spider's Thread",
         "note": "",
         "occasion": 2,
         "price": 500,
@@ -2071,7 +2071,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "魔導研究所の警備兵が落とした水晶の欠片のようなもの。\n小さい欠片だが幾重にも術式が編まれているのか魔力的な存在感がある。[使用：MAT+5]",
+        "description": "A fragment resembling a crystal shard dropped by the security guards at the\nmagic research institute. Although it's a small piece, it has a magical presence\nas if multiple spells have been woven into it. [Use: MAT+5]",
         "effects": [
             {
                 "code": 42,
@@ -2083,7 +2083,7 @@
         "hitType": 0,
         "iconIndex": 300,
         "itypeId": 1,
-        "name": "魔鉱晶石の欠片",
+        "name": "Magical Ore Crystal Fragment",
         "note": "",
         "occasion": 2,
         "price": 500,
@@ -2104,7 +2104,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "魔導研究所の魔物が落とした水晶の欠片のようなもの。魔術が不得手な者でも所持するだけで\n身体能力を向上させるように驚くべき技術で量産されたもの。[使用：AGI+5]",
+        "description": "A fragment resembling a crystal shard dropped by the monsters at the magic\nresearch institute. Even those who are not adept at magic will find their\nphysical abilities enhanced just by possessing it, thanks to the astonishing\ntechnology used to mass-produce it. [Use: AGI+5]",
         "effects": [
             {
                 "code": 42,
@@ -2116,7 +2116,7 @@
         "hitType": 0,
         "iconIndex": 300,
         "itypeId": 1,
-        "name": "魔力感応石の欠片",
+        "name": "Magical Sensing Stone Fragment",
         "note": "",
         "occasion": 2,
         "price": 500,
@@ -2137,7 +2137,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "魔術師が落とした邪眼のお守り。魔術師が好む宝石を加工したアクセサリーであり、\n夜目が利くようになるという言い伝えがある。高価なためかよく盗まれがち。[使用：MMP+10]",
+        "description": "An evil eye charm dropped by a magician. It's an accessory made from a gemstone\nfavored by magicians, and there's a legend that it allows one to see in the\ndark. It tends to be stolen often because of its high value. [Use: MMP+10]",
         "effects": [
             {
                 "code": 42,
@@ -2149,7 +2149,7 @@
         "hitType": 0,
         "iconIndex": 302,
         "itypeId": 1,
-        "name": "イビルアイのお守り",
+        "name": "Evil Eye Amulet",
         "note": "",
         "occasion": 2,
         "price": 500,
@@ -2170,7 +2170,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "死肉喰らいは野蛮で食欲があり何でも食べる。好物は自分より弱い他者から奪い取った肉。\n使役できるように魔術的な処置が施されており、施設の掃除係である。[使用：ATK+5]",
+        "description": "The carrion eater is barbaric and gluttonous, consuming anything and everything.\nIts favorite food is meat snatched from others weaker than itself. Magical\nprocedures have been applied to make it controllable, serving as a cleaner for\nthe facility. [Use: ATK+5]",
         "effects": [
             {
                 "code": 42,
@@ -2182,7 +2182,7 @@
         "hitType": 0,
         "iconIndex": 292,
         "itypeId": 1,
-        "name": "丈夫な骨",
+        "name": "Sturdy Bone",
         "note": "",
         "occasion": 2,
         "price": 500,
@@ -2203,7 +2203,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "魔導研究所を徘徊する魔物に取り付けられた魔鉱晶石の比較的大きな破片。\n行動の制限/操作、狂化のコントロールが可能になる術式が編まれている。[使用：MMP+10]",
+        "description": "A relatively large fragment of magical ore crystal attached to the monsters\nwandering the magic research institute. Spells have been woven into it to allow\nfor control/restriction of actions and management of madness. [Use: MMP+10]",
         "effects": [
             {
                 "code": 42,
@@ -2215,7 +2215,7 @@
         "hitType": 0,
         "iconIndex": 303,
         "itypeId": 1,
-        "name": "大きな魔石の欠片",
+        "name": "Large Magic Stone Fragment",
         "note": "",
         "occasion": 2,
         "price": 500,
@@ -2236,7 +2236,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "始末屋が落とした光の反射が無い小振りのナイフ。殺傷のみを目的としたそれには、\n雑作業用の無骨さが無く剥き出しの殺意が見て取れる。[使用：ATK+8]",
+        "description": "A small knife dropped by an assassin that reflects no light. Designed solely for\nkilling, it lacks the ruggedness of a utility blade, and its bare murderous\nintent is evident. [Use: ATK+8]",
         "effects": [
             {
                 "code": 42,
@@ -2248,7 +2248,7 @@
         "hitType": 0,
         "iconIndex": 96,
         "itypeId": 1,
-        "name": "始末屋のナイフ",
+        "name": "Cleaner's Knife",
         "note": "",
         "occasion": 2,
         "price": 500,
@@ -2269,7 +2269,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "魔導研究所を徘徊する植物モンスターの蔓。コントロール出来るように処置を施されており、\nやって来る者を意思なく攻撃する様は、さながら移動が可能なトラップである。[使用：DEF+8]",
+        "description": "The vines of a plant monster wandering the magic research institute. Treated to\nbe controllable, its attacks on incoming intruders without will resemble that of\na movable trap. [Use: DEF+8]",
         "effects": [
             {
                 "code": 42,
@@ -2281,7 +2281,7 @@
         "hitType": 0,
         "iconIndex": 290,
         "itypeId": 1,
-        "name": "イビルプラントの蔓",
+        "name": "Evil Plant Tendril",
         "note": "",
         "occasion": 2,
         "price": 500,

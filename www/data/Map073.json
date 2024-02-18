@@ -7664,14 +7664,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "騎士よ、前へ。"
+                                "Chancellor: Knight, step forward."
                             ]
                         },
                         {
@@ -7702,7 +7695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "──はっ！"
+                                "──Yes, sir!"
                             ]
                         },
                         {
@@ -7898,21 +7891,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "現在、我らが王都ニアレイクは混乱の最中にある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "近隣諸国との政治的緊張、周辺地域に出現し領内を脅かす魔物ども。"
+                                "Chancellor: Currently, our royal capital Near Lake is amidst\nchaos. There's political tension with neighboring countries\nand monsters threatening our territory from the surrounding\nareas."
                             ]
                         },
                         {
@@ -7929,21 +7908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その中でも、昨今急速に勢力を伸ばし被害を拡大させているのが西方に出現した"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大型の魔物の巣である。今も降りかかる災禍をおさえ民を救うのが目下の急務だ。"
+                                "Chancellor: Among these, the rapidly growing threat that has\nbeen expanding its damage is the large monster nest that has\nappeared to the west. Suppressing this calamity and saving\nour people is our most urgent task."
                             ]
                         },
                         {
@@ -7960,21 +7925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのため現在、西方への大規模な魔物討伐の遠征計画が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "我が国で進められているのは貴公も知るところであろう。"
+                                "Chancellor: Therefore, as you may well know, a large-scale\nmonster subjugation expedition to the west is currently\nbeing planned in our country."
                             ]
                         },
                         {
@@ -7998,14 +7949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この度その遠征計画に、先代王から王位を引き継いだ王女も同行していただく運びとなった。"
+                                "Chancellor: This time, the expedition will be accompanied by\nthe Princess who has inherited the throne from the former\nking."
                             ]
                         },
                         {
@@ -8038,7 +7982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それはなんと…！"
+                                "That is quite...!"
                             ]
                         },
                         {
@@ -8107,14 +8051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "話を続けるぞ。"
+                                "Chancellor: Let me continue."
                             ]
                         },
                         {
@@ -8169,14 +8106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もちろん前線へ赴き戦っていただくわけではない。"
+                                "Chancellor: Of course, she will not be going to the front\nlines to fight."
                             ]
                         },
                         {
@@ -8193,21 +8123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかしその戦闘規模から行軍日程、過酷な旅になることは想像に難くない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "手は尽くすが懸念されるのは兵たちの士気の低下による戦闘力の減衰である。"
+                                "Chancellor: However, considering the scale of the battle and\nthe march schedule, it's not hard to imagine that it will be\na grueling journey. We will do our utmost, but what concerns\nus is the potential decline in morale and combat\neffectiveness of our troops."
                             ]
                         },
                         {
@@ -8335,21 +8251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのため今回は王女自らが出向き陣営を鼓舞していただく。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "兵たちの精神的支柱となり必ずや士気向上を果たすことだろう。"
+                                "Chancellor: Therefore, this time the Princess herself will\nvisit the camp to inspire the troops. She will become a\npillar of mental support for them and will surely boost\ntheir morale."
                             ]
                         },
                         {
@@ -8366,14 +8268,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その我らが国の象徴の役割をつとめていただくこと、このたび王女自らご決断なされたのだ。"
+                                "Chancellor: It is her role as the symbol of our nation that\nshe has decided to undertake on this occasion."
                             ]
                         },
                         {
@@ -8404,7 +8299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "誠に立派にてございます、王女さま！"
+                                "Truly noble, Princess-sama!"
                             ]
                         },
                         {
@@ -8501,14 +8396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、問題もある。"
+                                "Chancellor: However, there is a problem."
                             ]
                         },
                         {
@@ -8563,21 +8451,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それは先代王の戦死から、王女への王位の引き継ぎが急務で行われ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そしてまだ間もないという点である。"
+                                "Chancellor: It is that the succession of the throne to the\nPrincess was an urgent matter following the death in battle\nof the former king, and it has not been long since then."
                             ]
                         },
                         {
@@ -8594,21 +8468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "遠征の準備を進めているが、残念ながら兵の中には"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "真にその命捧げるに値する主君かと未だ迷っている者も多く見受けられる。"
+                                "Chancellor: While we are preparing for the expedition,\nunfortunately, there are still many among the troops who are\nuncertain if she is truly a sovereign worthy of their lives."
                             ]
                         },
                         {
@@ -8663,7 +8523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんと無礼なことを…ッ！！"
+                                "What an insolent thing to say...!!"
                             ]
                         },
                         {
@@ -8710,14 +8570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王女："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の力が及ばぬのが原因だ。仕える者たちを悪く思わないで欲しい。"
+                                "Princess: It is my lack of power that is to blame. I do not\nwish for my servants to be thought ill of."
                             ]
                         },
                         {
@@ -8827,7 +8680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "我が主よ…上に立つ者がそのようなことを仰るべきではない……"
+                                "My liege... one in your position should not speak such\nwords..."
                             ]
                         },
                         {
@@ -8844,7 +8697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私共にもっとお支えする力があれば、かようなことは決して許しはしないのですが…"
+                                "If only we had more strength to support you, such things\nwould never be permitted..."
                             ]
                         },
                         {

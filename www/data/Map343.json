@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "暗道_01",
+    "displayName": "Dark Pathway_01",
     "encounterList": [],
     "encounterStep": 30,
     "height": 35,
@@ -11923,7 +11923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "移動先を選択してください。"
+                                "Please select a destination."
                             ]
                         },
                         {
@@ -11931,11 +11931,11 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "洞窟入口へ",
-                                    "魔導研究所入口へ",
-                                    "実験室前へ",
-                                    "個人研究室前へ",
-                                    "移動しない"
+                                    "To the cave entrance",
+                                    "To the entrance of the magical research institute",
+                                    "To the front of the laboratory",
+                                    "To the front of the private study",
+                                    "Do not move"
                                 ],
                                 2,
                                 0,
@@ -13059,7 +13059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戻りますか？"
+                                "Would you like to return?"
                             ]
                         },
                         {
@@ -13067,8 +13067,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

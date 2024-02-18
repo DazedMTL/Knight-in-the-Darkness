@@ -18460,7 +18460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "グハッ！！"
+                                "Ughh!!"
                             ]
                         },
                         {
@@ -18532,14 +18532,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつきリーダー："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "す！すげぇ！なんてパワーだ！！ハハ！ハハハハ！！"
+                                "Thug Leader: Whoa! Amazing! What power!! Haha! Hahahaha!!"
                             ]
                         },
                         {
@@ -19000,14 +18993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔導服の男："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もういいゴーレム。その辺にしておけ。"
+                                "Mage in Robes: That's enough, Golem. Leave it at that."
                             ]
                         },
                         {
@@ -19055,14 +19041,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔導服の男："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おい、これで満足か？"
+                                "Mage in Robes: Hey, are you satisfied now?"
                             ]
                         },
                         {
@@ -19124,14 +19103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつきリーダー："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ありがとよ！もう十分さ！"
+                                "Thug Leader: Thanks! That's plenty for us!"
                             ]
                         },
                         {
@@ -19186,21 +19158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔導服の男："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "口ほどにもなかったが、まぁいい。戦闘データは取れた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あとはお前らの好きなようにしたらいいさ。"
+                                "Mage in Robes: You didn't live up to your big talk, but oh\nwell. We got the combat data. The rest is up to you guys to\ndo as you please."
                             ]
                         },
                         {
@@ -19864,21 +19822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつきリーダー："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "散々暴れやがって。腕自慢だったようだが所詮は女。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前ひとりで俺たちを追い返そうなんざ無謀だったな。"
+                                "Thug Leader: After all that bluster and brawling. You seemed\nproud of your skills, but in the end, you're just a woman.\nTrying to drive us off all by yourself was foolish."
                             ]
                         },
                         {
@@ -19909,7 +19853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クソ……　頼む、私が悪かった。店の者達には手出しはしないでくれ……"
+                                "Damn... I beg you, it was my fault. Please don't harm the\npeople of the shop..."
                             ]
                         },
                         {
@@ -19940,14 +19884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつきリーダー："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何だお前ェ？雇われの分際で店庇うのかよ。気がしれねぇな。"
+                                "Thug Leader: What's with you? Defending the shop when you're\njust hired help. I can't understand your kind."
                             ]
                         },
                         {
@@ -19978,7 +19915,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私が戦いを挑み負けたのだ。その責めは私だけが受ければいい……そうだろう……"
+                                "It was I who challenged you to a fight and lost. I alone\nshould bear the blame... Right..."
                             ]
                         },
                         {
@@ -20009,21 +19946,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつきリーダー："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ま、店に手出ししないかはお前次第だけどな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オレたちを楽しませてくれるってんならその間は見逃してやってもいいぜ……？"
+                                "Thug Leader: Well, whether we lay hands on the shop or not\nis up to you. If you entertain us, we might just look the\nother way for a while...?"
                             ]
                         },
                         {
@@ -20054,7 +19977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クッ…　わかった。　何をすればいい。"
+                                "Tch... Understood. What do you want me to do?"
                             ]
                         },
                         {
@@ -20085,14 +20008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつきリーダー："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうこなくっちゃな♪　オイッ！お前ら！場所を移すぜェ！！"
+                                "Thug Leader: That's more like it♪ Hey guys! We're moving to\na new spot!!"
                             ]
                         },
                         {

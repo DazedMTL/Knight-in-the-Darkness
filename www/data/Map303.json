@@ -6762,7 +6762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "街中で青年は足を止める。"
+                                "In the middle of the town, the young man came to a halt."
                             ]
                         },
                         {
@@ -6808,7 +6808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "血まみれで切り伏せられた野盗、魔導士、兵士、その傍で佇む騎士の影があった。"
+                                "Bloodied bandits, sorcerers, and soldiers lay defeated, with\nthe shadow of a knight standing by their side."
                             ]
                         },
                         {
@@ -6854,14 +6854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "街に似つかわしくない鮮血の生臭さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その強烈な香りに青年は不意に自分の口の中を切ってしまったのかと錯覚した。"
+                                "The stench of fresh blood was out of place in the town. Its\nintense scent made the young man mistakenly think he had cut\nhis own mouth."
                             ]
                         },
                         {
@@ -6907,7 +6900,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "濃く届く血のニオイの中心に、影のように佇む騎士の姿を見た。"
+                                "In the center of the thick scent of blood, he saw the figure\nof a knight standing like a shadow."
                             ]
                         },
                         {
@@ -6971,7 +6964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "騎士といえばこんな噂を知っているか？"
+                                "Speaking of knights, do you know this rumor?"
                             ]
                         },
                         {
@@ -6988,14 +6981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "月照らす夜の暗闇から領内各地にふらりと現れては、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔物を斬り捨て再び夜の暗闇に戻っていくって放浪騎士のウワサをよ。"
+                                "It's about a wandering knight who appears out of nowhere in\nvarious parts of the territory under the moonlit night,\nslays monsters, and then vanishes back into the darkness."
                             ]
                         },
                         {
@@ -7063,21 +7049,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔物だけじゃなく兵士だろうと何だろうと相手を斬って捨てちまう"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "狂った亡我の騎士だろ？血に濡れた鎧は漆黒の闇のように黒ずんで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その姿を見てしまった者は生きて帰ることは出来ないって話だぜ。"
+                                "Not just monsters, but soldiers or whoever else; a mad\nknight who cuts down anyone in his path, right? They say his\narmor is stained with blood and as black as the darkest\nnight, and that no one who sees him lives to tell the tale."
                             ]
                         },
                         {
@@ -7188,7 +7160,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "青年の心臓がドクリとはねる。頭の中でグシャグシャと最悪の予感が展開する。"
+                                "The young man's heart skipped a beat. The worst premonitions\nunfolded messily in his head."
                             ]
                         },
                         {
@@ -7205,14 +7177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "眼前に散らばる鮮血、夜に出歩いた後悔、不運への苛立ち、全力で逃げ出せばあるいは……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "震える足に何とか力を込め逃亡を試みようとしたその時……──"
+                                "The blood scattered before his eyes, regret for walking out\nat night, irritation at his misfortune, and maybe if he ran\nwith all his might... Just as he tried to muster the\nstrength in his trembling legs to attempt an escape..."
                             ]
                         },
                         {
@@ -7294,7 +7259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "騎士は膝をつき、力無く倒れた。"
+                                "The knight fell to her knees, powerless."
                             ]
                         },
                         {
@@ -7311,7 +7276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今なら逃げられる。これ以上、関わるべきではない。青年の理性はたしかにそう告げた。"
+                                "Now was his chance to escape. He shouldn't get involved any\nfurther. The young man's reason was certainly telling him\nthat."
                             ]
                         },
                         {
@@ -7537,7 +7502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかし次の刹那、青年の身体は騎士の影に駆け寄っていた。"
+                                "But in the next instant, the young man found himself running\ntowards the shadow of the knight."
                             ]
                         },
                         {
@@ -7554,14 +7519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そばで転んだ子どもがいたら無条件で手を差し伸べてしまうかのように。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その騎士の姿があまりに弱々しかったからか。"
+                                "As if he would instinctively reach out to help a child who\nhad fallen nearby. Perhaps it was because the knight looked\nso frail."
                             ]
                         },
                         {
@@ -7612,7 +7570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うっ……　うぅ…………──"
+                                "Ugh...ugh..."
                             ]
                         },
                         {
@@ -7654,7 +7612,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あるいは星の明かりに照らされた騎士のその顔が、あまりに可憐であったせいであろうか。"
+                                "Or perhaps it was because the knight's face, illuminated by\nthe starlight, was so exceedingly lovely."
                             ]
                         },
                         {
@@ -7671,7 +7629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "血の中で崩れる切り伏せられた者たちを見た。関わったら最後、良くないことがきっと起こる。"
+                                "He saw those who had been cut down and collapsed in the\nblood. He knew that getting involved would surely lead to\nsomething terrible."
                             ]
                         },
                         {
@@ -7688,7 +7646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それでも青年は思ってしまったのだ。このままにしておくわけにはいかないと……──"
+                                "Yet, the young man thought to himself that he couldn't just\nleave things as they were..."
                             ]
                         },
                         {

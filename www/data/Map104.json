@@ -7461,7 +7461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（おいおい、今は集中するんだ。作業に戻るぞ！）"
+                                "(Hey, hey, focus now. Let's get back to work!)"
                             ]
                         },
                         {
@@ -9947,14 +9947,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "おぉ、よく来たな！さっそくだか作業の説明をするぞ。"
+                                "Worker: Oh, good to see you! Let's get straight to the work\nexplanation."
                             ]
                         },
                         {
@@ -9971,21 +9964,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "やることはシンプルだ。岩を見つけたらとにかくツルハシを振って振って振りまくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "で、ひとつでも多く岩を破壊してくれ。"
+                                "Worker: The task is simple. When you find a rock, just swing\nyour pickaxe like crazy. And try to break as many rocks as\nyou can."
                             ]
                         },
                         {
@@ -10002,21 +9981,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "聞いてると思うがここいらは地盤が緩い。もたもた岩を掘ってたら崩れちまうからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "キツイと思うが一気にやっちまってくれ。"
+                                "Worker: You might have heard, but the ground here is\nunstable. If you dawdle while digging, it could collapse.\nIt's tough, but try to do it all at once."
                             ]
                         },
                         {
@@ -10033,14 +9998,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "説明は以上だ。期待してるぜ姉ちゃん！"
+                                "Worker: That's all for the explanation. I'm counting on you,\nsis!"
                             ]
                         },
                         {
@@ -10071,7 +10029,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "任せておけ。ここに来て身体がなまっていたところだ。　ちょうどいい運動になる。"
+                                "Leave it to me. I've been getting a bit stiff since coming\nhere. This will be a good workout."
                             ]
                         },
                         {
@@ -10102,14 +10060,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "奴隷労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ひゅー！言うねぇ！！"
+                                "Slave Worker: Hyu-! You talk big!!"
                             ]
                         },
                         {
@@ -10164,14 +10115,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルールはシンプルです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "岩の前で決定ボタンを連打で岩を破壊。制限時間以内になるべく奥へ進んでください。"
+                                "The rules are simple. Just rapidly press the confirm button\nin front of a rock to destroy it. Try to go as deep as\npossible within the time limit."
                             ]
                         },
                         {
@@ -10195,7 +10139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "岩を殴る！岩を壊す！岩を殴る！岩を壊す！　うむっ！シンプルでいい！私好みだ！！"
+                                "Hit the rock! Break the rock! Hit the rock! Break the rock!\nUgh! Simple is best! Just my style!!"
                             ]
                         },
                         {
@@ -10379,7 +10323,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{それではいきます！！！　よ～い、\\|スタート！！"
+                                "Here we go!!! Ready, start!!!"
                             ]
                         },
                         {
@@ -10768,14 +10712,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\{ビクトリー！！ 殴り！壊す！殴り！！壊す！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "アンタすげぇぜ！！！すべての岩(？)を破壊したぞ！！！"
+                                "Victory!! Punch! Destroy! Punch!! Destroy!!! You're\namazing!!! You've destroyed all the rocks(?)!!!"
                             ]
                         },
                         {
@@ -11010,7 +10947,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "しまった！時間がかかりすぎている！！"
+                                "Damn it! This is taking too much time!!"
                             ]
                         },
                         {
@@ -11093,7 +11030,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\{危ない！危ない！危な～～い！！今にも崩れそうだ！！逃げろ～～～～！！！！"
+                                "Dangerous! Dangerous! So dangerous~~~!! It looks like it's\nabout to collapse!! Run away~~~~!!!!"
                             ]
                         },
                         {
@@ -11456,7 +11393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（おいおい、今は集中するんだ。作業に戻るぞ！）"
+                                "(Hey, hey, focus now. Let's get back to work!)"
                             ]
                         },
                         {
@@ -11564,7 +11501,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（おいおい、今は集中するんだ。作業に戻るぞ！）"
+                                "(Hey, hey, focus now. Let's get back to work!)"
                             ]
                         },
                         {

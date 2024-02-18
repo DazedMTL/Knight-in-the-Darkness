@@ -11394,14 +11394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お、おい！あんたは！！"
+                                "Thug Minion: Hey, you there!!"
                             ]
                         },
                         {
@@ -11524,7 +11517,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "貴様は、復興地区で店を襲ったごろつき連中の一人か！？お前が何故こんな所に……！？"
+                                "Are you one of the thugs who attacked the shop in the\nreconstruction district?! Why are you here...?!"
                             ]
                         },
                         {
@@ -11560,14 +11553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "詳しい話は後でする！兄貴が！ここの研究員共に実験室に連れて行かれちまった！！"
+                                "Thug Minion: We'll talk details later! It's my brother! He's\nbeen taken to the lab by the researchers here!!"
                             ]
                         },
                         {
@@ -11598,7 +11584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんだって！？"
+                                "What did you say?!?"
                             ]
                         },
                         {
@@ -11629,14 +11615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お願いだ！あの時の事は謝る！こんなこと頼めた義理じゃねぇことはわかってる！"
+                                "Thug Minion: Please! I apologize for what happened before! I\nknow I have no right to ask this of you!"
                             ]
                         },
                         {
@@ -11653,14 +11632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも今はあんたにしか頼めねぇ！お願いだ！！兄貴を助けてやってくれ！！"
+                                "Thug Minion: But right now, you're the only one I can turn\nto! Please!! Save my brother!!"
                             ]
                         },
                         {
@@ -11677,21 +11649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仲間も一人、あいつらの実験材料にされて殺されちまった！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの部屋に連れてかれた連中は誰も戻ってこないんだ！！"
+                                "Thug Minion: One of our guys was already used as\nexperimental material by them and got killed! No one who's\ntaken to that room ever comes back!!"
                             ]
                         },
                         {
@@ -11708,14 +11666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{頼むよ！兄貴を助けてやってくれ……！！お願いだッッ！！"
+                                "Thug Minion: I'm begging you! Please save my brother...!!\nPlease!!"
                             ]
                         },
                         {
@@ -11746,7 +11697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ッッッ！！その場所は何処だ！早く言え！"
+                                "Damn it!! Where is that place? Tell me quickly!"
                             ]
                         },
                         {
@@ -11815,14 +11766,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この道を行ってすぐの場所だと思う！！"
+                                "Thug Minion: I think it's just down this road!!"
                             ]
                         },
                         {
@@ -11853,7 +11797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{任された！"
+                                "I'm on it!"
                             ]
                         },
                         {
@@ -11870,14 +11814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（大方あの場を逃げた後、口封じの為にこの施設の連中に捕まったのだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　小悪党だが命に貴賎は無い。頼みとあらば私が何とかするのみ……！！）"
+                                "(They must have been caught by the facility's people to\nsilence them after escaping that scene. They may be petty\ncriminals, but life is precious regardless. If they're\nasking for help, it's up to me to do something...!!)"
                             ]
                         },
                         {

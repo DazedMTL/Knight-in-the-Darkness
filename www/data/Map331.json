@@ -60733,7 +60733,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "移動する場所を選択してください。"
+                                "Please select a destination to move to."
                             ]
                         },
                         {
@@ -60741,12 +60741,12 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "生活区",
-                                    "分岐路",
-                                    "労働区_看守前",
-                                    "出口への道(現在地)",
-                                    "出口_ボス戦前",
-                                    "やっぱりやめる。"
+                                    "Residential Area",
+                                    "Fork in the Road",
+                                    "Labor District_Before the Guard",
+                                    "Path to the Exit (Current Location)",
+                                    "Exit_Before Boss Battle",
+                                    "Actually, never mind."
                                 ],
                                 5,
                                 0,
@@ -61050,7 +61050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベントを閲覧しますか？"
+                                "Would you like to view the event?"
                             ]
                         },
                         {
@@ -61058,9 +61058,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "鼓舞(♥)",
-                                    "鼓舞(ノーマル)",
-                                    "やめる"
+                                    "Inspire (♥)",
+                                    "Inspire (Normal)",
+                                    "Cancel"
                                 ],
                                 2,
                                 0,
@@ -61217,7 +61217,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "chapter02：自由行動-後半にて看守(労働区)を打倒してください。"
+                                "Chapter 02: During the second half of Free Action, please\ndefeat the guard (Labor District)."
                             ]
                         },
                         {
@@ -61261,7 +61261,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "chapter02：自由行動-後半にて看守(分岐路)を打倒してください。"
+                                "Chapter 02: During the second half of Free Action, please\ndefeat the guard (Fork in the Road)."
                             ]
                         },
                         {
@@ -61305,7 +61305,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "chapter02：自由行動-前半にて少年労働者の加入条件を満たしてください。"
+                                "Chapter 02: During the first half of Free Action, please\nfulfill the conditions to recruit the young laborer."
                             ]
                         },
                         {
@@ -61349,7 +61349,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "chapter02：自由行動-前半にてミニゲームをクリアしてください。"
+                                "Chapter 02: During the first half of Free Action, please\nclear the mini-game."
                             ]
                         },
                         {
@@ -61393,7 +61393,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "chapter02：自由行動-前半にて労働者(魔)の加入条件を満たしてください。"
+                                "Chapter 02: During the first half of Free Action, please\nfulfill the conditions to recruit the laborer (demon)."
                             ]
                         },
                         {

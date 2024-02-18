@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "暗道_防衛戦",
+    "displayName": "Dark Pathway Defense Battle",
     "encounterList": [],
     "encounterStep": 30,
     "height": 65,
@@ -17809,7 +17809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "向かい側まで移動しますか？"
+                                "Would you like to move to the opposite side?"
                             ]
                         },
                         {
@@ -17817,8 +17817,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -17955,7 +17955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "向かい側まで移動しますか？"
+                                "Would you like to move to the opposite side?"
                             ]
                         },
                         {
@@ -17963,8 +17963,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -18101,7 +18101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・「イベント：魔導服の男」を再プレイしますか？"
+                                "Would you like to replay the \"Event: The Man in the Mage's\nGarb\"?"
                             ]
                         },
                         {
@@ -18109,8 +18109,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

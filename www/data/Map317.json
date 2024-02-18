@@ -18995,14 +18995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ピアノマン："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ど、どうしたその格好は！？さっさと奥へ！控え室に戻ってくれ！"
+                                "Pianist: Wh-What's with that outfit?! Hurry to the back!\nPlease return to the dressing room!"
                             ]
                         },
                         {
@@ -19109,21 +19102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガードマン："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ど、どうしたその格好は！？そのような姿でうろつかれては店の品位にかかわる！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とにかくさっさと奥へ！控え室に戻れ！"
+                                "Guardman: Wh-What's with that outfit!? Wandering around like\nthat will affect the shop's reputation! Anyway, hurry to the\nback! Return to the dressing room!"
                             ]
                         },
                         {
@@ -19230,21 +19209,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガードマン："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ど、どうしたその格好は！？そのような姿でうろつかれては店の品位にかかわる！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とにかくさっさと奥へ！控え室に戻れ！"
+                                "Guardman: Wh-What's with that outfit!? Wandering around like\nthat will affect the shop's reputation! Anyway, hurry to the\nback! Return to the waiting room!"
                             ]
                         },
                         {
@@ -20251,21 +20216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バーテン："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ど、どうしたその格好は！？そのような姿でうろつかれては店の品位にかかわる！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とにかくさっさと奥へ！控え室に戻れ！"
+                                "Bartender: \"What's with that outfit!? Wandering around like\nthat affects the dignity of the shop! Anyway, hurry to the\nback! Return to the dressing room!\""
                             ]
                         },
                         {
@@ -21804,21 +21755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性客："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君、良いデカパイだねぇ♡身体はハリがあって引き締まってて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "足はまぁちょっと太いかな～♡"
+                                "Male Customer: \"You've got some nice big tits there♡ Your\nbody is firm and toned, though your legs are, well, a bit\nthick maybe~♡\""
                             ]
                         },
                         {
@@ -21842,7 +21779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……その太い足で今すぐ蹴り飛ばしてやろうか？"
+                                "...Shall I kick you flying with these thick legs right now?"
                             ]
                         },
                         {
@@ -21875,14 +21812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性客："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ハハハ……"
+                                "Male Customer: \"Hahaha...\""
                             ]
                         },
                         {
@@ -22342,14 +22272,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バニー："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな格好までして、他人の客を盗ろうってワケ？　あんたサイテーね。"
+                                "Bunny: So you're dressed like that to steal someone else's\ncustomers? You're the worst."
                             ]
                         },
                         {
@@ -22373,7 +22296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ち、違うんだ！これは……！"
+                                "No, that's not it! This is...!"
                             ]
                         },
                         {
@@ -22504,14 +22427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性客："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "1回10Ｇ？本当かい？でもこんな大勢の前でするのはなぁ……、君はそういうのが好きなのかい？"
+                                "Male Customer: 10G for one time? Really? But doing it in\nfront of so many people... Do you like that sort of thing?"
                             ]
                         },
                         {
@@ -22535,7 +22451,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………ッ！"
+                                "...!"
                             ]
                         },
                         {
@@ -22568,14 +22484,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性客："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "冗談だよ冗談。そんなに睨まないでくれ！"
+                                "Male Customer: Just kidding, just kidding. Don't glare at me\nlike that!"
                             ]
                         },
                         {
@@ -22668,14 +22577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バニー："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょ、ちょっと！どうしたのその格好！？縛られてるじゃない！？"
+                                "Bunny: Hey, wait a minute! What's with that outfit?! You're\nall tied up, aren't you?!"
                             ]
                         },
                         {
@@ -22706,7 +22608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "話は後だ、とにかく拘束を解くのを手伝ってくれると助かる……"
+                                "The details can wait, for now, I'd really appreciate it if\nyou could help me get these restraints off..."
                             ]
                         },
                         {
@@ -22797,14 +22699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性客："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うひゃあ！なんて過激な衣装だ！！"
+                                "Male Customer: Uhyaa! What an extreme outfit!!"
                             ]
                         },
                         {
@@ -22828,7 +22723,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、あまりジロジロと見ないでもらえると助かる……"
+                                "Ah, I'd appreciate it if you didn't stare so much..."
                             ]
                         },
                         {
@@ -22852,14 +22747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性客："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "キミ、かわいいのに、ねぇ……"
+                                "Male Customer: You're cute, but, you know..."
                             ]
                         },
                         {
@@ -22883,7 +22771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ぐ……　蔑む目が余りにも、苦しい……）"
+                                "(Ugh... The scornful looks are just too painful...)"
                             ]
                         },
                         {
@@ -23043,14 +22931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性客："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "え、ええっと……、君も大変なんだね。"
+                                "Male Customer: Uh, um... you seem to be having a tough time\ntoo."
                             ]
                         },
                         {
@@ -23074,7 +22955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "き、気遣い感謝するが……あまりジロジロと見ないでもらえると、助かるよ……"
+                                "I, I appreciate the concern... but I'd be grateful if you\ndidn't stare so much..."
                             ]
                         },
                         {
@@ -23223,14 +23104,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バニー："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな格好までして、他人の客を盗ろうってワケ？　あんたサイテーね。"
+                                "Bunny: So you're dressed like that to steal someone else's\ncustomers? You're the worst."
                             ]
                         },
                         {
@@ -23254,7 +23128,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ち、違うんだ！これは……！"
+                                "No, that's not it! This is...!"
                             ]
                         },
                         {
@@ -23385,21 +23259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性客："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うっ……！　はぁ…はぁ…　何て破廉恥な…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなの目に焼き付けて、帰ったら……うぅ…、いっぱい気持ち良くなれそう……！"
+                                "Male Customer: Ugh...! Haa... haa... How indecent...! I'll\nsear this into my memory, and when I get back home... ugh...\nI can probably feel really good...!"
                             ]
                         },
                         {
@@ -23423,7 +23283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぐっ……　すまない、この場だけで忘れてくれ……頼む……"
+                                "Guh... I'm sorry, please just forget this happened here...\nI'm begging you..."
                             ]
                         },
                         {
@@ -23556,14 +23416,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バニー："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょ、ちょっと！どうしたのその格好！？縛られてるじゃない！？"
+                                "Bunny: Hey, wait a minute! What's with that outfit?! You're\nall tied up, aren't you?!"
                             ]
                         },
                         {
@@ -23594,7 +23447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "話は後だ、とにかく拘束を解くのを手伝ってくれると助かる……"
+                                "The details can wait, for now, I'd really appreciate it if\nyou could help me get these restraints off..."
                             ]
                         },
                         {
@@ -23685,14 +23538,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性客："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おっ、おいおい！だ、大丈夫か！？　そういう趣向の催し、では無いよな！？"
+                                "Male Customer: Hey, hey! Are you okay!? This isn't some kind\nof kinky event, is it!?"
                             ]
                         },
                         {
@@ -23716,14 +23562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "す、すまないな。悪いのだが、私の身体を隠しながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "店の奥の、控え室まで連れて行ってもらえると助かる……"
+                                "I'm sorry. It's my fault, but I would appreciate it if you\ncould help me hide my body and take me to the back room..."
                             ]
                         },
                         {
@@ -23747,14 +23586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性客："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほ、ほら上着を貸すから…！これで良いかい…！？"
+                                "Male Customer: H-here, I'll lend you my jacket...! Is this\nokay...!?"
                             ]
                         },
                         {
@@ -23845,14 +23677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ディーラー："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仕事の邪魔すんなよ。どっかに行け。"
+                                "Dealer: Don't get in the way of my work. Go somewhere else."
                             ]
                         },
                         {
@@ -23885,7 +23710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ぐぅ……　しかしこんな格好では、敬意を欠くなとは説けない、か……）"
+                                "(Guh... But I can't really preach about lacking respect when\nI'm dressed like this, can I...)"
                             ]
                         },
                         {
@@ -24016,14 +23841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女性客："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな衣装で傍に立たないでくれる？運気が下がるわ。"
+                                "Female Customer: \"Could you please not stand so close to me\nin that outfit? It's bad for my luck.\""
                             ]
                         },
                         {
@@ -24047,7 +23865,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "す、すまない……わざとじゃないんだ……"
+                                "I'm sorry... It's not intentional..."
                             ]
                         },
                         {
@@ -24187,14 +24005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性客："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だ、だめだめだめ！僕には彼女がいるんだから！そんな誘惑してもダメだよ！！"
+                                "Male Customer: No, no, no! I have a girlfriend! You can't\ntempt me like this!!"
                             ]
                         },
                         {
@@ -24218,7 +24029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ち、違うんだ……　これは……"
+                                "That's not it... This is..."
                             ]
                         },
                         {
@@ -24242,14 +24053,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性客："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何が違うんだよ！は、はやく居なくなってくれ！目に毒だ……！"
+                                "Male Customer: What's different?! Just go away quickly! It's\npoison for the eyes...!"
                             ]
                         },
                         {
@@ -24380,14 +24184,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バニー："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっと！あなた何なの！？ふざけてないでどっかに行って！！"
+                                "Bunny: Hey! Who do you think you are?! Stop messing around\nand go away!!"
                             ]
                         },
                         {
@@ -24411,7 +24208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うぐっ……、すまない……"
+                                "Ugh... I'm sorry..."
                             ]
                         },
                         {
@@ -24542,21 +24339,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性客："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな清楚そうな黒髪してるのに、君って僕と一緒の趣味なんだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "へぇ～、人って見かけによらないよね。"
+                                "Male Customer: \"Even though you have such neat black hair,\nyou share the same hobby as me. Wow, you really can't judge\na book by its cover.\""
                             ]
                         },
                         {
@@ -24580,7 +24363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "っ……ぐ……　い、一緒にするな……ッ！"
+                                "...Ngh...D-Don't lump me together with you...!"
                             ]
                         },
                         {
@@ -24713,14 +24496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バニー："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょ、ちょっと！どうしたのその格好！？縛られてるじゃない！？"
+                                "Bunny: Hey, wait a minute! What's with that outfit?! You're\nall tied up, aren't you?!"
                             ]
                         },
                         {
@@ -24751,7 +24527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "話は後だ、とにかく拘束を解くのを手伝ってくれると助かる……"
+                                "The details can wait, for now, I'd really appreciate it if\nyou could help me get out of these restraints..."
                             ]
                         },
                         {
@@ -24858,7 +24634,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（関わり合いになりたくないのか、必死に目を逸らし無視している……）"
+                                "(Is she trying to avoid getting involved? She's desperately\nlooking away and ignoring it...)"
                             ]
                         },
                         {
@@ -24972,7 +24748,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………………"
+                                "..."
                             ]
                         },
                         {
@@ -25005,14 +24781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな姿で睨んでくんじゃねぇよ！消えろ！"
+                                "Thug: Don't glare at me like that! Get lost!"
                             ]
                         },
                         {
@@ -25143,7 +24912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………………"
+                                "..."
                             ]
                         },
                         {
@@ -25176,14 +24945,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな姿で睨んでくんじゃねぇよ！消えろ！"
+                                "Thug: Don't glare at me like that! Get lost!"
                             ]
                         },
                         {
@@ -25323,14 +25085,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バニー："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな格好までして、他人の客を盗ろうってワケ？　あんたサイテーね。"
+                                "Bunny: \"Dressing up like that to steal someone else's\ncustomers? You're the worst.\""
                             ]
                         },
                         {
@@ -25354,7 +25109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ち、違うんだ！これは……！"
+                                "No, that's not it! This is...!"
                             ]
                         },
                         {
@@ -25494,21 +25249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性客："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんだぁ？ヒック…！　便所女が歩いてきやがる。酒が回り過ぎたかぁ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほらよ、ションベンしてやるからそこでマンコひろげろぉ…！　ヒック！"
+                                "Male Customer: What's this? Hic...! A toilet tramp's walking\nover here. Have I had too much to drink? Here, I'll take a\npiss, so spread your pussy...! Hic!"
                             ]
                         },
                         {
@@ -25532,7 +25273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（なんて品性のない……　いやそれを思わせてしまう程に今の私は……ッ！）"
+                                "(What an indecent... No, it's because I've let myself appear\nso...!)"
                             ]
                         },
                         {
@@ -25665,14 +25406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バニー："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょ、ちょっと！どうしたのその格好！？縛られてるじゃない！？"
+                                "Bunny: Hey, wait a minute! What's with that outfit?! You're\ntied up, aren't you?!"
                             ]
                         },
                         {
@@ -25703,7 +25437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "話は後だ、とにかく拘束を解くのを手伝ってくれると助かる……"
+                                "The details can wait, for now, I'd really appreciate it if\nyou could help me get these restraints off..."
                             ]
                         },
                         {
@@ -25803,21 +25537,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ハハハ！ざまぁねぇな！お前はその無様な姿を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "店にいる奴らにでも見せて回ってきたらいいんじゃねぇのかぁ？ハハハ！！"
+                                "Thug: \"Hahaha! Serves you right! Why don't you go show off\nthat pathetic look of yours to everyone in the shop, huh?\nHahaha!!\""
                             ]
                         },
                         {
@@ -25841,7 +25561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ギリィ……"
+                                "Grrr..."
                             ]
                         },
                         {
@@ -25973,21 +25693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性客："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この店はいつからこんなことをはじめたんだ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それとも君はよほどお金に困ってこんなことさせられてるのかい？可哀相だなぁ……"
+                                "Male Customer: \"When did this shop start doing such things?\nOr are you in such need of money that you're being forced to\ndo this? That's so pitiful...\""
                             ]
                         },
                         {
@@ -26011,7 +25717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これは、違うんだ。　お願いだからそんな目で見ないでくれ……"
+                                "\"No, you've got it all wrong. Please, don't look at me with\nthose eyes...\""
                             ]
                         },
                         {
@@ -26142,21 +25848,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性客："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんだこの全身おマンコ女は！おい！あまり近付くな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなメスの匂い嗅がされたらこっちがどうにかなっちまうよ……！"
+                                "Male Customer: What's with this all-over pussy girl! Hey!\nDon't come any closer! If you make me smell such a female\nscent, I'm gonna lose it...!"
                             ]
                         },
                         {
@@ -26198,7 +25890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "う……く……　わ、悪かったな……ッ！"
+                                "Uh...gh...s-sorry about that...!"
                             ]
                         },
                         {
@@ -26322,14 +26014,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バニー："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょ、ちょっと！どうしたのその格好！？縛られてるじゃない！？"
+                                "Bunny: Hey, wait a minute! What's with that outfit?! You're\nall tied up, aren't you?!"
                             ]
                         },
                         {
@@ -26360,7 +26045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "話は後だ、とにかく拘束を解くのを手伝ってくれると助かる……"
+                                "The details can wait, for now, I'd really appreciate it if\nyou could help me get these restraints off..."
                             ]
                         },
                         {
@@ -26453,14 +26138,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バニー："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょ、ちょっと！どうしたのその格好！？縛られてるじゃない！？"
+                                "Bunny: Hey, wait a minute! What's with that outfit!? You're\nall tied up, aren't you!?"
                             ]
                         },
                         {
@@ -26491,7 +26169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "話は後だ、とにかく拘束を解くのを手伝ってくれると助かる……"
+                                "The details can wait, for now, I'd really appreciate it if\nyou could help me get these restraints off..."
                             ]
                         },
                         {
@@ -26582,21 +26260,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女性客："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたちょっと、雰囲気に相応しくなくてよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな格好で注文を取るのはちょっと無理じゃないかしら。"
+                                "Female Customer: \"You're a bit out of place here, don't you\nthink? It's a bit much to take orders dressed like that.\""
                             ]
                         },
                         {
@@ -26629,7 +26293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わ、悪いことをしたな……"
+                                "Oops, I did something bad..."
                             ]
                         },
                         {
@@ -26760,21 +26424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性客："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うひゃあ！夜のお店は過激って聞いてたけど、君は特別だね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "え、ええっと身体には何て書いて……──"
+                                "Male Customer: Wow! I heard the nightclubs were intense, but\nyou're something else! Uh, um, what's written on your\nbody...──"
                             ]
                         },
                         {
@@ -26798,7 +26448,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぅぐ……、あまりその、ジロジロと見ないでもらえると、助かるよ……"
+                                "Ugh... I'd appreciate it if you didn't stare so much..."
                             ]
                         },
                         {
@@ -26822,14 +26472,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性客："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ、ああっ！ごめん！つい、ね…！"
+                                "Male Customer: Oh, oh! Sorry! I just got carried away...!"
                             ]
                         },
                         {
@@ -26960,14 +26603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バニー："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっと！あなた何なの！？ふざけてないでどっかに行って！！"
+                                "Bunny: Hey! Who do you think you are?! Stop messing around\nand go away!!"
                             ]
                         },
                         {
@@ -26991,7 +26627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うぐっ……、すまない……"
+                                "*groan*... I'm sorry..."
                             ]
                         },
                         {
@@ -27131,14 +26767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性客："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "な、な、ななな！！わっわわ！おっぱいが！えぇぇぇッ！？"
+                                "Male Customer: Wh-wh-wh-what!! Oh my, oh wow! Boobs! Eeeek!?"
                             ]
                         },
                         {
@@ -27162,7 +26791,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すまない、あまりジロジロと見ないでくれ……"
+                                "I'm sorry, please don't stare so much..."
                             ]
                         },
                         {
@@ -27302,14 +26931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バニー："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな格好までして、他人の客を盗ろうってワケ？　あんたサイテーね。"
+                                "Bunny: So you're dressed like that to steal someone else's\ncustomers? You're the worst."
                             ]
                         },
                         {
@@ -27333,7 +26955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ち、違うんだ！これは……！"
+                                "No, that's not it! This is...!"
                             ]
                         },
                         {
@@ -27524,14 +27146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バニー："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっと！あなた何なの！？ふざけてないでどっかに行って！！"
+                                "Bunny: Hey! What are you doing!? Stop messing around and go\nsomewhere else!!"
                             ]
                         },
                         {
@@ -27555,7 +27170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うぐっ……、すまない……"
+                                "Ugh... I'm sorry..."
                             ]
                         },
                         {
@@ -27686,14 +27301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バニー："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっと！あなた何なの！？ふざけてないでどっかに行って！！"
+                                "Bunny: Hey! Who do you think you are?! Stop messing around\nand go away!!"
                             ]
                         },
                         {
@@ -27717,7 +27325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うぐっ……、すまない……"
+                                "*groan*... I'm sorry..."
                             ]
                         },
                         {
@@ -27848,14 +27456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性客："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おいおい、何て格好だよ。キレイな髪と露出したムダ毛を見比べさせようってワケ？"
+                                "Male Customer: \"Hey, hey, what's with that outfit? Trying to\nmake us compare your beautiful hair with the exposed body\nhair?\""
                             ]
                         },
                         {
@@ -27879,7 +27480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（視線が痛い……　見られる度に熱く突き刺さるようだ……）"
+                                "(The stares hurt... Every time I'm looked at, it feels like\na hot stab...)"
                             ]
                         },
                         {
@@ -28222,14 +27823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バニー："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どっかに良い男いないかなぁ～♪"
+                                "Bunny: I wonder if there's a good man around here~♪"
                             ]
                         },
                         {
@@ -28314,14 +27908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ＤＪ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "服もボロボロ、汗もダラダラ！体温上げて相手にさらす、男を誘うメスを撒き散らすッ！"
+                                "DJ: Clothes all tattered, sweat pouring down! Raising body\nheat and exposing yourself, scattering the scent of a female\nin heat to lure the males!"
                             ]
                         },
                         {
@@ -28338,21 +27925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ＤＪ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Hey！姉ちゃん！そういう情熱的なのは嫌いじゃねぇが、ここは目立つぜ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここはオレの舞台さ！そういうことは他所でやりな！"
+                                "DJ: Hey, sister! I don't dislike that kind of passion, but\nyou're standing out too much here! This is my stage! Do that\nkind of thing somewhere else!"
                             ]
                         },
                         {
@@ -28376,7 +27949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そ、そうだな。仕事のジャマをしてしまって……悪かったな……"
+                                "Yeah, that's right. I've been getting in the way of your\nwork... Sorry about that..."
                             ]
                         },
                         {
@@ -28513,21 +28086,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性客："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おいおい、ここはいつからストリップ会場になったんだ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "飲む酒の格が下がる。カンベンしてくれないかい？"
+                                "Male Customer: \"Hey, hey, when did this place become a strip\njoint? It's degrading the quality of the booze. Can you give\nit a rest?\""
                             ]
                         },
                         {
@@ -28551,7 +28110,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぐっ……、気分を害してしまったようだな。　す、すまない……"
+                                "Ugh... it seems I've offended you. I-I'm sorry..."
                             ]
                         },
                         {

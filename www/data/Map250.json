@@ -38658,14 +38658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "多勢に無勢とはいえ、あのような輩に不覚を取ってしまうとは。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私もまだまだ修業が足りないな。"
+                                "Outnumbered or not, to be caught off guard by such\nruffians... I still have much to learn."
                             ]
                         },
                         {
@@ -38682,14 +38675,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今は目立つ行動は避けたいというのに、あのような辱めまで……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "借り物の衣装もこんなにしおって。せっかく少し気に入ってきていたというのに！"
+                                "I wanted to avoid drawing attention, and yet I've been\nsubjected to such humiliation...! And this borrowed outfit\nis all wrinkled. Just when I was starting to like it!"
                             ]
                         },
                         {
@@ -38706,7 +38692,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それより、からまれていた娘は無事だろうか。はやく戻って助けてやらねば……！！"
+                                "More importantly, I wonder if the girl who was being\nharassed is safe. I must hurry back and help her...!!"
                             ]
                         },
                         {
@@ -38780,7 +38766,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それにしても……、うむむ……いくら拭いても線が落ちんぞこれ……大丈夫なのか？"
+                                "Even so... hmm... no matter how much I wipe, these lines\nwon't come off... Is this really okay?"
                             ]
                         },
                         {
@@ -40069,14 +40055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "支配人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "手伝ってくれてありがとね。それじゃあ君は仕事に戻って大丈夫よ。"
+                                "Manager: Thanks for your help. You can go back to work now,\nit's all good."
                             ]
                         },
                         {
@@ -40354,14 +40333,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "支配人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっとレイシアちゃ～ん？　起きなさいってば～！"
+                                "Manager: Hey, Reisha-chan? Wake up, come on!"
                             ]
                         },
                         {
@@ -40385,79 +40357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やらやら～、レイシアもう飲めないもん……♪　えへへ～♪"
-                            ]
-                        },
-                        {
-                            "code": 117,
-                            "indent": 0,
-                            "parameters": [
-                                2
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "支配人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この子よく働くし気風はいいんだけど、まさかこんなにお酒に弱いとはねぇ……"
-                            ]
-                        },
-                        {
-                            "code": 117,
-                            "indent": 0,
-                            "parameters": [
-                                2
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "う～ん…！あついのやらあついのやら～♪"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "えへへ～♪　レイシア脱ぎ脱ぎするんだも～ん♪♪お胸すーすー気持ちいい♪"
+                                "Reisha: Oh my, I can't drink anymore...♪ Ehehe~♪"
                             ]
                         },
                         {
@@ -40481,21 +40381,55 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "支配人："
+                                "Manager: She works hard and has a good spirit, but who\nwould've thought she'd be this weak to alcohol..."
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                2
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "多少隙があった方が客も好いてくれるってもんだけど、"
+                                "Reisha: Mmm...! It's so hot, so very hot~♪"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "流石にこんなんじゃ客前に出せるわけないし……はぁ……"
+                                "Reisha: Ehehe~♪ Reisha's gonna strip now~♪♪ My breasts feel\nso-so good♪"
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                2
                             ]
                         },
                         {
@@ -40512,21 +40446,24 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "支配人："
+                                "Manager: A little vulnerability can make the customers like\nher more, but obviously, I can't let her in front of\ncustomers like this... Sigh..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                0
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ま、何か事情があるんだろうけど頑張って働いてくれてるし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "起きてきた時の為にまかないでも作っといてあげるかな。"
+                                "Manager: Well, she must have her reasons, and she's working\nhard, so maybe I'll prepare some food for when she wakes up."
                             ]
                         },
                         {
@@ -40550,7 +40487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "う～ん……、ムニャムニャ……"
+                                "Reisha: Mmm... Mumble mumble..."
                             ]
                         },
                         {
@@ -40567,7 +40504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すぅ……　すぅ……　すぅ……─"
+                                "Reisha: Zzz... Zzz... Zzz..."
                             ]
                         },
                         {
@@ -40584,7 +40521,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "姫さま…、いま…もどります……ので……──"
+                                "Princess Soara: Your Highness... I will... return now..."
                             ]
                         },
                         {
@@ -40601,7 +40538,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すぅ……　すぅ……　"
+                                "Reisha: Zzz... Zzz..."
                             ]
                         },
                         {

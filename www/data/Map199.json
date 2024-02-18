@@ -17596,7 +17596,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『マジックウォーター』、『マジックミスト』を手に入れた！"
+                                "Gained \"Magic Water\", \"Magic Mist\"!"
                             ]
                         },
                         {
@@ -19654,7 +19654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ストラグルバンドを手に入れた！"
+                                "Obtained the Struggle Band!"
                             ]
                         },
                         {
@@ -19901,7 +19901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリクシールを手に入れた！"
+                                "Gained an Elixir!"
                             ]
                         },
                         {
@@ -20147,7 +20147,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "5000\\G 手に入れた！"
+                                "Gained 5000\\G!"
                             ]
                         },
                         {

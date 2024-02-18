@@ -18805,14 +18805,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こうなっては無様だな。自慢の剣技はどうした、レイシアよ？"
+                                "Chancellor: How disgraceful. What happened to your vaunted\nswordsmanship, Reisha?"
                             ]
                         },
                         {
@@ -18836,7 +18829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぐぉ……　ゲホッ……ゴホッ……"
+                                "Guh... *cough*... *hack*..."
                             ]
                         },
                         {
@@ -18853,14 +18846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "出来ない……私には……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "忠義を誓った相手へ剣を向けることなど……あってはならない……"
+                                "I can't... I simply cannot... raise my sword against someone\nI have sworn loyalty to..."
                             ]
                         },
                         {
@@ -18884,21 +18870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ハハハハハハハハハハ！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これはいい！この期に及んで己の命よりも騎士の志を取るかッ！！！"
+                                "Chancellor: Hahahahahaha!!! Excellent! Even now, you choose\nthe way of the knight over your own life?!"
                             ]
                         },
                         {
@@ -18915,21 +18887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "クハハハハ！！これは笑わせてくれる！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "認めよう、君はこの国で一番の騎士だよ！！一番愚かななぁ！！"
+                                "Chancellor: Kuhahahaha!! This is truly amusing! I'll admit\nit, you are the finest knight in this kingdom!! And the most\nfoolish one at that!!"
                             ]
                         },
                         {
@@ -18953,14 +18911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "我が主よ、今一度問います。どうか目を覚ましてください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴方は、このようなことは望んではいないはずだ……"
+                                "My lord, I ask you once more. Please, awaken. You should not\ndesire such things..."
                             ]
                         },
                         {
@@ -18984,14 +18935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "心を強く持って下さい…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴方が手にしたい力とは、このようなものではないでしょう……！！！"
+                                "Be strong of heart...!! The power you wish to wield should\nnot be like this...!!!"
                             ]
                         },
                         {
@@ -19031,21 +18975,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王女："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{ふぅー！！ふぅー！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あぐああああああああ！！あああッッ！！"
+                                "Princess: Huh-!! Huh-!! Aguaaaaaaaaah!! Aaaaaahhh!!"
                             ]
                         },
                         {
@@ -19069,21 +18999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最後の最後まで騎士の真似事か。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それは君に何か与えたか？仕組まれた旅路の果てに何か得たか？"
+                                "Chancellor: Is this your knightly pretense until the very\nend? Has it granted you anything? What have you gained at\nthe end of this journey you were led on?"
                             ]
                         },
                         {
@@ -19100,21 +19016,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "聖剣も手に出来ず。大事な者も守れず。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "身体に傷ばかり増やし、これも騎士道だと自分を慰めるか？"
+                                "Chancellor: Unable to obtain the holy sword, unable to\nprotect what's important, only increasing the number of\nwounds on your body, and comforting yourself with the notion\nof chivalry?"
                             ]
                         },
                         {
@@ -19131,14 +19033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君は何も遂げられず徒労に終わった。旅路の果て、何もかも無駄だったなレイシア。"
+                                "Chancellor: You have achieved nothing and ended in vain. At\nthe end of your journey, everything was for naught, Reisha."
                             ]
                         },
                         {
@@ -19155,21 +19050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "せめてもの手向けだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "騎士らしく悲劇の中で死ぬといい。あるいは誰かが涙してくれるかもな。"
+                                "Chancellor: As a final tribute, die in tragedy like a\nknight. Perhaps someone will shed tears for you."
                             ]
                         },
                         {
@@ -19195,14 +19076,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{さぁ……、やれッッ──！！！"
+                                "Chancellor: Now... do it──!!!"
                             ]
                         },
                         {
@@ -19235,21 +19109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王女："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{ああああああぁぁぁぁぁ！！！！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "レイシアァァァァァァアアアアアッッ！！！！！！！"
+                                "Princess: Aaaaaaaaaahhhhhhhhhhh!!!\nREISHAAAAAAAAAAAAAAHHHHH!!!"
                             ]
                         },
                         {
@@ -19327,7 +19187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{くそぉ！！！くそおおおおおおお！！！！！"
+                                "Damn it!!! Damn it allllllll!!!"
                             ]
                         },
                         {
@@ -19764,14 +19624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？？："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "レイシア、あんたの旅は無駄なんかじゃない。"
+                                "????: Reisha, your journey wasn't a waste."
                             ]
                         },
                         {
@@ -19788,14 +19641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？？："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さぁいつもみたいに背筋を伸ばし、まっすぐに前を見つめるその瞳をみせてくれよ。"
+                                "????: Come on, stand tall as you always do, and show me\nthose eyes that look straight ahead."
                             ]
                         },
                         {
@@ -19934,7 +19780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "君は……ッッ！！！"
+                                "You are...!!!"
                             ]
                         },
                         {
@@ -20193,14 +20039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{よっす！レイシア！ギリギリセーフってところだったな…！"
+                                "Akane: Yo! Reisha! That was a close call, huh...!"
                             ]
                         },
                         {
@@ -20238,7 +20077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{ア、アカネッ！！？"
+                                "Ah, Akane?!?"
                             ]
                         },
                         {
@@ -20389,14 +20228,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その前に……──"
+                                "Akane: But before that...──"
                             ]
                         },
                         {
@@ -20429,14 +20261,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{あらよっとっ！！！"
+                                "Akane: Here we go!!"
                             ]
                         },
                         {
@@ -21453,14 +21278,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "キサマ何者だ！！！どうやってここに入ってきたッ！！？？"
+                                "Chancellor: Who the hell are you!!! How did you get in\nhere??"
                             ]
                         },
                         {
@@ -21538,14 +21356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうやってって、こいつの影を必死になって追い駆けて来ただけさ。"
+                                "Akane: How? I just desperately followed this guy's shadow."
                             ]
                         },
                         {
@@ -21578,21 +21389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ま、竜巻でも通ったのかってくらいに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "雑魚の露払いがされていたせいか簡単に侵入できたけどね。"
+                                "Akane: Well, it was easy to sneak in since it looked like a\ntornado had cleared out all the small fry."
                             ]
                         },
                         {
@@ -21625,21 +21422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "王都の宰相が聞いてあきれるぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな警備じゃ空き巣に入ってくれって言ってるようなもんさ。"
+                                "Akane: The royal chancellor would be appalled. With security\nlike this, it's like you're inviting burglars in."
                             ]
                         },
                         {
@@ -21679,21 +21462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふん、今さら盗賊風情がひとり増えたところで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "形勢を覆せるとでも考えているのならば浅はかだな。"
+                                "Chancellor: Hmph, if you think adding one more thief to the\nmix will change the situation, you're sorely mistaken."
                             ]
                         },
                         {
@@ -21710,14 +21479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "王の血に与えるエサがひとつ増えただけだ。そこにいる考えの甘い騎士共々な。"
+                                "Chancellor: It's just one more piece of fodder for the\nking's blood. Along with all the other naive knights here."
                             ]
                         },
                         {
@@ -21757,14 +21519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "考えが甘い騎士か……──"
+                                "Akane: Naive knights, huh...──"
                             ]
                         },
                         {
@@ -21781,14 +21536,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "たしかに、私もそう思うよ。"
+                                "Akane: Yeah, I think so too."
                             ]
                         },
                         {
@@ -21826,7 +21574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………………………"
+                                "..."
                             ]
                         },
                         {
@@ -21873,14 +21621,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "未熟で、世間知らずで、何かといえば騎士だの騎士道だのと鼻につく。"
+                                "Akane: Immature, ignorant of the world, and always going on\nabout knights and chivalry—it gets under your skin."
                             ]
                         },
                         {
@@ -21927,14 +21668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "……でも、その甘さに救われた奴だっているんだよ。"
+                                "Akane: ...But there are those who have been saved by that\nnaivety."
                             ]
                         },
                         {
@@ -21967,14 +21701,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だから私は、誰かのために今も血を流す一人の騎士の背中に夢を見るんだ。"
+                                "Akane: That's why I dream of a knight who still sheds blood\nfor someone else's sake."
                             ]
                         },
                         {
@@ -22110,21 +21837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{その甘さが、その志がこいつの中にあるから！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だから私がここにいて、この剣がここにあるんだっ！"
+                                "Akane: Because that naivety, that conviction is within her!\nThat's why I'm here, and why this sword is here!"
                             ]
                         },
                         {
@@ -22141,21 +21854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{こいつの想いだけは誰にも否定させやしない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんたみたいなゲス野郎には特にね！！"
+                                "Akane: I won't let anyone deny her feelings. Especially not\nscumbags like you!!"
                             ]
                         },
                         {
@@ -22186,14 +21885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "チッ！盗賊風情が…ッ！知った風な口を！！"
+                                "Chancellor: Tch! A mere thief...! Speaking as if you know\neverything!!"
                             ]
                         },
                         {
@@ -22233,21 +21925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "レイシア。あんたが失くしちまったって剣を探し回るのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちっとばかし手間取ったけど、何とか間に合って良かったぜ。"
+                                "Akane: Reisha. It took me a bit to find the sword you lost,\nbut I made it just in time."
                             ]
                         },
                         {
@@ -22280,14 +21958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さぁ剣を取って。いつもみたく胸を張る姿を私に見せてくれ。"
+                                "Akane: Now take up your sword. Show me your proud stance as\nalways."
                             ]
                         },
                         {
@@ -22325,7 +21996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この剣は……！！"
+                                "This sword is...!!"
                             ]
                         },
                         {
@@ -23106,14 +22777,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんた一人でよく頑張ったな。大丈夫、ここからはアタシも一緒に戦うよ。"
+                                "Akane: You did well on your own. Don't worry, from here on\nout, I'll fight alongside you."
                             ]
                         },
                         {
@@ -23290,7 +22954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うぅ……、アカネェ……！"
+                                "Ugh... Akane...!"
                             ]
                         },
                         {
@@ -23370,14 +23034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おいおい何だその面は？立派な騎士なんだろ？シャンとしろシャンと！！"
+                                "Akane: Hey hey, what's with that face? Aren't you a splendid\nknight? Pull yourself together, come on!!"
                             ]
                         },
                         {
@@ -23441,21 +23098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "泣き言も感謝の言葉も、全てが終わった後に聞いてやるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だからその前に、お前が本当に守りたい者のために剣を握り直すんだ。"
+                                "Akane: I'll listen to all your complaints and words of\nthanks after everything's over. So before that, regrasp your\nsword for the sake of what you truly want to protect."
                             ]
                         },
                         {
@@ -23495,14 +23138,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "守りたかった者…救いたかった者……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし私には、自分の主に剣を向けることなど出来ない……"
+                                "The one I wanted to protect... The one I wanted to save...\nBut I cannot bring myself to raise my sword against my own\nlord..."
                             ]
                         },
                         {
@@ -23564,14 +23200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{違う！！"
+                                "Akane: No!!"
                             ]
                         },
                         {
@@ -23588,21 +23217,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{主を傷付けるために剣を振るうんじゃない！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "主を救い出す為にその剣を振るうんだ！！"
+                                "Akane: You're not swinging your sword to hurt your lord!\nYou're doing it to save your lord!!"
                             ]
                         },
                         {
@@ -23619,21 +23234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{本当に守らなきゃいけないのは誇りなんかじゃない！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君の目の前にいる大切な人のはずだろ！！！"
+                                "Akane: What you really need to protect isn't your pride! It\nshould be the precious person right in front of you!!!"
                             ]
                         },
                         {
@@ -23650,21 +23251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{今も苦しみの中にいる彼女を救うその想いがあるから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前の手の中に、剣があるんじゃないか！！"
+                                "Akane: Because you have the desire to save her from her\nsuffering, that's why there's a sword in your hand, isn't\nit?!"
                             ]
                         },
                         {
@@ -23704,7 +23291,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本当に私が守るべきもの、か……"
+                                "What I truly should protect, huh..."
                             ]
                         },
                         {
@@ -23744,7 +23331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まさか君に教えられるとはな。私もまだまだ道半ばだな。"
+                                "To think that I would be taught by you. I still have a long\nway to go."
                             ]
                         },
                         {
@@ -23768,7 +23355,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（駆け抜けた惨事の中で、たしかに私には救うことが出来なかった者がいる……）"
+                                "(In the midst of the tragedy that swept through, there were\nindeed those I couldn't save...)"
                             ]
                         },
                         {
@@ -23941,14 +23528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ならばせめて彼女の志を継ごうじゃないか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　暗やみの中で誰かのために自分の生き方を貫いた彼女の意志を。）"
+                                "(Then at least let me carry on her will. The will of the one\nwho lived her life for others in the darkness.)"
                             ]
                         },
                         {
@@ -23965,7 +23545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（手の届く範囲だけでも守ろうと必死に足掻いた者たちの意志を。）"
+                                "(The will of those who desperately struggled to protect\nwhatever was within their reach.)"
                             ]
                         },
                         {
@@ -23982,7 +23562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何の巡りか。再びこの手に戻ってきた、はじまりの剣に誓って……！！"
+                                "By some twist of fate, this sword has returned to my hands,\nthe sword of beginnings...!!"
                             ]
                         },
                         {
@@ -24029,14 +23609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうそうその目さ！ちっとは面構えが戻ってきたな！！"
+                                "Akane: That's right, those eyes! You're starting to look\nlike yourself again!!"
                             ]
                         },
                         {
@@ -24076,21 +23649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "再び戦えるようになったとて、形勢が変わったわけでもあるまい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無限の魔力の前には何もかもが塵と化す！！！"
+                                "Chancellor: Even if you can fight again, it doesn't change\nthe situation. Before the infinite magic power, everything\nwill turn to dust!!!"
                             ]
                         },
                         {
@@ -24302,21 +23861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "勝った気になるのは早いぞ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴様の手の中にある剣は、伝説の聖剣などではないのだからな。"
+                                "Chancellor: Don't get ahead of yourself. The sword in your\nhands is not the legendary holy sword."
                             ]
                         },
                         {
@@ -24356,14 +23901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "違うね。伝説の剣ってのは最後に立ってた奴の手の中にあったもののことを言うんだ。"
+                                "Akane: That's where you're wrong. The legendary sword is\nwhat ends up in the hands of the last one standing."
                             ]
                         },
                         {
@@ -24380,14 +23918,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{それが例え何処にでもある鉄の剣だろうとね！"
+                                "Akane: Even if it's just an ordinary iron sword found\nanywhere!"
                             ]
                         },
                         {
@@ -24404,14 +23935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{私はその方が好きさ！いや、その方がきっと良いっ！！"
+                                "Akane: I prefer it that way! No, that's definitely better!!"
                             ]
                         },
                         {
@@ -24449,7 +23973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（この剣の内より確かな力を感じる。かの洞窟に満ちる魔力を吸い蓄えた静かな力を。）"
+                                "(I can feel a certain power from within this sword. A quiet\nstrength that has absorbed the magical energy filling that\ncave.)"
                             ]
                         },
                         {
@@ -24466,7 +23990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（この剣の特性ならば、あるいは……！！！）"
+                                "(With this sword's properties, perhaps...!!!)"
                             ]
                         },
                         {
@@ -24514,7 +24038,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘前の準備を行ってください。"
+                                "Please prepare for battle."
                             ]
                         },
                         {
@@ -24648,7 +24172,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "戦闘を開始しますか？"
+                                "Would you like to start the battle?"
                             ]
                         },
                         {
@@ -24656,8 +24180,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 -1,
@@ -24736,7 +24260,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『滝音の剣』が装備されていません。それでも戦闘を開始しますか？"
+                                "\"Sword of Waterfall Sound\" is not equipped. Would you still\nlike to start the battle?"
                             ]
                         },
                         {
@@ -24744,8 +24268,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 -1,
@@ -25027,14 +24551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{それじゃここからが第二ラウンドだ！足を引っ張るなよ！"
+                                "Akane: Then this is round two! Don't hold me back!"
                             ]
                         },
                         {
@@ -25089,7 +24606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{ああ！君の方こそッ！！！"
+                                "Yes! And don't you hold me back either!!!"
                             ]
                         },
                         {

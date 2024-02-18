@@ -10549,14 +10549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔導士風の男："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今月はこれだけか。"
+                                "Mage-like Man: Is this all for this month?"
                             ]
                         },
                         {
@@ -10580,21 +10573,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "売人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "えぇ。これでも十分な量かと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これ以上をと言われますとこちらのネズミどもが皆まいっちまいます。"
+                                "Dealer: Yes. I believe this is a sufficient amount. If you\nask for more, all our little rats down there will be wiped\nout."
                             ]
                         },
                         {
@@ -10618,21 +10597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔導士風の男："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "十分かどうかはこちらが決めることだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前は注文通りに採れたものを用意することだけ考えろ。"
+                                "Mage-like Man: It's not for you to decide what's sufficient.\nJust make sure you prepare what's been ordered as per the\nrequest."
                             ]
                         },
                         {
@@ -10649,21 +10614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔導士風の男："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "昨今の情勢はお前も知る所だろう。通常必要な分に加え兵器の生産。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "現場は多くの魔鉱晶石を必要としている。もっと大量のな。"
+                                "Mage-like Man: You're aware of the current situation, aren't\nyou? In addition to the usual required amount, there's the\nproduction of weapons. The site needs a lot more magic ore\ncrystals. Much more."
                             ]
                         },
                         {
@@ -10680,21 +10631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔導士風の男："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だと言うのに、お前の所からは今回の実験用のサンプルが少ないようだが？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どういうことだ。"
+                                "Mage-like Man: And yet, it seems that the samples for this\nexperiment from your side are few. What's the meaning of\nthis?"
                             ]
                         },
                         {
@@ -10727,21 +10664,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "売人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それが最近、穴ぐらの方でちょいとしたクーデターがあったようでして、こちらも困ってるでさぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そういうことで今月はちと勘弁してもらうことは出来ないでしょうか？"
+                                "Dealer: Well, recently there seems to have been a bit of a\ncoup in the mines, and we're in quite a bind here. So, could\nyou possibly give us a break just for this month?"
                             ]
                         },
                         {
@@ -10765,21 +10688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔導士風の男："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "チッ。キチンと管理しておけとあれほど言ってるだろう。いくら払っていると思っているんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "情報は外に漏れていないだろうな。報酬には口止め料も含まれているんだぞ。"
+                                "Mage-like Man: Tch. I've told you to manage things properly.\nHow much do you think we're paying you? I hope no\ninformation has leaked out. Remember, your payment includes\na fee for your silence."
                             ]
                         },
                         {
@@ -10796,14 +10705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "売人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わかってますよ。今後はさらに厳しいルールを課して、管理の野郎もとっちめて体制を……"
+                                "Dealer: I understand. From now on, we'll impose stricter\nrules and take care of the management guys to tighten up the\nsystem..."
                             ]
                         },
                         {
@@ -10827,14 +10729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔導士風の男："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まぁいい。定例取引は今まで通り、王都付近の……　でいいな……"
+                                "Mage-like Man: Well, fine. The regular transactions will\ncontinue as usual, near the royal capital... that's fine,\nright..."
                             ]
                         },
                         {
@@ -10858,14 +10753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "売人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "勿論です。　では……月の……　の日に……"
+                                "Dealer: Of course. Then... on the... day of... month..."
                             ]
                         },
                         {
@@ -11196,14 +11084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（まいったな。奴らも用心しているのか、声を落としはじめてしまった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　強行策はなるべく取りたくはないのだが、いっそ部屋に乗り込むか……？）"
+                                "(This is troublesome. Are they being cautious, lowering\ntheir voices like that? I'd rather not resort to force, but\nshould I barge into the room...?)"
                             ]
                         },
                         {
@@ -11220,14 +11101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（しかし先程のように魔導兵器の準備があった場合、店側に多大な被害が及ぶことになる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　その結果どちらかにでも、こちらの思惑を知られそして取り逃すことになったなら水の泡だ。）"
+                                "(However, if there were preparations for magical weapons\nlike earlier, it would cause significant damage to the\nestablishment. If either side learns of our intentions and\nwe let them slip away, it would all be for naught.)"
                             ]
                         },
                         {
@@ -11244,14 +11118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（片方は泳がせ取り押さえるのが容易な売人の方を狙うのがやはり得策か？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　う～ん、どうしたものか……）"
+                                "(Should I let one side go and focus on the dealer who would\nbe easier to catch? Hmm, what to do...)"
                             ]
                         },
                         {
@@ -11644,14 +11511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "半裸の男性客："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あれ？もう部屋にいるの？　気が早い子だなぁ♪"
+                                "Half-naked Male Customer: Huh? You're already in the room?\nYou're an eager one, aren't you? ♪"
                             ]
                         },
                         {
@@ -11715,7 +11575,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "！！！！！！！　い、いや私は…！"
+                                "!!!!!!!! No, I am...!"
                             ]
                         },
                         {
@@ -11732,7 +11592,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（マズい！奴らの仲間に見つかったか？！）"
+                                "(Damn it! Have I been spotted by their accomplices?!)"
                             ]
                         },
                         {
@@ -11874,21 +11734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "半裸の男性客："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でもでもぉ、おじさん積極的な子は好きだな～。そんなにエッチなこと好きなのぉ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃあ隣に座らせてもらって、と。"
+                                "Half-naked Male Customer: But but, I like a proactive girl.\nDo you like naughty things that much? Then let me sit next\nto you."
                             ]
                         },
                         {
@@ -12021,7 +11867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えぇ～～と、だから、私は、その…！"
+                                "Erm... so, I mean, that is..."
                             ]
                         },
                         {
@@ -12038,14 +11884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（一瞬焦ったが、様子を見る限り単なるこの店の客のようだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　しかしそれでも、あと少しというところなのに！クソ！今は邪魔をするな…！）"
+                                "(I panicked for a moment, but it seems he's just a regular\ncustomer of this establishment. But still, just when I'm so\nclose! Damn it! Don't interfere now...!)"
                             ]
                         },
                         {
@@ -12076,14 +11915,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "半裸の男性客："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ん？あれぇ？君なんか、受付の時に選んだ子と、顔違くなぁい？"
+                                "Half-naked Male Customer: Hm? Hey, aren't you different from\nthe girl I chose at the reception? Your face isn't the same,\nis it?"
                             ]
                         },
                         {
@@ -12100,21 +11932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "半裸の男性客："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうしよっかなぁ。こういうのって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お店の人を呼んだ方が良いのかなぁ。でも時間の内はたっぷりと遊びたいしなぁ。"
+                                "Half-naked Male Customer: What should I do? In cases like\nthis... should I call someone from the shop? But I want to\nenjoy my time fully while I'm here."
                             ]
                         },
                         {
@@ -12145,14 +11963,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ぐ…、支配人には話を通してあるが、現在の行動に関しては独断で行っている…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今他の店の者を呼ばれ下手に騒ぎになってしまうと確実に振り出しに戻ってしまう！）"
+                                "(Gah... The manager is aware of the situation, but my\ncurrent actions are my own decision... If I call someone\nfrom the shop now and cause a scene, I'll definitely be back\nto square one!)"
                             ]
                         },
                         {
@@ -12223,14 +12034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "御客人♪そんなことないぞ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君は私をちゃんと選んでくれたではないか…♪"
+                                "Dear Guest♪ That's not true at all? You did choose me\nproperly...♪"
                             ]
                         },
                         {
@@ -12254,7 +12058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（とにかく今この場を離れるわけにはいかん。口裏を合わせてでもやり過ごさねば！！）"
+                                "(Anyway, I can't leave this place now. I have to bluff my\nway through this!!)"
                             ]
                         },
                         {
@@ -12285,14 +12089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "半裸の男性客："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうかなぁ。たしかに薄暗かったし顔もちゃんと見たかっていわれると怪しいかもなぁ。"
+                                "Half-naked Male Customer: Is that so? It was dim and if you\nask me if I really saw your face clearly, it's doubtful."
                             ]
                         },
                         {
@@ -12309,21 +12106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "半裸の男性客："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でもまぁ、別人だったとしても、こんなカワイイ子とだったら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぐふ、ぐふふふふふ♪"
+                                "Half-naked Male Customer: But well, even if you're not the\nsame person, with such a cute girl like you, gufu,\ngufufufufufu♪"
                             ]
                         },
                         {
@@ -12401,14 +12184,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（そんなに寄るな！身体も触るな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ウップ…こいつ相当酒を飲んでいるのかヒドイ臭いだぞ！）"
+                                "(Don't get so close! Don't touch me! Ugh... This guy must\nhave drunk quite a bit; he reeks of alcohol!)"
                             ]
                         },
                         {
@@ -12439,14 +12215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "半裸の男性客："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君あんまり見ない子だねぇ。どうなの？ここ入ったのは最近？"
+                                "Half-naked Male Customer: You're a face I don't see around\nhere much. What about it? Did you just start working here\nrecently?"
                             ]
                         },
                         {
@@ -12477,14 +12246,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、あぁ、そうなのだ。だからあまり仕事に慣れていなくてな…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "不得手な部分は大目に見てもらえると助かるよ。"
+                                "Ah, yes, that's right. So I'm not quite used to the job\nyet... It would help if you could overlook my shortcomings."
                             ]
                         },
                         {
@@ -12515,21 +12277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "半裸の男性客："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大変だねぇ。身体つきも出るとこ出てしっかりしてるし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大方農村部の方から出稼ぎに出されて来ちゃったってところなのかな？"
+                                "Half-naked Male Customer: That's tough. You've got a good\nfigure though; firm where it needs to be. Did they send you\nout here from a rural area to earn some money?"
                             ]
                         },
                         {
@@ -12546,21 +12294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "半裸の男性客："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "王都で代替わりがあってからこの方、税収も厳しくなっちゃって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "グッと生活が苦しくなった上に軍備の拡張。お城の連中は人の心ってもんが無いのかね…"
+                                "Half-naked Male Customer: Ever since the change of rulers in\nthe royal capital, taxes have become harsher and life has\ngotten tougher on top of military expansion. Do those castle\nfolks have no human heart at all..."
                             ]
                         },
                         {
@@ -12591,7 +12325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（…………………………………………）"
+                                "(...)"
                             ]
                         },
                         {
@@ -12608,7 +12342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ま、まぁ…　概ね君の察するところだよ……"
+                                "Well... more or less as you've guessed..."
                             ]
                         },
                         {
@@ -12639,21 +12373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "半裸の男性客："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "健気でいい子だねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でもおじさんね、そういったエピソードを聞くと、逆にたまらなくなってくるんだよぉ…！"
+                                "Half-naked Male Customer: You're such a brave girl. But you\nknow, when I hear such stories, it makes me even more\nirresistible...!"
                             ]
                         },
                         {
@@ -12670,21 +12390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "半裸の男性客："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あぁもうダメダメ。金玉の中がアツくなってきた。今日はたっぷり可愛がってあげるからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さ、こっちにお尻向けておねだりしてみてごらん♪"
+                                "Half-naked Male Customer: Ahh, no more holding back. My\nballs are getting hot. I'm going to spoil you plenty today.\nNow turn your butt this way and beg for it♪"
                             ]
                         },
                         {
@@ -13146,14 +12852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "回想部屋にて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『・幕間 - 孤独の王女～君に吹く風～』(スキル取得有り)が開放されました。"
+                                "In the Memory Room, \".Interlude - The Lonely Princess ~The\nWind That Blows on You~\" (Skill Acquisition Available) has\nbeen unlocked."
                             ]
                         },
                         {
@@ -13179,7 +12878,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここまでの進行状況をセーブしますか？"
+                                "Would you like to save your progress up to this point?"
                             ]
                         },
                         {
@@ -13187,8 +12886,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

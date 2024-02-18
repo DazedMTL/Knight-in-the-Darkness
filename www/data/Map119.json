@@ -9836,14 +9836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それは本当のことか！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴様が扱っている品は、あの採掘坑で労働者たちを働かせ掘った鉱石だというのか…ッ！！！！"
+                                "Is that the truth!? Are you saying that the goods you're\ndealing with are the ores dug up by the laborers in that\nmine...!?"
                             ]
                         },
                         {
@@ -10001,14 +9994,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "売人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ヒィ！やめろ！暴力はやめてくれ！"
+                                "Dealer: Eek! Stop it! No violence, please!"
                             ]
                         },
                         {
@@ -10039,14 +10025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "暴力はやめろだと！？どの口がその言葉を吐く！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴様のせいでどれほどの者達が地中で暴力に苦しんだかわかって言うのか！！"
+                                "No violence, you say!? Which mouth of yours is spouting\nthose words!! Do you have any idea how many people have\nsuffered violence in the mines because of you!!"
                             ]
                         },
                         {
@@ -10077,14 +10056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "売人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "し、しし知らねぇよ…！オレは依頼に従っただけなんだ。"
+                                "Dealer: I-I don't know...! I was just following orders."
                             ]
                         },
                         {
@@ -10101,14 +10073,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "売人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そりゃあちょっとばかし、人を買い付けて、穴の中で働かせてはいたがよぉ、仕方ねぇだろ！"
+                                "Dealer: Sure, I might've bought some people off and made\nthem work in the pits, but what choice did I have!"
                             ]
                         },
                         {
@@ -10125,21 +10090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "売人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "王都の高官筋からの取引の話だぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "聞いたが最後、小悪党のオレなんかが断ったら消されちまうだけなんだからよ！"
+                                "Dealer: It's a deal from the high officials of the royal\ncapital. Once you hear about it, a small-time crook like me\nwould just get snuffed out if I refused!"
                             ]
                         },
                         {
@@ -10170,7 +10121,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王都の高官からの依頼だと！？バカな！？それは誰だ！知っているならば名前を言え！"
+                                "From the high officials of the royal capital, you say!?\nNonsense!? Who is it! If you know, then say their name!"
                             ]
                         },
                         {
@@ -10187,14 +10138,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ならあの採掘坑の目的は何だ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何処へ運び込まれ、それを使い何を行おうとしているのだ！"
+                                "Then what is the purpose of that mine!? Where is it being\ntransported to, and what are they planning to do with it!?"
                             ]
                         },
                         {
@@ -10225,14 +10169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "売人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんないっぺんにものを言うな、わかってることだけ話すからよぉ…！"
+                                "Dealer: Don't ask everything all at once, I'll tell you what\nI know...!"
                             ]
                         },
                         {
@@ -10249,21 +10186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "売人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まずさっきは口をついてああ言ったが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "実際のところ誰と取引してるのかは具体的にはわからねぇ。"
+                                "Dealer: First off, I might've said something earlier, but to\nbe honest, I don't know specifically who I'm dealing with."
                             ]
                         },
                         {
@@ -10280,21 +10203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "売人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だが取引現場で会う末端野郎共の些細な愚痴から漏れる情報を総合すると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やつらが王都のお偉いさんの指示で暗躍してるのは間違いねぇっていう推測の話さ。"
+                                "Dealer: But piecing together the information that leaks from\nthe petty complaints of the low-level thugs I meet at the\ndeal site, it's a safe bet they're operating under the\norders of some big shot from the royal capital."
                             ]
                         },
                         {
@@ -10311,21 +10220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "売人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そして採掘坑とそこで取ってる物が何なのかも、オレの知る所じゃねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "取引相手の指示に従って作りあげた穴倉だ。管理は…、まぁ任せた奴がバカだったって所さ。"
+                                "Dealer: And as for what's being taken from the mine and what\nit is, I don't know that either. It's just a hole we dug\nfollowing the instructions of our trading partners. The\nmanagement... well, let's just say I left it to an idiot."
                             ]
                         },
                         {
@@ -10480,14 +10375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "口のききかたに気を付けろ……、貴様が今無事で済んでいるのは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "吐かねばならん情報をまだ抱えているというだけであることを自覚して話せよ……"
+                                "Watch your mouth... You're only safe right now because you\nstill have information that needs to be spilled. Be aware of\nthat and speak accordingly..."
                             ]
                         },
                         {
@@ -10520,14 +10408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "売人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぶげぇッ！！そんなに殴られたら喋れなくなっちまうだろうッ！"
+                                "Dealer: Ughh!! If you hit me like that, I won't be able to\ntalk!"
                             ]
                         },
                         {
@@ -10558,7 +10439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さっさと続けろ。"
+                                "Hurry up and continue."
                             ]
                         },
                         {
@@ -10589,21 +10470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "売人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "採掘鉱で掘らせた取引の品は、お前も知る通りの晶石だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかしちと特殊なものらしく、通常の石と違って高濃度の魔力が凝縮されてるって話だ。"
+                                "Dealer: The goods we had dug up in the mining quarry are\ncrystals, as you know. But they seem to be a bit special,\nunlike normal stones, they're said to be highly concentrated\nwith magical power."
                             ]
                         },
                         {
@@ -10620,21 +10487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "売人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それをどうやら実験施設みたいな所でバカスカ使ってるらしく大量に必要なんだとさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あったらある分買ってくれる。今までの商売がバカバカしくなる程うまい仕事だった。"
+                                "Dealer: Apparently, they're using them like crazy in some\nkind of experimental facility where they need them in large\nquantities. They'll buy as much as we can provide. It was\nsuch a profitable job it made all my previous dealings look\nlike child's play."
                             ]
                         },
                         {
@@ -10651,21 +10504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "売人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それだけじゃない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "加えて、採掘坑で使いもんにならなくなった労働者も値段を付けて引き取ってくれた。"
+                                "Dealer: That's not all. In addition, workers who became\nuseless in the mines were also taken off our hands for a\nprice."
                             ]
                         },
                         {
@@ -10682,21 +10521,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "売人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何もかんも実験の材料に使うからって値段付けて買ってくれる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オレなんかがしてることがきっと可愛く見えるくらい薄暗いもん抱えた連中だよありゃあ。"
+                                "Dealer: They'd buy them all up because they use everything\nas materials for experiments. The guys I'm dealing with are\ninvolved in some shady stuff that probably makes what I do\nlook cute in comparison."
                             ]
                         },
                         {
@@ -10727,7 +10552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………………………"
+                                "..."
                             ]
                         },
                         {
@@ -10744,7 +10569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "──…………貴様の取引が次に行われるのは、いつだ。"
+                                "──...When is your next transaction taking place?"
                             ]
                         },
                         {

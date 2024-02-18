@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "王都ニアレイク -城壁入口前-",
+    "displayName": "Royal Capital Near Lake -Before the Castle Walls-",
     "encounterList": [],
     "encounterStep": 30,
     "height": 60,
@@ -29652,21 +29652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここからストーリーパートが続きます。（所要時間：10分弱）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "簡易的なあらすじを表示して自由行動区間の手前までイベントをスキップしますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（スキップ部分は後から回想部屋より閲覧可能。初回プレイ時はシナリオの閲覧を推奨。）"
+                                "The story part continues from here. (Estimated time: less\nthan 10 minutes) Would you like to skip to the free action\nsection by displaying a brief synopsis of the events so far?\n(The skipped part can be viewed later in the reminiscence\nroom. It is recommended to view the scenario on your first\nplaythrough.)"
                             ]
                         },
                         {
@@ -29674,8 +29660,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 -1,
@@ -29765,21 +29751,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "採掘坑を脱出し長い旅路の末、王都ニアレイクまで辿り着いたレイシアとアカネ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "帰還した彼女らが目にしたのは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "行軍の支度に追われ街中を忙しく駆け回る兵や民の姿であった。"
+                                "After escaping the mining pit and a long journey, Reisha and\nAkane finally arrived at the royal capital, Near Lake. What\ngreeted them upon their return was the sight of soldiers and\ncitizens busily scurrying about, preparing for a military\nmarch."
                             ]
                         },
                         {
@@ -29796,14 +29768,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "異様な、まるで見えない手により急かされるように出征せんとするその空気は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "何か例外的な事態に陥っていると彼女たちに予感させるには十分であった。"
+                                "The atmosphere, as if being hurried by an invisible hand to\ndeploy, was enough to give them a premonition that they were\nentering into some exceptional situation."
                             ]
                         },
                         {
@@ -29848,21 +29813,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "だが門前まで来た彼女らに待っていたのは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「王都内軍備の最中につき、現在一切の者の立ち入りを禁じる」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "という宰相の指示であった。"
+                                "However, what awaited them at the gates was an order from\nthe chancellor stating, \"During the military preparations\nwithin the royal capital, entry is currently forbidden to\nall.\""
                             ]
                         },
                         {
@@ -29907,28 +29858,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "自分を知る者への取次も叶わず、取り付く島もないままに門番兵に追い返される二人。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そして彼女らはさらに悪い噂を耳にする。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「現在行われている遠征準備は、魔物の巣の討伐の為のものではなく"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　隣国へ攻め入るための戦の準備である」、と。"
+                                "Unable to get a message through to anyone they knew and with\nno other recourse, the two were turned away by the gate\nguards. Then, they heard an ominous rumor: \"The current\nexpedition preparations are not for subjugating a monster's\nnest but for preparations to wage war against a neighboring\ncountry.\""
                             ]
                         },
                         {
@@ -29945,21 +29875,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "封鎖中にある厳戒態勢の王都の内情を少しでも伺い知れないだろうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "僅かでも情報が欲しいと悩むレイシアの様子を見たアカネは提案する。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「情報が欲しいってんならうってつけの場所がある」。"
+                                "Could they somehow glean any insight into the tightly sealed\nand heavily guarded situation within the royal capital?\nDesiring even a sliver of information, Reisha looked\ntroubled, prompting Akane to suggest, \"If you want\ninformation, I know just the place.\""
                             ]
                         },
                         {
@@ -30004,14 +29920,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "案内されたのは王都領土の際に位置する『復興地区』通称：黄昏の臥所であった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "雑多な、しかし逞しく生活を送るこの地の住民達をレイシアは目にする。"
+                                "They were led to what is known as the \"Reconstruction\nDistrict,\" located on the edge of the royal capital's\nterritory, also called \"Twilight's Resting Place.\" Reisha\nobserved the residents of this area living robustly amidst\ndiversity."
                             ]
                         },
                         {
@@ -30063,14 +29972,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "王都中央地区であるニアレイクとはまた違う雰囲気に面を食らいつつも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "アカネに連れられるままとある建物に案内されたところから再び舞台の幕は上がる──。"
+                                "Caught off guard by the different atmosphere from Near Lake,\nthe central district of the royal capital, Reisha was led by\nAkane into a certain building where once again, the stage\nwas set for their story to unfold──."
                             ]
                         },
                         {
@@ -30123,7 +30025,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "回想部屋にて『・幕間 ～アカネとのふたり旅～』が開放されました。"
+                                "In the reminiscence room, \".Interlude ~A Journey with\nAkane~\" has been unlocked."
                             ]
                         },
                         {
@@ -30226,14 +30128,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "採掘坑を脱出し長い旅路を経て、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ようやく王都ニアレイクまで辿り着いたレイシアとアカネ。"
+                                "After escaping from the mining pit and enduring a long\njourney, Reisha and Akane finally reached the royal capital,\nNear Lake."
                             ]
                         },
                         {
@@ -30250,14 +30145,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "帰還した彼女らが目にしたのは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "行軍の支度に追われ街中を忙しく駆け回る兵や民の姿であった。"
+                                "Upon their return, they witnessed soldiers and citizens\nhurriedly running around, busy with preparations for a\nmilitary march."
                             ]
                         },
                         {
@@ -30274,14 +30162,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一種異様な、まるで急かされるように出征せんとするその空気は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何か例外的な事態に陥っていると彼女たちに予感させるには十分であった。"
+                                "The atmosphere was peculiar, as if they were being rushed to\ndeploy, which was enough to make them feel that they were\nentering into some exceptional situation."
                             ]
                         },
                         {
@@ -30337,7 +30218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "通せないとはどういうことだ…！！"
+                                "What do you mean we can't pass through...!!"
                             ]
                         },
                         {
@@ -30368,14 +30249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "門番兵："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "只今王都は出征準備中により厳重な警戒態勢がとられている。"
+                                "Gate Guard: The royal capital is currently under strict\nvigilance due to preparations for deployment."
                             ]
                         },
                         {
@@ -30392,21 +30266,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "門番兵："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何者も通すことこれまかりならんと規則として仰せ遣っておる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "悪いが何と申されようと今は王都へ通すわけにはいかんのだ。"
+                                "Gate Guard: By order, we cannot allow anyone to pass\nthrough. I'm sorry, but no matter what you say, we cannot\nlet you into the royal capital at this time."
                             ]
                         },
                         {
@@ -30437,14 +30297,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何も無理に通せと言っているわけではないのだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "傭兵として各地より招集された身でありながら職務を全うするその姿勢、大変素晴らしいと思う。"
+                                "I'm not asking you to let us through by force. I admire your\ndedication to fulfilling your duties as a mercenary summoned\nfrom various places."
                             ]
                         },
                         {
@@ -30461,14 +30314,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ただ、『騎士レイシアが帰還した』と城へ使いを出してくれればそれだけでいいのだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "せめて私を知っている城の者に会わせてくれ。それでこちらの事情が通るだろう。"
+                                "All I ask is that you send a messenger to the castle saying\n\"Knight Reisha has returned.\" At least let me meet someone\nfrom the castle who knows me. That should clear up our\nsituation."
                             ]
                         },
                         {
@@ -30692,14 +30538,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "門番兵："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ならば尚の事通すわけにはゆきませんな。"
+                                "Gate Guard: Then all the more reason I cannot let you pass."
                             ]
                         },
                         {
@@ -30730,7 +30569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんだとっ！？"
+                                "What did you say!?"
                             ]
                         },
                         {
@@ -30761,21 +30600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "門番兵："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『騎士の名を語り城と通じた素振りを見せるものには特に用心せよ』と、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "宰相殿からキツく注意を受けておりますゆえ。"
+                                "Gate Guard: We have been strictly warned by the chancellor\nto be especially wary of anyone who claims to be a knight\nand shows signs of communicating with the castle."
                             ]
                         },
                         {
@@ -30815,7 +30640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相殿が…、どういうことだ…？"
+                                "The chancellor has... What does this mean...?"
                             ]
                         },
                         {
@@ -30846,21 +30671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "門番兵："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出征準備中につき今の王都には多様な物資や人物が入り乱れる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これ好機と良からぬ賊が忍び込む例も多い。余計な手を焼くことを厭ってのことだろう。"
+                                "Gate Guard: Due to preparations for deployment, a variety of\nsupplies and people are currently flooding into the royal\ncapital. Opportunistic thieves may take advantage of this\nchaos. It's likely an attempt to avoid unnecessary trouble."
                             ]
                         },
                         {
@@ -30877,14 +30688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "門番兵："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ご足労承知ではあるが、本日はお引取り願いたい。"
+                                "Gate Guard: I understand it's an inconvenience, but I must\nask you to leave for today."
                             ]
                         },
                         {
@@ -31193,7 +30997,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クソッ…！一体どうなっているんだ！！"
+                                "Damn it...! What in the world is going on!!"
                             ]
                         },
                         {
@@ -31210,14 +31014,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "通せないだと、バカな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それに西方の魔物討伐の計画はまだ先のハズだ。何故ここまで大掛かりな準備を…！！"
+                                "We can't pass through, that's absurd! Besides, the plan for\nsubjugating monsters in the west wasn't supposed to happen\nyet. Why such elaborate preparations...!!"
                             ]
                         },
                         {
@@ -31330,14 +31127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もしかしてだけど、あんたって自分でいうほど信頼された騎士様じゃあなかったってわけ？"
+                                "Akane: Maybe you're not as trusted a knight as you claim to\nbe?"
                             ]
                         },
                         {
@@ -31375,7 +31165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………"
+                                "..."
                             ]
                         },
                         {
@@ -31392,14 +31182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "主君のために身を粉にしてその剣を奮ってきたと自負していたが…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "与えられた使命も全うせずに還ってきた私は、案外そうなのかもしれんな…"
+                                "I prided myself on fighting valiantly with my sword for my\nlord... But having returned without fulfilling my given\nmission, perhaps I'm not as trusted as I thought..."
                             ]
                         },
                         {
@@ -31680,14 +31463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うそうそ、冗談だってば！元気だしなよ！！"
+                                "Akane: Just kidding! Cheer up!!"
                             ]
                         },
                         {
@@ -31763,14 +31539,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "商人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君たちも門前払いを食らったクチかい？"
+                                "Merchant: Did you guys also get turned away at the gate?"
                             ]
                         },
                         {
@@ -31839,7 +31608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "君たちもとは、あなたも通してもらえなかったと？"
+                                "You too means you weren't allowed through either?"
                             ]
                         },
                         {
@@ -31870,14 +31639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "商人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうなんだよ。まったく！"
+                                "Merchant: Yeah, exactly! It's so frustrating!"
                             ]
                         },
                         {
@@ -31894,21 +31656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "商人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "王都が隣国への戦の準備を進めてるってんで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "物資の商いでもしようとわざわざ荷物を運んできたんだが、通せないの一点張りなんだ。"
+                                "Merchant: I came all this way with my goods because I heard\nthat the royal capital was preparing for war against a\nneighboring country. But they're just sticking to their guns\nabout not letting anyone through."
                             ]
                         },
                         {
@@ -31925,14 +31673,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "商人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ったく、せっかく儲けるチャンスだってのにケチくさいったらないよ！"
+                                "Merchant: Seriously, it was supposed to be a great chance to\nmake a profit, and they're being so stingy!"
                             ]
                         },
                         {
@@ -32010,7 +31751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "貴様、今何と言った…！"
+                                "You! What did you just say...!"
                             ]
                         },
                         {
@@ -32149,14 +31890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "商人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わっ！悪かったよ！　あんたんとこの国をケチくさいなんて言っちまって……！"
+                                "Merchant: Whoa! Sorry! I didn't mean to badmouth your\ncountry like that...!"
                             ]
                         },
                         {
@@ -32218,7 +31952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "違う！その前だ！！"
+                                "No, not that! The part before!!"
                             ]
                         },
                         {
@@ -32249,14 +31983,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "商人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "え？え？王都が隣国への戦の準備を進めてるって話かい…？？"
+                                "Merchant: Eh? Eh? You mean about the royal capital preparing\nfor war against a neighboring country...??"
                             ]
                         },
                         {
@@ -32287,7 +32014,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それはまことの話なのか！？"
+                                "Is that really true!?"
                             ]
                         },
                         {
@@ -32318,14 +32045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "商人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ、あぁ…、商人内の儲けの種の噂だから他よりは多少耳は早いとは思うがね。"
+                                "Merchant: Yeah... well, it's a rumor among us merchants so\nwe tend to hear things sooner than others. It's reached even\nmy distant region, so it's probably true."
                             ]
                         },
                         {
@@ -32342,14 +32062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "商人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "遠方のオレんとこの地域まで届いてるんだ、まず間違いないと思うぜ。"
+                                "Merchant: It's reached even my distant region, so there's\nalmost no doubt about it."
                             ]
                         },
                         {
@@ -32380,7 +32093,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………"
+                                "..."
                             ]
                         },
                         {
@@ -32404,7 +32117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "声を荒げてしまってすまなかった。情報提供、感謝する。"
+                                "I apologize for raising my voice. Thank you for the\ninformation."
                             ]
                         },
                         {
@@ -32435,14 +32148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "商人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お、おう…"
+                                "Merchant: Oh, uh..."
                             ]
                         },
                         {
@@ -32563,7 +32269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どういうことだ。『隣国へ攻め入る』だと！？"
+                                "What do you mean \"invading the neighboring country\"!?"
                             ]
                         },
                         {
@@ -32659,14 +32365,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんなことが計画されることはあり得ない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "遠征は魔物の巣の掃討のためだったはずだ…！どうなっている…！！"
+                                "Such a plan should be unthinkable. The expedition was\nsupposed to be for the subjugation of monster dens...!\nWhat's going on...!!"
                             ]
                         },
                         {
@@ -32683,7 +32382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "我が主君は一体何をお考えなのだ！この国に何が起こっているというのだ！！"
+                                "What on earth is my liege thinking! What is happening to\nthis country!!"
                             ]
                         },
                         {
@@ -32700,7 +32399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁ！今は少しでも情報が欲しいというのに、王都へ立ち入ることすら許されないとは！！"
+                                "Ah! Just when I need information the most, I'm not even\nallowed to enter the royal capital!!"
                             ]
                         },
                         {
@@ -32792,14 +32491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何だか事情はよくわからないけどさぁ。"
+                                "Akane: I don't quite understand the situation, but..."
                             ]
                         },
                         {
@@ -32816,14 +32508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんた情報が欲しいわけ？"
+                                "Akane: You want information, right?"
                             ]
                         },
                         {
@@ -32899,7 +32584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私が離れていた間に王都に何があったのか。今は少しでも事情が知りたい。"
+                                "What has happened to the royal capital while I was away?\nRight now, I want to know even a little about the situation."
                             ]
                         },
                         {
@@ -32946,14 +32631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふ～ん。"
+                                "Akane: Hmm."
                             ]
                         },
                         {
@@ -32970,21 +32648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ホントは王都まで来たらあんたから褒美でも受け取って別れるつもりだったけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それだったら少しは力になってあげられるかもしんない。"
+                                "Akane: I was actually planning to receive a reward from you\nonce we reached the royal capital and then part ways, but if\nthat's the case, maybe I can be of some help."
                             ]
                         },
                         {
@@ -33001,14 +32665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんたには一応、助けてもらった恩もあるしね。"
+                                "Akane: After all, I do owe you for your help."
                             ]
                         },
                         {
@@ -33055,14 +32712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなところで突っ立てても仕方ないじゃん。"
+                                "Akane: Standing around here isn't going to solve anything."
                             ]
                         },
                         {
@@ -33079,14 +32729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "案内してあげるから、ついてきなよ。"
+                                "Akane: I'll guide you, so come with me."
                             ]
                         },
                         {
@@ -33351,7 +32994,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "回想部屋にて『・幕間 ～アカネとのふたり旅～』が開放されました。"
+                                "In the Recollection Room, \"Interlude ~Traveling with Akane~\"\nhas been unlocked."
                             ]
                         },
                         {

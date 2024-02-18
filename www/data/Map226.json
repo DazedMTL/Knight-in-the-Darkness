@@ -13081,21 +13081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おつかれさん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うぇ～…、泡立つぐらいに擦り合わされた男の体液のヒドい臭いだね。"
+                                "Akane: Good work. Ugh... The stench of a man's fluids rubbed\nraw is terrible, isn't it?"
                             ]
                         },
                         {
@@ -13185,7 +13171,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ……　はぁ……　はぁ……　うぐっ……うぅ……"
+                                "*panting*... *groan*... *sigh*..."
                             ]
                         },
                         {
@@ -13202,7 +13188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "笑うなら後にしてくれ。はぁ…はぁ…、今は少しでも身体を休めたいんだ……"
+                                "Save your laughter for later. *panting*... I just want to\nrest a bit right now..."
                             ]
                         },
                         {
@@ -13301,14 +13287,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ま、わかって言ってんだけどね。へへへ。"
+                                "Akane: Well, I know that. Hehehe."
                             ]
                         },
                         {
@@ -13341,21 +13320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただそんなお疲れの所に悪いけど、おそらくあんたの言っていた"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『同班の仲間』ってのがあんたと入れ違う形で入ってきて、さっきまでここに居たんだよ。"
+                                "Akane: Sorry to bother you when you're so tired, but it\nlooks like the \"comrade from your squad\" you mentioned came\nin as you were leaving, and was here until just a moment\nago."
                             ]
                         },
                         {
@@ -13433,7 +13398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それは本当か…！？"
+                                "Is that true...!?"
                             ]
                         },
                         {
@@ -13480,14 +13445,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何しでかしたか聞いたらあんたと同じことを言ってたから、おそらく間違いないだろうね。"
+                                "Akane: From what I heard, they said the same things you did,\nso it's probably no mistake."
                             ]
                         },
                         {
@@ -13525,7 +13483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それで、様子はどうだった！？"
+                                "So, what was their condition!?"
                             ]
                         },
                         {
@@ -13572,21 +13530,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "死ぬほどの怪我を負ってたわけじゃないが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただそうじゃないってだけで、あんたの想像通り酷い有様だったよ。"
+                                "Akane: They weren't injured to the point of death, but apart\nfrom that, they were in as bad shape as you can imagine."
                             ]
                         },
                         {
@@ -13624,7 +13568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうか…、命までは取られはしなかったのだな…"
+                                "So... they weren't killed..."
                             ]
                         },
                         {
@@ -13671,14 +13615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "安堵してるようだけどさ、じゃあ何でこの場に居ないと思う？"
+                                "Akane: You seem relieved, but then why do you think they're\nnot here?"
                             ]
                         },
                         {
@@ -13716,7 +13653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それは…、刑罰を終えて共同の生活区に戻されたのではないのか？"
+                                "That is... perhaps they finished their punishment and were\nsent back to the communal living area?"
                             ]
                         },
                         {
@@ -13763,14 +13700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だったらいいけどね。"
+                                "Akane: That would be nice, wouldn't it?"
                             ]
                         },
                         {
@@ -13794,14 +13724,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私が見たことをそのまま話すよ。"
+                                "Akane: I'll tell you exactly what I saw."
                             ]
                         },
                         {
@@ -13861,14 +13784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人が来た。アイツはたまに見かける、ここで採れた晶石の取り引きにやってくる外の奴だ。"
+                                "Akane: Someone came. It was a guy from outside who\noccasionally comes here to trade the crystals mined from\nthis place."
                             ]
                         },
                         {
@@ -13885,21 +13801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "チラとしか見たことないが間違いないだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "看守とそいつはいくつか言葉をかわすと、あんたのお仲間さんを連れて行っちまった。"
+                                "Akane: I've only caught glimpses of him before, but I'm\ncertain. The guard and that guy exchanged a few words and\nthen took your comrade away."
                             ]
                         },
                         {
@@ -13916,21 +13818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "取れた晶石やここで使い潰されてボロボロになった、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう作業もまともに出来なくなった廃人同然の他の労働者数人と一緒にね。"
+                                "Akane: Along with a few other workers who had been used up\nand broken down here, no longer able to do proper work,\npractically invalids."
                             ]
                         },
                         {
@@ -13983,7 +13871,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………"
+                                "..."
                             ]
                         },
                         {
@@ -14030,14 +13918,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ありゃどう見ても労働力として使えなくなった奴を処分する下卑た取り引きさ。"
+                                "Akane: That was clearly a despicable trade of disposing of\nthose who can no longer serve as labor."
                             ]
                         },
                         {
@@ -14054,14 +13935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここで交わされる約束が半分守られただけで大したもんさ。"
+                                "Akane: It's something if even half the promises made here\nare kept."
                             ]
                         },
                         {
@@ -14094,14 +13968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "再会出来なくてガッカリしたか？"
+                                "Akane: Disappointed you couldn't reunite?"
                             ]
                         },
                         {
@@ -14139,7 +14006,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "──…………"
+                                "──..."
                             ]
                         },
                         {
@@ -14156,7 +14023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "生きていたのなら、それでいいんだ、それで……"
+                                "If they're alive, that's good enough for me, that's..."
                             ]
                         },
                         {
@@ -14203,21 +14070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "勝手に納得して考えるのを止めてるみたいだけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんたの大事な人と同じように今日も明日もここで誰かがゴミのように犠牲になっていくのさ。"
+                                "Akane: You seem to have made peace with it, but just like\nyour dear person, today and tomorrow someone else will be\nsacrificed like trash here."
                             ]
                         },
                         {
@@ -14234,21 +14087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうやって過ごすうちに、誰かが居なくなっても何も思わなくなっていく。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "心を殺し生きるのを諦める。死んでないだけの使い捨ての労働力の完成さ。"
+                                "Akane: As time goes by, people disappear and no one feels\nanything anymore. They kill their hearts and give up on\nliving. They become nothing more than disposable labor that\nisn't dead yet."
                             ]
                         },
                         {
@@ -14265,21 +14104,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "痛みから逃げることが、ここでの賢い過ごし方なのさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気に病むな、と今のあんたに言っても仕方がないことだろうけどさ。"
+                                "Akane: Escaping from pain is the smart way to get by here.\nIt's pointless to tell you not to worry about it now,\nthough."
                             ]
                         },
                         {
@@ -14317,7 +14142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "──…………"
+                                "──..."
                             ]
                         },
                         {
@@ -14364,21 +14189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今はツラいかもしれないが、こうやって会うのも何時できなくなるかわからない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんたに聞かせなきゃいけない「言伝て」がある。あんたの大事な仲間からだ。"
+                                "Akane: It might be tough now, but we never know when we\nwon't be able to meet like this again. There's a message I\nhave to tell you from your important comrade."
                             ]
                         },
                         {
@@ -14445,21 +14256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうかい、ボスのとこに行ったってのか…。アタシのために身を売って…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アイツも本当にどこまでも世間知らずで、真面目で、バカな奴だよ。"
+                                "Room Manager: So that's it, they went to the boss... Sold\nthemselves for me... That guy is really naive, serious, and\nstupid to the end."
                             ]
                         },
                         {
@@ -14499,21 +14296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "レイシアはあんたの無事を祈ってたよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私がなにか出来る訳じゃないが、言伝てくらいなら聞いといてあげられる。"
+                                "Akane: Reisha was praying for your safety. I can't do much,\nbut I can at least pass on a message."
                             ]
                         },
                         {
@@ -14544,14 +14327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そういえば名前、聞いてなかったね。レイシアっていうのかい、あの子。"
+                                "Room Manager: Now that you mention it, I didn't ask for her\nname. So her name is Reisha, that girl?"
                             ]
                         },
                         {
@@ -14591,14 +14367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "……………"
+                                "Akane: ..."
                             ]
                         },
                         {
@@ -14629,14 +14398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分のことを第一に考えろ。そう唱え続けて生きてきたはずだったんだけどねぇ…"
+                                "Room Manager: You should always put yourself first. That's\nwhat I've been chanting and living by all this time..."
                             ]
                         },
                         {
@@ -14653,14 +14415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "……………………"
+                                "Room Manager: ..."
                             ]
                         },
                         {
@@ -14684,21 +14439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アタシはこれまで、ひどい生き方をしてきた。ここにブチ込まれて当然のな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だからここで暮らすのも受け入れて、このまま細々とすり減って死んでいければいいと思ってた。"
+                                "Room Manager: I've lived a terrible life. It's only natural\nthat I ended up thrown in here. So I accepted living here,\nthinking it'd be fine to just whittle away and die off\nquietly."
                             ]
                         },
                         {
@@ -14715,14 +14456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな日々の中である日運ばれてきた怪我人の面倒をみた。"
+                                "Room Manager: In the midst of such days, one day I took care\nof an injured person who was brought in."
                             ]
                         },
                         {
@@ -14739,21 +14473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこに特別な思いはなく役割だから手当てをした。話をしたのもつかの間の気慰みだった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でもそんな気まぐれにあいつは感謝してくれた。アタシよりはるかにボロボロのくせにだ。"
+                                "Room Manager: There were no special feelings involved; it\nwas my role so I provided care. The conversation was also\njust a brief comfort. But on a whim, that person thanked me.\nEven though they were far more broken than me."
                             ]
                         },
                         {
@@ -14770,14 +14490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "甘くて、世間知らずで、真っ直ぐで。はじめはからかっていただけなのに。"
+                                "Room Manager: Sweet, naive, and straightforward. At first, I\nwas just teasing them."
                             ]
                         },
                         {
@@ -14794,21 +14507,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな人の澱のような場所でも自分の生き方を通そうとするアイツの姿を、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "弱さを抱えたまま強くあろうとする、そんな甘っちょろい志を見ていたらさ。"
+                                "Room Manager: But watching them try to live their way even\nin this cesspool of humanity, trying to be strong while\ncarrying their weaknesses, such a foolish aspiration..."
                             ]
                         },
                         {
@@ -14825,21 +14524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほんの少しだけ、自分の手の中にある自分の生き方ってもんに向き合ってみようって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな気持ちになっちまったんだ。らしくもなくね。"
+                                "Room Manager: Just a little bit, I started feeling like\nfacing my own way of living that I held in my hands.\nUncharacteristic of me, huh."
                             ]
                         },
                         {
@@ -14856,21 +14541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きっと残り少ないって自覚があったからなんだろうね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな地の底にあっちゃあいつは眩しすぎたよ。"
+                                "Room Manager: I guess it was because she knew her time was\nrunning short. She was too dazzling for a place like this,\nat the bottom of the earth."
                             ]
                         },
                         {
@@ -14887,21 +14558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今さら手遅れなのはわかっているが、かつてアタシが誰かにしてしまった分だけでも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "せめて手の届く範囲の報われなかったものたちへ償えないかってさ、そう思ってアタシは……"
+                                "Room Manager: I know it's too late now, but I've been\nthinking... maybe I can make amends, even just a little, for\nwhat I've done to others in the past, to those within my\nreach who went unrewarded."
                             ]
                         },
                         {
@@ -14941,14 +14598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だから自己犠牲か？そんなの誰が偉いと思う？バカみたいだ。"
+                                "Akane: So it's self-sacrifice, huh? Who do you think would\nadmire that? It's stupid."
                             ]
                         },
                         {
@@ -14965,14 +14615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…………お前自分勝手だよ。"
+                                "Akane: ...You're so selfish."
                             ]
                         },
                         {
@@ -15003,21 +14646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わかってる。誰かのためと言いながら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "結局は自分の生き方を通そうとするってのはそういうことさ。"
+                                "Room Manager: I know. Even though I say it's for someone\nelse's sake, in the end, I'm just trying to stick to my own\nway of living."
                             ]
                         },
                         {
@@ -15034,14 +14663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも力のない奴に出来ることなんて限られてる。"
+                                "Room Manager: But there's only so much a powerless person\ncan do."
                             ]
                         },
                         {
@@ -15058,21 +14680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰かを庇って自分が傷付くならそれでいいって何かした気になってたのに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分のことだけ考えろって散々言って聞かせたアイツに今もこうやって助けられている。"
+                                "Room Manager: I used to feel like I had accomplished\nsomething by getting hurt while protecting someone else. And\nyet, here I am, still being helped by that person who I\nalways told to only think of themselves."
                             ]
                         },
                         {
@@ -15089,14 +14697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はは、本当に情けないね。"
+                                "Room Manager: Haha, it's really pathetic, isn't it?"
                             ]
                         },
                         {
@@ -15113,14 +14714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きっとこうやって誰かと口を聞けるのもこれで最後だ。"
+                                "Room Manager: This is probably the last time I'll get to\ntalk to someone like this."
                             ]
                         },
                         {
@@ -15137,14 +14731,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最後に、悪いんだがもしアイツに会うことがあったら伝えほしいんだ、"
+                                "Room Manager: Lastly, I hate to ask, but if you ever see\nher, could you tell her something for me?"
                             ]
                         },
                         {
@@ -15168,14 +14755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『楽しかった、ありがとう』、って。"
+                                "Room Manager: \"I had fun, thank you.\""
                             ]
                         },
                         {
@@ -15242,7 +14822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……──"
+                                "..."
                             ]
                         },
                         {
@@ -15289,14 +14869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "レイシア。あんたの行いは無駄に終わったかもしれないけど、"
+                                "Akane: Reisha. Your actions might have been in vain,"
                             ]
                         },
                         {
@@ -15329,14 +14902,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんたの想いは、もしかしたら無駄にはなってなかったのかもしれない。"
+                                "Akane: but maybe your feelings weren't wasted after all."
                             ]
                         },
                         {
@@ -15374,7 +14940,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……──"
+                                "..."
                             ]
                         },
                         {
@@ -15421,14 +14987,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人間に唯一与えられた権利が自由だってんなら、私らは一体何だってんだろうねぇ…"
+                                "Akane: If the one right given to humans is freedom, then\nwhat are we...?"
                             ]
                         },
                         {
@@ -15466,7 +15025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……………──────"
+                                "..."
                             ]
                         },
                         {
@@ -15483,7 +15042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くそぉ……"
+                                "Damn..."
                             ]
                         },
                         {
@@ -15500,7 +15059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{くそぉおおおおおおおおおおおおッッ……！！！！！！"
+                                "Damn it all...!!!!"
                             ]
                         },
                         {

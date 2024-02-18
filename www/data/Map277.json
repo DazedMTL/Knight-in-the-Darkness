@@ -6005,7 +6005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔力のパスが切られたのか、もう起動はしないようだ。"
+                                "It seems the magic path has been severed; it won't activate\nanymore."
                             ]
                         },
                         {

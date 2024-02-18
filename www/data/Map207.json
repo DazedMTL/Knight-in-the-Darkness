@@ -8817,7 +8817,7 @@
                             "code": 405,
                             "indent": 0,
                             "parameters": [
-                                "『ナイトインザダークネス ～薄暮れの国の女騎士レイシア～ 』 fin."
+                                "\"Knight in the Darkness ~ The Twilight Country's Female\nKnight Reisha ~\" fin."
                             ]
                         },
                         {
@@ -8901,7 +8901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・トゥルーエンド：[朝焼けに息吹く。]"
+                                "True End: [Dawn's Breath]"
                             ]
                         },
                         {
@@ -8962,14 +8962,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本編クリアデータをセーブします。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(本編には戻れなくなるのでスロットを分けてセーブすることを推奨。)"
+                                "Save your main story clear data. (As you cannot return to\nthe main story, it is recommended to save in a separate\nslot.)"
                             ]
                         },
                         {

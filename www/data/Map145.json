@@ -60259,7 +60259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "野生の指輪を手に入れた！"
+                                "Gained a Wild Ring!"
                             ]
                         },
                         {
@@ -61390,7 +61390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "抗出血の指輪を手に入れた！"
+                                "Gained the Anti-Bleeding Ring!"
                             ]
                         },
                         {
@@ -61900,7 +61900,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奔放の腕輪を手に入れた！"
+                                "Obtained the Bracelet of Unrestraint!"
                             ]
                         },
                         {
@@ -62231,7 +62231,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "抗毒の指輪を手に入れた！"
+                                "Obtained the Ring of Poison Resistance!"
                             ]
                         },
                         {

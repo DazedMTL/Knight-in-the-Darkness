@@ -26598,7 +26598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アタックアップを手に入れた！"
+                                "Gained Attack Up!"
                             ]
                         },
                         {
@@ -26845,7 +26845,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ディフェンスアップを手に入れた！"
+                                "Gained Defense Up!"
                             ]
                         },
                         {
@@ -29495,7 +29495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "秘術の指輪を手に入れた！"
+                                "Obtained the Ring of Secret Arts!"
                             ]
                         },
                         {
@@ -29741,7 +29741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "3500\\G 手に入れた！"
+                                "Gained 3500\\G!"
                             ]
                         },
                         {

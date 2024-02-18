@@ -174,14 +174,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "まずはこちらの様子を見てくるか。"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "どうやら最低限の知性はあるようだな。"
+                            "First, let's observe the situation here. It seems they\npossess at least a minimal level of intelligence."
                         ]
                     },
                     {
@@ -198,14 +191,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "人を狩るために、獣が思慮を身に付けるか。"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "浅はかな。ならばこちらも少し慎重に立ち回らせてもらうとしようか…"
+                            "To hunt humans, a beast acquires the ability to think? How\nfoolish. Then, I shall proceed with a bit more caution..."
                         ]
                     },
                     {
@@ -246,14 +232,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "苛烈な一撃であったが、"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "しかし耐え凌げば相手に大きな隙きができるようだな。"
+                            "It was a fierce strike, but if we can endure it, it seems a\nlarge opening will appear in the enemy's defense."
                         ]
                     },
                     {
@@ -270,14 +249,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "好んで必殺に付き合ってやる必要もない。"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "相手の行動を見極めて立ち回り、戦闘を有利に進めさせてもらおうか。"
+                            "There's no need to willingly go along with their deadly\nmoves. Let's read their actions and maneuver accordingly to\ngain the upper hand in battle."
                         ]
                     },
                     {
@@ -452,14 +424,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "人さらい：子分"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "面白そうじゃねぇか！オレも一緒に遊ばせろ！！"
+                            "Kidnapper: \"This lackey looks like fun! Let me join in on\nthe game!!\""
                         ]
                     },
                     {
@@ -534,7 +499,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "レイシアは後ろからの不意打ちを食らった！！"
+                            "Reisha was caught off guard by a surprise attack from\nbehind!!"
                         ]
                     },
                     {
@@ -558,7 +523,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "人さらい：子分が戦闘に参加した！"
+                            "Kidnapper: \"The lackey has joined the battle!\""
                         ]
                     },
                     {
@@ -959,14 +924,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "まずは様子を見てくるか。"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "小賢しいが、人間と戦うことに慣れているようだな。"
+                            "Let's check out the situation first. They're cunning, but it\nseems they're used to fighting humans."
                         ]
                     },
                     {
@@ -983,7 +941,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "こちらも少々注意をはらい慎重に立ち回らねば思わぬ痛手を負うかもしれないな。"
+                            "We'll need to be cautious and careful in our approach, or we\nmight suffer unexpected losses."
                         ]
                     },
                     {
@@ -1047,14 +1005,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "苛烈な一撃であったが、続けて繰り出せるという代物ではないらしい。"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "どうやら耐え凌げば相手に大きな隙きができるようだな。"
+                            "It was a fierce strike, but it doesn't seem like something\nthat can be delivered consecutively. If I endure it, it\nappears a significant opening will emerge in the opponent."
                         ]
                     },
                     {
@@ -1071,21 +1022,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "厄介な状態異常なども防御姿勢を上手く取れさえすれば堪えられる。"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "好んで必殺に付き合ってやる必要もない。"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "相手の行動を見極めて立ち回り、戦闘を有利に進めさせてもらおうか。"
+                            "Even troublesome status ailments can be withstood if I adopt\na defensive stance properly. There's no need to willingly\nengage in their finishing moves. I'll observe the enemy's\nactions and maneuver accordingly to gain the upper hand in\nbattle."
                         ]
                     },
                     {
@@ -1235,14 +1172,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "まずは様子を見てくるか。"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "小賢しいが、人間と戦うことに慣れているようだな。"
+                            "First, let's see how things are. They're cunning, but it\nseems they're used to fighting humans."
                         ]
                     },
                     {
@@ -1259,7 +1189,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "こちらも少々注意をはらい慎重に立ち回らねば思わぬ痛手を負うかもしれないな。"
+                            "We also need to be careful and cautious, or we might suffer\nunexpected damage."
                         ]
                     },
                     {
@@ -1300,14 +1230,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "苛烈な一撃であったが、続けて繰り出せるという代物ではないらしい。"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "どうやら耐え凌げば相手に大きな隙きができるようだな。"
+                            "It was a fierce strike, but it seems not something that can\nbe delivered in rapid succession. If I endure it, it appears\na significant opening will present itself in the opponent."
                         ]
                     },
                     {
@@ -1324,14 +1247,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "好んで必殺に付き合ってやる必要もない。"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "相手の行動を見極めて立ち回り、戦闘を有利に進めさせてもらおうか。"
+                            "There's no need to willingly go along with their finishing\nmove. I'll observe the enemy's actions and maneuver\naccordingly to gain the upper hand in battle."
                         ]
                     },
                     {
@@ -1724,14 +1640,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "魔導研究員："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "むっ！何者だ！！！どこから入った！！"
+                            "Magical Researcher: Hmph! Who goes there!!! How did you get\nin!!"
                         ]
                     },
                     {
@@ -1748,14 +1657,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "レイシア："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "貴様ら！！今すぐその手を止めろッ！このような事…決して許されると思うな！！"
+                            "Reisha: You bastards!! Stop what you're doing right now!\nDon't think for a moment that this will be forgiven...!"
                         ]
                     },
                     {
@@ -1772,21 +1674,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "魔導研究員："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "フン、何も知らぬ女一人に何が出来る。"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "魔導の研究サンプルに役立ててやろう！勿論、生きたままな！！"
+                            "Magical Researcher: Hmph, what can a single ignorant woman\ndo? I'll make use of you as a sample for my magical\nresearch! Of course, while you're still alive!!"
                         ]
                     },
                     {
@@ -1803,14 +1691,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "レイシア："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "死をもって詫びろ！外道共がッ！！"
+                            "Reisha: Atone with your death! You fiends!!"
                         ]
                     },
                     {
@@ -2248,21 +2129,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "監獄看守長："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "そろいもそろって薄汚いネズミ共が、のこのこ何をしに来た！？あぁ！？"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "そんなに地の底でくたばりたいか！！ホヒヒヒヒ！！！"
+                            "Prison Warden: What's this? A bunch of filthy rats have come\nscurrying in! What do you want!? Ah!? You want to die in the\ndepths that badly!! Hohohoho!!!"
                         ]
                     },
                     {
@@ -2372,14 +2239,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "レイシア："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "今さら貴様らに怖じ気付くものか！奴らから受けた屈辱を、怒りを思い出せッ！！"
+                            "Reisha: As if we'd be intimidated by the likes of you now!\nRemember the humiliation, the anger we suffered at their\nhands!!"
                         ]
                     },
                     {
@@ -2396,21 +2256,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "レイシア："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "恐怖に、痛みに臆するな！　目先の甘言に惑わされるな！"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "私に続けッ！　お前たちにも力はある！　自由になる権利はあるのだッ！"
+                            "Reisha: Don't flinch from fear or pain! Don't be misled by\nsweet words right before your eyes! Follow me! You all have\nstrength! You have the right to be free!"
                         ]
                     },
                     {
@@ -2475,7 +2321,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "この期に及んで甘いのはわかっているが、取り巻きの連中は、なるべく傷付けたくない…！"
+                            "I know it's naive at this point, but I don't want to hurt\nthe followers if possible...!"
                         ]
                     },
                     {
@@ -2492,7 +2338,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "戦意を喪失させるだけでいい…！　足をすくませるような、何か有効な方法は……！？"
+                            "It's enough just to make them lose the will to fight...! Is\nthere an effective way to trip them up...!?"
                         ]
                     },
                     {
@@ -2559,7 +2405,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "労働者が戦いに加わった！"
+                            "The laborer has joined the battle!"
                         ]
                     },
                     {
@@ -2583,7 +2429,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "チィ！増援か！！かまうな！！攻撃の手を止めるなよ！！"
+                            "Tch! Reinforcements, huh!! Don't mind them!! Don't stop\nattacking!!"
                         ]
                     },
                     {
@@ -2650,7 +2496,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "労働者が戦いに加わった！"
+                            "The laborer has joined the battle!"
                         ]
                     },
                     {
@@ -2674,7 +2520,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "チィ！増援か！！かまうな！！私に続けッッ！！"
+                            "Tch! Reinforcements, huh!! Don't mind them!! Follow me!!"
                         ]
                     },
                     {
@@ -2741,14 +2587,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "監獄役人："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "ここからは絶対に逃がさんぞ！！貴様らぁ！！！"
+                            "Prison Officer: \"You won't escape from here! I won't let\nyou!!!\""
                         ]
                     },
                     {
@@ -2765,7 +2604,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "監獄役人が戦いに加わった！！"
+                            "The Prison Officer has joined the battle!!"
                         ]
                     },
                     {
@@ -2825,14 +2664,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "監獄役人："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "ゲハハハハハ！！騒ぎを聞いて駆けつければ！！面白そうなことしてるじゃねぇか！！"
+                            "Prison Officer: \"Gyahahahaha!! I came running when I heard\nthe commotion!! Looks like you're having quite the fun,\naren't you?!\""
                         ]
                     },
                     {
@@ -2849,7 +2681,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "監獄役人が戦いに加わった！！"
+                            "The prison officer has joined the battle!!"
                         ]
                     },
                     {
@@ -2873,7 +2705,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "クソっ！マズいぞ！まだ新手が残っていたのかッ！？"
+                            "Damn! This is bad! Were there still reinforcements left?!"
                         ]
                     },
                     {
@@ -2897,14 +2729,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "監獄看守長："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "ホヒヒヒヒ！！！いいぞぉ～！！形勢逆転かなぁ？ホヒヒヒヒヒ！！！！"
+                            "Prison Warden: \"Hohohoho!!! That's it~!! Is this a\nturnaround I see? Hohohohoho!!!!\""
                         ]
                     },
                     {
@@ -2945,14 +2770,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "監獄看守長："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "\\{もしかして、またボクちん敗けなのぉぉぉおおお！？"
+                            "Prison Warden: Could it be that I'm defeated againnnnnn!?"
                         ]
                     },
                     {
@@ -3066,14 +2884,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ごろつき子分・阿："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "オレたちにケンカを売ったこと、後悔させてやるぜ！"
+                            "Thug Minion A: You'll regret picking a fight with us!"
                         ]
                     },
                     {
@@ -3090,14 +2901,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ごろつき子分・吽："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "数で勝る相手に挑む度胸は認めてやるぜ！だが所詮は女だ！"
+                            "Thug Minion Un: I'll give you credit for having the guts to\nchallenge someone with superior numbers! But in the end,\nyou're just a woman!"
                         ]
                     },
                     {
@@ -3114,14 +2918,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ごろつきリーダー："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "騒ぎになる前に片付ける！オレたち得意のコンビネーション！いくぞっ！"
+                            "Thug Leader: Let's finish this before it turns into a scene!\nTime for our signature combination! Here we go!"
                         ]
                     },
                     {
@@ -3138,14 +2935,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ごろつき子分・阿吽："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "\\{「「オウッ！！」」"
+                            "Thug Minions A and Un: \"Ow!!\""
                         ]
                     },
                     {
@@ -3169,21 +2959,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "レイシア："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "慣れぬ仕事で肩が凝っていた所だ。"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "戦いたいのならば丁度いい、身体をほぐすのに私もひと暴れさせてもらうぞ！"
+                            "Reisha: My shoulders were getting stiff from all this\nunfamiliar work. If you want to fight, that's perfect. I'll\ntake this chance to stretch out and let off some steam!"
                         ]
                     },
                     {
@@ -3231,21 +3007,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ごろつきリーダー："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "ハハハ！どうした嬢ちゃん！"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "俺たち得意のコンビネーションに手も足も出ねぇみたいだな！"
+                            "Thug Leader: Hahaha! What's the matter, girlie? Looks like\nyou can't handle our signature combination!"
                         ]
                     },
                     {
@@ -3262,14 +3024,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ごろつきリーダー："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "次で決めるぞ！『真・スクリュードライバー』の準備だ！"
+                            "Thug Leader: This is it! Get ready for the \"True\nScrewdriver\"!"
                         ]
                     },
                     {
@@ -3286,14 +3041,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ごろつき子分・阿吽："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "\\{「「オウッ！！」」"
+                            "Thug Henchmen Aun: \"Ow!!\""
                         ]
                     },
                     {
@@ -3317,14 +3065,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "レイシア："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "マズい、舐めていた。見た目の印象とは違い、統率の取れた良い戦いをしてくる…"
+                            "Reisha: This is bad, I underestimated them. Despite their\nlooks, they're well-coordinated in battle..."
                         ]
                     },
                     {
@@ -3341,21 +3082,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "レイシア："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "このような手合いはローテーションの穴を見つけ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "そこを突けば勢いを削ぐことが可能だが、このままでは……！）"
+                            "Reisha: With opponents like these, finding a gap in their\nrotation and striking there could break their momentum, but\nat this rate...!"
                         ]
                     },
                     {
@@ -3386,14 +3113,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "からまれていたバニー："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "\\{ご、ごろつきどもぉ…！！これでも食らえッッ！！！"
+                            "Bunny being harassed: You thugs...!! Take this!!!"
                         ]
                     },
                     {
@@ -3428,14 +3148,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ごろつき子分・阿："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "わぷっ！！何だぁ！！？？"
+                            "Thug Henchman A: Wapuh!! What the...??"
                         ]
                     },
                     {
@@ -3452,14 +3165,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ごろつき子分・吽："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "げほっ！げほっ！こいつは……、酒だ！！しかも飛びきり強烈なヤツだぜ！！"
+                            "Thug Henchman Un: Cough! Cough! This is... alcohol!! And\nit's an incredibly strong one at that!!"
                         ]
                     },
                     {
@@ -3476,14 +3182,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ごろつきリーダー："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "……………………………………………"
+                            "Thug Leader: ..."
                         ]
                     },
                     {
@@ -3500,21 +3199,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "からまれていたバニー："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "フンだ！ここで働くバニーが、ごろつきなんかに怖気付くもんですか！！"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "それよりあなたは大丈夫ですか！？すぐに手当てを！！"
+                            "Bunny being harassed: Hmph! Do you think a bunny working\nhere would be scared of thugs like you?! More importantly,\nare you okay?! Let me treat your wounds right away!!"
                         ]
                     },
                     {
@@ -3562,14 +3247,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "レイシア："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "すまない助かったよ…！"
+                            "Reisha: Sorry, I owe you one...!"
                         ]
                     },
                     {
@@ -3586,21 +3264,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ごろつき子分・阿："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "ちっ！あともう少しだったってのに邪魔しやがって！まぁいいさ。"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "俺たちのコンビネーションが破られたわけじゃねぇ！もう一度いくぜ！！"
+                            "Thug Henchman A: Tch! We were so close to finishing it off\nbefore you interfered! Well, it doesn't matter. Our\ncombination hasn't been broken! Let's go again!!"
                         ]
                     },
                     {
@@ -3617,14 +3281,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ごろつきリーダー："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "……………………………………………"
+                            "Thug Leader: ..."
                         ]
                     },
                     {
@@ -3641,14 +3298,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ごろつき子分・吽："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "ま、待て、阿！！　兄貴の様子がおかしいぜ……！"
+                            "Thug Henchman Un: Wait, A! Something's wrong with the\nboss...!"
                         ]
                     },
                     {
@@ -3665,14 +3315,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ごろつきリーダー："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "……………………………………………、ぷりぷりぷ～♪"
+                            "Thug Leader: ...puri puri pu~♪"
                         ]
                     },
                     {
@@ -3701,14 +3344,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ごろつき子分・阿吽："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "\\{「「だああ！！兄貴が酒に激弱だったってのを忘れてたあ！！！！」」"
+                            "Thug Henchmen Aun: \"Daaaah!! We forgot that the boss is\nsuper weak to alcohol!!!!!\""
                         ]
                     },
                     {
@@ -3732,28 +3368,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "レイシア："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "（右ストレートでぶっとばす。まっすぐいってぶっとばす。右ストレートでぶっとばす。"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "　右ストレートでぶっとばす。まっすぐいってぶっとばす。右ストレートでぶっとばす。"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "　右ストレートでぶっとばす。まっすぐいってぶっとばす。右ストレートでぶっとばす。）"
+                            "Reisha: (Knock them out with a right straight. Go straight\nand knock them out. Right straight to knock them out. Right\nstraight to knock them out. Go straight and knock them out.\nRight straight to knock them out. Right straight to knock\nthem out. Go straight and knock them out. Right straight to\nknock them out.)"
                         ]
                     },
                     {
@@ -3862,14 +3477,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "（気持ちが落ち着くドリンクか。女性向けの酒を渡すのが鉄板だろうが、"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "　しかし本人の口から好みを聞いてないのが少し気になるところだ……）"
+                            "(A calming drink, huh. It's a safe bet to hand over a drink\ntailored for women, but I'm a bit concerned that I haven't\nheard her preferences directly from her...)"
                         ]
                     },
                     {
@@ -4047,14 +3655,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "（気持ちが落ち着くドリンクか。女性向けの酒を渡すのが鉄板だろうが、"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "　しかし本人の口から好みを聞いてないのが少し気になるところだ……）"
+                            "(A calming drink, huh? It's a safe bet to hand over a drink\ntailored for women, but I'm a bit concerned that I haven't\nheard her preferences directly from her...)"
                         ]
                     },
                     {
@@ -4132,14 +3733,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "（雰囲気からしてこちらの要望通りのモノなら何でも注文をしてくれそうだが。"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "　だからといって高級なモノを押し付けてしまっていいものか……）"
+                            "(The atmosphere suggests they would order anything I\nrequest. But should I really impose expensive items on\nthem...)"
                         ]
                     },
                     {
@@ -4217,14 +3811,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "（仲の良いことは素晴らしいことだが、いざ目の前で繰り広げられると眩暈がしてくるな。"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "　ふたりの関係は…、夫婦だろうか？　そんな彼らの今宵の雰囲気を盛り上げる酒か難しいな……）"
+                            "(It's wonderful to see such a close bond, but witnessing it\nunfold before my eyes is almost dizzying. Are they... a\nmarried couple? Choosing the right alcohol to enhance their\nmood tonight is quite the challenge...)"
                         ]
                     },
                     {
@@ -4302,14 +3889,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "（手っ取り早く気分が高揚するものか。わかりやすくていいな。"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "　しかし仕事上彼はよく声を出している。その辺りは気を遣って考えた方がいいだろうな。）"
+                            "(Something that quickly elevates the mood, huh? It's\nstraightforward and nice. But he often raises his voice\nbecause of work. I should be considerate and think about\nthat.)"
                         ]
                     },
                     {
@@ -4387,14 +3967,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "（強い酒をすすめて気を晴らすのも勿論いいだろう。"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "　しかし甘い酒が心の隙間を埋めてくれることだってある。悩み所だな。）"
+                            "(Offering strong liquor to clear one's mind is certainly\ngood. But there are times when sweet liquor can fill the\ngaps in one's heart. It's a dilemma.)"
                         ]
                     },
                     {
@@ -4511,14 +4084,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "魔導ゴーレム："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "ウオォォォォォォォオオオン……！！！"
+                            "Magical Golem: UOOOOOOOOOOON...!!!"
                         ]
                     },
                     {
@@ -4545,7 +4111,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "隙ありッ！！！"
+                            "Now's my chance!"
                         ]
                     },
                     {
@@ -4586,7 +4152,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "（おいおい、こいつ思った以上に装甲が厚いぞ……）"
+                            "(Whoa, this thing's armor is thicker than I thought...)"
                         ]
                     },
                     {
@@ -4603,14 +4169,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "（これは慎重に有効な技を選ばねば痛い目を見るかもな。"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "　強力な打撃技か、魔力攻撃か。あるいはジッと耐えしのぎ隙を窺うか…考えものだな。）"
+                            "(I need to choose my moves carefully here, or I'll be in for\na world of hurt. Should I go for a powerful strike, a\nmagical attack, or just bide my time and wait for an\nopening... It's a tough call.)"
                         ]
                     },
                     {
@@ -4830,21 +4389,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "監獄看守長："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "そろいもそろって薄汚いネズミ共が、のこのこ何をしに来た！？あぁ！？"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "そんなに地の底でくたばりたいか！！ホヒヒヒヒ！！！"
+                            "Prison Warden: All of you filthy rats have come scurrying\nin! What do you think you're doing here!? Ah!? You want to\ndie in the depths that badly!! Hohohoho!!!"
                         ]
                     },
                     {
@@ -4945,14 +4490,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "レイシア："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "今さら貴様らに怖じ気付くものか！奴らから受けた屈辱を、怒りを思い出せッ！！"
+                            "Reisha: As if we'd be intimidated by the likes of you now!\nRemember the humiliation, the anger we've suffered at their\nhands!!"
                         ]
                     },
                     {
@@ -4969,21 +4507,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "レイシア："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "恐怖に、痛みに臆するな！　目先の甘言に惑わされるな！"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "私に続けッ！　お前たちにも力はある！　自由になる権利はあるのだッ！"
+                            "Reisha: Don't flinch from fear or pain! Don't be misled by\nsweet words right before your eyes! Follow me! You all have\nstrength! You have the right to be free!"
                         ]
                     },
                     {
@@ -5048,7 +4572,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "この期に及んで甘いのはわかっているが、取り巻きの連中は、なるべく傷付けたくない…！"
+                            "I know it's naive at this point, but I don't want to hurt\nthe followers as much as possible...!"
                         ]
                     },
                     {
@@ -5065,21 +4589,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "戦意を喪失させるだけでいい…！"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "足をすくませるような、『強く打ちつける』ような攻撃を…！"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "何か有効な方法は無いだろうか……！？"
+                            "It's enough just to make them lose the will to fight...! An\nattack that \"strikes hard\" and sweeps them off their\nfeet...! Isn't there any effective method...?"
                         ]
                     },
                     {
@@ -5146,7 +4656,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "労働者が戦いに加わった！"
+                            "The laborer has joined the battle!"
                         ]
                     },
                     {
@@ -5170,7 +4680,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "チィ！増援か！！かまうな！！攻撃の手を止めるなよ！！"
+                            "Tch! Reinforcements, huh!! Don't mind them!! Don't stop the\nattack!!"
                         ]
                     },
                     {
@@ -5237,7 +4747,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "労働者が戦いに加わった！"
+                            "The laborer has joined the battle!"
                         ]
                     },
                     {
@@ -5261,7 +4771,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "チィ！増援か！！かまうな！！私に続けッッ！！"
+                            "Tch! Reinforcements, huh!! Don't mind them!! Follow me!!"
                         ]
                     },
                     {
@@ -5337,14 +4847,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "監獄役人："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "ここからは絶対に逃がさんぞ！！貴様らぁ！！！"
+                            "Prison Guard: You won't escape from here, no matter what!!!\nYou lot!!!"
                         ]
                     },
                     {
@@ -5361,7 +4864,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "監獄役人が戦いに加わった！！"
+                            "The Prison Guard has joined the battle!!"
                         ]
                     },
                     {
@@ -5431,14 +4934,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "監獄役人："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "ゲハハハハハ！！騒ぎを聞いて駆けつければ！！面白そうなことしてるじゃねぇか！！"
+                            "Prison Officer: \"Gehahahahaha!! I heard the commotion and\ncame running!! Looks like you're having quite the fun,\naren't you?!\""
                         ]
                     },
                     {
@@ -5455,7 +4951,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "監獄役人が戦いに加わった！！"
+                            "The prison officer has joined the battle!!"
                         ]
                     },
                     {
@@ -5479,7 +4975,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "クソっ！マズいぞ！まだ新手が残っていたのかッ！？"
+                            "Damn! This is bad! Were there still reinforcements left?!"
                         ]
                     },
                     {
@@ -5503,14 +4999,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "監獄看守長："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "ホヒヒヒヒ！！！いいぞぉ～！！形勢逆転かなぁ？ホヒヒヒヒヒ！！！！"
+                            "Prison Warden: \"Hohihihihi!!! That's it~!! Is this a\nturnaround I see? Hohihihihihi!!!!\""
                         ]
                     },
                     {
@@ -6211,7 +5700,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "騎士レイシア！我が剣をもってこの場を押し通る！！"
+                            "Knight Reisha! With my sword, I shall prevail in this\nplace!!"
                         ]
                     },
                     {
@@ -6245,14 +5734,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "魔導服の男："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "騎士風情に好きにさせてたまるかッ！！我が魔導の前に消し炭となれッ！！"
+                            "Sorcerer in magical garb: As if I'd let a mere knight do as\nshe pleases!! Turn to cinders before my sorcery!!"
                         ]
                     },
                     {
@@ -6312,14 +5794,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "魔導服の男："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "\\{我が魔導の道……こんな……、所でぇぇ……ッッ！！！"
+                            "Man in Mage's Garb: My path of sorcery... to end like\nthis... in such a place... Ahhh...!!!"
                         ]
                     },
                     {
@@ -6549,14 +6024,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "宰相："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "若き騎士よ、戦場で磨かれたその剣技楽しませてもらうぞ。"
+                            "Chancellor: Young knight, I shall take pleasure in the\nswordsmanship you've honed on the battlefield."
                         ]
                     },
                     {
@@ -6573,14 +6041,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "宰相："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "\\{最初から全力で行く。本気で来い！！"
+                            "Chancellor: I'll go all out from the start. Come at me with\nall you've got!!"
                         ]
                     },
                     {
@@ -6720,7 +6181,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "そんな……、正気を取り戻してください姫さま！！"
+                            "Please, regain your senses, Princess-sama!!"
                         ]
                     },
                     {
@@ -6737,14 +6198,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "（いけない……"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "　どのようなことがあろうと主に剣を向けることなど有ってはならない！））"
+                            "(No... No matter what happens, I must not draw my sword\nagainst my master!)"
                         ]
                     },
                     {
@@ -6809,7 +6263,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "嫌だ……。このような互いに血を流すことに、何の意味があるのでしょう……。"
+                            "No... What's the point of spilling each other's blood like\nthis..."
                         ]
                     },
                     {
@@ -6826,7 +6280,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "お願いです……。もう、やめて、ください……。"
+                            "Please... stop it, already..."
                         ]
                     },
                     {
@@ -6982,21 +6436,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "アカネ："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "さっきも見たろ？触手の弱点つったらやっぱし炎さ！！"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "それに関しちゃ私にとっておきがある。まぁ上手くやるさ！！"
+                            "Akane: You saw it earlier, right? When it comes to\ntentacles' weaknesses, it's definitely fire!! And I have a\nspecial trick for that. Just watch me do it well!!"
                         ]
                     },
                     {
@@ -7013,21 +6453,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "アカネ："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "騎士から見りゃ汚い戦い方だろうがなりふり構ってる場合じゃないぜ。"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "厄介な動きをする触手なんかは先行して痺れ薬で止めてもいいかもな！"
+                            "Akane: It might look like a dirty way to fight from a\nknight's perspective, but we're not in a position to care\nabout appearances. It might be a good idea to stop those\ntroublesome tentacles in their tracks with paralysis poison\nfirst!"
                         ]
                     },
                     {
@@ -7044,14 +6470,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "アカネ："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "なんて軽口をたたいちゃみたものの、私は見ての通り軽装甲で低防御だ。"
+                            "Akane: Despite my light-hearted banter, as you can see, I'm\nlightly armored and have low defense."
                         ]
                     },
                     {
@@ -7068,14 +6487,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "アカネ："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "攻撃はレイシア、あんたが引き受けてくれ。それじゃ頼んだぜッ──！！"
+                            "Akane: Reisha, I'm counting on you to take the lead in the\nattack. I'm relying on you──!!"
                         ]
                     },
                     {
@@ -7172,21 +6584,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "レイシア："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "確かにアカネの言う通り、触手の呪い攻撃は厄介だ。"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "私が盾になって引き受けたとて耐えられるか……"
+                            "Reisha: Indeed, as Akane says, the curse attacks of the\ntentacles are troublesome. Even if I act as a shield, I\nwonder if I can withstand it..."
                         ]
                     },
                     {
@@ -7203,21 +6601,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "レイシア："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "いや、今私の手の中にあるこの剣の力を十分に引き出すことが出来れば、"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "強力な呪いを受けたとしても、あるいは活路を見出せるはずだ！！"
+                            "Reisha: No, if I can fully harness the power of this sword\nin my hands, even if I receive a powerful curse, I should be\nable to find a way out!!"
                         ]
                     },
                     {
@@ -7234,14 +6618,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "レイシア："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "\\{何故なら、私はもう一人じゃないッッ……──！！"
+                            "Reisha: Because I'm not alone anymore...──!!"
                         ]
                     },
                     {
@@ -7364,14 +6741,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "王女："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "あぁ…お父さま、義母上さま、叔父上さま……みんな私を置いて何処に行ってしまったの……？"
+                            "Princess: Ah... Father, Stepmother, Uncle... where has\neveryone gone, leaving me behind...?"
                         ]
                     },
                     {
@@ -7468,14 +6838,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "レイシア："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "大丈夫です、姫さま。あなたをもう一人にはしない。"
+                            "Reisha: It's alright, Princess. I won't leave you alone\nanymore."
                         ]
                     },
                     {
@@ -7492,14 +6855,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "レイシア："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "貴方の騎士はここにいます！さぁ我が主よ、共に悪い夢から目覚めましょう！"
+                            "Reisha: Your knight is here! Now, my liege, let us awaken\nfrom this bad dream together!"
                         ]
                     },
                     {
@@ -7619,14 +6975,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "王女："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "レイシア……、戻ってきてくれたのですね……！ありがとう。後は頼みます……"
+                            "Princess Soara: Reisha... you've come back to me...! Thank\nyou. I leave the rest to you..."
                         ]
                     },
                     {
@@ -7793,14 +7142,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "宰相："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "グハッ……ここまでか……"
+                            "Chancellor: Guh... Is this the end..."
                         ]
                     },
                     {
@@ -7850,14 +7192,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "宰相："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "我が主よ……今そちらに向かいます……"
+                            "Chancellor: My lord... I am coming to you now..."
                         ]
                     },
                     {
@@ -8880,7 +8215,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "（はぁ…　はぁ…　うぐっ…　ぁぁ…！！）"
+                            "(Hah... hah... ugh... ah...!!)"
                         ]
                     },
                     {
@@ -8897,7 +8232,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "（ぐ…　むぐ…ッ！　クソ、こいつ等！　はぁ…あぐっ！）"
+                            "(Guh... mgh...! Damn it, these guys! Hah... aguh!)"
                         ]
                     },
                     {
@@ -8914,7 +8249,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "（相手の自由を奪い…、乱暴に腰を…っぅ……、打ちつけ…てぇ…ッ！）"
+                            "(Taking away their freedom... violently thrusting hips...\nugh... pounding... eeh...!!)"
                         ]
                     },
                     {
@@ -8950,7 +8285,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ふぐぅ……！　ふぅ～……！ふぅ～……！　むぐっ！！"
+                            "Fughh...! Fuu~...! Fuu~...! Mugh!!"
                         ]
                     },
                     {
@@ -8967,7 +8302,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "\\{ん゛ん゛ん゛っ！！　～～～～～～～ッッ！！！！"
+                            "Nnnh!!~~~~~~~!!"
                         ]
                     },
                     {
@@ -9379,14 +8714,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "宰相："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "いつ以来かな、君と魔術の腕を披露し合うのは。"
+                            "Chancellor: When was the last time we showed off our magical\nprowess to each other?"
                         ]
                     },
                     {
@@ -9403,21 +8731,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "魔導服の男："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "かつて我々にも友情と呼べるものがあった、何もかもが遠い昔の事よ。"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "またこうして再び貴様に背を任せ戦う日がこようとはな。"
+                            "Man in Magical Garb: Once, what we had could be called\nfriendship, all of it now seems like a distant past. To\nthink that a day would come when I would fight alongside you\nagain."
                         ]
                     },
                     {
@@ -9434,14 +8748,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "宰相："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "\\{最初から全力で行く。ついて来いよ！"
+                            "Chancellor: I'm going all out from the start. Keep up!"
                         ]
                     },
                     {
@@ -9584,21 +8891,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "魔導ゴーレム[自律型]："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "\\{ウオォォォォォオオオオオオン！！！"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "\\}（本編後半で出番を擦り倒された我らがチームワーク今見せる時！！）"
+                            "Magical Golem [Autonomous Type]: Uoooooooon!!! (Now is the\ntime to show our team's hard work, which was worn out in the\nlatter half of the main story!!)"
                         ]
                     },
                     {
@@ -9639,21 +8932,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "魔導ゴーレム[自律型]："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "\\{ウオォォォォォオオオオオオン！！！ボブォオオオオオ！！"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "\\}（三体集まればオーバーヒートも三倍！！つまりあんま変わらない！）"
+                            "Magical Golem [Autonomous Type]: Uoooooooon!!! Boboooooo!!!\n(When three of us gather, the overheat is tripled!! Which\nmeans, not much changes!)"
                         ]
                     },
                     {
@@ -9755,21 +9034,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "牛鬼："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "\\{ぶもぉおおおおお！ぶもっ！ぶもも！！ふごぉぉぉおおおお！！！"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "\\}（訳：みんなで頑張ろうね！）"
+                            "Ox Demon: Bumoooooo! Bumo! Bumomo!! Fugooooooo!!! (Let's all\ndo our best!)"
                         ]
                     },
                     {
@@ -9798,21 +9063,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "パワータイプの皆さん："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "\\{ごぼおおおお！！うぉっ！うぉっ！！ぼぎゃあぁぁぁあああああん！！"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "\\}（訳：狭いのでもうちょっとそっちつめてもらっていいですか？）"
+                            "Power Types: Gobooooo!! Woah! Woah!! Bogyaaaaaaan!!! (It's a\nbit cramped, could you move over a bit?)"
                         ]
                     },
                     {
@@ -9920,21 +9171,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "監獄看守長："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "ホヒヒヒヒヒ！！今日こそお前に復讐してやる！"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "敗けたらまたお前の弱々のお尻の穴をベソかくまで舐ってやるからなぁ！！"
+                            "Prison Warden: Hohohoho!! Today I will have my revenge! If\nyou lose, I'll lick your feeble little butt hole until\nyou're sobbing!!"
                         ]
                     },
                     {
@@ -9963,28 +9200,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "悪党の皆さん："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "（やっぱり女騎士がお尻の穴が弱いって噂、本当だったんだ……！！）"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "（え、…？この人ケツハメしたの？やべちょっと勃ってきた……！！）"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "（ボクの方が先にあの女騎士が好きだったのに……）"
+                            "Villains: (So the rumors that the female knight has a weak\nbutt hole are true...!!) (Eh, ...? This guy actually did her\nin the ass? Damn, I'm getting a bit hard...!!) (I was the\none who liked that female knight first...)"
                         ]
                     },
                     {
@@ -10015,21 +9231,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "レイシア："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "\\{女騎士はアナルが弱いだと？"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "馬鹿を言うな！尻の穴は人体の急所だ。誰だって弱いッ！！"
+                            "Reisha: Female knights have weak anuses? Don't be\nridiculous! The anus is a vital point of the human body.\nEveryone's is weak!!"
                         ]
                     },
                     {
@@ -10065,28 +9267,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "悪党の皆さん："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "（ってことは、やっぱり女騎士がお尻の穴が弱いって噂、本当だったんだ！）"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "（オレはケツの穴を鍛えてるから強いけどな。槍でも鉄砲でも持ってこい！）"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "（気丈で高潔な女騎士の尻穴だから価値があるわけで他と比べても意味無いよ）"
+                            "Villains: (So it means the rumors about the female knight's\nweak butt hole are indeed true!) (I've been training my own\nass hole, so it's strong. Bring on spears or guns!) (It's\nbecause she's a valiant and noble female knight that her ass\nhole has value, comparing it to others is pointless anyway)"
                         ]
                     },
                     {
@@ -10171,14 +9352,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "赤月の宰相："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "さぁ、白髪の若き騎士よ。私と共に地に覇道轟かせようぞ！！"
+                            "Chancellor of the Crimson Moon: Come now, young knight with\nthe silver hair. Let us make our supreme rule resound across\nthe land together!!"
                         ]
                     },
                     {
@@ -10195,14 +9369,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "戦闘人形："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "…………………………………………"
+                            "Battle Doll: ..."
                         ]
                     },
                     {
@@ -10228,14 +9395,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "赤月の宰相："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "ちょ、ちょっと、まだ酒の時間には早いぞ……？"
+                            "Chancellor of the Crimson Moon: Wait, wait, it's still too\nearly for drinking...?"
                         ]
                     },
                     {
@@ -10252,14 +9412,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "戦闘人形："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "…………………………………………"
+                            "Battle Doll: ..."
                         ]
                     },
                     {
@@ -10285,14 +9438,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "赤月の宰相："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "ワプッ！！も、もう大丈夫だからな！！"
+                            "Chancellor of the Crimson Moon: Whoops!! It's, it's all\nright now!!"
                         ]
                     },
                     {
@@ -10309,21 +9455,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "赤月の宰相："
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "（大人しくしている分には可愛いものなのだが……。"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "　いったい何処で覚えてきたのだこんなこと……。）"
+                            "Chancellor of the Crimson Moon: (She's quite adorable when\nshe's being quiet... but where on earth did she learn to do\nsuch things...)"
                         ]
                     },
                     {

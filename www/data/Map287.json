@@ -10647,14 +10647,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうだ嬢ちゃん！？兄貴は、兄貴は助かったのか…っ！？"
+                                "Henchman: How is it, miss?! Did the boss, did the boss make\nit...?!"
                             ]
                         },
                         {
@@ -10716,7 +10709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………………………"
+                                "..."
                             ]
                         },
                         {
@@ -10733,7 +10726,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すまない。一足遅く、彼はもう、人の姿では……。"
+                                "I'm sorry. I was too late, he's no longer... human..."
                             ]
                         },
                         {
@@ -10829,14 +10822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな……"
+                                "Henchman: No way..."
                             ]
                         },
                         {
@@ -10862,14 +10848,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうか……実験が失敗して、他の奴らと同じように、なりそこないになっちまったのか……"
+                                "Henchman: I see... The experiment failed, and he ended up a\nfailed creation like the others..."
                             ]
                         },
                         {
@@ -10900,7 +10879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "悪かった。私の力が及ばないばかりに……"
+                                "My apologies. It's all because my power wasn't enough..."
                             ]
                         },
                         {
@@ -10969,21 +10948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いいのさ。気にしないでくれ。遅かれ早かれこうなる運命だったのさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺たちみてぇなごろつきにふさわしい悪事の報いさ。"
+                                "Henchman: It's alright. Don't worry about it. Sooner or\nlater, this was bound to happen. It's a fitting retribution\nfor scoundrels like us."
                             ]
                         },
                         {
@@ -11007,21 +10972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なぁ嬢ちゃん。ついでにもうひとつ頼みを聞いちゃくれねぇか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな身分でもねぇのは百も承知だ。でも小悪党の最後の頼みと思って聞いてくれ。"
+                                "Henchman: Hey, miss. Could you do me one more favor? I know\nI'm in no position to ask, but please hear out a small-time\nvillain's last request."
                             ]
                         },
                         {
@@ -11047,14 +10998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんたの手で、兄貴に、とどめを指してやってくれ……"
+                                "Henchman: Please, with your own hands, give the boss the\nfinishing blow..."
                             ]
                         },
                         {
@@ -11111,21 +11055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "せめて、これ以上苦しむことの無いように……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ウゥッ……　兄貴を楽にしてやってくれ、たのむよぅ……うぅぅ……"
+                                "Henchman: At least so he won't suffer any longer... Ugh...\nPlease put him at ease, I beg you... uuu..."
                             ]
                         },
                         {
@@ -11156,7 +11086,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………………………………………"
+                                "..."
                             ]
                         },
                         {
@@ -12330,7 +12260,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（彼らを放ってこの場を離れる訳にはいかんな……）"
+                                "(I can't just leave them here and walk away...)"
                             ]
                         },
                         {
@@ -12512,7 +12442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（彼らを放ってこの場を離れる訳にはいかんな……）"
+                                "(I can't just leave them here and walk away...)"
                             ]
                         },
                         {

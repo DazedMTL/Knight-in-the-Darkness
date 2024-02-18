@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "幕間　-アカネと旅路-",
+    "displayName": "Interlude - Akane's Journey -",
     "encounterList": [],
     "encounterStep": 30,
     "height": 45,
@@ -8544,7 +8544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フン、甘いな。この程度の攻撃で…！"
+                                "Hmph, how naive. To think this level of attack would...!"
                             ]
                         },
                         {
@@ -8926,14 +8926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私たちを凡俗の旅人だと値踏みしたのが運の尽きだったな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これ以上悪行を重ねる前に今ここで滅してやる。覚悟せよッ！！"
+                                "You've misjudged us as mere common travelers, and that was\nyour downfall. Before you commit any more evil deeds, I'll\nannihilate you right here and now. Prepare yourself!!"
                             ]
                         },
                         {
@@ -9387,7 +9380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おいっ！アカネ！そっちに一匹行ったぞ！　気を付けろッ！"
+                                "Hey! Akane! One's headed your way! Be careful!"
                             ]
                         },
                         {
@@ -9632,7 +9625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おお！見事な体捌き！"
+                                "Oh! What splendid agility!"
                             ]
                         },
                         {
@@ -10181,14 +10174,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "結構やるもんだろ？　ま、私としちゃ戦うより逃げる方が得意なんだけどね。"
+                                "Akane: Pretty good, right? Well, I'm better at running away\nthan fighting, to be honest."
                             ]
                         },
                         {
@@ -10226,14 +10212,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ははは、それはいい。戦闘技術を心得ても力量差を見誤るようでは実力があるとは呼べないからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その意味じゃアカネは中々の実力者だといえるな、うんうん。"
+                                "Ha ha ha, that's good. Even if one has combat skills, if\nthey misjudge the difference in strength, they can't be\ncalled powerful. In that sense, Akane, you could be\nconsidered quite skilled indeed, mm-hmm."
                             ]
                         },
                         {
@@ -10504,14 +10483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なぁ、レイシア。"
+                                "Akane: Hey, Reisha."
                             ]
                         },
                         {
@@ -10549,7 +10521,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんだ？"
+                                "What is it?"
                             ]
                         },
                         {
@@ -10596,21 +10568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "戦闘といえばさ、あんた今まで色んなモンスターと戦ってきたんだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その中でとくに強かったやつの話を教えてくれよ。騎士の武勇ってやつをさ！"
+                                "Akane: Speaking of combat, you've fought all sorts of\nmonsters before, right? Tell me about the particularly\nstrong ones. I want to hear about a knight's valor!"
                             ]
                         },
                         {
@@ -10648,7 +10606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうだな。たしかに強敵は多かったが、強さを比べるとなると難しいな。"
+                                "Indeed. There have been many formidable foes, but it's\ndifficult to compare their strength."
                             ]
                         },
                         {
@@ -10665,14 +10623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "個々の特性が違う以上「モンスター」と一括りに考えるのは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "普段からあまりしないようにしているのだがな……"
+                                "Since each one has different characteristics, I try not to\nlump them all together as 'monsters'..."
                             ]
                         },
                         {
@@ -10721,14 +10672,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前話が難しいんだよ。もっとシンプルに答えてくれ。"
+                                "Akane: You make things too complicated. Just give me a\nsimple answer."
                             ]
                         },
                         {
@@ -10766,14 +10710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "では印象に残っているモンスター、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "戦う際にとくに注意を払っている相手ということでいいか？"
+                                "Then how about I tell you about the monster that left an\nimpression on me, the one I pay particular attention to when\nfighting?"
                             ]
                         },
                         {
@@ -10820,14 +10757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうそう、そういうの！"
+                                "Akane: Yeah, yeah, that's what I'm talking about!"
                             ]
                         },
                         {
@@ -10860,14 +10790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オークか？ゴブリンの群れか？グールやウルフ？もしかしてドラゴンとかか！？"
+                                "Akane: An orc? A horde of goblins? A ghoul or a wolf? Maybe\neven a dragon!?"
                             ]
                         },
                         {
@@ -10905,14 +10828,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "期待を裏切るようで悪いが私が普段一番気をつけて戦っているのは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『スライム』だ。"
+                                "I hate to disappoint you, but the one I'm most cautious\nabout when fighting is the \"Slime.\""
                             ]
                         },
                         {
@@ -10959,14 +10875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁ？スライムゥ？　バカ言えよ。あんなの雑魚モンスターの代表格じゃん。"
+                                "Akane: Huh? Slime? Don't be ridiculous. That's like the\nepitome of weak monsters."
                             ]
                         },
                         {
@@ -11004,7 +10913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一般的な冒険者にとってはそうかもな。"
+                                "That may be true for the average adventurer."
                             ]
                         },
                         {
@@ -11021,14 +10930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だが言ったろ。個々の特性が違う以上一括りには出来んと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "スライム、こいつは騎士ととにかく相性が悪い。騎士泣かせと言ってもいい。"
+                                "But as I said, since each one has different characteristics,\nwe can't generalize them. Slimes have particularly bad\ncompatibility with knights. They're known as the bane of\nknights."
                             ]
                         },
                         {
@@ -11045,14 +10947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "具体的には、騎士装備とだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全身鎧、フルプレートを装備した状態の騎士なら尚のことな。"
+                                "Specifically, it's about knight equipment. Especially when\nfully armored with plate armor."
                             ]
                         },
                         {
@@ -11099,14 +10994,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんでさ。お得意の鎧や盾で攻撃を防いで剣や槍でズバッとやりゃハイお終いじゃん。"
+                                "Akane: Why's that? With your trusty armor and shield to\nblock attacks and a sword or spear to finish them off, it\nshould be over in no time."
                             ]
                         },
                         {
@@ -11144,7 +11032,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私も実際戦うまではそう思っていたよ。"
+                                "I thought the same until I actually fought one."
                             ]
                         },
                         {
@@ -11161,14 +11049,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ただスライムの中でも攻撃本能の強いものは窮地に陥るとなりふり構わず身体を拡散、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "飛び散らせこちらを覆うように降り掛かってくることがあるんだ。"
+                                "However, some slimes with a strong predatory instinct will\nscatter and spread their bodies desperately when cornered,\nraining down on us to cover us completely."
                             ]
                         },
                         {
@@ -11215,14 +11096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うんうん、それが？"
+                                "Akane: Uh-huh, and then what?"
                             ]
                         },
                         {
@@ -11260,14 +11134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "知っての通り騎士というのは一般の冒険者より遥かに重装備だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "フルプレートともなるとかなりの重量になる。"
+                                "As you know, knights are far more heavily equipped than the\naverage adventurer. Full plate armor can be quite heavy."
                             ]
                         },
                         {
@@ -11284,14 +11151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "機動性を重視した装備と違って瞬発的な動きに一歩劣るが故に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "点や線でなく、そういった面による攻撃というのは避けるのが難しい。"
+                                "Unlike equipment that prioritizes mobility and allows for\nquick movements, it's difficult to dodge attacks that come\nnot as points or lines but as surfaces."
                             ]
                         },
                         {
@@ -11308,14 +11168,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうして身体に付着したスライムは液状の身体を利用して武具の隙間に侵入してくるのさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これも騎士には厄介でな。"
+                                "And then the slime that sticks to the body uses its liquid\nform to infiltrate through the gaps in the armor. This is\ntroublesome for knights."
                             ]
                         },
                         {
@@ -11332,21 +11185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鎧の隙間から中にスルッと入り込まれると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "外側から衝撃を与えてもスライムを追い出すことは難しいんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "布や革製の装備ならば出来ることが、金属製がアダになり行えなくなってしまうのさ。"
+                                "If slime slips inside through the gaps in the armor, it's\ndifficult to force it out with external impacts. What can be\ndone with cloth or leather equipment becomes impossible with\nmetal."
                             ]
                         },
                         {
@@ -11363,14 +11202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さらに悪いことに、騎士の鎧というのは着脱に手間がかかる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "スライムが中に入ってしまったからと言ってその場で脱いで追い出すことも難しいんだ。"
+                                "What's worse is that knight armor is cumbersome to put on\nand take off. It's difficult to just strip it off and get\nrid of the slime if it gets inside."
                             ]
                         },
                         {
@@ -11417,14 +11249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うげげ…なんだか想像したら気分が悪くなってきたぜ…"
+                                "Akane: Ugh... Just imagining it makes me feel sick..."
                             ]
                         },
                         {
@@ -11462,21 +11287,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そしてスライムは腐臭を放ちながらスルスルと鎧の中を移動する。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この全身を這い回る感触は、ううむ、考えたくもないな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "瓶の中を悠々と移動するワインのように外側から触ることも出来んときている。"
+                                "And then the slime moves around inside the armor while\nemitting a rotten smell. The sensation of it crawling all\nover one's body is something I'd rather not think about. It\nmoves inside like wine leisurely flowing in a bottle,\nuntouchable from the outside."
                             ]
                         },
                         {
@@ -11523,14 +11334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "食べ物で喩えるなよ！食欲が失せるだろ！！"
+                                "Akane: Don't compare it to food! It's making me lose my\nappetite!!"
                             ]
                         },
                         {
@@ -11568,7 +11372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そして鎧の中を移動するスライムが狙ってくるのは勿論、頭部の呼吸器官さ。"
+                                "And of course, the slime moving inside the armor aims for\nthe respiratory organs in the head."
                             ]
                         },
                         {
@@ -11585,21 +11389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鼻や口を塞ぐのは奴らの狩りの必勝策。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これも手で振りほどけばいいと思うかもしれないが騎士は違う。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "簡易的なヘルムならまだ対処のしようがあるものの…"
+                                "Clogging up the nose and mouth is their surefire hunting\nstrategy. You might think you can just shake them off with\nyour hands, but it's different for knights. If it were a\nsimple helm, there might be a way to deal with it..."
                             ]
                         },
                         {
@@ -11648,14 +11438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ、そうか！アーメットか…！"
+                                "Akane: Oh, right! The helmet...!"
                             ]
                         },
                         {
@@ -11693,7 +11476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうだ。顔面の全体を覆う金属製のそれの中にスライムが侵入してきたと考えてみろ。"
+                                "Exactly. Imagine if slime invaded inside a metal helmet that\ncovers the entire face."
                             ]
                         },
                         {
@@ -11710,14 +11493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "外側をいくら掻き毟っても既に遅い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "着脱に手間が掛かるし、スライムの量が増えると圧力で簡単には頭部から外せなくなる。"
+                                "No matter how much you claw at the outside, it's already too\nlate. It takes time to remove it, and as the amount of slime\nincreases, pressure makes it impossible to take off from the\nhead easily."
                             ]
                         },
                         {
@@ -11734,7 +11510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "陸の上で溺れるなんて考えられるか？あれは地獄だ。"
+                                "Can you imagine drowning on land? It's hellish."
                             ]
                         },
                         {
@@ -11783,21 +11559,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ひゃぁ～～～……！！おい、もうよしてくれよ！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は武勇が聞きたかっただけで怪談が聞きたいんじゃないんだよ…！"
+                                "Akane: Eek...!! Stop it already!!! I just wanted to hear\nabout bravery, not ghost stories...!"
                             ]
                         },
                         {
@@ -11835,7 +11597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "かくいう私も見習い時代に一度やらかしてしまったことがあってな。"
+                                "I myself made such a blunder during my apprentice days. The\nmoment I felt danger as it crawled up inside my armor and\nwhen it entered my metal helmet, I cursed my own\ninexperience. And by the time slime started invading every\norifice on my face, I had long since passed out."
                             ]
                         },
                         {
@@ -11852,21 +11614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鎧の中を伝い這い上ってきた瞬間に危機を覚え、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "金属兜の中に入ってきた時には己の未熟さを呪った。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そして顔の穴という穴からスライムが侵入してきた時にはとっくに失神していた。"
+                                "The moment it crawled up inside my armor, I realized the\ndanger. When it entered my metal helmet, I cursed my own\ninexperience. And by the time slime started invading every\norifice on my face, I had long since passed out."
                             ]
                         },
                         {
@@ -11883,14 +11631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "周りの助けもあって命には至らなかったが、単独行動中だったらと思うと…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それ以来しばらくは子どもが遊びで使う「とりもち」ですら見る度に戦慄が走ったのを覚えている。"
+                                "Thanks to the help of those around me, it wasn't fatal, but\nif I had been alone... Ever since then, even seeing a\n'birdlime' toy that children play with would send shivers\ndown my spine."
                             ]
                         },
                         {
@@ -11937,14 +11678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{ひえぇ～～～……！もうよせ聞きたくねぇ～～～～～～！！！！！"
+                                "Akane: Eek...!! Stop it already!!! I don't want to hear\nanymore~~~~~~!!!!!!!"
                             ]
                         },
                         {
@@ -12217,14 +11951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それを防ぐために最近では兜の内側に魔物除けの印を刻んでいたりするのだが…、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!っておい！アカネ！"
+                                "To prevent that, these days they carve demon-repelling\nsymbols inside helmets... Hey, Akane!"
                             ]
                         },
                         {
@@ -12317,14 +12044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "次はスライムが耳の穴に入った時の取り出し方など教えてやろうと思ったが、まったく…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分から話せと言い、今度は聞きたくないと逃げ出すとは。忙しいやつだな。"
+                                "I was going to teach you how to remove slime when it gets\ninto your ears next, but really... You ask to hear the story\nand then run away when you don't want to listen. What a busy\nperson."
                             ]
                         },
                         {
@@ -12362,14 +12082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（採掘坑を抜け出してこの方、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ずっと塞ぎ込んでいた私の様子を見てはこうやって気を遣い話しかけてくれる。）"
+                                "(Ever since escaping the mining shaft, she's been\nconsiderate like this, trying to cheer me up as I've been\ndowncast.)"
                             ]
                         },
                         {
@@ -12386,14 +12099,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（彼女は出来ているな、人間が。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　世話になるばかりで情けないが、今は少しだけその優しさに甘えさせてもらうよ。）"
+                                "(She's quite the accomplished human. It's embarrassing to\nalways be taken care of, but for now, I'll indulge a little\nin her kindness.)"
                             ]
                         },
                         {
@@ -12603,7 +12309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おい待たないか！！早駆けなら私も負けんぞ！！はっはっは！！"
+                                "Hey, wait up!! If it's a race, I won't lose either!! Hah hah\nhah!!"
                             ]
                         },
                         {
@@ -12701,7 +12407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ご清聴ありがとうございました。それでは引き続き本編をお楽しみ下さい。"
+                                "Thank you for listening. Please continue to enjoy the main\nstory."
                             ]
                         },
                         {

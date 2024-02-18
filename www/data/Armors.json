@@ -13,7 +13,7 @@
             }
         ],
         "iconIndex": 128,
-        "name": "盾",
+        "name": "Shield",
         "note": "",
         "params": [
             0,
@@ -40,7 +40,7 @@
             }
         ],
         "iconIndex": 130,
-        "name": "帽子",
+        "name": "Hat",
         "note": "",
         "params": [
             0,
@@ -67,7 +67,7 @@
             }
         ],
         "iconIndex": 135,
-        "name": "服",
+        "name": "Clothes",
         "note": "",
         "params": [
             0,
@@ -94,7 +94,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "指輪",
+        "name": "Ring",
         "note": "",
         "params": [
             0,
@@ -111,7 +111,7 @@
     {
         "id": 5,
         "atypeId": 7,
-        "description": "かろうじて恥部を隠す程度のほとんど防御能力の無い布切れ。",
+        "description": "A scrap of cloth that barely covers the genitals, offering almost no defensive\ncapability.",
         "etypeId": 4,
         "traits": [
             {
@@ -121,7 +121,7 @@
             }
         ],
         "iconIndex": 139,
-        "name": "粗い布切れ",
+        "name": "Coarse Cloth",
         "note": "",
         "params": [
             0,
@@ -138,7 +138,7 @@
     {
         "id": 6,
         "atypeId": 7,
-        "description": "奴隷労働者が怪我を防ぐために用いる目の荒いバンテージ。\nもちろん戦闘用ではない。",
+        "description": "Coarse bandages used by slave laborers to prevent injuries. Of course, they are\nnot intended for combat use.",
         "etypeId": 5,
         "traits": [
             {
@@ -148,7 +148,7 @@
             }
         ],
         "iconIndex": 150,
-        "name": "目の荒い包帯",
+        "name": "Rough Eye Bandage",
         "note": "",
         "params": [
             0,
@@ -165,7 +165,7 @@
     {
         "id": 7,
         "atypeId": 7,
-        "description": "着ることを渋っていたがいざ着てみると「似合ってる」「凛々しい」「えっちだ」と好評で、\n普段あまり袖を通さぬ女性的な装いを褒められ、レイシアはしばらく鏡の前を離れなかったとか。",
+        "description": "Reisha was reluctant to wear it at first, but once she tried it on, she received\ncompliments like \"It suits you,\" \"You look gallant,\" and \"It's sexy.\" Being\npraised for her feminine attire, which she seldom wore, Reisha couldn't leave\nthe mirror for a while.",
         "etypeId": 4,
         "traits": [
             {
@@ -175,7 +175,7 @@
             }
         ],
         "iconIndex": 154,
-        "name": "バニースーツ",
+        "name": "Bunny Suit",
         "note": "",
         "params": [
             0,
@@ -192,7 +192,7 @@
     {
         "id": 8,
         "atypeId": 7,
-        "description": "ウサギの耳を模したヘアバンド。防御能力の乏しさを憂慮したレイシアが、\nヘアバンドの裏に鉄板を仕込もうとしたところを支配人が必死に止めていた。",
+        "description": "A hairband modeled after rabbit ears. Concerned about its lack of defense,\nReisha tried to insert an iron plate inside, but the manager desperately stopped\nher.",
         "etypeId": 3,
         "traits": [
             {
@@ -202,7 +202,7 @@
             }
         ],
         "iconIndex": 149,
-        "name": "ヘアバンド",
+        "name": "Hairband",
         "note": "",
         "params": [
             0,
@@ -219,7 +219,7 @@
     {
         "id": 9,
         "atypeId": 7,
-        "description": "ウサギの尻尾を模したアクセサリー。さわるとモフモフとして肌触りが良いためか、\nこれだけはレイシアも気に入っているらしい。気持ちも運気も少しだけ上向き。",
+        "description": "An accessory modeled after a rabbit's tail. It seems Reisha likes it because it\nfeels fluffy to the touch and improves her mood and luck just a little.",
         "etypeId": 5,
         "traits": [
             {
@@ -229,7 +229,7 @@
             }
         ],
         "iconIndex": 291,
-        "name": "ウサギの尻尾",
+        "name": "Rabbit Tail",
         "note": "",
         "params": [
             0,
@@ -246,7 +246,7 @@
     {
         "id": 10,
         "atypeId": 1,
-        "description": "酒が一式揃ったセット。照明を受けてキラキラと輝く酒瓶はさながらフロアの華である。\nだからといって全種類持ち運ぶやつもそうそういない。",
+        "description": "A complete set of alcoholic drinks. The glittering bottles under the lights are\nlike the flowers of the floor. However, not many would carry all types around.",
         "etypeId": 6,
         "traits": [
             {
@@ -296,7 +296,7 @@
             }
         ],
         "iconIndex": 176,
-        "name": "カクテルセット",
+        "name": "Cocktail Set",
         "note": "",
         "params": [
             0,
@@ -313,7 +313,7 @@
     {
         "id": 11,
         "atypeId": 1,
-        "description": "レイシアが外套の下に身に着けた騎士鎧。\n手入れの跡を消すように表面を土で汚し、光の反射を防いでいる。",
+        "description": "The knight armor Reisha wore under her cloak. She dirtied the surface to hide\nthe signs of maintenance and prevent light reflection.",
         "etypeId": 4,
         "traits": [
             {
@@ -323,7 +323,7 @@
             }
         ],
         "iconIndex": 137,
-        "name": "汚れた騎士鎧",
+        "name": "Dirty Knight's Armor",
         "note": "",
         "params": [
             100,
@@ -340,7 +340,7 @@
     {
         "id": 12,
         "atypeId": 7,
-        "description": "姿を隠すための長めのローブ。厚手であり防御効果も期待できる。",
+        "description": "A long robe for concealing one's appearance. It's thick and can be expected to\nprovide some defense.",
         "etypeId": 5,
         "traits": [
             {
@@ -350,7 +350,7 @@
             }
         ],
         "iconIndex": 139,
-        "name": "厚手の外套",
+        "name": "Thick Overcoat",
         "note": "",
         "params": [
             0,
@@ -367,7 +367,7 @@
     {
         "id": 13,
         "atypeId": 7,
-        "description": "修行の効果を上げる為の装飾品。因果を引き寄せるそれは装備者に苦痛を伴わせる。\n獲得率上昇：入手金額、アイテム入手率、獲得経験値(内部換算)",
+        "description": "An ornament designed to enhance training effects. It attracts karma and causes\npain to the wearer. Increase in acquisition rate: money earned, item drop rate,\nEXP gained (internal conversion).",
         "etypeId": 2,
         "traits": [
             {
@@ -392,7 +392,7 @@
             }
         ],
         "iconIndex": 150,
-        "name": "ストラグルバンド",
+        "name": "Struggle Band",
         "note": "",
         "params": [
             -50,
@@ -409,7 +409,7 @@
     {
         "id": 14,
         "atypeId": 7,
-        "description": "毒を防ぐ加護が施された指輪。小さな指輪に編むにはやや高度な魔術加工であるが、\n指輪にはめられた魔鉱晶石がそれを可能にしている。",
+        "description": "A ring enchanted to ward off poison. It's a somewhat advanced magical process\nfor such a small ring, but the magic crystal stone set in it makes it possible.",
         "etypeId": 6,
         "traits": [
             {
@@ -424,7 +424,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "抗毒の指輪",
+        "name": "Anti-Poison Ring",
         "note": "",
         "params": [
             0,
@@ -441,7 +441,7 @@
     {
         "id": 15,
         "atypeId": 7,
-        "description": "出血を防ぐ加護が施された指輪。小さな指輪に編むにはやや高度な魔術加工であるが、\n指輪にはめられた魔鉱晶石がそれを可能にしている。ただし特殊な出血は防ぐことが出来ない。",
+        "description": "A ring enchanted to prevent bleeding. It's a somewhat advanced magical process\nfor such a small ring, but the magic crystal stone set in it makes it possible.\nHowever, it cannot prevent special types of bleeding.",
         "etypeId": 6,
         "traits": [
             {
@@ -451,7 +451,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "抗出血の指輪",
+        "name": "Anti-Bleeding Ring",
         "note": "",
         "params": [
             0,
@@ -468,7 +468,7 @@
     {
         "id": 16,
         "atypeId": 7,
-        "description": "目潰し状態を防ぐバンダナ。不意を突き視界を奪うのは賊の常套手段である。\nその威力を知っている分、防ぐ手段も同時に用意している。賊は懺悔と共に騎士へ手渡した。",
+        "description": "A bandana that prevents blinding. Thieves often use the element of surprise to\nrob one's sight. Knowing its power, they also prepare means to prevent it. The\nthieves handed it over to the knight with repentance.",
         "etypeId": 6,
         "traits": [
             {
@@ -478,7 +478,7 @@
             }
         ],
         "iconIndex": 151,
-        "name": "粉塵除け",
+        "name": "Dust Guard",
         "note": "",
         "params": [
             0,
@@ -495,7 +495,7 @@
     {
         "id": 17,
         "atypeId": 7,
-        "description": "身に付けると徐々に体力が回復する指輪。体力に余裕があると人は無理をしがちである。\n装備者を助ける意図で作られた指輪がむしろ持ち主を危険へと導くというのも皮肉である。",
+        "description": "A ring that gradually restores physical strength when worn. People tend to\noverexert themselves when they have spare strength. Ironically, a ring made to\naid its wearer may lead them into danger.",
         "etypeId": 2,
         "traits": [
             {
@@ -510,7 +510,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "野生の指輪",
+        "name": "Wild Ring",
         "note": "",
         "params": [
             0,
@@ -527,7 +527,7 @@
     {
         "id": 18,
         "atypeId": 7,
-        "description": "身に付けると徐々に精神力が回復する指輪。高位の術式が編まれた魔術道具であるが、\n精神面をケアする用途からか装着感や見た目が良く、またほんのりと落ち着く香りもする。",
+        "description": "A ring that gradually restores mental strength when worn. It's a high- level\nmagical tool woven with superior spells, but due to its purpose of caring for\nthe mind, it has a comfortable fit, an appealing look, and emits a faintly\ncalming scent.",
         "etypeId": 2,
         "traits": [
             {
@@ -542,7 +542,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "秘術の指輪",
+        "name": "Mystic Ring",
         "note": "",
         "params": [
             0,
@@ -586,7 +586,7 @@
     {
         "id": 20,
         "atypeId": 7,
-        "description": "腕輪より止め処なく溢れる力の流れは冒険者の突き進む意思を後押しする。\n攻撃能力全般の弱体を防ぐ特殊な装飾品。",
+        "description": "The power flowing unrestrained from this bracelet bolsters the adventurer's will\nto push forward. A special ornament that protects against general weakening of\nattack abilities.",
         "etypeId": 6,
         "traits": [
             {
@@ -611,7 +611,7 @@
             }
         ],
         "iconIndex": 144,
-        "name": "奔放の腕輪",
+        "name": "Bracelet of Recklessness",
         "note": "",
         "params": [
             0,
@@ -628,7 +628,7 @@
     {
         "id": 21,
         "atypeId": 7,
-        "description": "防御能力が向上します。負けたい場合はアイテムショップ『自決薬』から。\nまた一部敗北イベントなどが正常に動作しなかった場合は外してみてください。",
+        "description": "Defense capabilities will improve. If you wish to lose, please purchase \"Suicide\nDrug\" from the item shop. Also, if certain defeat events do not operate\ncorrectly, try removing this item.",
         "etypeId": 2,
         "traits": [
             {
@@ -693,7 +693,7 @@
             }
         ],
         "iconIndex": 147,
-        "name": "覇者のお守り",
+        "name": "Champion's Charm",
         "note": "",
         "params": [
             1000,
@@ -764,7 +764,7 @@
     {
         "id": 24,
         "atypeId": 1,
-        "description": "騎士としてはやや軽微な鎧。\n任務の性質上豪華な装飾の類は見受けられず機動性が重視されている。",
+        "description": "Slightly lighter armor for a knight. Due to the nature of their duties, it lacks\nextravagant decorations and emphasizes mobility.",
         "etypeId": 4,
         "traits": [
             {
@@ -774,7 +774,7 @@
             }
         ],
         "iconIndex": 137,
-        "name": "騎士の鎧",
+        "name": "Knight's Armor",
         "note": "チュートリアル防具。",
         "params": [
             150,
@@ -801,7 +801,7 @@
             }
         ],
         "iconIndex": 129,
-        "name": "騎士の盾",
+        "name": "Knight's Shield",
         "note": "チュートリアル防具。",
         "params": [
             0,
@@ -818,7 +818,7 @@
     {
         "id": 26,
         "atypeId": 1,
-        "description": "王都を出立した折に宰相より授かった書簡。\nレイシアへ与えられた任務が書かれている。",
+        "description": "A letter given by the chancellor when departing from the royal capital. It\ndetails the mission given to Reisha.",
         "etypeId": 5,
         "traits": [
             {
@@ -828,7 +828,7 @@
             }
         ],
         "iconIndex": 187,
-        "name": "密命書簡",
+        "name": "Secret Orders",
         "note": "チュートリアル防具。",
         "params": [
             0,
@@ -845,7 +845,7 @@
     {
         "id": 27,
         "atypeId": 1,
-        "description": "王都ニアレイクにて爵位を授かった騎士に贈られる青色のバラ飾り。\n湖の畔に僅かばかり咲くその花は国と騎士精神の清らかさの象徴である。",
+        "description": "A blue rose decoration awarded to knights who have been granted nobility in Near\nLake. The flower that blooms sparingly by the lake is a symbol of the purity of\nthe nation and knightly spirit.",
         "etypeId": 3,
         "traits": [
             {
@@ -855,7 +855,7 @@
             }
         ],
         "iconIndex": 148,
-        "name": "青い花飾り",
+        "name": "Blue Flower Ornament",
         "note": "",
         "params": [
             0,
@@ -899,7 +899,7 @@
     {
         "id": 29,
         "atypeId": 7,
-        "description": "兵士に支給される一般的な鉄鎧。",
+        "description": "Standard iron armor issued to soldiers.",
         "etypeId": 4,
         "traits": [
             {
@@ -909,7 +909,7 @@
             }
         ],
         "iconIndex": 137,
-        "name": "鉄の鎧",
+        "name": "Iron Armor",
         "note": "",
         "params": [
             150,
@@ -926,7 +926,7 @@
     {
         "id": 30,
         "atypeId": 7,
-        "description": "木製の板に鉄板をはりつけた盾。見た目よりも軽く取り回しが効く。",
+        "description": "A shield made of wood with iron plates attached. It looks heavier than it\nactually is and is easy to handle.",
         "etypeId": 2,
         "traits": [
             {
@@ -936,7 +936,7 @@
             }
         ],
         "iconIndex": 129,
-        "name": "バトルシールド",
+        "name": "Battle Shield",
         "note": "",
         "params": [
             0,
@@ -953,7 +953,7 @@
     {
         "id": 31,
         "atypeId": 7,
-        "description": "兵士に支給される一般的な鉄兜。",
+        "description": "Standard iron helmet issued to soldiers.",
         "etypeId": 3,
         "traits": [
             {
@@ -963,7 +963,7 @@
             }
         ],
         "iconIndex": 131,
-        "name": "鉄の兜",
+        "name": "Iron Helmet",
         "note": "",
         "params": [
             0,
@@ -1007,7 +1007,7 @@
     {
         "id": 33,
         "atypeId": 7,
-        "description": "動きやすさを重視したジャケット。\n簡素に見えるが職業柄か、内側には多数の「仕込み」が見られる。",
+        "description": "A jacket designed for ease of movement. It looks simple but has many \"tricks\"\ninside due to professional needs.",
         "etypeId": 4,
         "traits": [
             {
@@ -1017,7 +1017,7 @@
             }
         ],
         "iconIndex": 135,
-        "name": "ライトジャケット",
+        "name": "Light Jacket",
         "note": "",
         "params": [
             100,
@@ -1034,7 +1034,7 @@
     {
         "id": 34,
         "atypeId": 7,
-        "description": "様々なアイテムが入った道具袋。開錠道具から爆薬まで様々詰め込んである。\n回復アイテムの効果も引き上げる。",
+        "description": "A tool bag filled with various items. From lockpicking tools to explosives, it's\npacked with a variety. It also enhances the effects of healing items.",
         "etypeId": 5,
         "traits": [
             {
@@ -1049,7 +1049,7 @@
             }
         ],
         "iconIndex": 209,
-        "name": "アイテムボックス",
+        "name": "Item Box",
         "note": "",
         "params": [
             0,
@@ -1066,7 +1066,7 @@
     {
         "id": 35,
         "atypeId": 7,
-        "description": "髪を結うための紐。意外としっかりした素材で出来ている。\n「こういうのが手元にあるといざという時に便利なんだよな～」とのアカネ談。",
+        "description": "A string used for tying hair. Surprisingly made from sturdy material. Akane\nsays, \"Having something like this handy can be really useful when you need it.\"",
         "etypeId": 3,
         "traits": [
             {
@@ -1076,7 +1076,7 @@
             }
         ],
         "iconIndex": 146,
-        "name": "髪結い紐",
+        "name": "Hair Tie",
         "note": "",
         "params": [
             0,
@@ -1120,7 +1120,7 @@
     {
         "id": 37,
         "atypeId": 2,
-        "description": "本来王位を継いだ者は伝統的な王族衣を来て公務を執り行うのだが、\nまだ彼女に合うサイズのものが無いため法衣以外は王女時代のものをそのまま着用している。",
+        "description": "Traditionally, those who ascend to the throne wear royal garments for official\nduties, but since there are none that fit her yet, she continues to wear her\nprincess attire except for her robes.",
         "etypeId": 4,
         "traits": [
             {
@@ -1130,7 +1130,7 @@
             }
         ],
         "iconIndex": 154,
-        "name": "プリンセスドレス",
+        "name": "Princess Dress",
         "note": "",
         "params": [
             0,
@@ -1147,7 +1147,7 @@
     {
         "id": 38,
         "atypeId": 2,
-        "description": "豪華な装飾が施された王冠。彼女にはまだ重いようである。",
+        "description": "An ornately decorated crown. It seems still too heavy for her.",
         "etypeId": 3,
         "traits": [
             {
@@ -1162,7 +1162,7 @@
             }
         ],
         "iconIndex": 134,
-        "name": "ロイヤルクラウン",
+        "name": "Royal Crown",
         "note": "",
         "params": [
             0,
@@ -1179,7 +1179,7 @@
     {
         "id": 39,
         "atypeId": 2,
-        "description": "王都ニアレイクの精神性の象徴である青色のバラを用いた衣装飾り。\n湖の畔に僅かに咲くその花が風に揺れたある日の風景は彼女の一番大切な思い出である。",
+        "description": "An outfit decoration using blue roses, symbolic of the spirituality of Near\nLake. The sight of these flowers swaying in the wind by the lake is her most\nprecious memory.",
         "etypeId": 5,
         "traits": [
             {
@@ -1189,7 +1189,7 @@
             }
         ],
         "iconIndex": 148,
-        "name": "青い花飾り",
+        "name": "Blue Flower Ornament",
         "note": "",
         "params": [
             0,
@@ -1206,7 +1206,7 @@
     {
         "id": 40,
         "atypeId": 7,
-        "description": "ソアラの故郷である異邦の首飾り。彼女の母の形見でもある。",
+        "description": "A necklace from Soara's homeland in a foreign country. It is also a keepsake\nfrom her mother.",
         "etypeId": 6,
         "traits": [
             {
@@ -1236,7 +1236,7 @@
             }
         ],
         "iconIndex": 147,
-        "name": "古い首飾り",
+        "name": "Old Necklace",
         "note": "",
         "params": [
             0,
@@ -1280,7 +1280,7 @@
     {
         "id": 42,
         "atypeId": 7,
-        "description": "始末屋が落とした光の反射が無い小振りの苦無。殺傷のみを目的としたそれは、\n重心が工夫され短距離投擲に威力を発揮する。[腕装備、スキル追加有り]",
+        "description": "A small shuriken dropped by an assassin that doesn't reflect light. Designed\nsolely for killing, its center of gravity is crafted for maximum power in short-\nrange throws. [Arm equipment, skill addition available]",
         "etypeId": 2,
         "traits": [
             {
@@ -1300,7 +1300,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "始末屋のクナイ",
+        "name": "Hitman's Kunai",
         "note": "",
         "params": [
             0,

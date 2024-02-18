@@ -18157,7 +18157,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "このイベントは閲覧済みです。イベントをスキップしますか？"
+                                "This event has already been viewed. Would you like to skip\nthe event?"
                             ]
                         },
                         {
@@ -18165,8 +18165,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -18525,7 +18525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "グハッ！！"
+                                "Guhaa!!"
                             ]
                         },
                         {
@@ -18597,14 +18597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつきリーダー："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "す！すげぇ！なんてパワーだ！！ハハ！ハハハハ！！"
+                                "Thug Leader: Whoa! Amazing! What power!! Haha! Hahahaha!!"
                             ]
                         },
                         {
@@ -19065,14 +19058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔導服の男："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もういいゴーレム。その辺にしておけ。"
+                                "Magical Garment Man: That's enough, Golem. Leave it at that."
                             ]
                         },
                         {
@@ -19120,14 +19106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔導服の男："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おい、これで満足か？"
+                                "Magical Garment Man: Hey, are you satisfied now?"
                             ]
                         },
                         {
@@ -19189,14 +19168,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつきリーダー："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ありがとよ！もう十分さ！"
+                                "Thug Leader: Thanks! That's plenty for us!"
                             ]
                         },
                         {
@@ -19251,21 +19223,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔導服の男："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "口ほどにもなかったが、まぁいい。戦闘データは取れた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あとはお前らの好きなようにしたらいいさ。"
+                                "Magical Garment Man: It wasn't as much as you talked up, but\nwell, it's fine. We got the combat data. The rest is up to\nyou guys to do as you like."
                             ]
                         },
                         {
@@ -19929,21 +19887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつきリーダー："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "散々暴れやがって。腕自慢だったようだが所詮は女。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前ひとりで俺たちを追い返そうなんざ無謀だったな。"
+                                "Thug Leader: You've been rampaging around. Seemed like you\nwere proud of your strength, but in the end, you're just a\nwoman. It was foolish of you to think you could drive us off\nalone."
                             ]
                         },
                         {
@@ -19974,7 +19918,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クソ……　頼む、私が悪かった。店の者達には手出しはしないでくれ……"
+                                "Damn it... I'm begging you, it was my fault. Please don't\nharm the people of the shop..."
                             ]
                         },
                         {
@@ -20005,14 +19949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつきリーダー："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何だお前ェ？雇われの分際で店庇うのかよ。気がしれねぇな。"
+                                "Thug Leader: What's with you? Defending the shop when you're\njust hired help. I can't understand your kind."
                             ]
                         },
                         {
@@ -20043,7 +19980,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私が戦いを挑み負けたのだ。その責めは私だけが受ければいい……そうだろう……"
+                                "I was the one who challenged you to a fight and lost. I\nshould be the only one to take the blame... Right..."
                             ]
                         },
                         {
@@ -20074,21 +20011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつきリーダー："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ま、店に手出ししないかはお前次第だけどな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オレたちを楽しませてくれるってんならその間は見逃してやってもいいぜ……？"
+                                "Thug Leader: Well, whether we lay hands on the shop or not\nis up to you. If you entertain us, maybe we'll turn a blind\neye for a while...?"
                             ]
                         },
                         {
@@ -20119,7 +20042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クッ…　わかった。　何をすればいい。"
+                                "Tch... Understood. What do I need to do?"
                             ]
                         },
                         {
@@ -20150,14 +20073,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつきリーダー："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうこなくっちゃな♪　オイッ！お前ら！場所を移すぜェ！！"
+                                "Thug Leader: That's more like it♪ Hey! You guys! We're\nmoving locations!!"
                             ]
                         },
                         {

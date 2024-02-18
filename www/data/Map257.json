@@ -18294,7 +18294,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "このイベント閲覧済みです。スキップしますか？"
+                                "You have already viewed this event. Would you like to skip?"
                             ]
                         },
                         {
@@ -18302,8 +18302,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -18549,14 +18549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "所詮その程度か。残念だよ。"
+                                "Chancellor: So that's all there is to it. What a\ndisappointment."
                             ]
                         },
                         {
@@ -18916,14 +18909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さぁ気は済んだろう、これからが我々の本番なのだよ。"
+                                "Chancellor: Now, are you satisfied? The real show for us\nbegins now."
                             ]
                         },
                         {
@@ -18972,14 +18958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王女："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{あああああ！！！いやああああぁぁぁぁ！！！"
+                                "Princess Soara: Aaaaaah!!! Nooooooo!!!"
                             ]
                         },
                         {
@@ -19010,14 +18989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さぁ、王女、我が手を。"
+                                "Chancellor: Come now, Princess, take my hand."
                             ]
                         },
                         {
@@ -19157,7 +19129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いけません姫さま！！己の運命に屈してはなりませんっ！！"
+                                "You mustn't, Princess-sama! You must not submit to your\nfate!!"
                             ]
                         },
                         {
@@ -19204,14 +19176,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王女："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お願い……します……。私の理性が少しでも残っているうちに……逃げて……！"
+                                "Princess Soara: Please... I beg you... while I still have\nsome semblance of reason... escape...!"
                             ]
                         },
                         {
@@ -19242,14 +19207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その麗しい声も、もう聞けなくなるかと思うと少し寂しいな。"
+                                "Chancellor: To think I will no longer hear that beautiful\nvoice, it makes me feel a bit lonely."
                             ]
                         },
                         {

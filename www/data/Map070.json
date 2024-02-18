@@ -2357,7 +2357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こいつがこの洞窟のヌシのようだな。"
+                                "It seems this one is the master of the cave."
                             ]
                         },
                         {
@@ -2501,7 +2501,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おびただしい骸の数…　はたしてどれ程の者が犠牲になったというのか。"
+                                "The sheer number of skeletons... I wonder how many have\nfallen victim here."
                             ]
                         },
                         {
@@ -2652,7 +2652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ようやく気付いたか痴れ者が。"
+                                "Finally noticed me, you fool?"
                             ]
                         },
                         {
@@ -2669,7 +2669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "罪無きものを喰い散らすだけに飽き足らず、私も殺して喰らうか？血に飢えた邪悪め。"
+                                "Not content with just devouring the innocent, you aim to\nkill and eat me as well? You bloodthirsty evil."
                             ]
                         },
                         {
@@ -2707,14 +2707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私には私の使命があるのだがな、騎士である以上貴様のような存在を見過ごすことは許されん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "己が報い、受けてもらうぞ。"
+                                "I have my own mission, and as a knight, I cannot overlook an\nexistence like yours. Prepare to receive your retribution."
                             ]
                         },
                         {
@@ -2764,7 +2757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{──死して償え、大喰らいッ！！"
+                                "Die and atone, glutton!"
                             ]
                         },
                         {

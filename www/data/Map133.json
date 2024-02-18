@@ -18339,7 +18339,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "このイベントは閲覧済みです。イベントスキップして戦闘に進みますか？"
+                                "This event has already been viewed. Would you like to skip\nthe event and proceed to the battle?"
                             ]
                         },
                         {
@@ -18347,8 +18347,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -18578,7 +18578,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "な、なんだコイツは！？"
+                                "What the hell is this thing!?"
                             ]
                         },
                         {
@@ -18609,14 +18609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつきリーダー："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やっと出てきやがったなッ！！"
+                                "Thug Leader: You finally showed up, huh!!"
                             ]
                         },
                         {
@@ -18647,7 +18640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "貴様らは…、先程店内で暴れてた輩か…！！まだ殴られ足りないというのだな…ッ！！"
+                                "You lot... were the ones causing trouble in the shop\nearlier...!! Still haven't had enough of a beating, have\nyou...!!"
                             ]
                         },
                         {
@@ -18731,21 +18724,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつきリーダー："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ヒィッ！だ、だがな！今回はそうはいかねぇぞ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのために高い金払って雇ったんだ！！　たのむぜ旦那ッ！！"
+                                "Thug Leader: Eek! But, but! It won't go the same way this\ntime!! That's why we paid a hefty sum to hire him!! Please\ndo it, mister!!"
                             ]
                         },
                         {
@@ -18959,14 +18938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔導着の男："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "勘違いするな、お前らに組みする気はもうとう無い。"
+                                "Man in Mage Armor: Don't get the wrong idea, I have no\nintention of siding with you lot."
                             ]
                         },
                         {
@@ -18983,14 +18955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔導着の男："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だが我らが商談の邪魔をされても困るのでな……、悪いが排除させてもらう。"
+                                "Man in Mage Armor: However, it would be troublesome if our\nbusiness was interrupted... Sorry, but I'll have to\neliminate you."
                             ]
                         },
                         {
@@ -19007,14 +18972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔導着の男："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "面倒だが、戦闘データの足しくらいにはなるだろう。"
+                                "Man in Mage Armor: It's a hassle, but you'll at least serve\nas additional combat data."
                             ]
                         },
                         {
@@ -19031,14 +18989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔導着の男："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{やれッッ！！魔導ゴーレム！！"
+                                "Man in Mage Armor: Do it!! Magitek Golem!!"
                             ]
                         },
                         {
@@ -19231,7 +19182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（パワーだけでなくスピードまで！？　事前に動きを見ていなかったら危なかった！！）"
+                                "(Not just power, but speed too!? It would have been\ndangerous if I hadn't seen its movements beforehand!!)"
                             ]
                         },
                         {
@@ -19271,14 +19222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつきリーダー："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ヒュー！さっすが王都産の最新兵器だ！これならあの女も一発だぜ！！"
+                                "Thug Leader: Whew! As expected of the latest weapon from the\nroyal capital! With this, even that woman will go down in\none hit!!"
                             ]
                         },
                         {
@@ -19340,7 +19284,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（王都の最新兵器だと！？ こんなもの私は知らないぞ…！？）"
+                                "(The latest weapon from the royal capital!? I know nothing\nof such a thing...!?)"
                             ]
                         },
                         {
@@ -19357,14 +19301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（私が離れている間に、このようなものが量産されているだと!?"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　しかもこんな下郎共が扱い、民間人に危害を及ぼすために用いられている……！？）"
+                                "(While I was away, such things have been mass-produced!? And\nthese scoundrels are handling them, using them to harm\ncivilians...!?)"
                             ]
                         },
                         {
@@ -19381,14 +19318,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（隣国への戦の準備、私の知らぬ魔導兵器、クソッどうなっているというのだ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　王女よ！我が主よ…！一体、何をお考えなのだ……！！）"
+                                "(Preparations for war with neighboring countries, magitek\nweapons unknown to me, damn it what is happening!! Princess!\nMy liege...! What are you thinking...!!)"
                             ]
                         },
                         {
@@ -19405,7 +19335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フンッ、まぁいいさ！悩むのは後だ！　わからないならばコイツ等に吐かせるまで！！"
+                                "Hmph, well, no matter! Worrying comes later! If I don't\nunderstand, then I'll make these guys spit it out!!"
                             ]
                         },
                         {
@@ -19436,21 +19366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつきリーダー："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんだその目は！まさかコイツとやろうってのか！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ははは！面白れぇな！今度こそ敗けたらわかってんだろうな！"
+                                "Thug Leader: What's with that look! You think you can take\non this thing!? Hahaha! Funny stuff! You better understand\nwhen you lose this time!"
                             ]
                         },
                         {
@@ -19481,14 +19397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少し黙っていろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "鉄塊の影で群れねば虚勢も張れぬ輩とは交わす言葉を持ち合わせていないのでな。"
+                                "Be quiet for a bit. I have no words to exchange with scum\nwho can only strut around in the shadow of a hunk of iron."
                             ]
                         },
                         {
@@ -19528,14 +19437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつきリーダー："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "舐めやがって！お前だけじゃねぇぞ！店の奴らもブッ潰してやるからな！"
+                                "Thug Leader: Don't mock me! It's not just you! I'm gonna\ncrush everyone in that shop too!"
                             ]
                         },
                         {
@@ -19566,14 +19468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ならば尚の事退けぬよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう二度と私の目の前で誰かが傷付くことは許さんと、心に誓ったのだからな。"
+                                "If that's the case, I have even more reason not to back\ndown. I've sworn in my heart never to let anyone get hurt\nbefore my eyes again."
                             ]
                         },
                         {
@@ -19651,14 +19546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さて新兵器とやら。ここはひとつ力比べといこうじゃないか…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この騎士レイシアが『接客』してやるんだ、ありがたく思えよ…！！"
+                                "Well then, let's see what this new weapon can do. Let's have\na test of strength...! Knight Reisha will \"serve\" you now,\nbe grateful...!!"
                             ]
                         },
                         {
@@ -19675,7 +19563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "────ご注文の品は決まったかい、お客さまッ……！！！"
+                                "────Have you decided on your order, dear customer...!!!"
                             ]
                         },
                         {
@@ -19706,14 +19594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔導着の男："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やれっ！ゴーレム！！！"
+                                "Man in Mage Armor: Do it! Golem!!!"
                             ]
                         },
                         {

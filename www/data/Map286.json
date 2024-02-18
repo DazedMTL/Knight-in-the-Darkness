@@ -8540,7 +8540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（辛いが、彼に事の顛末を話すまで先を急ぐことは出来ないよ……）"
+                                "(It's tough, but I can't rush ahead until I tell him the\nwhole story...)"
                             ]
                         },
                         {
@@ -8759,14 +8759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なりそこない："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "フジュル……　フジュル……ル………"
+                                "Failed Creation: Fjur... Fjur... r..."
                             ]
                         },
                         {
@@ -8802,7 +8795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………………………………………"
+                                "..."
                             ]
                         },
                         {
@@ -8810,8 +8803,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[18]苦しむことの無いように楽にしてやる。\\C[0]",
-                                    "\\C[6]安易な考えであると思いとどまる。\\C[0]"
+                                    "\\C[18]I'll make it easy for you so you won't suffer.\\C[0]",
+                                    "\\C[6]I reconsider, thinking it's a simplistic idea.\\C[0]"
                                 ],
                                 -1,
                                 -1,
@@ -8848,7 +8841,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（……………………………………………………）"
+                                "(...)"
                             ]
                         },
                         {
@@ -8865,7 +8858,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "せめてもう苦しむことの無いよう眠ってくれ。許せ……──"
+                                "At least may you sleep without suffering anymore. Forgive\nme...──"
                             ]
                         },
                         {
@@ -9048,7 +9041,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "くっ……　やはり、こんなことなど……間違っている……"
+                                "Tsk... As I thought, this is... wrong..."
                             ]
                         },
                         {
@@ -9065,7 +9058,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "もう一度だけ、彼と話してみよう……"
+                                "Just once more, I'll try talking to him..."
                             ]
                         },
                         {
@@ -9270,7 +9263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（辛いが、彼に事の顛末を話すまで先を急ぐことは出来ないよ……）"
+                                "(It's tough, but I can't rush ahead until I tell him what\nhappened...)"
                             ]
                         },
                         {
@@ -9429,7 +9422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（辛いが、彼に事の顛末を話すまで先を急ぐことは出来ないよ……）"
+                                "(It's tough, but I can't rush ahead until I tell him the\nwhole story...)"
                             ]
                         },
                         {

@@ -9703,7 +9703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{魔導士どもっ！今すぐその手を止めろ！！実験を止めるんだ！！！"
+                                "Sorcerers! Stop what you're doing right now!! Stop the\nexperiment!!!"
                             ]
                         },
                         {
@@ -9919,14 +9919,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究員："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "な、何者だお前ッ！！"
+                                "Researcher: Wh-Who the hell are you?!"
                             ]
                         },
                         {
@@ -9943,14 +9936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究員："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "侵入者だ！！警備兵！警備兵はどうした！？"
+                                "Researcher: An intruder!! Guards! Where are the guards!?"
                             ]
                         },
                         {
@@ -9986,14 +9972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{犠牲になっている者達を今すぐ解放しろ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の前でこのような行い、許されると思うなッッ！！"
+                                "Release those who are being sacrificed right now!! Don't\nthink such actions will be forgiven before me!!"
                             ]
                         },
                         {
@@ -10026,14 +10005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究員："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いきがるなよ女がァ！！今さらやめられるか！！"
+                                "Researcher: Don't get cocky, woman!! It's too late to stop\nnow!!"
                             ]
                         },
                         {
@@ -10119,14 +10091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究員："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "警備兵が来るまで時間を稼ぐ！"
+                                "Researcher: Stall for time until the guards arrive!"
                             ]
                         },
                         {
@@ -10487,14 +10452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究員："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{お前ら、私に続け！"
+                                "Researcher: Follow me, everyone!"
                             ]
                         },
                         {
@@ -10549,14 +10507,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{もう二度と私の前で犠牲は許さない！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お願いだ！間に合ってくれっ！！！"
+                                "I won't allow sacrifices before me ever again! Please, let\nit be in time!!!"
                             ]
                         },
                         {
@@ -10957,14 +10908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究員："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぐあ……！！"
+                                "Researcher: Gah...!!"
                             ]
                         },
                         {
@@ -11542,14 +11486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究員："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "は、はやくこの者を捕らえろ！！侵入者だ容赦するな！！"
+                                "Researcher: H-Hurry up and capture her!! She's an intruder,\nshow no mercy!!"
                             ]
                         },
                         {
@@ -12039,7 +11976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ……　はぁ……。"
+                                "Haa... Haa..."
                             ]
                         },
                         {
@@ -12219,7 +12156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………………………"
+                                "..."
                             ]
                         },
                         {
@@ -12410,7 +12347,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんな……ウソだ……"
+                                "No way... It can't be..."
                             ]
                         },
                         {
@@ -12427,7 +12364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "間に合わなかった……のか……"
+                                "We didn't make it... in time..."
                             ]
                         },
                         {
@@ -12467,7 +12404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くそぉ……"
+                                "Damn it..."
                             ]
                         },
                         {
@@ -12513,7 +12450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{くそおおおおおおおぉぉぉおおおッッ！！！！"
+                                "Damn it aaaaaaaarghhhhhhhhhh!!!"
                             ]
                         },
                         {

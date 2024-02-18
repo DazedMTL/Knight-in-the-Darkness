@@ -12326,7 +12326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "他の客が外に出ようとしても通さないでくれ、いいな。"
+                                "Don't let any other customers out, got it?"
                             ]
                         },
                         {
@@ -12343,14 +12343,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付嬢："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はい、わ、わかりましたぁ…"
+                                "Receptionist: Y-Yes, I understand..."
                             ]
                         },
                         {
@@ -12427,14 +12420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "支配人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当に君に任せて大丈夫なのかい！？"
+                                "Manager: Are you really sure it's okay to leave it to you!?"
                             ]
                         },
                         {
@@ -12458,7 +12444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁ安心しろ。あのアカネの紹介だぞ？"
+                                "Yeah, relax. It's a referral from Akane, you know?"
                             ]
                         },
                         {
@@ -12482,14 +12468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "支配人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なら信じるけど…、せめてこれくらいはさせてくれ。"
+                                "Manager: Then I'll trust you... but at least let me do this\nmuch."
                             ]
                         },
                         {
@@ -12530,7 +12509,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "かたじけない。"
+                                "I'm grateful."
                             ]
                         },
                         {
@@ -12614,14 +12593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女性客："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "な、なになに！？ここは大丈夫なの？"
+                                "Female Customer: \"Wh-what's going on!? Is it safe here?\""
                             ]
                         },
                         {
@@ -12720,14 +12692,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性客："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こ、これじゃ、帰るに帰れないよ…！"
+                                "Male Customer: I-I can't go home like this...!"
                             ]
                         },
                         {
@@ -12844,14 +12809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性店員："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "な、中に入ってきやがったら、オ、オレだって…！！"
+                                "Male Clerk: If, if you come inside, I-I will...!!"
                             ]
                         },
                         {
@@ -12968,14 +12926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性客："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "は、はやく何とかしてくれよぅ……！"
+                                "Male Customer: P-please do something about it quickly...!"
                             ]
                         },
                         {
@@ -13195,7 +13146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふーっ……"
+                                "Phew..."
                             ]
                         },
                         {
@@ -13212,14 +13163,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たかが給仕仕事と侮っていたが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これがなかなか身体を動かすばかりではなく、大変な仕事なのだな。"
+                                "I underestimated the job of a server, but it's quite\ndemanding physically and otherwise."
                             ]
                         },
                         {
@@ -13243,7 +13187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（だがこれといって欲しい情報へは未だに辿り着かずか。もどかしいな。）"
+                                "(But I still haven't found the information I'm looking for.\nIt's frustrating.)"
                             ]
                         },
                         {
@@ -13260,14 +13204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（どうする……、もう少しこの店で網を張っているか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それとも別のアプローチへと変えてみるか、うむむ……）"
+                                "(What to do... Should I keep casting my net in this\nestablishment a bit longer, or should I try a different\napproach? Hmm...)"
                             ]
                         },
                         {
@@ -13326,7 +13263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんだ、店の…入口付近だろうか？少し騒がしいな。"
+                                "What's that noise near the entrance of the shop? It's a bit\nloud."
                             ]
                         },
                         {
@@ -13470,7 +13407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おい支配人殿。何かあったのか？"
+                                "Hey, Manager. What's going on?"
                             ]
                         },
                         {
@@ -13532,21 +13469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "支配人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あぁ、君か。いやぁそれがね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうもガラの悪い連中が店の前で暴れていてちょっと困ってるんだよ。"
+                                "Manager: Ah, it's you. Well, you see, there's a group of\nrough types causing a ruckus in front of the shop and it's\nquite troubling."
                             ]
                         },
                         {
@@ -13577,7 +13500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この店には私設警備、バウンサーの類はいないのか？"
+                                "Doesn't this place have its own security or bouncers?"
                             ]
                         },
                         {
@@ -13608,14 +13531,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "支配人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "勿論いるさ。"
+                                "Manager: Of course, we do."
                             ]
                         },
                         {
@@ -13632,21 +13548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "支配人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただ、単なるごろつき連中かと思ったら妙なものを引き連れてきているようでね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そいつを滅多矢鱈に暴れさせているらしく手に負えないんだよ。"
+                                "Manager: But, you see, I thought they were just common\nthugs, but they seem to have brought something strange with\nthem. They're letting it run wild and we can't handle it."
                             ]
                         },
                         {
@@ -13677,7 +13579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうなのか。"
+                                "I see."
                             ]
                         },
                         {
@@ -13694,14 +13596,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（このような地区だ。秩序立った統治体制の元にある警備機関の働きは期待できんだろうな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いや、そもそもこの類の店が頼るわけはないか……）"
+                                "(Given this district, I can't expect much from any organized\nsecurity force. No, these kinds of establishments wouldn't\nrely on them in the first place...)"
                             ]
                         },
                         {
@@ -14138,7 +14033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おい大丈夫か…！！"
+                                "Hey, are you okay...!!"
                             ]
                         },
                         {
@@ -14239,7 +14134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "皆、危険だからこの場から離れておけ！支配人、君はこの男の手当てを頼む。"
+                                "Everyone, it's dangerous here, stay back! Manager, I'm\ncounting on you to take care of this man."
                             ]
                         },
                         {
@@ -14301,14 +14196,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "支配人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わ、わかったけど、君は！？"
+                                "Manager: I-I understand, but what about you?"
                             ]
                         },
                         {
@@ -14339,7 +14227,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私の心配はいらん。この騎士レイシアに、この場は任せてもらいたい。いいな。"
+                                "You needn't worry about me. Leave this place to Knight\nReisha. Understood?"
                             ]
                         },
                         {
@@ -14356,14 +14244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（目立った行動は避けたいが、このような事態を見過ごすわけにはいかない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　客が入って来れないのでは私の目的の障害にもなる。どの道放ってはおけないさ。）"
+                                "(I'd prefer not to stand out, but I can't ignore this\nsituation. If customers can't come in, it'll hinder my own\nobjectives. Either way, I can't just leave it be.)"
                             ]
                         },
                         {
@@ -14380,7 +14261,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（この先、戦いになりそうだ。今のうちに戦闘準備を整えさせてもらおうか……）"
+                                "(It looks like a fight is inevitable. I should get ready for\nbattle while there's still time...)"
                             ]
                         },
                         {
@@ -14606,7 +14487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（気を失っている。致命傷では無いようだが殴打の痕がひどい…）"
+                                "(She's unconscious. It doesn't seem to be a fatal wound, but\nthe bruises from the beating are severe...)"
                             ]
                         },
                         {
@@ -14742,14 +14623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "支配人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おっ、おいっ！！"
+                                "Manager: \"Hey, wait!!\""
                             ]
                         },
                         {
@@ -15183,7 +15057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（彼らだけにこの場を任せることは出来ない……）"
+                                "(I can't leave this place to them alone...)"
                             ]
                         },
                         {
@@ -15291,7 +15165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（彼らだけにこの場を任せることは出来ない……）"
+                                "(I can't leave this place to them alone...)"
                             ]
                         },
                         {
@@ -15458,14 +15332,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "支配人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おっ、おいっ！！"
+                                "Manager: Hey, hey!!"
                             ]
                         },
                         {
@@ -15637,14 +15504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "支配人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おっ、おいっ！！"
+                                "Manager: Hey, wait up!!"
                             ]
                         },
                         {
@@ -15804,14 +15664,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "支配人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おっ、おいっ！！"
+                                "Manager: \"Hey, hey!!\""
                             ]
                         },
                         {
@@ -15971,14 +15824,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "支配人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おっ、おいっ！！"
+                                "Manager: \"Hey, wait!!\""
                             ]
                         },
                         {

@@ -12731,7 +12731,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "イベントをスキップしますか？"
+                                "Would you like to skip the event?"
                             ]
                         },
                         {
@@ -12739,8 +12739,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -13079,14 +13079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おいっ！貴様っ！　あのような雑魚どもにやられるとはどういうことだ！たるんでいるぞッ！"
+                                "Reisha: Hey! You! How could you get beaten by such small\nfry? You're getting sloppy!"
                             ]
                         },
                         {
@@ -13103,14 +13096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "かような戦いをしていると騎士の武勇が廃るというものだぞ！全く！"
+                                "Reisha: This kind of fighting will only dull a knight's\nvalor! Seriously!"
                             ]
                         },
                         {
@@ -13127,21 +13113,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "戦いに慣れていないというのならば助言をしてやる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "剣を装備しているのならば全体攻撃が使えるハズだ。惜しみなく使え。わかったな？"
+                                "Reisha: If you're not used to battle, I'll give you some\nadvice. If you have a sword equipped, you should be able to\nuse an area attack. Use it without hesitation. Got it?"
                             ]
                         },
                         {
@@ -13181,21 +13153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それともまさか貴様、私の装備を外し「裸だ裸だ！」などと遊んでいたわけではないだろうな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "成すべき使命を忘れ児戯に興じるなぞ不埒千万。恥ずべきことと心得よ。"
+                                "Reisha: Or could it be that you, of all people, have been\nplaying around with my equipment off, shouting 'She's naked!\nShe's naked!'? Do not forget your mission and indulge in\nsuch childishness. It's utterly disgraceful. Remember that."
                             ]
                         },
                         {
@@ -13212,14 +13170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そもそも騎士というのは徳高く洗練されているべきであると常に己を保つものだ。"
+                                "Reisha: After all, a knight should always maintain their\nvirtue and refinement."
                             ]
                         },
                         {
@@ -13261,21 +13212,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気高き勇気示し、弱き者たちへは寛容であり、一度交わした約束を違えることはなく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "他人の手本となるべき善い礼節を尊重し、敬虔の念を秘め多くより愛される騎士となれ。"
+                                "Reisha: Show noble courage, be tolerant towards the weak,\nnever break a promise once made, respect good manners that\nshould serve as an example to others, and be a knight who is\nloved by many for your devout spirit."
                             ]
                         },
                         {
@@ -13292,21 +13229,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "また人の上に立つ存在であることも忘れるな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "厳しい時代にあっても人を導く光をその胸に見せるのだぞ。"
+                                "Reisha: Also, do not forget that you are someone who stands\nabove others. Even in harsh times, show the light that\nguides people in your heart."
                             ]
                         },
                         {
@@ -13323,21 +13246,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いくぞ、武勇・信義・寛容さ！敬虔・礼儀！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!もう一度だ！　武勇・信義・寛容さ！敬虔・礼儀！！　　"
+                                "Reisha: Here we go, valor, loyalty, tolerance! Piety,\nmanners!! Once more! Valor, loyalty, tolerance! Piety,\nmanners!!"
                             ]
                         },
                         {
@@ -13361,21 +13270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こらっ！さっきからどうした、気がそぞろになっているぞ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!後ろ後ろ…？そんな手が通じるか。全く…！　\\!\\{…………………………ん…？"
+                                "Reisha: Hey! What's gotten into you lately... You're\ndistracted...! Behind you...? As if that would work.\nSeriously...! ...Hm...?"
                             ]
                         },
                         {
@@ -13434,21 +13329,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…………………………………………………………………………………………………………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…………………………………………………………………………………………………………"
+                                "Reisha: ..."
                             ]
                         },
                         {
@@ -13481,21 +13362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "な、な、な…！！だ、誰だっ！こんなもの捉えていたのは…！破廉恥だぞ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!いや破廉恥なのは私の身体なのか…！？　ええい！こざかしい！"
+                                "Reisha: Wha-what...!! Who is it! Who caught such a thing...!\nIt's indecent...! No, is it my body that's indecent...!?\nDamn it! How cunning!"
                             ]
                         },
                         {
@@ -13535,21 +13402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ま、まぁ、これはだな。その…、き、騎士だってこういうことくらいあるだろうッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "不覚を取ったならそこから学べばいいのだ！そうであろう！！"
+                                "Reisha: Well, well, this is... um... even knights have such\nmoments, right?! If you've been caught off guard, then learn\nfrom it! That's right!!"
                             ]
                         },
                         {
@@ -13566,21 +13419,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "フンッ！見たければ気のすむまで見るがいい、と言いたいところだが…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!あまりジロジロと見ないでくれ……　\\!私だってこれでも、女なのだからな…"
+                                "Reisha: Hmph! If you want to look, then look to your heart's\ncontent, I'd like to say... but don't stare too much...\nAfter all, I am a woman..."
                             ]
                         },
                         {
@@ -13604,21 +13443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とにかくっ！死力を尽くし敗れたのならば無様であっても良い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だが今後はこのような気骨に欠けた負け方なぞせぬようにな！絶対だぞッ！"
+                                "Reisha: Anyway! If you've fought with all your might and\nlost, it's fine to be disgraceful. But from now on, do not\nlose in such a spiritless manner! Absolutely!"
                             ]
                         },
                         {
@@ -13672,14 +13497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（フンス…！フンス…！！）"
+                                "Reisha: (Huff...! Huff...!!)"
                             ]
                         },
                         {
@@ -13731,14 +13549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{\\{だから！あまりジロジロと見るな～～～～っっ！！"
+                                "Reisha: That's why! Don't stare so much~~~!!!"
                             ]
                         },
                         {

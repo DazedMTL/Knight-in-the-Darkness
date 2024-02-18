@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "魔研_個人研究室",
+    "displayName": "Magic Research - Private Study Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 35,
@@ -10675,7 +10675,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「書斎」と書いてある。"
+                                "\"Study\" is written here."
                             ]
                         },
                         {
@@ -11211,7 +11211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「個人研究室」と書かれている。"
+                                "\"Personal Research Lab\" is written here."
                             ]
                         },
                         {

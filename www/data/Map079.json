@@ -14705,14 +14705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人さらい："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おい！金になりそうなもんは全部剥いだな。"
+                                "Kidnapper: Hey! Make sure you've stripped her of anything\nthat looks valuable."
                             ]
                         },
                         {
@@ -14745,14 +14738,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人さらい(下っ端)："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああ、大丈夫だぜ、兄貴。鎧どころか下着の中までしっかりとな。"
+                                "Kidnapper (Underling): Yeah, no worries, boss. We took\neverything, even what was under her armor."
                             ]
                         },
                         {
@@ -14769,21 +14755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人さらい(下っ端)："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "抵抗しやがったから、かなりキツく縛らせてもらったぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "普通の女なら肩くらい外れてる。多少暴れたくらいじゃどうにもならねぇぜ。"
+                                "Kidnapper (Underling): She put up a fight, so we tied her up\nreal tight. A normal woman would've dislocated a shoulder or\nsomething. She won't be able to struggle free with just a\nlittle wriggling."
                             ]
                         },
                         {
@@ -14800,14 +14772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人さらい："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それじゃあそろそろ楽しませてもらうとするか…！！"
+                                "Kidnapper: Well then, I guess it's about time we have our\nfun...!!"
                             ]
                         },
                         {
@@ -14870,14 +14835,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人さらい："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "身に着けてるもん全部剥いだら、こりゃなかなか悪くない身体してやがるぜ…"
+                                "Kidnapper: Once we stripped her of everything she was\nwearing, turns out she's got quite the nice body..."
                             ]
                         },
                         {
@@ -14901,7 +14859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "貴様ら…よくも…"
+                                "You bastards... how dare you..."
                             ]
                         },
                         {
@@ -14925,21 +14883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人さらい："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おやもう意識が戻ったのか。ったく。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "毒盛られて、頭ぶん殴られたら普通は数日起き上がれねぇってのによぉ。"
+                                "Kidnapper: Oh, you're conscious again? Damn. Normally, you'd\nbe out for days after being poisoned and hit over the head\nlike that."
                             ]
                         },
                         {
@@ -14956,14 +14900,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人さらい："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まぁいいさ。こっちとしたら多少反応してくれた方が楽しみ甲斐があるからなぁ。"
+                                "Kidnapper: Well, it's all good. It's more fun for us if you\nreact a bit, after all."
                             ]
                         },
                         {
@@ -14980,14 +14917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人さらい(下っぱ)："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうだぜ。意識を失ってた方が痛い思いせずに済んだかもしれねぇのによぉ…！"
+                                "Kidnapper (Underling): That's right. You would've been\nbetter off unconscious, not feeling any pain...!"
                             ]
                         },
                         {
@@ -15004,21 +14934,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人さらい(下っぱ)："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おい兄貴、こいつ本当に騎士なのかぁ？ウシみてぇに膨らませた身体で男を誘いやがる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゲヘヘ、娼婦の方がよっぽど向いてるんじゃねぇのか…？"
+                                "Kidnapper (Underling): Hey boss, is this one really a\nknight? With a body that's all swollen up like a cow,\nseducing men. Heh heh heh, maybe she's more suited to be a\nwhore, huh...?"
                             ]
                         },
                         {
@@ -15035,21 +14951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人さらい："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もっともこの身体も俺らみてぇな端の野郎共から搾り上げた金で出来てるようなもんさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そう思うとムカついてくるぜ。"
+                                "Kidnapper: Besides, this body of hers is practically made\nfrom the money we scum have squeezed out of others. Thinking\nabout it pisses me off."
                             ]
                         },
                         {
@@ -15066,14 +14968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人さらい(下っぱ)："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゲヒッ！ゲヒッ！　兄貴。オレもう我慢できねぇや。"
+                                "Kidnapper (Underling): Geh! Geh! Boss, I can't take it\nanymore."
                             ]
                         },
                         {
@@ -15113,14 +15008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人さらい："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうだな。汗混じり体臭の中にしっかり男を惹きつける匂いを漂わせてやがって…"
+                                "Kidnapper: Right. Even amidst the sweat and body odor, she's\ngiving off a scent that draws men in..."
                             ]
                         },
                         {
@@ -15137,14 +15025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人さらい："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これじゃあ男には我慢しろって方が無理だぜ、騎士さんよぉ…！"
+                                "Kidnapper: It's impossible for a man to hold back with you\naround, knight-san...!"
                             ]
                         },
                         {
@@ -15177,14 +15058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人さらい(下っぱ)："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゲヘヘ！兄貴、女だ。女のニオイだ。"
+                                "Kidnapper (Underling): Hehehe! Boss, it's a woman. The smell\nof a woman."
                             ]
                         },
                         {
@@ -15238,7 +15112,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お前ら…、こんなことを…　いますぐにやめろ…"
+                                "You guys... stop this... right now..."
                             ]
                         },
                         {
@@ -15285,14 +15159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人さらい："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんだぁ？　命乞いでもするか？おい。"
+                                "Kidnapper: What? Gonna beg for your life? Hey."
                             ]
                         },
                         {
@@ -15309,14 +15176,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人さらい："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ならよぉ、腹ん中かき回されながら、しっかり頼むぜ…！"
+                                "Kidnapper: Then beg properly while you're being stirred up\ninside...!"
                             ]
                         },
                         {
@@ -15333,14 +15193,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人さらい："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{おらよっ……─！！！"
+                                "Kidnapper: Here goes...─!!!"
                             ]
                         },
                         {
@@ -15416,7 +15269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぐっ…  がっ……ッ！"
+                                "Ugh... Gah...!"
                             ]
                         },
                         {
@@ -15440,21 +15293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人さらい："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "苦しいかぁ…？でもよぉ、身体は弛緩しきってるってのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "挿入れただけで甘えるようにちんぽこに絡みついてきやがるぜぇ…？"
+                                "Kidnapper: Does it hurt...? But hey, your body is completely\nrelaxed and yet it clings to my cock as if begging for\nmore...?"
                             ]
                         },
                         {
@@ -15504,14 +15343,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そ、そんなわけが…！　ぐ…　おごっ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!お前ら…　こんなことをして…　ただですむと思うなよ…ッッ！！"
+                                "That's... impossible...! Ugh... oh god...! You guys doing\nthis... won't get away with it...!!"
                             ]
                         },
                         {
@@ -15535,21 +15367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人さらい："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまりオレたちを苛つかせるんじゃねぇぜ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "口では騎士だか何だか強がっちゃいるが、結局はメスなんだからな！"
+                                "Kidnapper: Don't make us angry!! You talk big like a knight\nor whatever, but in the end, you're just a female!"
                             ]
                         },
                         {
@@ -15566,14 +15384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人さらい："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{おらぁ！ちったぁ気合入れて腹ぁ締め付けやがれやがれ！"
+                                "Kidnapper: Come on! Put some effort into it and tighten up\nyour belly!"
                             ]
                         },
                         {
@@ -15648,7 +15459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "がっ……ッ！　あぐっ！　はっ！　あがっ！！"
+                                "Gah...! Aguh! Hah! Agah!!"
                             ]
                         },
                         {
@@ -15684,7 +15495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "貴様ぁ…！　　づぁ…！あっ！　けほっ…ッッ！！"
+                                "You bastard...! Zuh...! Ah! Cough...!!"
                             ]
                         },
                         {
@@ -15708,14 +15519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人さらい："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ははは！こりゃ良いや！"
+                                "Kidnapper: Hahaha! This is great!"
                             ]
                         },
                         {
@@ -15732,21 +15536,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人さらい："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうだ？普段なら牢にぶち込んで首をはねるような賊にちんぽこ突っ込まれて！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "腹殴られて身をよじって！男に快感を与えるために身体を嬲られてんだぜ…！"
+                                "Kidnapper: How does it feel? Being penetrated by the kind of\nscum you'd normally throw in jail and behead! Writhing in\npain and being toyed with just to give pleasure to men...!"
                             ]
                         },
                         {
@@ -15844,7 +15634,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぐっ…　ぐぅ…　んっ…　あ゛ぁ…！！　げほっ…ッッ！！"
+                                "Ugh... Guh... Nnh... Ahh...!! Cough...!!"
                             ]
                         },
                         {
@@ -15868,21 +15658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人さらい："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんだぁ？だんだん滑りも良くなってきたぞ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "強気なこと言ってるわりに強くいじめられるのが好きなのか？おいッ！"
+                                "Kidnapper: What's this? You're getting wetter as we go? For\nsomeone who talks tough, do you actually like being\nmistreated? Hey!"
                             ]
                         },
                         {
@@ -15918,7 +15694,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うるざ…　い゛っ…！　がはっ…！　\\!これは、違う…！！　んづッ…！！"
+                                "Shut up...! Gah...! This is wrong...!! Ngh...!!"
                             ]
                         },
                         {
@@ -15970,14 +15746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人さらい(下っぱ)："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゲヒッ！　兄貴ばっかりズルいぜ…！オレにも楽しませてくれよ…！"
+                                "Kidnapper (Underling): Geh! Boss, you're hogging all the\nfun...! Let me have a turn too...!"
                             ]
                         },
                         {
@@ -15994,21 +15763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人さらい(下っぱ)："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゲヒヒ。キレイな顔してやがるなぁ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こういう人形みてぇな整った顔をグチャグチャに出来ると思うとたまらねぇぜ。"
+                                "Kidnapper (Underling): Hehehe. She's got such a pretty\nface... Thinking about messing up a face as neat as a doll's\nreally gets me going."
                             ]
                         },
                         {
@@ -16037,21 +15792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人さらい(下っぱ)："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうだ、しっかり嗅いで覚えろよぉ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このチンポがお前ぇを滅茶滅茶に汚すんだからなぁ！"
+                                "Kidnapper (Underling): How about that, take a good whiff and\nremember it? This cock is gonna mess you up real bad!"
                             ]
                         },
                         {
@@ -16103,14 +15844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "げほっ…ッッ！！　う゛っ…　ぐぅ…　うぅう゛…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　\\!そんなものを…　うぐ…　近付けるな下劣め…ッッ！！"
+                                "Cough...!! Ugh... Guh... Ughhh... Don't bring that filthy\nthing anywhere near me...!!"
                             ]
                         },
                         {
@@ -16134,21 +15868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人さらい(下っぱ)："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ウシみてぇな乳しやがって、手におさまらねぇや…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先までしっかり充血させやがってよぉ。ほれ、どうだ？感じてんのか？"
+                                "Kidnapper (Underling): With tits like a cow, they barely fit\nin my hands... Look at them all engorged and ready. Hey, how\ndoes it feel? Are you enjoying it?"
                             ]
                         },
                         {
@@ -16184,14 +15904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "っ…　あっ…　やめろ…　ぁくっ…　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　\\!なに、を…　感じてなぞ、いるか……　バカめが…　っ…！！"
+                                "Stop it... Ack... What are you talking about... I'm not\nfeeling anything, you idiot...!!"
                             ]
                         },
                         {
@@ -16277,14 +15990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人さらい："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "調子に乗るなっつたろが…！！"
+                                "Kidnapper: Don't get cocky with me...!!"
                             ]
                         },
                         {
@@ -16320,7 +16026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぶっ…ッッ！！　あづっ…　ぐぁ…ッッ！"
+                                "Blow...!! Azuh... Guh...!!"
                             ]
                         },
                         {
@@ -16344,14 +16050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人さらい："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "テメェは男を喜ばせてればいいんだよ…！何まだ抵抗してんだよ！オラァ！"
+                                "Kidnapper: You just need to please men...! Why are you still\nresisting?! Come on!"
                             ]
                         },
                         {
@@ -16442,7 +16141,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あづっ…　っづ…　あっ…！　あぁ…ッッ！！"
+                                "Ah...! Ngh... Ah...! Ahh...!!"
                             ]
                         },
                         {
@@ -16478,14 +16177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人さらい："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "へへへ…！　抵抗する気力があるのも今の内だぜ。まずは一発目だ。"
+                                "Kidnapper: Hehehe...! The will to resist is only temporary.\nFirst up is the first shot."
                             ]
                         },
                         {
@@ -16502,21 +16194,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人さらい："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これで自覚すんだろコイツも。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "強がっても自分が男のちんぽに媚びるしか出来ない情けないメスだってな。"
+                                "Kidnapper: This will make her realize it. No matter how much\nshe pretends, she's just a pathetic female who can only fawn\nover a man's dick."
                             ]
                         },
                         {
@@ -16540,14 +16218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ…　はぁ…　あっ…　あああっ…─！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　\\!はっ…！　はっ…！　はっ…！　いやだ…！！"
+                                "Hah... Hah... Ah... Aaah...─!! Hah...! Hah...! Hah...! I\ndon't want this...!!"
                             ]
                         },
                         {
@@ -16576,7 +16247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ…　はぁ…　お前、ら…　や、やめろぉ…─ッ！！"
+                                "Hah... Hah... You... Stop it...─!!"
                             ]
                         },
                         {
@@ -16600,14 +16271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人さらい(下っぱ)："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "兄貴よぅ…！！　オレももう、たまらねぇぜ…！！"
+                                "Kidnapper (Underling): Boss...!! I can't take it\nanymore...!!"
                             ]
                         },
                         {
@@ -16636,21 +16300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人さらい："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "腰振ってしっかりオスを喜ばせろよぉ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\{いくぞ！なっさけない声上げて腹ン中で精液で受け止めやがれッ！！"
+                                "Kidnapper: Move your hips and please the male properly! Here\nI come! Scream out pitifully and take my cum in your belly!"
                             ]
                         },
                         {
@@ -16686,7 +16336,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "っ！　づぁ…！　あっ…！　あっ…！　　\\{ッッッ～～～～～～───！！！！！"
+                                "Ngh! Ah...! Ah...! Ahhhhhhhhh───!!!!!!!"
                             ]
                         },
                         {
@@ -16825,7 +16475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああああ……ッッ！！　あっ…！　あ゛あ゛あぁ…──ッッッ！！"
+                                "Aaaaaah...!! Ah...! Agh...──Ahhhhhh!!"
                             ]
                         },
                         {
@@ -16873,21 +16523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人さらい："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おっ！おっ！腹ン中うねらせやがって。逃がさねぇよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一滴残らずブチ撒いてやるからな…！"
+                                "Kidnapper: Oh! Oh! Squirming inside your belly, huh? I won't\nlet you escape! I'm gonna spray every last drop inside\nyou...!"
                             ]
                         },
                         {
@@ -17029,14 +16665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ん…っ！　ん゛ん…！　はっ…！　はっ…！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　\\!おっ……ッッ！　お゛お゛お゛ッッ……！！"
+                                "Nngh...! Nnngh...! Hah...! Hah...! Ohh...!! Oohhh...!!"
                             ]
                         },
                         {
@@ -17126,21 +16755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人さらい(下っぱ)："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見てくれよ兄貴。キレイな顔が、お、オレの精子まみれで…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゲへへ、息が、息が出来ねぇかぁ？"
+                                "Kidnapper (Underling): Look at this, boss. Her pretty face\nis covered in my cum...! Gehehe, can't breathe, can you?"
                             ]
                         },
                         {
@@ -17157,14 +16772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人さらい(下っぱ)："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "精子もチンカスもたっぷり塗り付けて化粧してやるからなぁ？しっかり味見しろよぉ…？"
+                                "Kidnapper (Underling): I'll smear you with plenty of cum and\nsmegma for makeup. Make sure you taste it well...?"
                             ]
                         },
                         {
@@ -17181,14 +16789,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人さらい："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうだ…？お前が蔑んできた、下卑た人攫いの精液便所になった気分は？"
+                                "Kidnapper: How does it feel...? To become the cum toilet of\nthe lowly kidnappers you've scorned?"
                             ]
                         },
                         {
@@ -17224,7 +16825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ…！　はぁ…！　うぶっ…　え゛え゛……　　\\!きさま…らぁ…ッッ！！！"
+                                "Hah...! Hah...! Ughh... Eghh... You bastards...!!"
                             ]
                         },
                         {
@@ -17248,14 +16849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人さらい："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いいねぇ…精液で鼻提灯作りながら、まだ睨み返してくれるかい。　\\!\\{オラよッ！！"
+                                "Kidnapper: Nice... Still glaring back at me while making a\nnose lantern with cum. Take this!"
                             ]
                         },
                         {
@@ -17315,7 +16909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "づぁ……ッッ！！　あっ…　あ゛うっ…………"
+                                "Ngh...!! Ah... Agh..."
                             ]
                         },
                         {
@@ -17393,21 +16987,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人さらい："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "下品に精液垂れ流したくれぇでへばるなよ。意識飛ばすにぁまだはえぇからな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しばらく元気でいてもらわねぇとな。こっちもまだまだ楽しみてぇんだからよ！"
+                                "Kidnapper: Don't collapse in a vulgar mess of dripping cum.\nIt's too early to lose consciousness! You need to stay\nlively for a while longer. We still have plenty of fun left\nto enjoy!"
                             ]
                         },
                         {
@@ -17436,14 +17016,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人さらい(下っぱ)："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ、兄貴！　は、はやく代わってくれよぉ…！"
+                                "Kidnapper (Underling): Ah, boss! Hurry up and switch with\nme...!"
                             ]
                         },
                         {
@@ -17460,14 +17033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人さらい(下っぱ)："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お、お、オレもはやくこの女の中、っぐちゃぐちゃに掻き回してぇんだ…！"
+                                "Kidnapper (Underling): I, I, I also want to stir up this\nwoman's insides into a mess...!"
                             ]
                         },
                         {
@@ -17535,14 +17101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人さらい："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それじゃあオレは外の見張も行ってくるからよ。気のすむまでやりな。"
+                                "Kidnapper: Then I'll go check outside. Have your fun until\nyou're satisfied."
                             ]
                         },
                         {
@@ -17584,21 +17143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人さらい："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただしそいつぁこの後にしっかり売りモンに出すんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "くれぐれもぶっ壊すんじゃねぇぞ？"
+                                "Kidnapper: Just remember, we're going to sell her off after\nthis. Don't break her, got it?"
                             ]
                         },
                         {
@@ -17615,14 +17160,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人さらい(下っぱ)："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゲへ、ゲヘヘへ。わ、わがってるって…！兄貴…！"
+                                "Kidnapper (Underling): Gehe, Gehehehe. I'm so excited...!\nBoss...!"
                             ]
                         },
                         {
@@ -17639,21 +17177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人さらい："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "コイツは手加減ってもんを知らねぇからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ツレぇのはこっからだろうけどよ、騎士さんならちっとは立派に気張ってくれよなっ…！！"
+                                "Kidnapper: This one doesn't know the meaning of restraint.\nThe real pain starts now, but if you're a knight, show some\ndamn pride, will ya...!!"
                             ]
                         },
                         {
@@ -17670,14 +17194,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人さらい："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ってもう聞こえてねぇか…！　\\!\\{ははははははははッッ！！！！！"
+                                "Kidnapper: Though you probably can't hear me anymore...!\nHahahahahaha!!"
                             ]
                         },
                         {

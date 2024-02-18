@@ -12542,7 +12542,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "明るみが見える。よし、扉の錠も開いている…！"
+                                "I can see the light. Good, the lock on the door is open...!"
                             ]
                         },
                         {
@@ -12566,7 +12566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここを抜ければ外へ出るはずだ！皆、もう少しの辛抱だぞ…！"
+                                "If we get through here, we should be able to get outside!\nEveryone, just a little more endurance...!"
                             ]
                         },
                         {
@@ -12797,14 +12797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ごめん、あと一歩ってとこでまたしくじっちまった……"
+                                "Akane: Sorry, I messed up again just one step away..."
                             ]
                         },
                         {
@@ -12842,7 +12835,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネッ…！！"
+                                "Akane...!!"
                             ]
                         },
                         {
@@ -12909,14 +12902,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おっと近付くなよ。ホヒッ。コイツがどうなってもいいってなら話は別だけどね。"
+                                "Prison Guard Captain: Whoa, don't come any closer. Heheh. If\nyou don't care what happens to this one, that's a different\nstory."
                             ]
                         },
                         {
@@ -12947,7 +12933,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんな……、お前は部屋で昏倒させたはず……"
+                                "How can this be...? I knocked you out in the room..."
                             ]
                         },
                         {
@@ -12978,21 +12964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あれは痛かったぞぉ…、でも君も詰めが甘いよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当に大人しくしてて欲しいなら気絶させるだけじゃあダメだよ。ボクちんなら……"
+                                "Prison Guard Captain: That hurt, you know... But you're not\nthorough enough. If you really wanted me to stay quiet,\nknocking me out isn't enough. If it were me..."
                             ]
                         },
                         {
@@ -13023,7 +12995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黙れッ！貴様らと一緒にするなッ……！"
+                                "Shut up! Don't lump me together with the likes of you...!"
                             ]
                         },
                         {
@@ -13054,21 +13026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "狭い穴だったけどたまには近道も役に立つもんだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こうやってギリギリのところでネズミを逃さずに済んだ。"
+                                "Prison Guard Captain: It was a tight squeeze, but sometimes\na shortcut comes in handy. Just like this, I managed to\ncatch the rat at the last moment."
                             ]
                         },
                         {
@@ -13099,7 +13057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ、お前ならそんなやつ程度に捕まる油断なんて…"
+                                "Akane, you wouldn't let your guard down enough to get caught\nby someone like him..."
                             ]
                         },
                         {
@@ -13507,14 +13465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奴隷労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お、お前らが悪いんだからな…！"
+                                "Slave Laborer: It's all your fault...!"
                             ]
                         },
                         {
@@ -13538,14 +13489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奴隷労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうよ、私たちはここで静かにしていたいだけなのに…か、勝手に抜け出そうとして！"
+                                "Slave Laborer: Yes, we just wanted to stay quiet here... and\nyou had to go and try to escape on your own!"
                             ]
                         },
                         {
@@ -13578,7 +13522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そ、そんな、お前たちは……"
+                                "That can't be, you guys..."
                             ]
                         },
                         {
@@ -13609,21 +13553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前ら、この女を逃がすんじゃないぞぉ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こいつは、ホヒッ、ボクチンの頭に傷を付けたんだ…！ホヒヒッ！痛かったんだぞ…！"
+                                "Prison Guard Captain: Don't let this woman escape. She,\nheheh, gave me this scar on my head...! Heheheh! It hurt,\nyou know...!"
                             ]
                         },
                         {
@@ -13652,14 +13582,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前らわかってるな！もし逃したら全員ただで済むと思うなよ…！"
+                                "Prison Guard Captain: You all understand, right?! If she\nescapes, don't think all of you will get off scot-free...!"
                             ]
                         },
                         {
@@ -13676,21 +13599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "捕らえた奴だけが刑罰を免除だ！ホヒッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わかってるな！痛い目を見たくなきゃネズミ同士頑張って傷付け合え！いいな！！"
+                                "Prison Guard Captain: Only the one who captures her will be\nexempt from punishment! Heheh! You got that?! If you don't\nwant to suffer, then work hard and hurt each other like\nrats! Got it?!!"
                             ]
                         },
                         {
@@ -13974,7 +13883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お前たち、目を覚ますんだ！お前たちの居場所はここなんかじゃ決して無い！！"
+                                "You all need to wake up! Your place is definitely not here!!"
                             ]
                         },
                         {
@@ -13991,14 +13900,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "目の前の暴力に屈するんじゃない！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "勇気を持て！君たちの手は自由を掴むためにあると信じるんだ！！"
+                                "Don't submit to the violence in front of you!! Have courage!\nBelieve that your hands are meant to grasp freedom!!"
                             ]
                         },
                         {
@@ -14031,14 +13933,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゴチャゴチャうるさいんだよ！！お前だけは許さないからな…！！"
+                                "Prison Guard Captain: Shut your noisy mouth!! I will never\nforgive you...!!"
                             ]
                         },
                         {
@@ -14067,21 +13962,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{グッチャグチャになってから謝っても遅いからなッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ホヒヒッ！覚悟しろッ！"
+                                "Prison Guard Captain: It'll be too late to apologize after\nyou're beaten to a pulp! Heheheh! Prepare yourself!"
                             ]
                         },
                         {
@@ -14112,14 +13993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（たとえ数で負けていたって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　脅され従わされている奴らの結束は我々と比べて脆弱だ！）"
+                                "(Even if we are outnumbered, the unity of those who are\nthreatened and coerced is fragile compared to ours!)"
                             ]
                         },
                         {
@@ -14136,14 +14010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（その差があればたとえ僅かでもきっと隙を作ることが出来る！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そうなれば、あの状態のアカネでも容易に逃げ出せるはずだ！）"
+                                "(With that difference, we can surely create an opportunity,\neven if it's slight! Then, even Akane in her current state\nshould be able to escape easily!)"
                             ]
                         },
                         {
@@ -14160,14 +14027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ならばこちらも容赦はせん。己が非道の数々ゆめゆめ忘れるな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "二度も情けをかけてもらえると思うなよ…！！"
+                                "If that's the case, we will show no mercy. Never forget your\nown atrocities. Don't think you'll receive mercy twice...!!"
                             ]
                         },
                         {
@@ -14206,7 +14066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{───穴底で醜くくたばれ、欲望に肥えた外道がッ！！"
+                                "───Die a wretched death at the bottom of the hole, you\ndegenerate bloated with desire!!"
                             ]
                         },
                         {

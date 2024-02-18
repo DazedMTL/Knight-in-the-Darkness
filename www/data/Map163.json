@@ -14462,7 +14462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポーションを手に入れた！"
+                                "Obtained a Potion!"
                             ]
                         },
                         {
@@ -14709,7 +14709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マジックミストを手に入れた！"
+                                "Gained Magic Mist!"
                             ]
                         },
                         {
@@ -14956,7 +14956,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マジックミストを手に入れた！"
+                                "Gained Magic Mist!"
                             ]
                         },
                         {
@@ -15084,14 +15084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "……………………………………"
+                                "Worker: ..."
                             ]
                         },
                         {
@@ -15115,14 +15108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（恐らく私の居た採掘坑と同じように各地から集められた労働者なのだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　話しかけても何かの作業を続けるばかりでほとんど反応がない。）"
+                                "(They're probably workers gathered from various places, just\nlike the ones from the mining pit I was in. They hardly\nrespond, continuing whatever task they're on even when\nspoken to.)"
                             ]
                         },
                         {
@@ -15139,14 +15125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔術による暗示のようなものを施されているのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これは…、私では解くことは難しいな……"
+                                "Could they be under some kind of magical suggestion? This\nis... beyond my ability to dispel..."
                             ]
                         },
                         {
@@ -15281,14 +15260,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "……………………………………"
+                                "Worker: ..."
                             ]
                         },
                         {
@@ -15312,14 +15284,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（恐らく私の居た採掘坑と同じように各地から集められた労働者なのだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　話しかけても何かの作業を続けるばかりでほとんど反応がない。）"
+                                "(They must be workers gathered from various places, just\nlike the ones in the mining pit I was in. They hardly\nrespond, continuing whatever task they're on even when\nspoken to.)"
                             ]
                         },
                         {
@@ -15336,14 +15301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔術による暗示のようなものを施されているのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これは…、私では解くことは難しいな……"
+                                "Could they be under some sort of magical compulsion? This\nis... beyond my ability to dispel..."
                             ]
                         },
                         {
@@ -15427,14 +15385,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "……………………………………"
+                                "Worker: ..."
                             ]
                         },
                         {
@@ -15458,14 +15409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（恐らく私の居た採掘坑と同じように各地から集められた労働者なのだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　話しかけても何かの作業を続けるばかりでほとんど反応がない。）"
+                                "(They're probably workers gathered from various places, just\nlike the mining pit I was in. They barely respond,\ncontinuing whatever task they're doing, even when spoken\nto.)"
                             ]
                         },
                         {
@@ -15482,14 +15426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔術による暗示のようなものを施されているのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これは…、私では解くことは難しいな……"
+                                "Could they be under some kind of magical suggestion? This\nis... beyond my ability to dispel..."
                             ]
                         },
                         {
@@ -16003,7 +15940,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この装置は……、運ばれてきた鉱石はここで加工されているのか。"
+                                "This device... it seems the ores brought in are processed\nhere."
                             ]
                         },
                         {
@@ -16129,14 +16066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うわ……　あ……　あ……！"
+                                "Worker: Ugh...ah...ah...!"
                             ]
                         },
                         {
@@ -16313,7 +16243,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あの者…！服が装置の隙間に挟まって……！！"
+                                "That person...! Their clothes are caught in the gap of the\nmachine...!!"
                             ]
                         },
                         {
@@ -16330,7 +16260,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くそ！間に合えっ！！"
+                                "Damn it! I have to make it in time!!"
                             ]
                         },
                         {
@@ -16612,7 +16542,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（こんなこと……、許されない……）"
+                                "(Such a thing... it's unforgivable...)"
                             ]
                         },
                         {
@@ -16636,7 +16566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（許されることがあってはならない……！！人の命を何だと思っているんだ！！）"
+                                "(It must never be allowed...!! What do they think human\nlives are worth!!)"
                             ]
                         },
                         {
@@ -16771,14 +16701,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "……………………………………"
+                                "Worker: ..."
                             ]
                         },
                         {
@@ -16802,14 +16725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（恐らく私の居た採掘坑と同じように各地から集められた労働者なのだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　話しかけても何かの作業を続けるばかりでほとんど反応がない。）"
+                                "(They're probably workers gathered from various places, just\nlike the ones in the mining pit I was in. They hardly\nrespond at all, continuing whatever task they're on even\nwhen spoken to.)"
                             ]
                         },
                         {
@@ -16826,14 +16742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔術による暗示のようなものを施されているのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これは…、私では解くことは難しいな……"
+                                "Could they be under some kind of spell or suggestion through\nmagic? This is... beyond my ability to dispel..."
                             ]
                         },
                         {
@@ -16917,14 +16826,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "……………………………………"
+                                "Worker: ..."
                             ]
                         },
                         {
@@ -16948,14 +16850,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（恐らく私の居た採掘坑と同じように各地から集められた労働者なのだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　話しかけても何かの作業を続けるばかりでほとんど反応がない。）"
+                                "(They're probably workers gathered from various places, just\nlike the ones from the mining pit I was in. Even if I speak\nto them, they just continue their tasks with hardly any\nresponse.)"
                             ]
                         },
                         {
@@ -16972,14 +16867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔術による暗示のようなものを施されているのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これは…、私では解くことは難しいな……"
+                                "Could they be under some kind of magical compulsion? This\nis... beyond my ability to dispel..."
                             ]
                         },
                         {
@@ -17945,14 +17833,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "……………………………………"
+                                "Worker: ..."
                             ]
                         },
                         {
@@ -17976,7 +17857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（疲弊しているのか、声を掛けても反応がほとんど無い……）"
+                                "(They seem exhausted; there's hardly any response even when\nspoken to...)"
                             ]
                         },
                         {
@@ -18076,7 +17957,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究員共の詰所のようだな。先へ進むにはあの場所を抜けるしかないか……"
+                                "It seems to be the researchers' quarters. To move forward,\nwe have no choice but to get through that place..."
                             ]
                         },
                         {
@@ -18093,7 +17974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "数は多いが、まだこちらに気付いていない今なら不意を打つことも可能だろう。"
+                                "There are many, but if they haven't noticed us yet, we might\nbe able to catch them by surprise."
                             ]
                         },
                         {
@@ -18117,8 +17998,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "奴らを蹴散らす。",
-                                    "準備を整える。"
+                                    "Let's scatter them.",
+                                    "Let's get ready."
                                 ],
                                 1,
                                 0,
@@ -18534,14 +18415,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "我が名は騎士レイシア！悪いがここは通らせてもらうぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "邪魔立てするなら容赦せん！！その首以ってこの場の罪を悔い改めろ！！"
+                                "I am the knight Reisha! Sorry, but I must pass through here!\nIf you stand in my way, I will show no mercy!! Take this\nhead and repent for your sins right here!!"
                             ]
                         },
                         {
@@ -19224,7 +19098,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\{さぁ、次ッ！！"
+                                "Come on, next!!"
                             ]
                         },
                         {
@@ -19798,7 +19672,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ガハッ……！ゲホッ……ッッ！"
+                                "Gah...! Cough...!"
                             ]
                         },
                         {
@@ -19815,7 +19689,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "そんな……。ここまで来て、力及ばぬとは……"
+                                "How can this be... to come this far and still not be strong\nenough..."
                             ]
                         },
                         {
@@ -19906,7 +19780,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ガハッ……！ゲホッ……ッッ！"
+                                "Gah...! Cough...!"
                             ]
                         },
                         {
@@ -19923,7 +19797,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "そんな……。ここまで来て、力及ばぬとは……"
+                                "How can this be... to come this far and still not be strong\nenough..."
                             ]
                         },
                         {
@@ -20215,7 +20089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「用の無いものの立ち入りを禁ず。また脱走者が出ないよう厳重に施錠しておくこと。」"
+                                "Prohibit entry to those without business here. Also, make\nsure to lock up securely to prevent any escapes."
                             ]
                         },
                         {
@@ -20308,7 +20182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究員共の詰所のようだな。先へ進むにはあの場所を抜けるしかないか……"
+                                "It seems to be the researchers' quarters. To move forward,\nwe have no choice but to get through that place..."
                             ]
                         },
                         {
@@ -20325,7 +20199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "数は多いが、まだこちらに気付いていない今なら不意を打つことも可能だろう。"
+                                "There are many of them, but they haven't noticed us yet. Now\nmight be our chance to catch them off guard."
                             ]
                         },
                         {
@@ -20349,8 +20223,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "奴らを蹴散らす。",
-                                    "準備を整える。"
+                                    "Let's scatter them.",
+                                    "Let's get ready."
                                 ],
                                 1,
                                 0,
@@ -20766,14 +20640,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "我が名は騎士レイシア！悪いがここは通らせてもらうぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "邪魔立てするなら容赦せん！！その首以ってこの場の罪を悔い改めろ！！"
+                                "I am the knight Reisha! Sorry, but I must pass through here!\nIf you stand in my way, I will show no mercy!! Take this\nhead and repent for your sins right here!!"
                             ]
                         },
                         {
@@ -21456,7 +21323,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\{さぁ、次ッ！！"
+                                "Come on, next!!"
                             ]
                         },
                         {
@@ -22030,7 +21897,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ガハッ……！ゲホッ……ッッ！"
+                                "Gah...! Cough...!"
                             ]
                         },
                         {
@@ -22047,7 +21914,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "そんな……。ここまで来て、力及ばぬとは……"
+                                "How can this be... to come this far and still not be strong\nenough..."
                             ]
                         },
                         {
@@ -22138,7 +22005,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ガハッ……！ゲホッ……ッッ！"
+                                "Gah...! Cough...!"
                             ]
                         },
                         {
@@ -22155,7 +22022,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "そんな……。ここまで来て、力及ばぬとは……"
+                                "How can this be... to come this far and still not be strong\nenough..."
                             ]
                         },
                         {
@@ -22971,7 +22838,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マジックミストを手に入れた！"
+                                "Obtained Magic Mist!"
                             ]
                         },
                         {

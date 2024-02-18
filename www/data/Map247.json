@@ -39470,7 +39470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "案内された建物に通されるとすぐにここの支配人であろう人物と接触出来た。"
+                                "As soon as I was led into the building, I was able to make\ncontact with the person who seemed to be the manager here."
                             ]
                         },
                         {
@@ -39487,7 +39487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネの言う通り彼女はこの人物とコネがあるようで、話は順調に進んでいるようだった。"
+                                "Just as Akane said, she seems to have a connection with this\nperson, and the conversation appeared to be going smoothly."
                             ]
                         },
                         {
@@ -39522,14 +39522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今思えば信用のある人物の紹介であろうと見ず知らずの部外者に店の中で情報収集を許す、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その行為に対しあまりにすんなりと許可が出たことに、もっと疑問を持ってもよかった…"
+                                "In hindsight, I should have been more suspicious about how\neasily permission was granted for an unknown outsider to\ngather information inside the store, even if it was under\nthe introduction of a trusted individual..."
                             ]
                         },
                         {

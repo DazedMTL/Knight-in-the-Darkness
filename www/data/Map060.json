@@ -11594,7 +11594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "──…………"
+                                "──..."
                             ]
                         },
                         {
@@ -11611,14 +11611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここにいる者の事情はわかったよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただ単純な疑問なのだが、そもそもこの採掘坑の目的は何だ？"
+                                "I understand the circumstances of those here. But I have a\nsimple question: what is the purpose of this mine in the\nfirst place?"
                             ]
                         },
                         {
@@ -11635,7 +11628,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働力を安く確保しているのは、ヘドが出るが、わかった。"
+                                "It's nauseating to think about the cheap labor being\nsecured, but I get it."
                             ]
                         },
                         {
@@ -11652,14 +11645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本来あってはならないのだが、国の許可を得ずに採掘を営む坑道も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少なからず存在することは耳にしている。　何か希少な鉱石でも出るのか？"
+                                "It shouldn't be happening, but I've heard that there are\nmines operating without the country's permission. Is there\nsome rare ore being mined?"
                             ]
                         },
                         {
@@ -11676,7 +11662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それにしたって労働者の扱いがヒドい。外に集落も作らずに穴の中に閉じ込めている。"
+                                "Even so, the treatment of the workers is terrible. They're\nconfined inside without even a settlement built outside."
                             ]
                         },
                         {
@@ -11714,14 +11700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あの厳重な鉄格子はどういうことだ。過剰な見張りまで。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "外界から一切を隔離し、まるで情報が漏れたら都合が悪いかのようではないか。"
+                                "What's with those heavy iron bars? And the excessive guards.\nIt's as if they're isolating everything from the outside\nworld, like it would be inconvenient if any information\nleaked out."
                             ]
                         },
                         {
@@ -11738,7 +11717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働を課せられている者も、意欲もなく只々苦痛をやり過ごすように働いている…"
+                                "The workers who are forced to labor do so without any\nmotivation, merely enduring the pain..."
                             ]
                         },
                         {
@@ -11769,14 +11748,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "思いついた疑問をあるだけ口にされてもアタシみたいな下っ端が答えられるわけ無いだろう。"
+                                "Section Chief: You can voice all the questions that come to\nmind, but someone low-ranking like me wouldn't be able to\nanswer them."
                             ]
                         },
                         {
@@ -11793,14 +11765,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それにさ、知って何になるっていうんだ。私たちが知る必要なんて無いのさ。"
+                                "Section Chief: Besides, what would you do with that\nknowledge? There's no need for us to know."
                             ]
                         },
                         {
@@ -11817,21 +11782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここで働いて、自分で作った負債を返し終えるまでまともでいられる奴なんて稀さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大体が志半ばでくたばっちまう。"
+                                "Section Chief: It's rare for someone to stay sane here while\nworking to pay off their self-incurred debts. Most people\nbreak down before they can finish."
                             ]
                         },
                         {
@@ -11848,21 +11799,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここから出ていったって無事が保証されてるかなんて怪しいもんさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここはそういう場所なんだ。希望なんて持つだけ虚しくなんだよ。"
+                                "Section Chief: Even if you get out of here, there's no\nguarantee you'll be safe. This place is like that. Holding\nonto hope is just a waste."
                             ]
                         },
                         {
@@ -11893,7 +11830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だからってこんなに労働力を投入し無意味に穴を掘り続けているわけではないだろう。"
+                                "But that doesn't mean we're pouring in labor just to\npointlessly dig holes."
                             ]
                         },
                         {
@@ -12006,7 +11943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ん？　土の感触が変わってきたな、何だ…？"
+                                "Hmm? The feel of the soil has changed, what's this...?"
                             ]
                         },
                         {
@@ -12095,21 +12032,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほう、伊達に人一倍ツルハシを振るっているわけじゃないね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よし、いい機会だ。あんたのさっきの疑問に少しだけ答えてやるよ。"
+                                "Section Chief: Huh, you're not just swinging that pickaxe\nmore than anyone else for show. Alright, this is a good\nopportunity. I'll answer some of your earlier questions,\njust a little."
                             ]
                         },
                         {
@@ -12241,14 +12164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっと待ってな。"
+                                "Section Chief: Wait a moment."
                             ]
                         },
                         {
@@ -12547,14 +12463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これだよ。"
+                                "Section Chief: Here it is."
                             ]
                         },
                         {
@@ -12752,21 +12661,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これは大きさの満たないカケラだけどね、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こいつのためにアタシらは延々ここを掘らされてるってわけ。"
+                                "Section Chief: This is just a small fragment, but yeah, it's\nbecause of this thing that we're made to keep digging here\nendlessly."
                             ]
                         },
                         {
@@ -12799,7 +12694,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "う～む。これは…"
+                                "Hmm. This is..."
                             ]
                         },
                         {
@@ -12816,7 +12711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鉱物の知識に自信があるわけではないが、少なくとも市場では見たことはない鉱石だな。"
+                                "I'm not confident in my knowledge of minerals, but at least\nI've never seen this ore on the market before."
                             ]
                         },
                         {
@@ -12854,7 +12749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（見た目だけならそれほど高価に取引される品物には見えないが……）"
+                                "(Just by its appearance, it doesn't seem like something that\nwould be traded at a high price...)"
                             ]
                         },
                         {
@@ -12885,21 +12780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "詳しいことはアタシもサッパリさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わかってるのは、ここにいる人間よりよっぽど価値があるらしいってことくらいさ。"
+                                "Section Chief: I don't know the details either. All I know\nis that it seems to have more value than any of us here."
                             ]
                         },
                         {
@@ -12930,7 +12811,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんなに自分を卑下するのはよくないぞ。"
+                                "It's not good to belittle yourself so much."
                             ]
                         },
                         {
@@ -12947,7 +12828,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "各々事情はあろうが、ここの環境は何の理由があろうと許されるものではない。"
+                                "Everyone may have their own circumstances, but no reason can\njustify the conditions here."
                             ]
                         },
                         {
@@ -12964,14 +12845,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "汚い言葉を浴びせられても自分を価値のない人間だと思い込むな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少なくともお前は私に親切にしてくれているではないか。"
+                                "Don't let harsh words make you believe you're worthless. At\nthe very least, you've been kind to me."
                             ]
                         },
                         {
@@ -13002,21 +12876,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんた痛い目見てここに来ただろうに、お人好しというか、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よっぽど他人に騙されることに慣れてないみたいだね。"
+                                "Section Chief: You must have had a rough time before you\ncame here, you're too kind-hearted, or rather, it seems like\nyou're not used to being deceived by others."
                             ]
                         },
                         {
@@ -13040,21 +12900,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "勘違いされても困るよ。ここじゃまともに口がきける奴は珍しいからね、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それでついつい話し過ぎちまっただけだよ。"
+                                "Section Chief: Don't get me wrong though. It's rare to find\nsomeone who can talk properly here, so I just ended up\ntalking too much, that's all."
                             ]
                         },
                         {
@@ -13377,14 +13223,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほらまた手が止まってるよ。お喋りするヒマがあるならもうひと掘り頑張んな。"
+                                "Section Chief: Look, your hands have stopped again. If you\nhave time to chat, then give digging another go."
                             ]
                         },
                         {
@@ -13453,7 +13292,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁ、そうだな…！"
+                                "Ah, right...!"
                             ]
                         },
                         {

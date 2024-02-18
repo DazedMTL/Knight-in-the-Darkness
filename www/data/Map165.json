@@ -8564,7 +8564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くそ……！！"
+                                "Damn it...!!"
                             ]
                         },
                         {
@@ -8660,7 +8660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ならば、これならぁ……ッッ！！"
+                                "If that's the case, take this...!!"
                             ]
                         },
                         {
@@ -9805,7 +9805,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（辛いが、彼に事の顛末を話すまで先を急ぐことは出来ないよ……）"
+                                "(It's tough, but I can't rush ahead until I tell him the\nwhole story...)"
                             ]
                         },
                         {
@@ -9913,7 +9913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（辛いが、彼に事の顛末を話すまで先を急ぐことは出来ないよ……）"
+                                "(It's tough, but I can't rush ahead until I tell him the\nwhole story...)"
                             ]
                         },
                         {
@@ -10021,7 +10021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（辛いが、彼に事の顛末を話すまで先を急ぐことは出来ないよ……）"
+                                "(It's tough, but I can't rush ahead until I've explained the\nwhole situation to him...)"
                             ]
                         },
                         {
@@ -10546,7 +10546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（目的の場所はこちらではない……！！）"
+                                "(This is not the place we're looking for...!!)"
                             ]
                         },
                         {
@@ -10654,7 +10654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（目的の場所はこちらではない……！！）"
+                                "(The destination is not this way...!!)"
                             ]
                         },
                         {
@@ -10762,7 +10762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（目的の場所はこちらではない……！！）"
+                                "(This is not the place we're looking for...!!)"
                             ]
                         },
                         {
@@ -10949,14 +10949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究主任："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さぁ機器の出力を上げろ！！抜かるなよ！！"
+                                "Research Director: Now, increase the output of the machine!!\nDon't slack off!!"
                             ]
                         },
                         {
@@ -10992,14 +10985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔導研究員："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "サンプルの身体反応に異常なし！機器の魔力出力安定しています！"
+                                "Magic Researcher: No abnormal reactions in the sample's\nbody! The magical power output of the device is stable!"
                             ]
                         },
                         {
@@ -11032,14 +11018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき兄貴："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ひぃぃぃ！！なんだこれはああ！！！やめてくれぇぇぇ！！！"
+                                "Thug Leader: Eeeeek!! What the hell is this?! Stop it,\npleaseeee!!!"
                             ]
                         },
                         {
@@ -11114,21 +11093,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究主任："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{かまうなスイッチを入れろッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それでは魔導実験を開始するッッッ！！"
+                                "Research Director: Ignore it and flip the switch!! Now, let\nus commence the magical experiment!!!"
                             ]
                         },
                         {
@@ -11170,14 +11135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき兄貴："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{うわああああああああああ！！！！！！！！！！"
+                                "Thug Leader: Aaaaaaaaahhhhhhhhhhhhhhhhhhhhhh!!!!!!!!!"
                             ]
                         },
                         {
@@ -11334,7 +11292,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "貴様ら！何をしているッッ！！！！"
+                                "You bastards! What are you doing?!!!"
                             ]
                         },
                         {
@@ -11405,14 +11363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究主任："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何だお前は！？何処から入ってきた！？"
+                                "Research Director: Who are you?! Where did you come from?!"
                             ]
                         },
                         {
@@ -11443,7 +11394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お前たち！今すぐこの非道な行いをとりやめろ！！拘束した者を解放するんだ！！"
+                                "Stop this inhumane act at once!! Release those you have\nrestrained!!"
                             ]
                         },
                         {
@@ -11474,14 +11425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究主任："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前に何の権限があって指図する？我らが研究の邪魔は何者も許さんぞ。"
+                                "Research Director: By what authority do you order us around?\nWe will not allow anyone to interfere with our research."
                             ]
                         },
                         {
@@ -11498,21 +11442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究主任："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "生命力に溢れる肉体ならば丁度いい。お前も実験のサンプルにしてやるよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうせここから生きて出られるなんてことは無理なんだからよぉお！！！"
+                                "Research Director: If you have a body brimming with life\nforce, then you're just perfect. I'll make you a subject of\nour experiment too! As if you could ever leave here alive\nanyway!!!"
                             ]
                         },
                         {
@@ -11543,14 +11473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふん、魔導士風情が粋がるなよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "話が通じぬのならば切り伏せて止めるのみ！覚悟せよッ！！"
+                                "Hmph, don't get cocky, you mage! If words won't get through\nto you, then I have no choice but to cut you down! Prepare\nyourself!!"
                             ]
                         },
                         {
@@ -12089,7 +12012,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ガハッ……！ゲホッ……ッッ！"
+                                "Gah...! Cough...!!"
                             ]
                         },
                         {
@@ -12106,7 +12029,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そんな……。ここまで来て、力及ばぬとは……"
+                                "How could this be... to come this far and still not be\nstrong enough..."
                             ]
                         },
                         {
@@ -12123,7 +12046,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "もう誰も、私の目の前で傷付くことがあってたまるかと……誓った、のに……"
+                                "No more... I swore that no one would get hurt before my eyes\nagain... yet..."
                             ]
                         },
                         {
@@ -12516,14 +12439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究主任："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さぁ機器の出力を上げろ！！抜かるなよ！！"
+                                "Research Director: Increase the output of the device!! Don't\nfalter!!"
                             ]
                         },
                         {
@@ -12559,14 +12475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔導研究員："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "サンプルの身体反応に異常なし！機器の魔力出力安定しています！"
+                                "Magic Researcher: No abnormalities in the sample's bodily\nresponse! The magical power output of the device is stable!"
                             ]
                         },
                         {
@@ -12599,14 +12508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき兄貴："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ひぃぃぃ！！なんだこれはああ！！！やめてくれぇぇぇ！！！"
+                                "Thug Leader: Eeeeek!! What is this?! Stop it, pleaseeee!!!"
                             ]
                         },
                         {
@@ -12681,21 +12583,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究主任："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{かまうなスイッチを入れろッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それでは魔導実験を開始するッッッ！！"
+                                "Research Director: Ignore it and flip the switch!! Now, let\nus commence the magical experiment!!!"
                             ]
                         },
                         {
@@ -12737,14 +12625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき兄貴："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{うわああああああああああ！！！！！！！！！！"
+                                "Thug Leader: Aaaaaaaahhhhhhhhhhhhhhhhhhhhhh!!!!"
                             ]
                         },
                         {
@@ -12915,7 +12796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "貴様ら！何をしているッッ！！！！"
+                                "You bastards! What are you doing?!!!"
                             ]
                         },
                         {
@@ -12986,14 +12867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究主任："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何だお前は！？何処から入ってきた！？"
+                                "Research Director: Who are you?! Where did you come from?!"
                             ]
                         },
                         {
@@ -13024,7 +12898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お前たち！今すぐこの非道な行いをとりやめろ！！拘束した者を解放するんだ！！"
+                                "You lot! Cease this inhumane act at once!! Release those you\nhave restrained!!"
                             ]
                         },
                         {
@@ -13055,14 +12929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究主任："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前に何の権限があって指図する？我らが研究の邪魔は何者も許さんぞ。"
+                                "Research Director: By what authority do you order us around?\nWe will not allow anyone to interfere with our research."
                             ]
                         },
                         {
@@ -13079,21 +12946,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究主任："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "生命力に溢れる肉体ならば丁度いい。お前も実験のサンプルにしてやるよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうせここから生きて出られるなんてことは無理なんだからよぉお！！！"
+                                "Research Director: If it's a body brimming with life force,\nthen you're just perfect. I'll make you a sample for the\nexperiment too! As if you could ever leave here alive\nanyway!!!"
                             ]
                         },
                         {
@@ -13124,14 +12977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふん、魔導士風情が粋がるなよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "話が通じぬのならば切り伏せて止めるのみ！覚悟せよッ！！"
+                                "Hmph, don't get cocky, you mage! If words fail to get\nthrough, then I have no choice but to cut you down! Prepare\nyourself!!"
                             ]
                         },
                         {
@@ -13670,7 +13516,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ガハッ……！ゲホッ……ッッ！"
+                                "Gah...! Cough...!!"
                             ]
                         },
                         {
@@ -13687,7 +13533,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そんな……。ここまで来て、力及ばぬとは……"
+                                "Impossible... To come this far and still not be enough..."
                             ]
                         },
                         {
@@ -13704,7 +13550,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "もう誰も、私の目の前で傷付くことがあってたまるかと……誓った、のに……"
+                                "No more... I swore that no one would get hurt before my eyes\nagain... and yet..."
                             ]
                         },
                         {
@@ -13977,14 +13823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究主任："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さぁ機器の出力を上げろ！！抜かるなよ！！"
+                                "Research Director: Raise the output of the device!! Don't\nfall behind!!"
                             ]
                         },
                         {
@@ -14020,14 +13859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔導研究員："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "サンプルの身体反応に異常なし！機器の魔力出力安定しています！"
+                                "Magic Researcher: No abnormalities in the sample's bodily\nresponse! The magical power output of the device is stable!"
                             ]
                         },
                         {
@@ -14060,14 +13892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき兄貴："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ひぃぃぃ！！なんだこれはああ！！！やめてくれぇぇぇ！！！"
+                                "Thug Leader: Eeeeek!! What the hell is this?! Stop it,\npleaseeee!!!"
                             ]
                         },
                         {
@@ -14142,21 +13967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究主任："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{かまうなスイッチを入れろッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それでは魔導実験を開始するッッッ！！"
+                                "Research Director: Ignore it and flip the switch!! Now, let\nus commence the magical experiment!!!"
                             ]
                         },
                         {
@@ -14198,14 +14009,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき兄貴："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{うわああああああああああ！！！！！！！！！！"
+                                "Thug Leader: Aaaaaaaaahhhhhhhhhhhhhhhhhhhhh!!!!"
                             ]
                         },
                         {
@@ -14376,7 +14180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "貴様ら！何をしているッッ！！！！"
+                                "You bastards! What are you doing?!!!"
                             ]
                         },
                         {
@@ -14447,14 +14251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究主任："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何だお前は！？何処から入ってきた！？"
+                                "Research Director: Who are you?! Where did you come from?!"
                             ]
                         },
                         {
@@ -14485,7 +14282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お前たち！今すぐこの非道な行いをとりやめろ！！拘束した者を解放するんだ！！"
+                                "You lot! Cease this inhumane act at once!! Release those you\nhave restrained!!"
                             ]
                         },
                         {
@@ -14516,14 +14313,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究主任："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前に何の権限があって指図する？我らが研究の邪魔は何者も許さんぞ。"
+                                "Research Director: By what authority do you order us around?\nWe will not allow anyone to interfere with our research."
                             ]
                         },
                         {
@@ -14540,21 +14330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究主任："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "生命力に溢れる肉体ならば丁度いい。お前も実験のサンプルにしてやるよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうせここから生きて出られるなんてことは無理なんだからよぉお！！！"
+                                "Research Director: If it's a body brimming with life force,\nthen you're just perfect. I'll make you a sample for our\nexperiment too! As if you could ever leave here alive\nanyway!!!"
                             ]
                         },
                         {
@@ -14585,14 +14361,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふん、魔導士風情が粋がるなよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "話が通じぬのならば切り伏せて止めるのみ！覚悟せよッ！！"
+                                "Hmph, don't get cocky, you mage! If words fail to get\nthrough, then I have no choice but to cut you down! Prepare\nyourself!!"
                             ]
                         },
                         {
@@ -15131,7 +14900,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ガハッ……！ゲホッ……ッッ！"
+                                "Gah...! Cough...!!"
                             ]
                         },
                         {
@@ -15148,7 +14917,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そんな……。ここまで来て、力及ばぬとは……"
+                                "Impossible... To come this far and still not be enough..."
                             ]
                         },
                         {
@@ -15165,7 +14934,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "もう誰も、私の目の前で傷付くことがあってたまるかと……誓った、のに……"
+                                "No more... I swore that no one would get hurt before my eyes\nagain... and yet..."
                             ]
                         },
                         {
@@ -15366,7 +15135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "邪魔だ外道が！消え失せろッ！！！"
+                                "Scum! Get out of my way! Disappear!!!"
                             ]
                         },
                         {
@@ -16246,7 +16015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔導士共！今すぐこの装置を止めろ！このようなことは中断するんだ！！"
+                                "Mages! Stop this device at once! We must interrupt this\nprocess!!"
                             ]
                         },
                         {
@@ -16286,14 +16055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔導研究員："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "む、無理ですよぉ！！最終段階に入っています！今から止めることなんてとても……！！"
+                                "Research Mage: I-It's impossible!! We're in the final stage!\nIt's too late to stop it now...!!"
                             ]
                         },
                         {
@@ -16324,7 +16086,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふざけるな！？手遅れだとでもいうのか！？　何としても中止するんだ！！"
+                                "Don't mess with me! Are you saying it's too late?! We must\nstop it no matter what!!"
                             ]
                         },
                         {
@@ -16355,14 +16117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔導研究員："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "計器読み上げます！　ま、魔導実験、終了まで、3、2、1……！　結果、出ます……！！"
+                                "Research Mage: Reading the gauges! The magic experiment will\nend in, 3, 2, 1...! Here come the results...!!"
                             ]
                         },
                         {
@@ -16614,7 +16369,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そ…、そんな……　ウソだろ……何てことだ……"
+                                "No... This can't be... It's a lie... What have we done..."
                             ]
                         },
                         {
@@ -16645,14 +16400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なりそこない："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "フジュル……　フジュル……ル………"
+                                "Failed Creation: Fjur... Fjur... r..."
                             ]
                         },
                         {
@@ -17677,7 +17425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………………………"
+                                "..."
                             ]
                         },
                         {
@@ -17868,7 +17616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（目的の場所はこちらではない……！！）"
+                                "(This is not the place we're looking for...!!)"
                             ]
                         },
                         {
@@ -18027,7 +17775,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（目的の場所はこちらではない……！！）"
+                                "(This is not the place we're looking for...!!)"
                             ]
                         },
                         {
@@ -18186,7 +17934,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（目的の場所はこちらではない……！！）"
+                                "(This is not the place we're looking for...!!)"
                             ]
                         },
                         {

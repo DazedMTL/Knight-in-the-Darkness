@@ -3007,7 +3007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『チーム：はじまりのふたり』と戦いますか？"
+                                "Will you battle \"Team: The Beginning Duo\"?"
                             ]
                         },
                         {
@@ -3015,8 +3015,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3317,7 +3317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『チーム：はじまりのふたり』と戦いますか？"
+                                "Will you battle \"Team: The Beginning Duo\"?"
                             ]
                         },
                         {
@@ -3325,8 +3325,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3593,7 +3593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戻りますか？"
+                                "Would you like to return?"
                             ]
                         },
                         {
@@ -3601,8 +3601,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3784,7 +3784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『チーム：筋肉の祭典』と戦いますか？"
+                                "Will you battle \"Team: Muscle Festival\"?"
                             ]
                         },
                         {
@@ -3792,8 +3792,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4094,7 +4094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『チーム：筋肉の祭典』と戦いますか？"
+                                "Will you battle \"Team: Muscle Festival\"?"
                             ]
                         },
                         {
@@ -4102,8 +4102,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4382,7 +4382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『チーム：ゴーレム三兄弟』と戦いますか？"
+                                "Will you battle \"Team: Golem Three Brothers\"?"
                             ]
                         },
                         {
@@ -4390,8 +4390,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4692,7 +4692,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『チーム：ゴーレム三兄弟』と戦いますか？"
+                                "Will you battle \"Team: Golem Three Brothers\"?"
                             ]
                         },
                         {
@@ -4700,8 +4700,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4980,7 +4980,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『チーム：リベンジャー』と戦いますか？"
+                                "Will you battle \"Team: Revenger\"?"
                             ]
                         },
                         {
@@ -4988,8 +4988,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -5290,7 +5290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『チーム：リベンジャー』と戦いますか？"
+                                "Will you battle \"Team: Revenger\"?"
                             ]
                         },
                         {
@@ -5298,8 +5298,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -5578,7 +5578,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『チーム：あるいはあった世界線の話』と戦いますか？"
+                                "Will you battle \"Team: Or Perhaps a Tale of Another\nWorldline\"?"
                             ]
                         },
                         {
@@ -5586,8 +5586,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -5888,7 +5888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『チーム：ある世界戦の話』と戦いますか？"
+                                "Will you battle \"Team: A Tale of World War\"?"
                             ]
                         },
                         {
@@ -5896,8 +5896,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

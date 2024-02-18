@@ -26598,7 +26598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アタックアップを手に入れた！"
+                                "Gained Attack Up!"
                             ]
                         },
                         {
@@ -26845,7 +26845,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ディフェンスアップを手に入れた！"
+                                "Gained Defense Up!"
                             ]
                         },
                         {
@@ -28918,7 +28918,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マジックアップを手に入れた！"
+                                "Gained Magic Up!"
                             ]
                         },
                         {
@@ -29165,7 +29165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アンティマアップを手に入れた！"
+                                "Gained Antima Up!"
                             ]
                         },
                         {

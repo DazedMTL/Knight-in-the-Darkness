@@ -11609,7 +11609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お前は、いいのか？　あのような者に、人を人とは思わぬような扱いを受けて…！"
+                                "Are you okay with this? To be treated like you're not even\nhuman by such people...!"
                             ]
                         },
                         {
@@ -11671,14 +11671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっきからなんだい。わかってないのはあんたの方さ。"
+                                "Section Chief: What's with you since a while ago. The one\nwho doesn't get it is you."
                             ]
                         },
                         {
@@ -11695,14 +11688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何も知らないくせに迷惑なんだよ。私たちは余計なことをせずに黙って従ってればいいのさ。"
+                                "Section Chief: It's annoying when someone who knows nothing\ninterferes. We just need to keep quiet and follow orders\nwithout doing anything unnecessary."
                             ]
                         },
                         {
@@ -11911,14 +11897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ホラ、これ使いな。"
+                                "Section Chief: Here, use this."
                             ]
                         },
                         {
@@ -12156,7 +12135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お、おっと…！"
+                                "Oh, whoa...!"
                             ]
                         },
                         {
@@ -12227,14 +12206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おいおい、「かまし」でブン投げたってのに…その重さのモン素手で受け取れるのかよ…"
+                                "Section Chief: Hey, hey, I tossed it at you with a swing...\nCan you really catch something that heavy with your bare\nhands...?"
                             ]
                         },
                         {
@@ -12251,14 +12223,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんた、穴掘りは、まぁやったことないだろうけど。"
+                                "Section Chief: You've probably never dug a hole before, have\nyou?"
                             ]
                         },
                         {
@@ -12275,21 +12240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "細かい作業は他に出来るもんがいるからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "理由は後だよ、あんたはまずはひたすら壁を掘り進めな。"
+                                "Section Chief: There are others who can do the detailed\nwork. The reason comes later. For now, just keep digging\nthrough the wall."
                             ]
                         },
                         {
@@ -12351,7 +12302,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………………………"
+                                "..."
                             ]
                         },
                         {
@@ -12368,14 +12319,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(使命の事はあるが、自分の置かれた状況を把握せずに闇雲に行動を起こすべきではないな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " ここはしばらく様子を見て情報を整理するとしよう。)"
+                                "(I have a mission, but I shouldn't act recklessly without\nunderstanding the situation I'm in. I'll observe for a while\nand gather information.)"
                             ]
                         },
                         {
@@ -12392,7 +12336,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この道具でだな。わかった。どのくらい掘り進めばいいのだ？"
+                                "With this tool, I see. Understood. How far should I dig?"
                             ]
                         },
                         {
@@ -12423,21 +12367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなもんは考えるだけ無駄だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とにかく腕が上がらなくなるまで、腕が上がらなくなっても働かされ続けるんだからね。"
+                                "Section Chief: Thinking about that is a waste of time.\nAnyway, you'll work until your arms can't be raised anymore,\nand even if they can't, you'll still be made to work."
                             ]
                         },
                         {
@@ -12463,14 +12393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まぁ、コツくらいなら教えといてやるよ。"
+                                "Section Chief: Well, I can at least teach you the trick to\nit."
                             ]
                         },
                         {
@@ -12487,14 +12410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最初からあまり全力でやろうと思わないこったね。適度にチカラを抜いて進めていくんだ。"
+                                "Section Chief: Don't try to go all out from the start. You\nshould proceed by moderately easing your strength."
                             ]
                         },
                         {
@@ -12556,7 +12472,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうか、かたじけない。たしかに、いきなり身体を壊しても続かないからな。"
+                                "Is that so, I am grateful. Indeed, if I break my body right\naway, I won't last long."
                             ]
                         },
                         {
@@ -12618,14 +12534,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "違う違う。"
+                                "Section Chief: No, no."
                             ]
                         },
                         {
@@ -12642,14 +12551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よくいるんだよ。入ってきたばかりで張り切っちまうバカが。"
+                                "Section Chief: It happens all the time. Idiots who get all\nfired up just because they're new here."
                             ]
                         },
                         {
@@ -12666,21 +12568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そういう奴がノルマの基準にでもなっちまったら迷惑するのはアタシらだろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だから釘刺してんだよ。"
+                                "Section Chief: If such a person becomes the standard for the\nquota, it's us who will be troubled. That's why I'm driving\nthe point home."
                             ]
                         },
                         {
@@ -12697,21 +12585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんたの心配してるわけじゃないよ。アタシらの心配してんだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…ったく世間知らずのバカはこれだから困る。"
+                                "Section Chief: I'm not worried about you. I'm worried about\nus... Really, it's troublesome dealing with idiots who don't\nknow the ways of the world."
                             ]
                         },
                         {
@@ -12744,14 +12618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんだと！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっきから聞いてれば、人のことを世間知らずだのバカだのと…！"
+                                "What did you say! If I've been listening correctly, you've\nbeen calling people ignorant and idiots...!"
                             ]
                         },
                         {
@@ -12813,14 +12680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふん、違うっていうのかい？"
+                                "Section Chief: Hmph, are you saying it's different?"
                             ]
                         },
                         {
@@ -12851,7 +12711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "違いは、しないかも、だが。しかしなぁ…！言い方というものがあるだろう！！"
+                                "I might not differ, but still...! There's something called\ntact!!"
                             ]
                         },
                         {
@@ -12875,14 +12735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そういう怒りは壁の穴にでもぶつけるんだな。"
+                                "Section Chief: Direct that anger into the hole in the wall\nthen."
                             ]
                         },
                         {
@@ -12899,14 +12752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "──……………"
+                                "Section Chief:──..."
                             ]
                         },
                         {
@@ -12923,14 +12769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここでは無くなってから気付くんだよ。それがどんだけ貴重な感情だったかってね…"
+                                "Section Chief: It's only after they're gone that they\nrealize. How precious that emotion was..."
                             ]
                         },
                         {
@@ -13013,14 +12852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まずは以上だ！ほら、さっさと手を動かしなッ！"
+                                "Section Chief: That's all for now! Come on, get moving!"
                             ]
                         },
                         {
@@ -13139,7 +12971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…ええいっ！！"
+                                "Damn it!!"
                             ]
                         },
                         {

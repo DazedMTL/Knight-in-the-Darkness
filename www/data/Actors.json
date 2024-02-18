@@ -19,10 +19,10 @@
         "traits": [],
         "initialLevel": 5,
         "maxLevel": 99,
-        "name": "レイシア",
+        "name": "Reisha",
         "nickname": "",
         "note": "",
-        "profile": "王都ニアレイクの女騎士。\n密命を受け紛失した王家の秘宝『あかつきの剣』探索の旅に出ている。"
+        "profile": "A female knight from the royal capital Near Lake, on a\nsecret mission to find the lost royal treasure, the \"Sword\nof Dawn\"."
     },
     {
         "id": 2,
@@ -42,10 +42,10 @@
         "traits": [],
         "initialLevel": 22,
         "maxLevel": 99,
-        "name": "アカネ",
+        "name": "Akane",
         "nickname": "",
         "note": "",
-        "profile": "王都の外れに位置する復興地区出身の小柄な少女。\n素直で義理堅く物怖じしないが口も悪い。盗賊としての腕は確かだが手癖が悪く慢心しやすい。"
+        "profile": "A petite girl from the reconstruction district on the\noutskirts of the royal capital. She's honest, loyal, and\nfearless, though she has a foul mouth. Her skills as a thief\nare solid, but she's prone to overconfidence due to her\nsticky fingers."
     },
     {
         "id": 3,
@@ -66,10 +66,10 @@
         "traits": [],
         "initialLevel": 24,
         "maxLevel": 99,
-        "name": "王女ソアラ",
+        "name": "Princess Soara",
         "nickname": "",
         "note": "",
-        "profile": "若くして王位を継いだ悲運の女王。柔和で歳相応に活発な性格は少し影を潜めてしまっている。\n本名はソアラ・ラブラッド・フォン・ニアレイク。魔導により望まぬ形で王家の血が覚醒した。"
+        "profile": "A young queen who ascended to the throne under tragic\ncircumstances. Her gentle and lively nature appropriate for\nher age has somewhat dimmed. Her real name is Soara Labrad\nvon Near Lake. Her royal blood was awakened in an unwanted\nmanner through magic."
     },
     {
         "id": 4,
@@ -227,10 +227,10 @@
         "traits": [],
         "initialLevel": 10,
         "maxLevel": 60,
-        "name": "労働者",
+        "name": "Worker",
         "nickname": "",
         "note": "",
-        "profile": "採掘坑に閉じ込められた労働者のひとり。"
+        "profile": "One of the workers trapped in the mining pit."
     },
     {
         "id": 11,
@@ -256,10 +256,10 @@
         ],
         "initialLevel": 10,
         "maxLevel": 60,
-        "name": "労働者-魔",
+        "name": "Magical Worker",
         "nickname": "",
         "note": "",
-        "profile": "採掘坑に閉じ込められた労働者のひとり。\n魔力の素養があるが長い地中での生活で勘は鈍っている。"
+        "profile": "One of the workers trapped in the mining pit. Has an\naptitude for magic, but their senses have dulled from living\nunderground for so long."
     },
     {
         "id": 12,
@@ -285,10 +285,10 @@
         ],
         "initialLevel": 10,
         "maxLevel": 60,
-        "name": "労働者-闘",
+        "name": "Fighting Worker",
         "nickname": "",
         "note": "",
-        "profile": "採掘坑に閉じ込められた労働者のひとり。\n力が自慢だが実力を発揮するには肉体が疲弊し過ぎている。"
+        "profile": "One of the workers trapped in the mining pit. Proud of his\nstrength, but his body is too worn out to fully utilize it."
     },
     {
         "id": 13,
@@ -331,10 +331,10 @@
         "traits": [],
         "initialLevel": 5,
         "maxLevel": 60,
-        "name": "一般兵",
+        "name": "Common Soldier",
         "nickname": "",
         "note": "",
-        "profile": "王都ニアレイクに所属する訓練兵であるあなたです。"
+        "profile": "You are a trainee soldier belonging to the royal capital\nNear Lake."
     },
     {
         "id": 15,
@@ -354,10 +354,10 @@
         "traits": [],
         "initialLevel": 5,
         "maxLevel": 60,
-        "name": "粗暴な兵士",
+        "name": "Rough Soldier",
         "nickname": "",
         "note": "",
-        "profile": "王都ニアレイクに所属する訓練兵。"
+        "profile": "A trainee soldier belonging to the royal capital Near Lake."
     },
     {
         "id": 16,
@@ -377,10 +377,10 @@
         "traits": [],
         "initialLevel": 5,
         "maxLevel": 60,
-        "name": "柄の悪い傭兵",
+        "name": "Ill-mannered Mercenary",
         "nickname": "",
         "note": "",
-        "profile": "王都ニアレイクに所属する訓練兵。"
+        "profile": "A trainee soldier belonging to the royal capital Near Lake."
     },
     {
         "id": 17,

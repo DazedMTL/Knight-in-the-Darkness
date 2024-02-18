@@ -8682,7 +8682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レカーポーションを三つ手に入れた！"
+                                "Gained 3 Recovery Potions!"
                             ]
                         },
                         {
@@ -8929,7 +8929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自決薬を手に入れた！"
+                                "Obtained the suicide potion!"
                             ]
                         },
                         {

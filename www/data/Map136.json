@@ -18980,14 +18980,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガードマン："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "休憩の時間はまだだぞ。油を売ってないで仕事に戻れ。"
+                                "Guardman: Break time isn't here yet. Stop slacking off and\nget back to work."
                             ]
                         },
                         {
@@ -19064,14 +19057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガードマン："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "休憩の時間はまだだぞ。油を売ってないで仕事に戻れ。"
+                                "Guardman: Break time isn't here yet. Stop slacking off and\nget back to work."
                             ]
                         },
                         {
@@ -20048,14 +20034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バーテン："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "酒を出すなら「カクテルセット」を身に着けるんだな。しっかり頼むぜ。"
+                                "Bartender: If you're going to serve drinks, make sure you're\nwearing the \"Cocktail Set\". I'm counting on you."
                             ]
                         },
                         {
@@ -20852,14 +20831,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "DJ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Hey!you！ How you feel? \\{Hands up!Hands up! \\{Put your hands up!"
+                                "DJ：Hey!you！ How you feel? Hands up!Hands up! Put your hands\nup!"
                             ]
                         },
                         {
@@ -22721,7 +22693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（こいつ……、身ぐるみを剥がされているというのに何て集中力だ……！！）"
+                                "(This guy... Even though he's being stripped bare, what\nincredible concentration...!!)"
                             ]
                         },
                         {
@@ -22865,14 +22837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ディーラー："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それじゃ締め切りますね。まだ賭けてない方はお早めに。"
+                                "Dealer: \"Alright, we're closing the bets. If you haven't\nplaced your bet yet, please hurry.\""
                             ]
                         },
                         {
@@ -22940,14 +22905,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ディーラー："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうすんだよ…これ…"
+                                "Dealer: What am I supposed to do with this..."
                             ]
                         },
                         {
@@ -22964,7 +22922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すまない。"
+                                "I'm sorry."
                             ]
                         },
                         {
@@ -22981,14 +22939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ディーラー："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まともに相手するオレの身になってくれ。"
+                                "Dealer: Put yourself in my shoes, dealing with this fairly."
                             ]
                         },
                         {
@@ -23005,7 +22956,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本当にすまない。"
+                                "Truly sorry."
                             ]
                         },
                         {
@@ -23022,21 +22973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ディーラー："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今の状況で有り金むしったら何されるかわからんぞこれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仕方ない。小さく勝たせて今日は帰してやるかな……"
+                                "Dealer: In this situation, if I take all your money, who\nknows what you'll do. Can't be helped. Maybe I'll let you\nwin a little and send you home for today..."
                             ]
                         },
                         {
@@ -23053,14 +22990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（結果的に丸く収まったっぽいな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　明日、半日は起き上がれなくなるだろうことと引き換えに…）"
+                                "(It seems to have settled down in the end. In exchange for\nnot being able to get up for half a day tomorrow...)"
                             ]
                         },
                         {
@@ -24621,14 +24551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バニー："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どっかに良い男いないかなぁ～♪"
+                                "Bunny: I wonder if there's a good man around here~♪"
                             ]
                         },
                         {
@@ -24784,14 +24707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ＤＪ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Hey!you！ How you feel? \\{Hands up!Hands up! \\{Put your hands up!"
+                                "DJ: Hey! You! How you feel? Hands up! Hands up! Put your\nhands up!"
                             ]
                         },
                         {
@@ -24808,7 +24724,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すまない。邪魔したな。気にせず続けてくれ。"
+                                "My apologies. I didn't mean to interrupt. Please, carry on\nwithout minding me."
                             ]
                         },
                         {
@@ -24834,21 +24750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ＤＪ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とんでもねぇクールさだなアンタ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こういう時は何も考えずアゲ↑アゲ↑でイッちゃった方が客にはウケるもんだぜ？"
+                                "DJ: Man, you're so cool. At times like this, you gotta just\nlet go and get hyped up↑up↑, that's what the crowd loves,\nyou know?"
                             ]
                         },
                         {
@@ -24865,14 +24767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そういうものなのか。こういう場の勝手がどうもわからないものでな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "成る程、では先程からここで鳴り響いているのは部隊を鼓舞する隊歌のようなものだったのだな。"
+                                "Is that how it is? I'm not quite familiar with the way\nthings work here. I see, so the music that's been playing\nhere is like an anthem to inspire the troops."
                             ]
                         },
                         {
@@ -24889,21 +24784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ＤＪ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ＨＡＨＡＨＡ！気に入ったぜバカデカ図体の新入り！オレにも一丁ドリンクを頼むぜ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "フロアがブチ上がる起爆剤のようなもんをヨロシク！！"
+                                "DJ: HAHAHA! I like you, big newbie! Get me a drink too!\nSomething that'll make the floor explode with excitement,\nplease!!"
                             ]
                         },
                         {
@@ -24927,14 +24808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブチアゲとかプチョヘとかわからん単語を用いはするが、職務を全うする様は立派なものだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "手っ取り早く気分が高揚するものを渡してみるか？仕事上、喉に負担がかからないものを選ぶか？"
+                                "I don't understand words like 'buchiage' or 'puchyohe', but\nyour dedication to your job is admirable. Should I quickly\ngive you something that'll lift your spirits? Or should I\nchoose something that won't strain your throat for work?"
                             ]
                         },
                         {
@@ -24975,14 +24849,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ＤＪ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "Ｈｅｙ！Ｈｅｙ！Ｈｅｙ！！　そうこなくっちゃ！！"
+                                "DJ: Hey! Hey! Hey!! That's the spirit!!"
                             ]
                         },
                         {
@@ -24999,21 +24866,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ＤＪ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "オレはFloorのTigerさ！でも辛いのはNoなんだぜ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "気遣いThankyou!気に入ったぜ、アンタとおんなじＬサイズでPleaseさ！！"
+                                "DJ: I'm the Tiger of the Floor! But no spicy stuff for me,\nno way! Thanks for being considerate! I'd like the same L\nsize as you, please!!"
                             ]
                         },
                         {
@@ -25030,7 +24883,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おぉ！そうか！気持ちの良い奴だな！いくらでも飲んでいけ！！"
+                                "Oh! Is that so? You're a nice guy! Drink as much as you\nwant!!"
                             ]
                         },
                         {
@@ -25054,14 +24907,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ＤＪ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ｺﾞｷﾞｭ………、ｺﾞｷﾞｭ………、ｺﾞｷﾞｭﾝ………！"
+                                "DJ: Kokyu... Kokyu... Kokyun...!"
                             ]
                         },
                         {
@@ -25099,14 +24945,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ＤＪ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\{Higher! Higher!　Everybody scream!!!"
+                                "DJ: Higher! Higher! Everybody scream!!!"
                             ]
                         },
                         {
@@ -25123,14 +24962,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ＤＪ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\{今夜も盛り上がってイこうぜぇ～～～～～～～～～いッッ！！！！"
+                                "DJ: Let's keep the party going tonight~~~~~~~~~~~\nYeahhhhh!!!!"
                             ]
                         },
                         {
@@ -25154,7 +24986,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "？？？？？？　ま、まぁ満足してくれたのなら良いか…！！"
+                                "?????? Well, if you're satisfied, then that's good...!!"
                             ]
                         },
                         {
@@ -25209,14 +25041,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ＤＪ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "sorry…　ブチ↑アゲ↑ドリンクは大歓迎なんだが、辛いのはNoだぜ…"
+                                "DJ: Sorry... I welcome a drink that gets me pumped↑up↑, but\nno spicy stuff, alright..."
                             ]
                         },
                         {
@@ -25233,14 +25058,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ＤＪ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "Dragonテメェは、floorのTigerとは竜虎相搏、so fuckだぜ…"
+                                "DJ: Dragon, you and me, we're like a dragon and tiger locked\nin combat, so fuck..."
                             ]
                         },
                         {
@@ -25295,14 +25113,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ＤＪ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "sorry…　今夜は朝までParty Night、仕事中は辛いのはNoだぜ…"
+                                "DJ: Sorry... Tonight's a Party Night till morning, can't do\nspicy while working..."
                             ]
                         },
                         {
@@ -25319,14 +25130,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ＤＪ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "たしかに旨ェが、今宵のオレは泣かないのさ。　1、２、３、 Let’s go !"
+                                "DJ: Sure it's tasty, but tonight I won't shed tears. 1, 2,\n3, Let’s go!"
                             ]
                         },
                         {
@@ -25352,14 +25156,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "油断したな。闇雲に人気メニューを出せばいいというものではないか…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もう少し相手を見て気を遣えるようにならないとな。"
+                                "I let my guard down. It's not just about serving popular\nitems blindly... I need to pay more attention to my guests\nand be more considerate."
                             ]
                         },
                         {
@@ -25396,14 +25193,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ＤＪ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "Ｓｏ！Ｓｏ！　そういうシンプルなのがイイぜ！！"
+                                "DJ: So! So! That's the kind of simple stuff I like!!"
                             ]
                         },
                         {
@@ -25427,14 +25217,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ＤＪ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ｺﾞｷﾞｭ………、ｺﾞｷﾞｭ………、喉ごしッ………！"
+                                "DJ: Kokyu... Kokyu... Smooth going down...!"
                             ]
                         },
                         {
@@ -25451,14 +25234,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ＤＪ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ｺﾞｷﾞｭ………、ｺﾞｷﾞｭ………、喉ごしッ………！！"
+                                "DJ: Kokyu... Kokyu... Smooth going down...!!"
                             ]
                         },
                         {
@@ -25484,14 +25260,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ＤＪ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\{今夜は朝までParty Night！！　\\{floorのtigerここに健在だッ！！"
+                                "DJ: Tonight's a Party Night till morning!! The Tiger of the\nfloor is still going strong!!"
                             ]
                         },
                         {
@@ -25517,14 +25286,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "旨そうに飲みおって……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "おっと、いかんいかん、本来の目的を忘れて酒に手を伸ばすなどあってはならんぞ。"
+                                "He seems to be enjoying his drink... Oh no, no, I mustn't\nforget my original purpose and reach for alcohol myself."
                             ]
                         },
                         {
@@ -25620,14 +25382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ＤＪ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "How you feel? \\{Hands up!Hands up! \\{Put your hands up!"
+                                "DJ: How you feel? Hands up! Hands up! Put your hands up!"
                             ]
                         },
                         {
@@ -25644,14 +25399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ＤＪ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{今夜もブチ↑アゲ↑てイクぜーーッッ！！！FOOooooooooo！！！！"
+                                "DJ: We're gonna turn it up tonight too--YEAH!!!\nFOOooooooooo!!!!"
                             ]
                         },
                         {
@@ -26176,7 +25924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おい、そこの。"
+                                "Hey, you there."
                             ]
                         },
                         {
@@ -26238,14 +25986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バニー："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なぁに？"
+                                "Bunny: What is it?"
                             ]
                         },
                         {
@@ -26287,7 +26028,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あそこにいる客だが、えらく羽振りが良いではないか。常連か？"
+                                "That customer over there seems to be quite the big spender.\nA regular, perhaps?"
                             ]
                         },
                         {
@@ -26311,14 +26052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バニー："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "違うわよ。それが最近になってうちのお店に来るようになったんだけどさ～。"
+                                "Bunny: No, not at all. They only started coming to our\nestablishment recently."
                             ]
                         },
                         {
@@ -26335,21 +26069,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バニー："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見ての通りたっぷりお酒を頼んでくれるのよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その後も毎回ここのホテル部屋の一番良い部屋に泊まって、また遊ぶし。"
+                                "Bunny: As you can see, they order plenty of drinks. And\nafter that, they always stay in the best room of our hotel\nsection and have fun."
                             ]
                         },
                         {
@@ -26373,7 +26093,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほう、それは景気が良い話だな。"
+                                "Oh, that sounds like good business."
                             ]
                         },
                         {
@@ -26397,21 +26117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バニー："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だからあのお客さんが来店しようもんなら私が私がってこぞってお相手するのよ皆。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は他のお客さんが帰っちゃうから嫌なのよね。遊び方も覚えたばっかりみたいで下品だし。"
+                                "Bunny: That's why whenever that customer comes in,\neveryone's all 'I'll do it, I'll do it,' eager to serve\nthem. I don't like it because other customers end up\nleaving. And their way of playing seems crude, like they've\nonly just learned how."
                             ]
                         },
                         {
@@ -26428,21 +26134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バニー："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "詳しいことはわからないけど、最近取り扱ってる物の商いが上手くいっているとかで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ずっと左団扇らしいのよ。うちの店も大助かりしてるってわけだけど、なんだかね～。"
+                                "Bunny: I don't know the details, but apparently, the\nbusiness with the goods they're dealing with has been going\nwell recently, so they've been living the easy life. It's\nbeen a big help to our shop too, but you know..."
                             ]
                         },
                         {
@@ -26491,14 +26183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "教えてくれてありがとう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "引き留めてしまいすまなかったな、仕事に戻ってくれ。"
+                                "Thank you for telling me. Sorry to have kept you, go back to\nwork."
                             ]
                         },
                         {
@@ -26529,14 +26214,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バニー："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんたも気に入ってもらいたいなら頑張んなさいよ～。じゃね♪"
+                                "Bunny: If you want them to like you too, you better work\nhard. See ya♪"
                             ]
                         },
                         {
@@ -26896,14 +26574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（王都の情勢と繋がりがある者が客として来るのも少なくないと聞く。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そしてあの者の事情はと言えば、扱っている物の実入りが良い、それもここ最近になってだ。）"
+                                "(I've heard that not a few people connected to the capital's\nsituation come here as customers. And as for that person's\ncircumstances, it seems the goods they're dealing with have\nbeen profitable, especially recently.)"
                             ]
                         },
                         {
@@ -26920,14 +26591,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（戦の準備を進める今の王都の情勢を考えると、取り扱い品とやらの当たりもついてくる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　先程戦ったゴーレムも新型兵器と呼ばれていた。商談の場所がこの店であるとも。）"
+                                "(Considering the current state of the capital preparing for\nwar, it makes sense that their dealings would be successful.\nThe golem we fought earlier was also referred to as a new\ntype of weapon. And this place is said to be where the deals\nhappen.)"
                             ]
                         },
                         {
@@ -26944,14 +26608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（この件に、あの者が関わり合っているのはほぼ間違いない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　だが今は……、周囲に人がいる場では大した情報も探れぬだろう。）"
+                                "(There's almost no doubt that person is involved in this\nmatter. But now... with people around, it's unlikely I'll be\nable to find out anything significant.)"
                             ]
                         },
                         {
@@ -26968,7 +26625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（たしか飲んだ後は、ホテル部屋に向かうのが常と言っていたな。）"
+                                "(If I remember correctly, after drinking, they usually head\nto their hotel room.)"
                             ]
                         },
                         {
@@ -27006,7 +26663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（狙うならばそこだろう……──）"
+                                "(If I'm going to strike, that would be the place...──)"
                             ]
                         },
                         {

@@ -13248,14 +13248,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "う～ん、君じゃ無理だな。"
+                                "Worker: Hmm, you're not cut out for this."
                             ]
                         },
                         {
@@ -13286,7 +13279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんだ貴様、否定から入って勝手に納得して。失礼な奴だな。"
+                                "What are you saying, you rude person, making assumptions on\nyour own."
                             ]
                         },
                         {
@@ -13317,14 +13310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ～、こりゃ悪ぃ悪ぃ。"
+                                "Worker: Ah, my bad, my bad."
                             ]
                         },
                         {
@@ -13341,21 +13327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この先の坑道がなぁ、地盤がゆるいわりに妙に硬い岩盤で塞がっててね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰でも作業できるってわけじゃないから、ガタイが良いやつ以外通さないようにしてんだよ。"
+                                "Worker: You see, the tunnel ahead has this strangely hard\nbedrock despite the loose ground. It's not a job just anyone\ncan do, so we're only letting through guys with a good\nbuild."
                             ]
                         },
                         {
@@ -13386,7 +13358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なるほど、そういう事情だったか。"
+                                "I see, that's the situation."
                             ]
                         },
                         {
@@ -13424,7 +13396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "困っているならばそういえばいいのだ。私に任せておけ。腕力には多少の自信があるからな"
+                                "If you're in trouble, just say so. Leave it to me. I'm\nsomewhat confident in my strength."
                             ]
                         },
                         {
@@ -13455,14 +13427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "う～ん…、そりゃ部分的には立派な身体してるのはわかるんだけどねぇ…"
+                                "Worker: Well... I can see you've got a fine body in parts,\nbut..."
                             ]
                         },
                         {
@@ -13479,21 +13444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "女子供じゃあ、とてもじゃないがこの先には進ませらんねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人手が足りない場所ならいくらでもある、怪我したくなきゃ他をあたってくれ。"
+                                "Worker: No way I can let a girl or a kid through. There are\nplenty of other places short on hands. If you don't want to\nget hurt, try somewhere else."
                             ]
                         },
                         {
@@ -13578,7 +13529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\}フゥ～～～～～～………"
+                                "Fuuuuuuu..."
                             ]
                         },
                         {
@@ -13616,7 +13567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{ふんッ！！"
+                                "Hmph!!"
                             ]
                         },
                         {
@@ -13903,7 +13854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうだ？　これでもまだ腕っぷしに不服があるというなら、他を当たってみるが？"
+                                "How about that? If you still have doubts about my strength,\nshall I try elsewhere?"
                             ]
                         },
                         {
@@ -13980,21 +13931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "バカ野郎が！力試しなら他にやり方ってのがあるだろ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "坑道ぶっ壊してオレたちみんな生き埋めにする気かッ！！"
+                                "Worker: You idiot! If you want to test your strength, there\nare other ways! Are you trying to break the tunnel and bury\nus all alive?!"
                             ]
                         },
                         {
@@ -14025,7 +13962,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっ！？　あっ、ああ～～………"
+                                "Ah!? Ah, ahhhh..."
                             ]
                         },
                         {
@@ -14144,14 +14081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私としたことが、力量を軽んじられたと思いつい……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わ、悪いことをしたな…、頭にきて冷静さを欠いてしまっていたようだ……"
+                                "I can't believe I did that... I let being underestimated get\nto my head... I lost my cool..."
                             ]
                         },
                         {
@@ -14175,7 +14105,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうか、これでも加減はしたのだが……"
+                                "So it seems, even though I was holding back..."
                             ]
                         },
                         {
@@ -14206,14 +14136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ウソだろあんた……、\\!オーク族かなんかかい？"
+                                "Worker: You're kidding me... Are you from the Orc tribe or\nsomething?"
                             ]
                         },
                         {
@@ -14244,7 +14167,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………………"
+                                "..."
                             ]
                         },
                         {
@@ -14268,7 +14191,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "目の前にもうひとつ砕き甲斐のある岩石が転がってるようだな…"
+                                "It looks like there's another rock worth smashing in front\nof me..."
                             ]
                         },
                         {
@@ -14467,21 +14390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "と、とにかく！お前さんの腕っぷしはわかったよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "若くてキレイで気品もあって、あ、あと若くてキレイなのに大したもんだ…ッッ！！！"
+                                "Worker: Anyway! I get it now, your strength is incredible!\nYoung and beautiful with grace, and despite being young and\nbeautiful, you're quite something...!!!"
                             ]
                         },
                         {
@@ -14512,7 +14421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうだろう、そうだろう。うんうん。"
+                                "That's right, that's right. Mhm mhm."
                             ]
                         },
                         {
@@ -14543,21 +14452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "むしろこっちからお願いするよ！オレたちも手を焼いてんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大変な作業になるかもしれんが、ここはひとつあんたの腕を貸しちゃくれねぇか！"
+                                "Worker: In fact, I'm the one asking you! We're really\nstruggling here! It might be tough work, but could you lend\nus your strength?"
                             ]
                         },
                         {
@@ -14588,7 +14483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "任せておけ、これも騎士のつとめだ。"
+                                "Leave it to me, this is also a knight's duty."
                             ]
                         },
                         {
@@ -14619,21 +14514,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "騎士…？どゆことだ？　まぁいいや、詳しいことは中にいる作業員が教えてくれるだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とっとと中入って岩盤ぶっ壊してやってくれ！頼んだぜ！"
+                                "Worker: Knight...? What do you mean? Well, never mind. The\nworkers inside will explain the details. Hurry up and get\ninside and break that bedrock! I'm counting on you!"
                             ]
                         },
                         {
@@ -15078,21 +14959,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここのモンスターは種類としちゃ雑魚だけど妙に図体がデカい個体が多くてな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まぁ性質は臆病なままだから手出ししなけりゃ危なくはねぇんだが出会すとビビるぜ。"
+                                "Worker: The monsters around here are small fry by nature,\nbut there's a strangely large number of big ones. Well,\nthey're still timid, so they ain't dangerous unless you\nprovoke them, but it's still startling when you run into\n'em."
                             ]
                         },
                         {
@@ -15169,21 +15036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "傭兵稼業に身を染めて棒切れもって人の頭ぶん殴ることばっかしてたオレが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今じゃ壁に向かって棒振るってんだからわからねぇもんだな。"
+                                "Worker: I used to be soaked in the life of a mercenary, just\nswinging a stick and bashing people's heads in, and now here\nI am, swinging a stick at a wall. Life's strange, ain't it?"
                             ]
                         },
                         {
@@ -15260,14 +15113,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この前、ガス穴を当てちゃった人の頭と腕がすっ飛ぶのを見たよ。"
+                                "Worker: I saw someone's head and arms get blown off when\nthey hit a gas pocket the other day."
                             ]
                         },
                         {
@@ -15284,21 +15130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "普段、薄暗くて隣で働く奴の顔も気にしたことないのに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああいう瞬間だけはハッキリ見えちまうもんってのも皮肉なもんだね。"
+                                "Worker: It's ironic, isn't it? Normally, it's so dim that I\ndon't even care about the faces of the guys working next to\nme, but in moments like that, everything is seen so clearly."
                             ]
                         },
                         {
@@ -15382,7 +15214,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すまない、資材置き場は何処かたずねたいのだが。"
+                                "Excuse me, I'd like to ask where the materials depot is."
                             ]
                         },
                         {
@@ -15413,14 +15245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ？なんだ、お前はここに来たばかりか？"
+                                "Worker: Huh? What's up, are you new here?"
                             ]
                         },
                         {
@@ -15451,7 +15276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁそうなんだ、まだ勝手もよく知らなくてな。"
+                                "Yes, that's right. I'm still not familiar with how things\nwork around here."
                             ]
                         },
                         {
@@ -15468,14 +15293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（「来たばかり」か。そういえば正確には私にもわからないな…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私はここに連れてこられてどのくらいで意識が回復したのだろうな…）"
+                                "(Just arrived, huh. Come to think of it, I don't know\nexactly either... How long was it before I regained\nconsciousness after being brought here...)"
                             ]
                         },
                         {
@@ -15506,14 +15324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "へぇそうかい。へぇ…"
+                                "Worker: Heh, is that so. Heh..."
                             ]
                         },
                         {
@@ -15544,7 +15355,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お、おい。あまりジロジロと見るんじゃない。あまりホメられた格好ではないのだ…！"
+                                "Hey, hey. Don't stare at me like that. I'm not exactly\ndressed to impress...!"
                             ]
                         },
                         {
@@ -15575,14 +15386,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "───…………、\\.\\.ここの秘密、知りたくねぇか？"
+                                "Worker: ───... You interested in the secrets of this place?"
                             ]
                         },
                         {
@@ -15615,7 +15419,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "秘密だって？唐突にどうしたというんだ？"
+                                "Secrets? What brought this on all of a sudden?"
                             ]
                         },
                         {
@@ -15646,14 +15450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おうよ。ここがどんな場所で何を掘らされてんのか、とかね？　知りたくねぇか？"
+                                "Worker: Yeah. Like what kind of place this is and what we're\nbeing made to dig for, you know? Don't you wanna know?"
                             ]
                         },
                         {
@@ -15684,14 +15481,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ふむ。何の気なしに話しかけてみたら思いもよらぬ返事がきたな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いくら王都から離れているとはいえ確かに私もこのような場所があるとは知らなかった。）"
+                                "(Hmm. I just tried striking up a conversation without much\nthought and got an unexpected response. Even though we're\nfar from the royal capital, I certainly didn't know about a\nplace like this.)"
                             ]
                         },
                         {
@@ -15708,14 +15498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（この手の話を持ちかける手合いの思惑はだいたい見当がつくが…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…そうだな、これからの事を考えるにも情報が少しでもあることにこしたことはないだろう。）"
+                                "(I can guess what this guy's angle is... But it's true,\nhaving even a little information could be beneficial\nconsidering what lies ahead.)"
                             ]
                         },
                         {
@@ -15753,7 +15536,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうかありがたいな、私も連れ込まれてまだ間もない。　是非聞かせてくれると助かる。"
+                                "That would be appreciated, indeed. I've been brought here\nnot too long ago myself. I'd be grateful if you could share\nwhat you know."
                             ]
                         },
                         {
@@ -15784,21 +15567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おいおい、タダで教えてもらおうって言うのかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "冗談言ってもらちゃあ困るよ。"
+                                "Worker: Hey now, you think I'm gonna tell you for free?\nDon't joke with me, it's troubling."
                             ]
                         },
                         {
@@ -15815,14 +15584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "別にお前の身体を見て品定めしてたわけじゃねぇが……、"
+                                "Worker: Not that I was sizing you up by looking at your body\nor anything..."
                             ]
                         },
                         {
@@ -15839,21 +15601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "へっへっへ、こっちも長い穴ぐら生活で「たまってる」もんもあんだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "教えてもらいたきゃ、言いたいことくらいわかるよな…？"
+                                "Worker: Heh heh heh, living in these tunnels for so long has\ngot me 'pent-up', if you know what I mean. If you want me to\ntell you, you get what I'm asking for, right...?"
                             ]
                         },
                         {
@@ -15884,7 +15632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くっ…、やはりか…！貴様…！"
+                                "Tch... As I thought...! You...!"
                             ]
                         },
                         {
@@ -15892,8 +15640,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "私にどうしろというのだ。是非教えてもらえると助かる。",
-                                    "げ、下衆め…！いいだろう、私の身体を好きにしろッ…！"
+                                    "What do you want me to do? I'd appreciate it if you could tell me.",
+                                    "You scoundrel...! Fine, do as you please with my body...!"
                                 ],
                                 -1,
                                 0,
@@ -15978,7 +15726,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんて、雰囲気に流されるわけがないだろアホがッ！！クズめっ！性根をたたき直してやる！！"
+                                "What a fool! Scum! I'll straighten out your twisted nature!!"
                             ]
                         },
                         {
@@ -16011,14 +15759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "痛ちちち……　いきなり殴るこたぁねぇだろ殴るこたぁ…、冗談だよ冗談。"
+                                "Worker: Ouch ouch ouch... There's no need to hit me all of a\nsudden... It was just a joke, a joke."
                             ]
                         },
                         {
@@ -16049,7 +15790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんな地の底で互いの境遇に理解がありながら、しかし身を寄せ合い手を取ることもせず！"
+                                "In this pit of the earth, while there's understanding of\neach other's circumstances, yet no one comes together or\nlends a hand!"
                             ]
                         },
                         {
@@ -16066,7 +15807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あまつさえ弱い立場の者を見つけたならば今度は自分が足元を見て搾取する側に回ろうとする！"
+                                "And if someone finds another in a weaker position, then they\ntry to exploit them and take advantage for themselves!"
                             ]
                         },
                         {
@@ -16083,7 +15824,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "殴られた箇所が痛む間、自分の行いと考えを少しは思い直すのが貴様には相応しい！"
+                                "While the place you were hit still hurts, maybe you'll\nreflect on your actions and thoughts a bit! That's what you\ndeserve!"
                             ]
                         },
                         {
@@ -16114,14 +15855,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぐぅ…、いかにも正しいことを言いやがって…！"
+                                "Worker: Grr... Spouting all that righteous stuff...!"
                             ]
                         },
                         {
@@ -16152,14 +15886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何が「こっちもたまってるもんがある」だ！下衆め！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "女を肉欲の対象としてしか見ていないのか、まったく！少しは言い方を考えろ！"
+                                "What do you mean 'pent-up'? Filth! Do you see women as\nnothing more than objects of lust, seriously! Think before\nyou speak!"
                             ]
                         },
                         {
@@ -16183,21 +15910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そういうのは、その…、私は詳しくないが、\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "も、もうちょっと仲良くなってから、その、段階とか？を踏んでだな、\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "で、いい感じになってから、た、頼んでみたら、いいんじゃないか…？"
+                                "That sort of thing should be, well... I'm not very\nknowledgeable about it, but maybe after getting to know each\nother better, and then going through the proper steps? And\nthen when things feel right, maybe then it would be okay to\nask...?"
                             ]
                         },
                         {
@@ -16228,14 +15941,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（え？何この急にふと見せる二面性…？これは地底に咲いた乙女心…？？）"
+                                "Worker: (Eh? What's with this sudden show of duality...? Is\nthis the blooming of a maiden's heart deep underground...??)"
                             ]
                         },
                         {
@@ -16266,14 +15972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "な、何なんだ貴様ッ！私がそんなに変な事でも言ったか！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "けしかけてきたと思ったら今度は黙り込んだりして…！"
+                                "What are you on about! Did I say something so strange!? You\nprovoke me and then go silent...!"
                             ]
                         },
                         {
@@ -16306,14 +16005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "───………、\\!この気持ちが、恋かい…？"
+                                "Worker: ───... Could this feeling be... love?"
                             ]
                         },
                         {
@@ -16386,7 +16078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "付き合いきれん。私は行くぞ。"
+                                "I can't deal with this. I'm leaving."
                             ]
                         },
                         {
@@ -16417,14 +16109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すまんすまん！冗談だよ冗談！あれだ、ここの秘密だったか？"
+                                "Worker: Sorry sorry! It was just a joke! Right, about the\nsecrets of this place?"
                             ]
                         },
                         {
@@ -16455,7 +16140,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その前に謝罪と反省が先だぞ。"
+                                "First comes an apology and some reflection."
                             ]
                         },
                         {
@@ -16486,21 +16171,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "悪かった！悪かったよ！新人っぽかったし少しからかってみたくなっただけだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そっちの返答がどうであれ困った顔のひとつでも見れりゃそこでネタバラシするつもりだったさ！"
+                                "Worker: My bad! My bad! You looked like a newbie so I just\nwanted to tease you a bit! Whatever your response was going\nto be, I was planning to reveal it was all just a joke once\nI saw your troubled face!"
                             ]
                         },
                         {
@@ -16569,14 +16240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『まずふっかける』のはここの作法かもしれんが、品定めの目はもう少し磨いておくんだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "では話してもらおうか、お前が知っているここの情報とやらを。"
+                                "\"Starting off with a high price\" might be the way things are\ndone here, but you should polish your eye for appraisal a\nbit more. Now let's hear it, the information about this\nplace that you claim to know."
                             ]
                         },
                         {
@@ -16607,14 +16271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とはいっても元から大した話じゃないんだ。"
+                                "Worker: Though I gotta say, it's not really anything\nsignificant."
                             ]
                         },
                         {
@@ -16638,21 +16295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オレは今でこそ訳あってこんな場所で穴掘りなんてしちゃいるが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここに来る前は魔術の研究に携わる仕事をしていたんだ。それなりにな。"
+                                "Worker: Sure, now I might be stuck digging holes in a place\nlike this for reasons, but before coming here I was involved\nin magical research. Quite involved indeed."
                             ]
                         },
                         {
@@ -16683,7 +16326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほう、それはなかなか。続けてくれ？"
+                                "Oh? That's quite something. Please continue?"
                             ]
                         },
                         {
@@ -16714,21 +16357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だからわかるんだがな、この採掘所は珍しいことに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこかしこに高濃度の魔力の流れが、それこそ脈のように走っているようなんだ。"
+                                "Worker: That's why I know, see. This mine is unusual because\nthere are high concentrations of magical power flowing\nthrough it everywhere, like veins."
                             ]
                         },
                         {
@@ -16745,21 +16374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここが山の中なのか地下なのかわからないが、そこら中に走っている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "土地自体の持つ特徴なんだろう。不思議なもんだ。"
+                                "Worker: Whether we're inside a mountain or underground, I\ncan't say, but it runs all over the place. It must be a\ncharacteristic of the land itself. It's quite mysterious."
                             ]
                         },
                         {
@@ -16783,21 +16398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そしてここで働いてしばらくしてわかったんだが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その魔力の脈の近い所を掘り進んでいくと、どうやら目当てとされる石が出てくる。"
+                                "Worker: And after working here for a while, I've realized\nthat when we dig near these veins of magical power, we seem\nto find the stones they're after."
                             ]
                         },
                         {
@@ -16814,21 +16415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "金でも宝石でもない、オレたちはそれを掘り出す仕事をさせられてるってわけさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "知識のない素人の目にはちょっとキレイな珍しい石くらいにしか見えてないだろうけどな。"
+                                "Worker: It's not gold or gems or anything like that; we're\nmade to dig up these stones. To the untrained eye of an\namateur, they probably just look like pretty unusual stones."
                             ]
                         },
                         {
@@ -16859,14 +16446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鉱石というのは石の鉱脈を探り掘るものだと思っていたが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここでは魔力の脈を読んで石を掘っているというわけか。聞いたことがないな。"
+                                "I thought mining was about following veins of stone to\nextract ore, but here we're reading veins of magical power\nto dig up stones. That's unheard of."
                             ]
                         },
                         {
@@ -16883,14 +16463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "採れる石、魔力晶石とでも呼べばいいか？それはどういう性質のものなのだ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "我々が掘らされているものは一体どういったものなんだ？"
+                                "Should we call the stones that are mined \"magical crystals\"?\nWhat kind of properties do they have? What exactly are we\nbeing made to dig up?"
                             ]
                         },
                         {
@@ -16921,21 +16494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さぁね？ちゃんとした施設で調べてみりゃわかるのかもしれないがな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "結局詳しいことまではわからんよ。"
+                                "Worker: Who knows? Maybe it would be clear if examined in a\nproper facility. In the end, I don't know the details."
                             ]
                         },
                         {
@@ -16952,21 +16511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何に使われるのかも、誰が買っているのかもな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "後者に関してはここを生きて出たきゃ、知らん方がいいまであるさ。"
+                                "Worker: Nor do I know what they're used for or who's buying\nthem. As for the latter, it's better not to know if you want\nto get out of here alive."
                             ]
                         },
                         {
@@ -16997,7 +16542,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ふ～む、なるほど…　少し気にとめておこう）"
+                                "(Hmm, I see... I should keep this in mind.)"
                             ]
                         },
                         {
@@ -17021,7 +16566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "興味深い話だった。感謝するぞ。"
+                                "That was an interesting story. I appreciate it."
                             ]
                         },
                         {
@@ -17052,21 +16597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いいっていいって。ここじゃこういうタイプの、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "腹の足しにならない話に付き合ってくれる奴はあまりいないんだ。"
+                                "Worker: Don't mention it, don't mention it. Around here,\nthere aren't many who'd indulge in this type of conversation\nthat doesn't fill one's belly."
                             ]
                         },
                         {
@@ -17083,14 +16614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人と話すのはやっぱり楽しいもんだな。少しの間だったが鬱屈とした作業の気が紛れたよ。"
+                                "Worker: Talking with people is indeed enjoyable. It was only\nfor a short while, but it distracted me from the depressing\nwork."
                             ]
                         },
                         {
@@ -17121,7 +16645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうか、それは良かったよ。"
+                                "Is that so? Well, that's good to hear."
                             ]
                         },
                         {
@@ -17152,14 +16676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おう！姉ちゃんもほどほどにがんばれよ！"
+                                "Worker: Yeah! You too, sis, hang in there!"
                             ]
                         },
                         {
@@ -17266,14 +16783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おう、姉ちゃん。どうした？サボってると看守の野郎共に怒られるぜ？"
+                                "Worker: Hey, sis. What's up? If you slack off, the guards\nwill give us hell, you know?"
                             ]
                         },
                         {
@@ -17281,8 +16791,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "採掘所の特徴を再度聞きたい。",
-                                    "ああ、お前も仕事がんばれよ。"
+                                    "I want to hear about the features of the mine again.",
+                                    "Yeah, you work hard too."
                                 ],
                                 1,
                                 0,
@@ -17312,21 +16822,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今でこそこんなになってはいるがな、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "わけあってここに来る前は魔術の研究に携わる仕事をしていたんだ。"
+                                "Worker: I may be like this now, but before I ended up here,\nI was involved in magical research for work."
                             ]
                         },
                         {
@@ -17343,21 +16839,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だからわかるんだがな、この採掘所は珍しいことに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そこかしこに高濃度の魔力の流れが脈のように走っているようなんだ。"
+                                "Worker: That's why I understand, this mine is unusual\nbecause there are streams of high-density magical power\nrunning through it like veins."
                             ]
                         },
                         {
@@ -17374,21 +16856,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ここが山の中なのか地下なのかわからないが、そこら中に走っている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "土地自体の持つ特徴なんだろうが不思議なもんだ。"
+                                "Worker: I don't know if we're inside a mountain or\nunderground, but it's running all over the place. It must be\na characteristic of the land itself, but it's strange."
                             ]
                         },
                         {
@@ -17405,28 +16873,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そしてここで働いてしばらくしてわかったんだが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "その魔力の脈の近い所を掘り進んでいくと、どうやら目当ての石が出てくる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "オレたちはそれを掘り出すって仕事をさせられてるのさ。"
+                                "Worker: And after working here for a while, I've realized\nthat if you dig near these veins of magical power, you seem\nto find the stones we're after. That's the job we've been\nforced to do, digging them out."
                             ]
                         },
                         {
@@ -17443,21 +16890,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "オレにわかるのはそんなくらいさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "結局それが何に使われるものなのか誰が買っていくものなのか、そこまではわからねぇ。"
+                                "Worker: That's about all I know. In the end, I have no idea\nwhat they're used for or who's buying them."
                             ]
                         },
                         {
@@ -17487,14 +16920,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "おうよ。"
+                                "Worker: Yeah, sure."
                             ]
                         },
                         {
@@ -17581,14 +17007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ノルマがきつくて…"
+                                "Worker: The quotas are so tough..."
                             ]
                         },
                         {
@@ -17665,14 +17084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "活力が余っているようで良いねぇ。入ってきたばっかの奴は…"
+                                "Worker: \"You seem to have plenty of energy left, that's\ngood. The one who just came in...\""
                             ]
                         },
                         {
@@ -17749,14 +17161,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ずっと誰かに見られてる気がするの…、常に働きぶりを測られてるって嫌よね…"
+                                "Worker: \"It feels like someone is always watching... It's so\nunpleasant to feel like your work is constantly being\njudged...\""
                             ]
                         },
                         {
@@ -17824,14 +17229,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっきの子ずっとこっち見てたけど、たまにはお話ししてあげた方がいいのかな？"
+                                "Worker: That girl has been looking this way for a while now,\nmaybe I should talk to her sometimes?"
                             ]
                         },
                         {
@@ -17908,14 +17306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うまく作業が進んだら、ちょっとした報酬も出るからな！頼んだよ！"
+                                "Worker: If the work goes well, there'll be a little reward\nfor you! I'm counting on you!"
                             ]
                         },
                         {
@@ -17983,14 +17374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ありがとよ姉ちゃん！何か困ったことがあったら言えよな！　今度はオレが力を貸すぜ！"
+                                "Worker: Thanks a lot, sis! If you ever run into trouble,\njust say the word! Next time, I'll be the one to lend you a\nhand!"
                             ]
                         },
                         {
@@ -18067,7 +17451,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（他人の道具を勝手に持っていくのはよくないな…）"
+                                "(It's not good to take someone else's belongings without\npermission...)"
                             ]
                         },
                         {
@@ -18144,7 +17528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（他人の道具を勝手に持っていくのはよくないな…）"
+                                "(It's not good to take someone else's belongings without\npermission...)"
                             ]
                         },
                         {
@@ -18221,7 +17605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（他人の道具を勝手に持っていくのはよくないな…）"
+                                "(It's not good to take someone else's belongings without\npermission...)"
                             ]
                         },
                         {
@@ -18298,7 +17682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（他人の道具を勝手に持っていくのはよくないな…）"
+                                "(It's not good to take someone else's belongings without\npermission...)"
                             ]
                         },
                         {
@@ -18375,7 +17759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（他人の道具を勝手に持っていくのはよくないな…）"
+                                "(It's not good to take someone else's belongings without\npermission...)"
                             ]
                         },
                         {
@@ -18452,7 +17836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（他人の道具を勝手に持っていくのはよくないな…）"
+                                "(It's not good to take someone else's belongings without\npermission...)"
                             ]
                         },
                         {
@@ -18814,7 +18198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おっ、おい…！何処へ行くのだ…！"
+                                "Hey, hey...! Where are you going...!"
                             ]
                         },
                         {
@@ -18854,7 +18238,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "う～ん、怖がらせてしまったか…少しショックだな…"
+                                "Hmm, did I scare her...? I'm a bit shocked..."
                             ]
                         },
                         {

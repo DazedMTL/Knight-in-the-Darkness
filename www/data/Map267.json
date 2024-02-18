@@ -25891,14 +25891,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔道士風の男："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よしそこでいい。物資の配達ご苦労だったな。"
+                                "Wizard-like Man: Alright, that's good. You've had a tough\ntime delivering the supplies."
                             ]
                         },
                         {
@@ -25915,21 +25908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔道士風の男："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰にも着けられてないだろうな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "積み荷のチェックをするからその場を動くなよ。"
+                                "Wizard-like Man: No one's followed you, right? Don't move\nfrom that spot; I'm going to check the cargo."
                             ]
                         },
                         {
@@ -25962,21 +25941,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔道士風の男："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうした押し黙って。腹でも痛いのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "普段のお前ならここでヘコヘコと機嫌を取ってお得意の金銭交渉を……"
+                                "Wizard-like Man: What's wrong, why the silence? Got a\nstomachache? Normally, you'd be groveling and trying to\nhaggle over the price..."
                             ]
                         },
                         {
@@ -26009,14 +25974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔道士風の男："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "違うッ！お前はいつもの商人ではない!? 何者だッ！！"
+                                "Wizard-like Man: No, this is wrong! You're not the usual\nmerchant!? Who are you!!"
                             ]
                         },
                         {
@@ -26047,14 +26005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "夜の闇に紛れこんな者共が跋扈しているとは。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私がいない間に領内はずいぶんと物騒になっているようだな。"
+                                "In the cover of night, such scoundrels roam freely. It seems\nthe region has become quite dangerous in my absence."
                             ]
                         },
                         {
@@ -26085,14 +26036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔道士風の男："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "チッ！くそっ、あの無能しくじりやがったな…！ずらかるぞッ！"
+                                "Wizard-like Man: Tch! Damn it, that incompetent fool screwed\nup...! Time to make a run for it!"
                             ]
                         },
                         {
@@ -26178,7 +26122,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "──……逃がすか、下衆どもッ。"
+                                "──...Think you can escape, you lowlifes."
                             ]
                         },
                         {
@@ -26621,7 +26565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……………………"
+                                "..."
                             ]
                         },
                         {
@@ -26638,7 +26582,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おい…、もう出てきていいぞ。"
+                                "Hey... you can come out now."
                             ]
                         },
                         {
@@ -26742,14 +26686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "売人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ひぃぃ！！！"
+                                "Peddler: Eeeeek!!!"
                             ]
                         },
                         {
@@ -26889,7 +26826,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "貴様も今すぐにでも斬り捨ててやりたいが、まだ働いてもらう。"
+                                "I'd like to cut you down right here and now, but I still\nhave use for you."
                             ]
                         },
                         {
@@ -26906,14 +26843,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その荷馬車にこいつらの骸を積み込み、遠くまで運び処分しておけ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少しでも騒ぎを起こせばその時は命は無いものと思え。"
+                                "Load the corpses of these scoundrels onto that cart and\ndispose of them far away. Make even a little noise and\nconsider your life forfeit."
                             ]
                         },
                         {
@@ -26930,14 +26860,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この場で命を取らぬこと感謝しろ。そして消えろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "騎士レイシアの目の届かぬ何処か遠くの地へな。"
+                                "Be thankful I'm sparing your life here. Now disappear. To\nsome far-off land where Knight Reisha's gaze does not reach."
                             ]
                         },
                         {
@@ -26968,14 +26891,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "売人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "は、は、は、はひぃ…！！！"
+                                "Peddler: Ye-ye-yes... Eeeeek...!!!"
                             ]
                         },
                         {
@@ -27086,7 +27002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "使われなくなった砦跡か…、悪党どもが根城にするには丁度いいが…"
+                                "An abandoned fort, huh... It's just the right place for\nvillains to set up base..."
                             ]
                         },
                         {
@@ -27103,14 +27019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たしかに今王都内は混乱している。だが領内の警備は行われているはずだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "兵は何をやっている？　王都より程近いこのような場所で、何故悪事が見逃されている…？"
+                                "Indeed, the royal capital is in chaos now. But security\nwithin the territory should be enforced. What are the\nsoldiers doing? In a place so close to the capital, why is\nsuch villainy overlooked...?"
                             ]
                         },
                         {
@@ -27127,14 +27036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私が居ない間に何故こうも変わった…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "嫌な予感がする…　災禍の前触れでなければいいのだが……"
+                                "Why has everything changed so much while I was away...? I\nhave a bad feeling about this... I hope it's not a harbinger\nof disaster..."
                             ]
                         },
                         {

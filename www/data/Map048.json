@@ -15679,7 +15679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（今見つかるのはマズい。戻らない方がいいだろう…）"
+                                "(Getting caught now would be bad. I better not go back...)"
                             ]
                         },
                         {
@@ -16033,7 +16033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（反応がない。疲れ果てて眠っているようだ）"
+                                "There's no response. It seems she's fast asleep from\nexhaustion."
                             ]
                         },
                         {
@@ -16239,7 +16239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（反応がない。疲れ果てて眠っているようだ）"
+                                "There's no response. It seems she's fast asleep from\nexhaustion."
                             ]
                         },
                         {
@@ -16325,7 +16325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（反応がない。疲れ果てて眠っているようだ）"
+                                "There's no response. It seems she's fast asleep from\nexhaustion."
                             ]
                         },
                         {
@@ -16402,14 +16402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（出たい者、出たくない者、それを考える気力すら失っている者。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ここを無事に出ることができたら保護に来ると誓おう。それまで耐えてくれ…）"
+                                "(Those who want to leave, those who don't, and those who\nhave even lost the energy to think about it... I swear I'll\ncome to rescue you if I can get out of here safely. Please\nendure until then...)"
                             ]
                         },
                         {
@@ -16517,14 +16510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奴隷労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "目障りだ…、今すぐ消えな…"
+                                "Slave Laborer: You're in the way... disappear now..."
                             ]
                         },
                         {
@@ -16610,21 +16596,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奴隷労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前らが脱出できても捕まっても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "明日になったら俺等は罰を受けるんだ…　はやく失せてくれ…"
+                                "Slave Worker: Whether you guys escape or get caught, by\ntomorrow we'll be the ones punished... Please, just\ndisappear quickly..."
                             ]
                         },
                         {
@@ -16710,14 +16682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奴隷労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うるさいなぁ…、放っておいてよ……"
+                                "Slave Worker: \"So noisy... Just leave me alone...\""
                             ]
                         },
                         {
@@ -16803,21 +16768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奴隷労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなこと、成功するハズがねぇ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オレは何も知らねぇ…　はやく消えてくれ…"
+                                "Slave Laborer: There's no way this is going to work... I\ndon't know anything... Please just go away..."
                             ]
                         },
                         {
@@ -16912,7 +16863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（反応がない。疲れ果てて眠っているようだ）"
+                                "There's no response. It seems she's fast asleep from\nexhaustion."
                             ]
                         },
                         {
@@ -16998,7 +16949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（反応がない。疲れ果てて眠っているようだ）"
+                                "There's no response. It seems she's fast asleep from\nexhaustion."
                             ]
                         },
                         {
@@ -17075,14 +17026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奴隷労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もういやだ…、もういやだ…、もういやだ…、もういやだ……"
+                                "Slave Laborer: I can't take it anymore... I can't take it\nanymore... I can't take it anymore... I can't take it\nanymore..."
                             ]
                         },
                         {
@@ -17168,14 +17112,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奴隷労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっさと何処へでも行ってくれ…　迷惑なんだよ…"
+                                "Slave Worker: \"Just go away quickly... You're a nuisance...\""
                             ]
                         },
                         {
@@ -17261,14 +17198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奴隷労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オレには一緒に脱走できる体力は残ってない…"
+                                "Slave Laborer: I don't have the strength left to escape with\nyou..."
                             ]
                         },
                         {
@@ -17285,14 +17215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奴隷労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうかオレの代わりに、看守共に一泡吹かせてやってくれ……"
+                                "Slave Laborer: Please, in my stead, give those guards a\ntaste of their own medicine..."
                             ]
                         },
                         {
@@ -17309,14 +17232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "無事に外に出られたなら助けを呼ぶことを誓うよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だからそれまで……"
+                                "I swear I'll call for help if I make it out safely. So until\nthen..."
                             ]
                         },
                         {
@@ -17528,14 +17444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（出たい者、出たくない者、それを考える気力すら失っている者。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ここを無事に出ることができたら保護に来ると誓おう。それまで耐えてくれ…）"
+                                "(Those who want to leave, those who don't, and those who\nhave even lost the will to think about it... I swear I'll\ncome to rescue you if we can get out of here safely. Please\nendure until then...)"
                             ]
                         },
                         {
@@ -18715,14 +18624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奴隷労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…………………ﾌﾞﾂﾌﾞﾂﾌﾞﾂ"
+                                "Slave Laborer: ...*mutter* *mutter* *mutter*"
                             ]
                         },
                         {
@@ -20354,14 +20256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（声をかけてはみたものの、続く者はこれだけか……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　おそらく女子供はついてくるだけで手一杯、戦力としては計算出来ないか。）"
+                                "(I called out, but it seems only these few will follow...\nThe women and children are probably overwhelmed just by\nfollowing; they can't be counted on as combatants.)"
                             ]
                         },
                         {
@@ -20425,21 +20320,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "しばらく見ないと思ったらこんな面白そうなことを企ててるとはな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "オレも計画に加えさせてもらうぞ。久々に魔術の腕が鳴る。"
+                                "Worker: I hadn't seen you for a while and here you are,\nplotting something interesting. Count me in on the plan.\nIt's been a while since I've had a chance to flex my magic\nskills."
                             ]
                         },
                         {
@@ -20506,21 +20387,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "嬢ちゃんには岩盤掘りの礼もある。どうせこのままここにいても先は見えてんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今まで痛い目見てきた分を看守どもにぶつけてやろうぜ！"
+                                "Worker: I owe you one for the rock mining. Staying here\nisn't going to get us anywhere. It's time to give those\nguards a taste of the pain we've endured!"
                             ]
                         },
                         {
@@ -20615,21 +20482,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "少年労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ボクは戦ったり出来ないけどお姉ちゃんたちのこと、信じてるから！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ここで他に出たいって人がいないかもう少しだけ聞いて回ってみるよ！"
+                                "Young Worker: I can't fight, but I believe in you, big\nsisters! I'll go around a bit more and see if there's anyone\nelse who wants to get out!"
                             ]
                         },
                         {
@@ -20753,21 +20606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "道案内ならばボクに任せてください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "以前荷運びの手伝いで出口付近まで足を運んだことがあります。"
+                                "Worker: Leave the guiding to me. I've been near the exit\nbefore when I helped with carrying goods."
                             ]
                         },
                         {
@@ -20798,21 +20637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "皆集まってくれたこと感謝する。戦闘は私がリードする。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "各自護身用の武器を手に私の後に続け！さぁ、光を目指し出口へ向かうぞっ！"
+                                "Reisha: I'm grateful to everyone who has gathered. I will\nlead the battle. Arm yourselves with weapons for self-\ndefense and follow me! Now, let's head towards the light and\nmake for the exit!"
                             ]
                         },
                         {
@@ -20897,14 +20722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "満足したか？　それじゃ私は先行して扉の開錠をしてくるよ。"
+                                "Akane: Are you satisfied? Then I'll go ahead and unlock the\ndoor."
                             ]
                         },
                         {
@@ -20921,14 +20739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "夜は短い、看守共が何時まで休んでいるかわからない。なるべく早く追いついてくれよ。"
+                                "Akane: The night is short, and we don't know how long the\nguards will rest. Try to catch up as soon as possible."
                             ]
                         },
                         {
@@ -21004,7 +20815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "我が侭を言ってしまってすまない。感謝するよ。"
+                                "I'm sorry for being selfish. Thank you."
                             ]
                         },
                         {
@@ -21051,14 +20862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いいさ。あんたがいなきゃこの時間は来なかったんだ。礼は無事に脱出出来た時にとっとけよ。"
+                                "Akane: It's fine. If it weren't for you, this moment\nwouldn't have come. Save your thanks until we've safely\nescaped."
                             ]
                         },
                         {
@@ -21447,7 +21251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "次は私たちの番だ！さぁ、出るぞッ！！"
+                                "It's our turn now! Let's go!!"
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "魔研_フロント",
+    "displayName": "Magic Research Front",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -14698,7 +14698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「資料室」と書いてある。"
+                                "\"It says 'Archive Room'.\""
                             ]
                         },
                         {
@@ -14782,14 +14782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "薬草がこんなに。見たところ使用に問題は無さそうだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この先何があるかわからない、悪いが少し使わせてもらうよ。"
+                                "There's so much medicinal herb here. It looks like there's\nno problem using it. We don't know what lies ahead, so\nsorry, but I'll use a bit of it."
                             ]
                         },
                         {
@@ -15462,7 +15455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "微細な遺灰を手に入れた！"
+                                "Gained Fine Ashes!"
                             ]
                         },
                         {

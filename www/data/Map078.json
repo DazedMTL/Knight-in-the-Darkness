@@ -14909,14 +14909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "山小屋の住人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その辺りに適当に掛けてくれ。今用意するよ。"
+                                "Cabin Resident: Just hang it up anywhere around here. I'll\nget it ready now."
                             ]
                         },
                         {
@@ -15263,7 +15256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この辺りは大分民家が少ないな。そなたはここでひとりで暮らしているのか？"
+                                "This area seems to have very few houses. Are you living here\nall by yourself?"
                             ]
                         },
                         {
@@ -15346,14 +15339,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "山小屋の住人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あぁ、そうだよ。"
+                                "Cabin Resident: Ah, yes, that's right."
                             ]
                         },
                         {
@@ -15436,7 +15422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人里に用がある時などはさぞ骨が折れよう。暮らしていくには何かと大変なのではないか？"
+                                "It must be quite a hassle when you have business in the\nvillage. Isn't it difficult to live here?"
                             ]
                         },
                         {
@@ -15732,14 +15718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "山小屋の住人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はい出来たよ。"
+                                "Cabin Resident: Alright, it's ready."
                             ]
                         },
                         {
@@ -15763,7 +15742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "悪いな。心遣い感謝する。"
+                                "My apologies. I appreciate your kindness."
                             ]
                         },
                         {
@@ -15970,7 +15949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほう！これはなかなか…！"
+                                "Oh! This is quite something...!"
                             ]
                         },
                         {
@@ -16001,14 +15980,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "山小屋の住人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いい香りだろう。クセはあるが味が引き立つ。"
+                                "Cabin Resident: Smells good, doesn't it? It has a strong\nflavor but it really brings out the taste."
                             ]
                         },
                         {
@@ -16025,21 +15997,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "山小屋の住人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここいらじゃ珍しくないが、何かと重宝されるらしくてね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言う通りちと大変ではあるが、人里に持ってけば良い値で買ってくれる人もいる。"
+                                "Cabin Resident: It's not uncommon around here, and it seems\nto be quite useful for many things. As you said, it's a bit\nof a hassle, but there are people in the village who will\npay a good price for it."
                             ]
                         },
                         {
@@ -16056,14 +16014,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "山小屋の住人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "たしかに不便な土地だが、逆に言えば自由気ままさ。そう悪いことばかりでもない。"
+                                "Cabin Resident: Indeed, it's an inconvenient place, but on\nthe flip side, there's a certain freedom to it. It's not all\nbad."
                             ]
                         },
                         {
@@ -16087,7 +16038,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうか。いらぬ心配だったようだ。"
+                                "Is that so. It seems I was worried for nothing."
                             ]
                         },
                         {
@@ -16104,14 +16055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自分の中の常識で物事を量るのはよくないな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人はどこにいようと、強くたくましくあるものなのだな。"
+                                "It's not good to measure things by one's own standards.\nPeople are strong and resilient, no matter where they are."
                             ]
                         },
                         {
@@ -16135,14 +16079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "山小屋の住人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あぁ、こういう所で暮らしている奴ほど案外たくましく生きてるもんさ。"
+                                "Cabin Resident: Ah, those who live in places like this tend\nto be surprisingly tough."
                             ]
                         },
                         {
@@ -16166,14 +16103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "山小屋の住人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それで、何か聞きたいことがあるって言ってたな？"
+                                "Cabin Resident: So, you said you had something you wanted to\nask?"
                             ]
                         },
                         {
@@ -16197,14 +16127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁそうだ。先日そなたに洞窟の情報をもらったばかりで悪いのだが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この地の言い伝えや、ささいな噂でも何でもいい、知っている話を聞かせて欲しいのだ。"
+                                "Yes, that's right. I feel bad asking you again so soon after\ngetting information about the cave from you, but I'd like to\nhear any local legends or even minor rumors you might know."
                             ]
                         },
                         {
@@ -16228,14 +16151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "山小屋の住人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうだねぇ……"
+                                "Cabin Resident: Well..."
                             ]
                         },
                         {
@@ -16252,14 +16168,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "山小屋の住人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最近ここいらでウワサになっているような事でもいいのかい？"
+                                "Cabin Resident: Would something that's been rumored around\nhere lately be okay?"
                             ]
                         },
                         {
@@ -16290,7 +16199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "かまわない。続けてくれ。"
+                                "No problem. Please continue."
                             ]
                         },
                         {
@@ -16321,21 +16230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "山小屋の住人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少し前からだったかな、ここいらの森に入った人がね、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "たまにそのまま入ったっきり帰ってこないって噂になったことがあってね。"
+                                "Cabin Resident: It started a little while ago, there have\nbeen rumors about people who enter the forest around here\nand sometimes they just don't come back."
                             ]
                         },
                         {
@@ -16352,14 +16247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "山小屋の住人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなに迷いやすいところでもないから変な話なんだがね。"
+                                "Cabin Resident: It's not a place that's easy to get lost in,\nso it's a strange story."
                             ]
                         },
                         {
@@ -16376,21 +16264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "山小屋の住人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まぁもっぱら人さらいの仕業なんじゃないかって怖がられているんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この辺りにも魔物が出始めている、その線もある。気が置けないよ。"
+                                "Cabin Resident: Well, most people are scared that it might\nbe the work of kidnappers. There are also monsters starting\nto appear around here, so that's another possibility. It's\nunsettling."
                             ]
                         },
                         {
@@ -16421,7 +16295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "う～む、それは良くない話だな。"
+                                "Hmm, that's not good news at all."
                             ]
                         },
                         {
@@ -16452,14 +16326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "山小屋の住人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あくまで噂は噂だよ。気にしないでくれ。"
+                                "Cabin Resident: Rumors are just rumors, after all. Don't\nworry about it too much."
                             ]
                         },
                         {
@@ -16476,14 +16343,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "山小屋の住人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今気になっていることといえば、オレからはそんなもんだよ。"
+                                "Cabin Resident: As for things that are concerning me at the\nmoment, that's about it."
                             ]
                         },
                         {
@@ -16514,7 +16374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうか。時間をとらせてしまいすまなかったな。"
+                                "I see. Sorry for taking up your time."
                             ]
                         },
                         {
@@ -16545,7 +16405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "他に用がなければ、騎士としてそのようなこと、\\!放っては\\!おかないの\\!　だが……"
+                                "If I didn't have other matters to attend to, as a knight I\ncouldn't just ignore such things..."
                             ]
                         },
                         {
@@ -16626,7 +16486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "う、うぐっ……"
+                                "Uh, ugh..."
                             ]
                         },
                         {
@@ -16707,7 +16567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "急に、身体に力が……"
+                                "Suddenly, I can't muster any strength in my body..."
                             ]
                         },
                         {
@@ -16781,14 +16641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "山小屋の住人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふぅ……、やっと効いてきたか。"
+                                "Cabin Resident: Phew... it's finally taking effect."
                             ]
                         },
                         {
@@ -16819,7 +16672,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "貴様、いったい、\\!何を…"
+                                "You bastard, what have you done..."
                             ]
                         },
                         {
@@ -16859,7 +16712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まさか……っ！"
+                                "No way...!"
                             ]
                         },
                         {
@@ -16958,14 +16811,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "山小屋の住人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今さら気付いたってもう遅いよ。"
+                                "Cabin Resident: It's too late to realize now."
                             ]
                         },
                         {
@@ -16982,21 +16828,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "山小屋の住人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しっかし、さすが騎士様ってのはタフだねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "普通なら一口ですぐにも口が聞けなくなるはずなんだが。"
+                                "Cabin Resident: But man, knights really are tough. Normally\none would lose the ability to speak after just one sip."
                             ]
                         },
                         {
@@ -17119,7 +16951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちぃ…っ！謀ったな…！"
+                                "Tch...! You've tricked me...!"
                             ]
                         },
                         {
@@ -17150,14 +16982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "山小屋の住人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おいおいまだ動けるのかよ。頑張るねぇ。"
+                                "Cabin Resident: Hey hey, you can still move? You're\npersistent."
                             ]
                         },
                         {
@@ -17174,14 +16999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "山小屋の住人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でもやめといた方がいいんじゃない？"
+                                "Cabin Resident: But maybe you should just give up?"
                             ]
                         },
                         {
@@ -17212,7 +17030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黙れ下郎が、\\!叩き斬ってやる…！"
+                                "Shut up, scoundrel! I'll cut you down...!"
                             ]
                         },
                         {
@@ -17343,14 +17161,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "山小屋の住人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ～あ、抵抗せずにおとなしく眠ってりゃ、痛い思いをせずに済んだのに。"
+                                "Cabin Resident: Ahh, if you had just slept quietly without\nresisting, you could have avoided the pain."
                             ]
                         },
                         {
@@ -17499,7 +17310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぐあっ……！！！"
+                                "Gah...!!!"
                             ]
                         },
                         {
@@ -17687,14 +17498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "山小屋の住人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "手間かけさせやがって。"
+                                "Cabin Resident: Making me go through all this trouble."
                             ]
                         },
                         {
@@ -17756,14 +17560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "悪漢："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アニキ、こいつは？"
+                                "Rogue: Boss, who is this?"
                             ]
                         },
                         {
@@ -17787,14 +17584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "山小屋の住人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この前洞窟の噂を聞きに来たどこぞの騎士さまだよ。"
+                                "Cabin Resident: It's that knight from somewhere who came\nasking about the cave rumors the other day."
                             ]
                         },
                         {
@@ -17818,21 +17608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "山小屋の住人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "洞窟で魔物にでもやられた所を身ぐるみ剥いでやろうかと思ってたんだがな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こいつひとりで魔物共をのしちまいやがったらしい。"
+                                "Cabin Resident: I was thinking of stripping him bare after\nhe got beaten by the monsters in the cave. But it seems he\nmanaged to crush the monsters all by himself."
                             ]
                         },
                         {
@@ -17849,14 +17625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "山小屋の住人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "けっ！これでもうあの洞窟は利用できなくなっちまったってわけだ！！"
+                                "Cabin Resident: Tch! Because of this, we can't use that cave\nanymore!!"
                             ]
                         },
                         {
@@ -17918,14 +17687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "悪漢："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それでこいつ、どうするんだ？"
+                                "Rogue: So, what are we gonna do with this guy?"
                             ]
                         },
                         {
@@ -17949,21 +17711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "山小屋の住人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "金目のモン取っ払った後の使い途はいつもの通りでいい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "体力もあるし身体も丈夫そうだ。あそこに送ってもしばらくは働いてくれるだろう。"
+                                "Cabin Resident: After we've taken all the valuables, we'll\nuse him as usual. He's got stamina and looks sturdy. He'll\nprobably work for a while if we send him over there."
                             ]
                         },
                         {
@@ -17987,14 +17735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "山小屋の住人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それによく見れば…"
+                                "Cabin Resident: And if you look closely..."
                             ]
                         },
                         {
@@ -18018,14 +17759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "山小屋の住人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こりゃあ、なかなかの上玉じゃねぇか。"
+                                "Cabin Resident: This is quite a catch."
                             ]
                         },
                         {
@@ -18049,21 +17783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "山小屋の住人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうせこの後もっと酷い目に会うんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺たちが少しくらい楽しんだってバチは当たらねぇだろうさ。"
+                                "Cabin Resident: He's going to go through much worse after\nthis. It won't hurt if we have a little fun with him first."
                             ]
                         },
                         {
@@ -18087,14 +17807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "悪漢："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "へへへ、そうこなくっちゃ。"
+                                "Rogue: Hehehe, that's the spirit."
                             ]
                         },
                         {
@@ -18396,14 +18109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "牢内の男性："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おい！あんた！！"
+                                "Man in the Cell: Hey! You!!"
                             ]
                         },
                         {
@@ -18484,14 +18190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "牢内の男性："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何でもする！！お願いだ！！"
+                                "Man in the Cell: I'll do anything!! Please!!"
                             ]
                         },
                         {
@@ -18508,14 +18207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "牢内の男性："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここから出してくれ！！たのむっ！！"
+                                "Man in the Cell: Get me out of here!! I'm begging you!!"
                             ]
                         },
                         {
@@ -18614,14 +18306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "山小屋の住人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゴチャゴチャうるせぇんだよ！！"
+                                "Cabin Resident: Shut your damn mouth!!"
                             ]
                         },
                         {
@@ -18761,14 +18446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "山小屋の住人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "テメェの身包み剥いで今すぐ魔物だらけの森に戻してやってもいいんだぜ！？"
+                                "Cabin Resident: I could strip you bare and send you back to\nthe monster-infested forest right now, you know!?"
                             ]
                         },
                         {
@@ -18785,14 +18463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "山小屋の住人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ブッ殺さねぇだけでもありがたいと思えッ！！！"
+                                "Cabin Resident: Be grateful I'm not killing you!!!"
                             ]
                         },
                         {
@@ -18816,14 +18487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "牢内の男性："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ヒィ……ッッ！！！"
+                                "Man in the Cell: Eek...!!!"
                             ]
                         },
                         {
@@ -18978,14 +18642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "山小屋の住人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっさとこっちに連れてこい！！"
+                                "Cabin Resident: Bring him over here, quick!!"
                             ]
                         },
                         {
@@ -19061,14 +18718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "悪漢："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぶへへへ……"
+                                "Rogue: Buhahaha..."
                             ]
                         },
                         {

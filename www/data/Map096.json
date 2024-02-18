@@ -7632,14 +7632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本イベント中は操作キーの上下ボタンで視線の移動が出来ます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ご活用いただくことを推奨いたします。"
+                                "During this event, you can move your gaze up and down with\nthe control key's buttons. We recommend making use of this\nfeature."
                             ]
                         },
                         {
@@ -7732,7 +7725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あなたが、ここのボスだと聞いたが。間違いはないか？"
+                                "I heard you're the boss around here. Is that correct?"
                             ]
                         },
                         {
@@ -7749,14 +7742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボスねぇ。あいつらが勝手に呼んでいるだけだけど、それがどうした？"
+                                "Prison Guard Captain: Boss, huh? They just call me that on\ntheir own, but what about it?"
                             ]
                         },
                         {
@@ -7773,21 +7759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "数刻前に、採掘坑の作業現場で崩落事故が起こった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そしてその事故の責任を取るために、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私たちの指導役の女性が代表として役人どもに連れて行かれた。"
+                                "A few moments ago, there was a collapse at the mining site.\nTo take responsibility for the accident, one of our female\nleaders was taken away by the officials as a representative."
                             ]
                         },
                         {
@@ -7804,14 +7776,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "彼女はおそらく事故の責任を取らされ役人どもから罰を受ける。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "命に関わるであろう過酷な罰を…"
+                                "She will likely be forced to take responsibility for the\naccident and receive punishment from the officials. A harsh\npunishment that could be life-threatening..."
                             ]
                         },
                         {
@@ -7828,14 +7793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "へぇ、そんなことが起こってたんだねぇ。"
+                                "Prison Guard Captain: Oh? So that happened, huh?"
                             ]
                         },
                         {
@@ -7852,14 +7810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんなことを言うには立場が違うことを承知でお願いしたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたから役人へ口利きをしもらい、彼女の罪を減刑することは出来ないだろうか？"
+                                "I know it's not my place to say this, but I must ask. Could\nyou possibly speak to the officials on her behalf and have\nher sentence reduced?"
                             ]
                         },
                         {
@@ -7876,14 +7827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "代わりの罰ならば私が受ける。ひとりで皆の罪を背負った彼女の受ける"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その刑罰の肩代わりを頼むつもりで私は貴方の元へ連れてきてもらった。"
+                                "I'll take the punishment instead. I brought myself here to\nyou intending to take on the punishment she would receive\nfor shouldering everyone's sins alone."
                             ]
                         },
                         {
@@ -7900,14 +7844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここのルールに干渉し自分の意思を通そうというのは虫のいい話だとはわきまえている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だが、頼む。私なら何でもする。彼女の命を取るような事だけはしないで欲しい…"
+                                "I'm aware it's presumptuous to interfere with the rules here\nand assert my own will. But please, I'll do anything. Just\ndon't let them take her life..."
                             ]
                         },
                         {
@@ -7924,14 +7861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふ～ん。そうなんだ。君って偉いんだね。　\\!でもダメだよ。"
+                                "Prison Guard Captain: Hmm, is that so? You're quite noble.\nBut no, I can't do that."
                             ]
                         },
                         {
@@ -7987,21 +7917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くっ…！頼むお願いだ！ここの看守共を止めることは貴方にしか出来ないのだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私が折檻でも何でも代わりに受ける！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "手を煩わせてすまないが、他の役人に掛け合ってもらうだけでいいのだ…！"
+                                "Please, I'm begging you! Only you can stop the guards here!\nI'll take any punishment or discipline in her place! I'm\nsorry to trouble you, but all you need to do is talk to the\nother officials..."
                             ]
                         },
                         {
@@ -8018,21 +7934,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなことボクの知るところじゃないよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だってここで何が起きてるかなんて知らないもん。"
+                                "Prison Guard Captain: That's none of my business. After all,\nI don't know what's happening here."
                             ]
                         },
                         {
@@ -8049,21 +7951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボクちんがするのは成果物の取引や労働力を確保する管理作業だけ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "現場で何が起きてるかなんて知らないもんね。"
+                                "Prison Guard Captain: All I do is manage the trade of goods\nand ensure a workforce. What happens on-site is beyond me."
                             ]
                         },
                         {
@@ -8080,21 +7968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "臭くて汚いネズミ共が何してるかなんて知ったこっちゃない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "勿論あの汗くさいデク共が看守ごっこをやってることも。知りたくもないもんね！"
+                                "Prison Guard Captain: I couldn't care less about what those\nfilthy rats are up to. Of course, that includes those sweaty\nbrutes playing at being guards. I don't want to know!"
                             ]
                         },
                         {
@@ -8111,7 +7985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そ、そんな、バカな……"
+                                "That's... ridiculous..."
                             ]
                         },
                         {
@@ -8128,21 +8002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "バカは君じゃん。何？談判出来ると思って息巻いてきたの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やっぱりネズミって脳みそが小っちゃいんだなぁ、そんなことするわけないじゃん。"
+                                "Prison Guard Captain: The fool is you. What? You came here\nall puffed up thinking you could negotiate? Rats really do\nhave tiny brains, huh? There's no way I'd do such a thing."
                             ]
                         },
                         {
@@ -8159,14 +8019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "殺されるようなことしちゃったんなら、ここではちゃんと殺されなきゃいけないの。"
+                                "Prison Guard Captain: If she did something worth being\nkilled over, then she has to be properly killed here."
                             ]
                         },
                         {
@@ -8183,28 +8036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなやつに何で温情をかけなきゃいけないのさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "代わりなんて次々にやってくるんだから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見せしめになって他の奴に示しがつくなら立派じゃないか。秩序だよ秩序。"
+                                "Prison Guard Captain: Why should I show mercy to someone\nlike that? Replacements come one after another. If it serves\nas an example to others and establishes order, then it's all\ngood. It's about order."
                             ]
                         },
                         {
@@ -8221,7 +8053,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何がルールなものか、そのようなこと、決して許されるはずはない…！"
+                                "What kind of rule is that? Such things should never be\nallowed...!"
                             ]
                         },
                         {
@@ -8238,21 +8070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おっほっほ♪　君、やっぱりイイ顔するね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここに連れてこられる奴らは一様に怯えた顔しか見せないから食傷気味だったんだよね。"
+                                "Prison Guard Captain: Ohohoho♪ You do make a good face.\nEveryone brought here only shows fear, so it's refreshing to\nsee something different."
                             ]
                         },
                         {
@@ -8269,21 +8087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うん、そうだ。君が従順な態度でボクに付き合ってくれるなら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの汚いブタ役人共に少し加減するようにこっちから言ってみてもいいかもね。"
+                                "Prison Guard Captain: Yeah, that's right. If you show me an\nobedient attitude, maybe I could suggest to those filthy pig\nofficials to go a bit easier on her."
                             ]
                         },
                         {
@@ -8300,21 +8104,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おそらく面食らうとは思うけどアイツらも僕の言うことなら聞き入れるでしょ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アイツらはアイツらで点数稼ぎに必死みたいだしさ。"
+                                "Prison Guard Captain: They'll probably be surprised, but if\nit's coming from me, they'll listen. They seem desperate to\nscore points too."
                             ]
                         },
                         {
@@ -8331,7 +8121,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほ、本当か…！　わかった！お願いだ！頼むっ！"
+                                "Really...! Understood! I'm begging you! Please!"
                             ]
                         },
                         {
@@ -8348,14 +8138,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "付き合ってもらうって言ったけど、耐え切ったらの間違いだったかもね。ホヒヒ♪"
+                                "Prison Guard Captain: I said I'd keep you company, but maybe\nit was a mistake to say 'endure.' Hohehe♪"
                             ]
                         },
                         {
@@ -8372,14 +8155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それと……──、"
+                                "Prison Guard Captain: And...──,"
                             ]
                         },
                         {
@@ -8447,14 +8223,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頼むときは、「お願いします」でしょ…？"
+                                "Prison Guard Captain: When asking for a favor, you should\nsay 'please,' right...?"
                             ]
                         },
                         {
@@ -8471,21 +8240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うく……。そうだな……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わ、私なら……どんな責め苦を受けてもか、かまいません…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だから、どうかお願いします…"
+                                "Ugh... that's right... I... no matter what kind of torment I\nhave to endure... please, I beg of you..."
                             ]
                         },
                         {
@@ -8502,14 +8257,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうそう。主従関係は忘れちゃダメだよ？僕って気が変わっちゃい易いからね。"
+                                "Prison Guard Captain: That's right. Don't forget our master-\nservant relationship? I'm quite fickle, you know."
                             ]
                         },
                         {
@@ -8526,21 +8274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それにしても、ホヒヒ♪　こんなものを服の代わりになりもしないのに身に着けて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ネズミたちにも一丁前に人間らしい羞恥心があるんだねぇ。"
+                                "Prison Guard Captain: Besides, hohehe♪ wearing such things\nthat hardly count as clothes. Even rats like you have a\nsense of shame befitting humans, huh?"
                             ]
                         },
                         {
@@ -8608,7 +8342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "っっ……！"
+                                "Gah...!"
                             ]
                         },
                         {
@@ -8625,14 +8359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "土と汗まみれになって穴掘り穴掘り。ヒドイ臭いだ。"
+                                "Prison Guard Captain: Covered in dirt and sweat from digging\nholes. What a terrible smell."
                             ]
                         },
                         {
@@ -8649,21 +8376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それなのに体臭の中に男を惹きつけるメスの香りも残してる。本当に卑しいなネズミって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "穴蔵の中でも無駄に育った身体で子孫を増やそうと男を誘惑する。"
+                                "Prison Guard Captain: And yet, amidst the body odor, you\nretain a female scent that attracts men. Rats really are\nvile creatures. In their burrows, they use their\nunnecessarily well-developed bodies to tempt men and\nincrease their offspring."
                             ]
                         },
                         {
@@ -8680,7 +8393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "っく……！　そのような辱めを……　やるならひと思いにしてくれ……！"
+                                "Gah...! To be subjected to such humiliation... if you're\ngoing to do it, just kill me quickly...!"
                             ]
                         },
                         {
@@ -8748,14 +8461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "汗と垢に濡れて淫らに光沢させたこんなものを見せて、嘯くなよ女が。"
+                                "Prison Guard Captain: Don't show off such things made glossy\nby sweat and grime and then act all high and mighty, woman."
                             ]
                         },
                         {
@@ -8772,7 +8478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヅッ…！！　痛ッ…！！！　そんなもの…、毟らないでくれ…ッ！"
+                                "Zut...!! Ouch...!!! Don't... tear it off...!"
                             ]
                         },
                         {
@@ -8789,21 +8495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほひひ♪　意外とカワイイ反応するんだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほら、自分で足を広げてみせろ。情けなく秘部を露出させろ。"
+                                "Prison Guard Captain: Hehehe♪ You react quite cutely. Now,\nspread your legs yourself. Expose your pathetic genitals\nshamefully."
                             ]
                         },
                         {
@@ -8820,7 +8512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………──　うぅ……、くっ……！！"
+                                "...──Ugh... damn it...!!"
                             ]
                         },
                         {
@@ -8888,14 +8580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そう睨むなよぉ。君から頼みに来たんだろ？もっと無様に腰をヘコらせろよ。"
+                                "Prison Guard Captain: Don't glare at me like that. You're\nthe one who came asking for a favor, right? Make yourself\nlook even more pitiful."
                             ]
                         },
                         {
@@ -8912,7 +8597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それは、そうだが…　このような無様を晒すことは…"
+                                "That may be so... but to expose myself in such an\nundignified way..."
                             ]
                         },
                         {
@@ -8929,14 +8614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふ～ん……──"
+                                "Prison Guard Captain: Hmm...──"
                             ]
                         },
                         {
@@ -9004,14 +8682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どれどれぇ…"
+                                "Prison Guard Captain: Let's see..."
                             ]
                         },
                         {
@@ -9028,7 +8699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ッッ……！！　やめっ…！"
+                                "Gah...!! Stop...!"
                             ]
                         },
                         {
@@ -9096,7 +8767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……っく！！　ぐっ……　ッ…　ッッ……！！"
+                                "...Ah!! Ugh...Gah...!!"
                             ]
                         },
                         {
@@ -9113,7 +8784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふぐっ……　ッッ……！　チィッ…！　\\!やめろ…、もういいだろッッ！！"
+                                "Fuugh...Gah...! Tch...! Stop it... that's enough already!!"
                             ]
                         },
                         {
@@ -9188,7 +8859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ…　はぁ…　はぁ…　はぁ…"
+                                "Pant...pant...pant...pant..."
                             ]
                         },
                         {
@@ -9205,7 +8876,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ…　はぁ…　んく…　"
+                                "Pant...pant...ngh..."
                             ]
                         },
                         {
@@ -9222,14 +8893,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ホヒヒ♪　ちょっと掻き回しただけなのに股の間から涎が伝ってるよ？"
+                                "Prison Guard Captain: Ho ho ho♪ Just a little stirring and\nthere's drool running down from between your legs, isn't\nthere?"
                             ]
                         },
                         {
@@ -9258,7 +8922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ち、違う…！これは…！！"
+                                "No, that's not...! This is...!!"
                             ]
                         },
                         {
@@ -9326,14 +8990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何が違うのさ？ちょっと突っ込まれただけで指に吸い付いて。見てみろよこれを。"
+                                "Prison Guard Captain: What's different? Just a little poking\nand your fingers are clinging to it. Take a look at this."
                             ]
                         },
                         {
@@ -9350,7 +9007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ッッツ……！！　やめてくれッ！！"
+                                "Gah...!! Please stop!!"
                             ]
                         },
                         {
@@ -9379,21 +9036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いったい何日間風呂に入っていない。陰部の汚れが泡立つようにこびり付いているぞ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "性欲を溜め込んでいたのはお前の方だろ？これがその証拠じゃないのか？"
+                                "Prison Guard Captain: How many days has it been since you've\nbathed? The filth on your genitals is caked on like froth.\nYou're the one who's been hoarding sexual desire, aren't\nyou? Isn't this the proof?"
                             ]
                         },
                         {
@@ -9410,14 +9053,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その結果がどうだ？ご主人の手をこんなにカスまみれに汚して。えぇ？"
+                                "Prison Guard Captain: And what's the result? You've dirtied\nyour master's hand with all this grime. Eh?"
                             ]
                         },
                         {
@@ -9434,7 +9070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちっ、近付けるな…！　そんなものわざわざ見せなくていいッ！"
+                                "Tch, don't come any closer...! There's no need to show me\nsuch things!"
                             ]
                         },
                         {
@@ -9463,21 +9099,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見せるな近付けるなとは言い方が悪いよね。お前のマンカスだろう…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "指を生温く照りつかせ、酷い臭いで頭が痺れてくる…"
+                                "Prison Guard Captain: Saying 'don't show' and 'don't come\ncloser' is quite rude. It's your pussy grime, after all...!\nIt makes my fingers tepidly warm and my head goes numb from\nthe terrible smell..."
                             ]
                         },
                         {
@@ -9494,21 +9116,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほら、キレイにしてみせろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボクちんの指をその汚い掃除穴に突っ込んでやるから舌を使ってこそぎ落としてみろ。"
+                                "Prison Guard Captain: Now, show me how you clean it. I'll\nshove my finger into that dirty cleaning hole of yours, so\nuse your tongue to scrape it off."
                             ]
                         },
                         {
@@ -9525,7 +9133,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うッ…　うぅ…ッッ　うぐッ……ッッ……"
+                                "Ugh...uhh...Gah...Ugh..."
                             ]
                         },
                         {
@@ -9542,14 +9150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんでもするって言ったのは君でしょ？　じゃあいいさ、この話は無しだ。"
+                                "Prison Guard Captain: You said you'd do anything, right?\nThen forget about this conversation."
                             ]
                         },
                         {
@@ -9566,14 +9167,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前に覚悟は無かったし、僕は迷惑を掛けられたし、容赦するなって伝えてくるよ。"
+                                "Prison Guard Captain: You didn't have the resolve, and I've\nbeen inconvenienced, so I'll pass on the message that there\nwill be no mercy."
                             ]
                         },
                         {
@@ -9590,7 +9184,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それは…ダメだッ…！　わかった、悪かった…！　私の口でもなんでも使ってくれ…！"
+                                "That's...not acceptable...! I understand, my apologies...!\nUse my mouth or whatever you want...!"
                             ]
                         },
                         {
@@ -9607,14 +9201,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言い方が違うってさっき教えたろ…？"
+                                "Prison Guard Captain: Didn't I just teach you to speak\ndifferently...?"
                             ]
                         },
                         {
@@ -9631,7 +9218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わ、わかり…ました…　\\!私の口で、\\!あなたの指を掃除させて、ください……"
+                                "I understand... Please let me clean your finger with my\nmouth..."
                             ]
                         },
                         {
@@ -9648,21 +9235,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ホヒヒ♪　そうそう。忘れるなよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "従順に甘えるように、僕の気が変わらないように媚び続けろよ。"
+                                "Prison Guard Captain: Ho ho ho♪ That's right. Don't forget.\nContinue to fawn submissively so that I don't change my\nmind."
                             ]
                         },
                         {
@@ -9742,14 +9315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぅむ…　ぇぅ…　えっ…　げほっ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　\\!むぅ…　むちゅ…　むっ…　ごぇ……！！"
+                                "Mmm...ehh...ehh...cough...moo...munch...munch...gag...!!"
                             ]
                         },
                         {
@@ -9766,21 +9332,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "唾液でしっかりふやかせて、舌を絡みつかせるんだよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "指もしっかりしゃぶって、味わってからキレイにするんだ。オッホッホ♪"
+                                "Prison Guard Captain: Make sure to soften it with saliva,\ntwine your tongue around it, right? Suck on the finger\nproperly and savor it before cleaning it. Ohoho♪"
                             ]
                         },
                         {
@@ -9804,7 +9356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぁう…　むぁ…　ぢゅ…　ぢゅむ…　\\!ちゅ…　ぷちゅ……"
+                                "Ah...mwa...juice...juice munch...kiss...pop kiss..."
                             ]
                         },
                         {
@@ -9821,21 +9373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぅ…　んっ……　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "          \\!んぐっ…　ぐっ…　んっ…　んっ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　　"
+                                "Hau...nnh...          nghh...gahh...nnh...nnh..."
                             ]
                         },
                         {
@@ -9864,7 +9402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごぎゅ…　ぎゅ…　　ぷあっ……ッッ！！！"
+                                "Gulp...gulp...pahh...Gahh!!!"
                             ]
                         },
                         {
@@ -9881,14 +9419,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "吐き出すなよ。口の中に残っているものもしっかり飲み込むんだからな。"
+                                "Prison Guard Captain: Don't spit it out. Make sure to\nswallow everything that's left in your mouth."
                             ]
                         },
                         {
@@ -9944,7 +9475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ…　はぁ…　んくッ…　はっ…　はっ…　げほっ！　げほっ！！"
+                                "Pant...pant...nghh...hah...hah...cough! Cough!!"
                             ]
                         },
                         {
@@ -9961,14 +9492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "奥まで見せるように口を開けろ。舌の裏もだ。ホラ。"
+                                "Prison Guard Captain: Open your mouth wide so I can see all\nthe way in. The underside of your tongue too. Come on."
                             ]
                         },
                         {
@@ -9997,7 +9521,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ…　はぁ…　れぅ…　れっ…　はっ…　はっ……──　\\!どうだ…、これで満足…？"
+                                "Pant...pant...let's see...let's see...hah...hah...──How\nabout that..., are you satisfied now?"
                             ]
                         },
                         {
@@ -10014,14 +9538,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うんうん♪　いい子だねぇ♪　それじゃあご褒美あげないとねぇ…！"
+                                "Prison Guard Captain: Mhm mhm♪ Good girl♪ Then I have to\ngive you a reward, don't I...!"
                             ]
                         },
                         {
@@ -10089,7 +9606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "っく……ッッ！！！ "
+                                "Gahh...Gahh!!!"
                             ]
                         },
                         {
@@ -10106,21 +9623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "せっかく君が頑張ってキレイした指なんだから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちゃんと可愛がってあげなきゃだめだもんねぇ？"
+                                "Prison Guard Captain: Since you worked so hard to clean my\nfinger, I have to take good care of it, don't I?"
                             ]
                         },
                         {
@@ -10137,7 +9640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "つぁ…！！　よせ…！　そんな…ッ　乱暴に…ッッ！！　ぃつ…！！"
+                                "Tsa...!! Stop it...! Not so rough...Gahh!! It hurts...!!"
                             ]
                         },
                         {
@@ -10154,21 +9657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ご褒美なんだから逃げちゃだめだろ…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "下半身突き出して、自分から情けなく股動かしてみせろ…！！"
+                                "Prison Guard Captain: You can't run away from a reward, can\nyou? Stick out your lower half and shamefully move your hips\nyourself...!!"
                             ]
                         },
                         {
@@ -10185,7 +9674,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わっ、わかっ…た！　わかり…　ひぐっ…　まひた……！　ぁっ…ッッ！！"
+                                "I get it, I understand! I understand...hiccup...I'm sorry!\nAhh...Gahh!!"
                             ]
                         },
                         {
@@ -10202,21 +9691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ホレホレ。ホヒヒ！そんなんじゃ指が逃げるぞ？いいのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "雑魚マンコひくつかせてもっと懇願しろ！"
+                                "Prison Guard Captain: There there. Ho ho ho! If you act like\nthat, the finger will escape, won't it? Is that what you\nwant? Make your pathetic pussy twitch and beg more\nearnestly!"
                             ]
                         },
                         {
@@ -10272,7 +9747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ッツ…！　お、おね…　あぐっ…　おねがい、します……！　んっ…！"
+                                "Gahh! Please, I beg you...agh! Please, I'm begging you…!\nNnh…!"
                             ]
                         },
                         {
@@ -10289,14 +9764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あなたの、ゆびで…　わたしのぉ、お、おまんこに…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　\\!もっと…、ぉッッ！！　ごほうび…をっ、くださぃ…ッッ！！！"
+                                "Please use your finger on my pussy… more… Ahhh!!! Give me my\nreward… please!!!"
                             ]
                         },
                         {
@@ -10313,21 +9781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうそう。素直なのが一番だよぉ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それじゃお望み通り掻き回してやるから、腰振ってしっかり甘えてねぇ…！！"
+                                "Prison Guard Captain: That's right, being obedient is the\nbest, isn't it? Then, as you wish, I'll stir you up, so\nshake your hips and sweetly beg for it...!!"
                             ]
                         },
                         {
@@ -10358,7 +9812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ッッ…　ぁくッッ…　だめ…　ふぐっ…　だめだ…だめだっ…！！"
+                                "Ahh...ack...no...ugh...no good...it's no good...!!"
                             ]
                         },
                         {
@@ -10375,7 +9829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふぐっ…！　ふーっ！　ふーっ！！　ぐぅぅ……ッッ！！"
+                                "Ugh...! Huh-uh! Huh-uh!! Guhh...Ahh!!"
                             ]
                         },
                         {
@@ -10392,14 +9846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぎっ…！　～～～っっ！！　あっ…！　あっ…！　あっ…！　ああっっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　\\!だめだ！　ひぐっ！！　だめだ…！　やめろ！　やめてくれ…ッッ！！"
+                                "Gah...! ~~~~ahh!! Ah...! Ah...! Ah...! Aahhh!! No good! Hic!\nNo good...! Stop it! Please stop...Ahh!!"
                             ]
                         },
                         {
@@ -10416,14 +9863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ひぐっ…　ひぐっ… 　ひぐぅぅ……ッッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　あっ！　あっ！　　あ゛あ゛～～～～～～～──ッッッ！！！"
+                                "Hic...hic... higuu...Ahh!! Ah! Ah! Aaaa~~~~~~~Ahh!!!"
                             ]
                         },
                         {
@@ -10507,7 +9947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぅ…！　あっ…！　はっ…　はっ…　～～～～～～ッッッ！！！"
+                                "Hau...! Ah...! Hah...hah...~~~~~~Ahh!!!"
                             ]
                         },
                         {
@@ -10524,7 +9964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やめろ…　あ゛ッッ！　かきまわすの、お゛っ、も゛う、やめてくれ…ッッ！！"
+                                "Stop it...agh! Stirring around, ohh, please, just stop\nit...Ahh!!"
                             ]
                         },
                         {
@@ -10541,7 +9981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おう゛…ッ！　う゛…ッ！　あ゛あ゛あ゛あ゛…ッ！！！！"
+                                "Ooh...Ah! Uh...Ah! Aaaaah...Ahh!!!"
                             ]
                         },
                         {
@@ -10644,14 +10084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はっ…　はっ…はっ…　ふぐっ…！　ふっ！　ふっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　\\!ぅう゛…！！　お…ッ　おお゛…！！"
+                                "Hah...hah...hah...ugh...! Huh! Huh! Uuh...!! Oh...Ohh...!!"
                             ]
                         },
                         {
@@ -10680,21 +10113,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ホヒヒ♪　膣がキュンキュン締まって物欲しそうに指に吸い付いてくるねぇ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無様にイッちゃったんだぁ♪　はしたない。はしたない。"
+                                "Prison Guard Captain: Hohehe♪ Your pussy is clenching and\nsucking on my finger as if it's craving for something...!\nYou've shamefully cum♪ How indecent. How indecent."
                             ]
                         },
                         {
@@ -10711,7 +10130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ…　はぁ…　はぁ…　っ…！　　ぁ…　はぁ…　はぁ…"
+                                "Haa...haa...haa...ahh! Ah...haa...haa..."
                             ]
                         },
                         {
@@ -10740,14 +10159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "腰カクついて立ってられないか？　マン汁ヨダレ垂れ流して、だらしないなぁ。"
+                                "Prison Guard Captain: Can't stand up because your hips are\ntrembling? Dripping pussy juice like drool, how sloppy."
                             ]
                         },
                         {
@@ -10815,14 +10227,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何休んでんだよぉ？　ほら今度はお前が僕を気持ちよくするんだよ。"
+                                "Prison Guard Captain: What are you resting for? Come on, now\nit's your turn to make me feel good."
                             ]
                         },
                         {
@@ -10839,7 +10244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "っっく！！　はぁ…　はぁ…　はぁ…　わ、わかりまし、た……"
+                                "Ack!! Haa...haa...haa...I, I understand..."
                             ]
                         },
                         {
@@ -10868,14 +10273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ…　はぁ…　す、すみません…　んっ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!わたしの、おまんこ…好きに使って…　\\!はぁ…　はぁ…　気持ちよくなって…ください…"
+                                "Haa...haa...I'm sorry...nnh...use my pussy as you\nlike...haa...haa...please enjoy yourself..."
                             ]
                         },
                         {
@@ -10892,14 +10290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言われなくても、壊しちゃうつもりで可愛がってあげるけどね…！！"
+                                "Prison Guard Captain: Even if you didn't say it, I was\nplanning to spoil you until you break...!!"
                             ]
                         },
                         {
@@ -10916,7 +10307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ひぅ゛…ッッ！！！"
+                                "Hiiiv...Ahh!!!"
                             ]
                         },
                         {
@@ -10984,21 +10375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ホヒッ♪　ホヒッ♪　どうしたのぉ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっと挿入れただけで苦しそうにお腹の中うねってるよぉ？"
+                                "Prison Guard Captain: Hohe♪ Hohe♪ What's wrong? Just by\ninserting a little, your insides are writhing in agony?"
                             ]
                         },
                         {
@@ -11015,7 +10392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はっ…　はっ…　あっ…　それは…　こんなたてつづけに…　あ゛あ゛ッッ…！！"
+                                "Hah...hah...ahh...that's because...like this one after\nanother...Aaaahh!!!"
                             ]
                         },
                         {
@@ -11032,14 +10409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ホッ♪　ホッ♪　ホッ♪　ホッ♪　どうしたのぉ？ちゃんと言ってごらんよぉ？"
+                                "Prison Guard Captain: Hoh♪ Hoh♪ Hoh♪ Hoh♪ What's wrong? Say\nit properly, come on?"
                             ]
                         },
                         {
@@ -11056,14 +10426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はっ…　はっ…　やめてくれ…　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな、ことを…、ずっと、されていたら…　あう…　こわれてしまう…！！　ッッ…！！"
+                                "Hah...hah...please stop it...if this keeps going on..., I'll\nbreak apart...Ahh!!! Ahh!!!"
                             ]
                         },
                         {
@@ -11080,14 +10443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よくいえたねぇ？苦しい？苦しいの？　でもやめてあげないよん♪"
+                                "Prison Guard Captain: You said it well, didn't you? Is it\npainful? Is it painful? But I won't stop♪"
                             ]
                         },
                         {
@@ -11143,7 +10499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お゛…ッ！　お゛…ッ！　お゛…ッ！お゛ご…ッ！"
+                                "Ooh...Ah! Ooh...Ah! Ooh...Oh goh...Ahh!"
                             ]
                         },
                         {
@@ -11160,14 +10516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よせ…っ！　よせ…ッ！　たのむっ！　あっ！　あっ！　少しだけで、い゛い゛！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お願いだから…やすませてくれ…！　ッッ！！　やすませて、…ください゛…ッッ！！"
+                                "Stop it...stop it, please! Ahh! Ahh! Just a little is\nenough, please!!! Please let me rest…! Ahh!! Please let me\nrest…!"
                             ]
                         },
                         {
@@ -11184,21 +10533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "泣いたってダメだよん♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕の体重全部おマンコに乗っけて子宮押しつぶしてあげるからねぇ！"
+                                "Prison Guard Captain: Crying won't help♪ I'll put all my\nweight on your pussy and crush your womb for you!"
                             ]
                         },
                         {
@@ -11273,7 +10608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んっ…！　んっ…！　ん゛んッッ…！！"
+                                "Nnh...! Nnh...! Nnnnhhh!!!"
                             ]
                         },
                         {
@@ -11290,21 +10625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それにしても男をイラつかせる身体だねぇ、強く突かれる度に弾ませて…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのくせ触れば男の指を沈ませるように飲み込んでいく。"
+                                "Prison Guard Captain: Even so, you have a body that\nfrustrates men, bouncing back with every strong thrust and\nyet swallowing a man's finger as if to sink it."
                             ]
                         },
                         {
@@ -11321,7 +10642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっ…　あっ…！　あっ…！　はぁ…　はぁ…　はぁ…　っ…！"
+                                "Ahh… Ahh…! Ahh…! Haa… haa… haa… ah…!"
                             ]
                         },
                         {
@@ -11393,21 +10714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ホヒッ！　ほれ、ちゃんと奉仕しろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "キスしてやるから舌だしてボクちんのヨダレをちゃんと飲むんだよぉ。"
+                                "Prison Guard Captain: Hohe! There, serve properly. I'll give\nyou a kiss, so stick out your tongue and properly swallow my\nsaliva."
                             ]
                         },
                         {
@@ -11442,7 +10749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んぶっ…！　おぇ…！　うっ…！　え゛ぅ…！"
+                                "Nmbh…! Ugh…! Ugh…! Eugh…!"
                             ]
                         },
                         {
@@ -11459,7 +10766,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お゛ぇ…！　えぅ…！　えっ…！　んぢゅ…　ぢゅる…　むぢゅるる…！！"
+                                "Oe…! Eugh…! Ehh…! Njyu… jyuru… mujyururu…!!"
                             ]
                         },
                         {
@@ -11476,7 +10783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぅ…　ぢゅる…　う゛ぇ…　お゛ぇ…！！　\\!もぅ…　ぃいだろ…　んぐっ…　ええ゛ッッ…！！"
+                                "Hau… jyuru… uve… ove…!! Enough already, right… ngh…\neeehhh!!!"
                             ]
                         },
                         {
@@ -11511,7 +10818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "は～…　は～…　あぐっ！！　はぁ…！　はぁ…　はぁ……！！"
+                                "Haa… haa… agu!! Haa…! Haa… haa…!!"
                             ]
                         },
                         {
@@ -11593,7 +10900,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "い゛……ッッ！！　　づっッ…！！"
+                                "Igh…Ack!! Jutsu…!!"
                             ]
                         },
                         {
@@ -11610,7 +10917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ッッ！！！！　くっ…！　ぐぅ……"
+                                "Ack!!! Kuh…! Guh..."
                             ]
                         },
                         {
@@ -11627,14 +10934,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ホヒヒヒッ♪　今から一番奥にご褒美あげるからねぇ…！ホヒッ！"
+                                "Prison Guard Captain: Hohehehe♪ I'm going to give you a\nreward in the deepest part now…! Hohe!"
                             ]
                         },
                         {
@@ -11651,21 +10951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "膣肉ちゃんと締めて、しっかり飲み込むんだよぉ…！　ホッヒ！　ホッヒ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほらぁ、嬉しいだろぉ？お前もお願いしてみろよぉ…！！"
+                                "Prison Guard Captain: Make sure to clench your vaginal\nmuscles and swallow it properly…! Hohe! Hohe!! Look, aren't\nyou happy? Now beg for it yourself too…!!"
                             ]
                         },
                         {
@@ -11682,7 +10968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わ、わかり…　んひっ…　まひた…　んっ…"
+                                "I understand…Ihih…understood…nnh..."
                             ]
                         },
                         {
@@ -11699,14 +10985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぃ…！　くっ…！　ぐぅ…！　はっ…！　はっ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　\\!わたしの、おまんこの、いちばん…　　はっ…♥　おく、にぃ…ッッ！！"
+                                "I…! Kuh…! Guh…! Hah…! Hah…! My pussy’s deepest spot… hah…♥\nthere, please..."
                             ]
                         },
                         {
@@ -11723,14 +11002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごしゅじん、さまの、せいし…　をっ…♥　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "      \\!なかだし…してっ、んひっ…　くださぃい…！！"
+                                "Master-sama, please cum inside me with your semen…♥ fill me\nup… nhih… please!!!"
                             ]
                         },
                         {
@@ -11786,14 +11058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ホッ♪　ホッ♪　ホッ♪　ホッ…！　ホヒヒヒ……ッッ！！！"
+                                "Prison Guard Captain: Ho♪ Ho♪ Ho♪ Ho...! Hohihihi...!!!"
                             ]
                         },
                         {
@@ -11822,7 +11087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぃ…！　くっ…！　ぐぅ…！　いぐっ！　いぐ…！！　お゛っ！お゛お゛っ！っ！"
+                                "I...! Kuh...! Guh...! Iguh! Igu...!! Ogh! Ogh ogh! !"
                             ]
                         },
                         {
@@ -11839,7 +11104,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぃぐ…！　いぐいぐいぐ…♥　あ゛あ゛あああッッ…！！！！！　"
+                                "Iguh...! Iguiguigu...♥ Agh agh aghhh...!!!!!!"
                             ]
                         },
                         {
@@ -11856,14 +11121,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だめだ…！いやだ…！いやだ！！　あっ…♥あっ…♥あっ…♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　\\!やっぱり…！！い゛っ…！！　いやだ！いやだいやだ！あああ！ダメだッッ！！"
+                                "No, I can't...! I don't want this...! I don't want it!!\nAh...♥ Ah...♥ Ah...♥ But still...!! Igh...!! I don't want\nit! I don't want it, I don't want it! Aaah! It's no good!!!"
                             ]
                         },
                         {
@@ -11892,14 +11150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ゛あ゛あああッッ…！！！！！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!いやだッッ！　いやだッッ……　 \\!～～～～～～～～～～～ッッッ！！♥！！！♥"
+                                "Agh agh aghhh...!!!!!! I don't want it!!! I don't want it...\n~~~~~~~~~~~~~~~~~~~~!!!♥!!!♥"
                             ]
                         },
                         {
@@ -12052,7 +11303,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ッッ～～～！！！　んっ～…！！　あっ…♥　あっ…♥　あっ…♥"
+                                "~~~!!! Nn~...!! Ah...♥ Ah...♥ Ah...♥"
                             ]
                         },
                         {
@@ -12069,14 +11320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ホッ…！　ホッ…！　ホホッ…！　おっ　おっ…！！"
+                                "Prison Guard Captain: Ho...! Ho...! Hoho...! Oh oh...!!"
                             ]
                         },
                         {
@@ -12093,7 +11337,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んん゛…ッッ！　フ～～ッッ！！フ～～ッッ！！　お゛お゛お゛っ…♥♥"
+                                "Nngh...!!! Fuu~~!!! Fuu~~!!! Ogh ogh ogh...♥♥"
                             ]
                         },
                         {
@@ -12173,7 +11417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フ～～～ッッ！！　フグ～～～ッッ！！！　づっ…♥　あづっ…♥"
+                                "Fuu~~~~!!! Fugu~~~~!!! Zutsu...♥ Azutsu...♥"
                             ]
                         },
                         {
@@ -12190,14 +11434,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ…　はぁ…　はぁ…　はぁ……♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出されで、い゛る…　ぅう…　はらの、なかで…　こんなに…　ふぐっ…"
+                                "Haa... haa... haa... haa...♥ Being filled, inside... uuh...\nin my belly, so much like this... fugu..."
                             ]
                         },
                         {
@@ -12272,14 +11509,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はっ…　はっ…　はっ…　はぁ……♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　はぁ…　はぁ…　はぁ…　はぁ…　んくっ……"
+                                "Hah... hah... hah... haa...♥ Haa... haa... haa... haa...\nnkuh..."
                             ]
                         },
                         {
@@ -12296,14 +11526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "顔歪ませて涙流して…！！ほひひッ！そんなに僕の精子気持ちよかったのぉ？"
+                                "Prison Guard Captain: Twisting your face and shedding\ntears...!! Hohihi! Did you enjoy my semen that much?"
                             ]
                         },
                         {
@@ -12332,7 +11555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ッッッ……！！！　はぁ…　はぁ…　ッ…ッッ！！！"
+                                "!!! Haa... haa...!! ...!!!"
                             ]
                         },
                         {
@@ -12349,14 +11572,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほら、いつまで咥えこんでる気だよ淫乱まんこ穴…ッッッ！！"
+                                "Prison Guard Captain: Hey, how long do you plan to keep\nsucking on it, you lewd pussy hole...!!!"
                             ]
                         },
                         {
@@ -12385,14 +11601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やめろ…ッ！！　いま…　ひっ…！　ひきぬいたら…ッッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　\\!おっ！　おっ！　オ゛オ゛ッッッ！！！　"
+                                "Stop it...!! If you pull it out now... hih! Hih! Oh! Oh! OGH\nOGH!!!"
                             ]
                         },
                         {
@@ -12474,7 +11683,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "～～～～～～～～───ッッッ！！♥　　ひっ…　ひぐ…ッ　うっ……！！"
+                                "~~~~~~~~~~~~~~~~~~~~~~~!!!♥ Hih... higu... uuh...!!"
                             ]
                         },
                         {
@@ -12491,21 +11700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おほっ！　ほっ！　ほっ！ほっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボクちんの玉々の中身だけじゃ飽き足らずおちんぽごと持ってこうと吸い付いて…！"
+                                "Prison Guard Captain: Ohoh! Ho! Ho! Ho! You're not satisfied\nwith just the contents of my balls and cling on, trying to\ntake the cock itself with you...!"
                             ]
                         },
                         {
@@ -12573,7 +11768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ひぎ…ッ　つぅ……！！　くぁ……ッッ！！"
+                                "Higi...!! Tsuu...!! Quaah...!!!"
                             ]
                         },
                         {
@@ -12590,21 +11785,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのうえ自分はひとりでアクメきめて…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これだから卑しいネズミは…！ホヒッ！　ホヒホヒッ！"
+                                "Prison Guard Captain: On top of that, you climax all by\nyourself...! This is why filthy rats are...! Hohi! Hohi\nhohi!"
                             ]
                         },
                         {
@@ -12621,7 +11802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うっ…！　ううっ…！　うっ…　うっ…　……"
+                                "Ugh...! Uugh...! Ugh... ugh......"
                             ]
                         },
                         {
@@ -12677,14 +11858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうしたのぉ…？　可哀そうだねぇ…"
+                                "Prison Guard Captain: What's the matter? You look so\npitiful..."
                             ]
                         },
                         {
@@ -12701,14 +11875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄看守長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなに嬉しかったのかなぁ？ご主人との初エッチはぁ…"
+                                "Prison Guard Captain: Were you that happy? Your first time\nwith your master..."
                             ]
                         },
                         {
@@ -12725,7 +11892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ…　はぁ…　はぁ…　はぁ…　そ、そんなわけ、が…　あっ……ッ！"
+                                "Haa... haa... haa... haa... That's not the reason, but...\nah...!"
                             ]
                         },
                         {
@@ -12742,7 +11909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ…　はぁ…　はぁ…──"
+                                "Haa... haa... haa...──"
                             ]
                         },
                         {

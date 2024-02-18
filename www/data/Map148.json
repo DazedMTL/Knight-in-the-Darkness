@@ -18394,7 +18394,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "イベントをスキップしますか？"
+                                "Would you like to skip the event?"
                             ]
                         },
                         {
@@ -18402,8 +18402,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -18675,14 +18675,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？？："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "侵入者の報を受け駆け付けてみれば…、成る程、貴様だったか。"
+                                "????: Upon receiving the report of an intruder and rushing\nover... I see, it was you."
                             ]
                         },
                         {
@@ -18824,14 +18817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔導服の男："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "近いうちに再び相見えると踏んでいたが、まさか一人で乗り込んでくるとはな。クックック…！"
+                                "Mage in Magical Garb: I had a feeling we'd meet again soon,\nbut to think you'd come alone. Kukukuku...!"
                             ]
                         },
                         {
@@ -18862,7 +18848,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お前は、復興地区でゴーレムをけしかけてきた魔導士……！！"
+                                "You are the sorcerer who incited the golems in the\nreconstruction district...!!"
                             ]
                         },
                         {
@@ -18893,21 +18879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔導服の男："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これは丁度いい。街での借り、返させてもらうぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そして二度と我らの邪魔を出来ぬよう、今日この場で始末してやるっ！"
+                                "Mage in Magical Garb: This is perfect. I'll repay the debt\nfrom our last encounter in the city. And to ensure you never\ninterfere with us again, I'll finish you off right here\ntoday!"
                             ]
                         },
                         {
@@ -18924,14 +18896,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔導服の男："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{今回も勝てると思うなよッッ！！"
+                                "Mage in Magical Garb: Don't think you can win this time\neither!!"
                             ]
                         },
                         {
@@ -20146,14 +20111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔導服の男："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{もの共かかれッ！！あの女をけして逃がして帰すなッ！！"
+                                "Mage in Magical Garb: Minions, attack!! Do not let that\nwoman escape!!"
                             ]
                         },
                         {
@@ -20256,7 +20214,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フン、戦闘はもとより覚悟の上！今さら怖気付くものか！！"
+                                "Hmph, I was prepared for battle from the start! I won't\nstart getting cold feet now!!"
                             ]
                         },
                         {
@@ -20273,7 +20231,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（見たところ敵の数は多いが、幸いにもここは通路が狭い。）"
+                                "(It seems there are many enemies, but fortunately, this\ncorridor is narrow.)"
                             ]
                         },
                         {
@@ -20290,14 +20248,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（見通しが悪いのは相手も同じ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ならばこちらも雑兵共の後ろを取れば不意打ちを仕掛けることが可能なはずだ。）"
+                                "(Poor visibility goes both ways. If I can get behind their\nrank and file, I should be able to launch a surprise\nattack.)"
                             ]
                         },
                         {
@@ -20314,14 +20265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（数で押し込むつもりだろうが四方から囲まれる心配が無いのならば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私は目の前に立ちはだかる者から斬り捨てるのみっ！！）"
+                                "(They may intend to overwhelm with numbers, but if there's\nno worry of being surrounded from all sides, then all I need\nto do is cut down those who stand before me!!)"
                             ]
                         },
                         {
@@ -20338,14 +20282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{貴様の方こそ腹をくくれ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日はその無様な逃げ足、さらしてくれるなよ！！"
+                                "You'd better brace yourself! Today, you'll be the one\nshowing off your pathetic attempt to flee!!"
                             ]
                         },
                         {

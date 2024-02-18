@@ -4429,7 +4429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自室のベッドに騎士を運び不慣れな手当てを終えると、疲労が青年の目蓋を重くする。"
+                                "After carrying the knight to the bed in my room and\nfinishing the unfamiliar task of treating his wounds,\nfatigue made the young man's eyelids heavy."
                             ]
                         },
                         {
@@ -4497,7 +4497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これは全て夢で、目を覚ますときっと何もかも起こっておらず……"
+                                "This is all just a dream, and when I wake up, surely nothing\nwill have happened..."
                             ]
                         },
                         {
@@ -4595,14 +4595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "噂話なんて聞いてしまったから悪い夢を見たんだ、なんて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "落胆した朝をまた迎えるんだろうな、そんな願いを込めて深い眠りにつく……──"
+                                "It's because I heard those rumors that I had such a bad\ndream. I'll probably wake up to another disappointing\nmorning, with that wish in my heart, I fall into a deep\nsleep...──"
                             ]
                         },
                         {
@@ -4764,7 +4757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                "..."
                             ]
                         },
                         {

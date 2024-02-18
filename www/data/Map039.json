@@ -7423,14 +7423,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奴隷労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぇ～。こんなもん初めて見たよ。"
+                                "Slave Laborer: \"Wow... I've never seen anything like this\nbefore.\""
                             ]
                         },
                         {
@@ -7514,14 +7507,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これは…、朽ちて随分と時間が経っているようだが…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの魔物は、こいつを守っていたのか。せめて手厚く葬るよう他の者たちに伝えておくか…"
+                                "This is... It seems to have decayed quite a bit over time...\nWas that demon protecting this one? I should at least tell\nthe others to give it a proper burial..."
                             ]
                         },
                         {
@@ -7681,14 +7667,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奴隷労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "作業しないならアッチに行ってな。早く補強しとかないとまた崩れちまうからね。"
+                                "Slave Worker: If you're not working, go over there. We need\nto reinforce it quickly or it'll collapse again."
                             ]
                         },
                         {
@@ -8167,14 +8146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やぁやぁ！助かったよ！ 道は補強してあるから自由に奥まで通っていいぞ！"
+                                "Worker: Hey hey! You've been a great help! The path has been\nreinforced, so feel free to go all the way to the back!"
                             ]
                         },
                         {

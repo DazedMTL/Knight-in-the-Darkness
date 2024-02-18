@@ -8486,7 +8486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おや？これは……"
+                                "Oh? What's this..."
                             ]
                         },
                         {
@@ -8532,7 +8532,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『資料室の鍵』を手に入れた。"
+                                "\"Archive Room Key\" acquired."
                             ]
                         },
                         {
@@ -8556,14 +8556,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「資料室」か。たしかこの施設のフロントに鍵のかかった部屋があったな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "足を運んでみるのもいいかもな。"
+                                "\"Archive Room,\" huh? If I remember correctly, there was a\nlocked room near the front of this facility. It might be\nworth checking out."
                             ]
                         },
                         {
@@ -8766,7 +8759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（辛いが、彼に事の顛末を話すまで先を急ぐことは出来ないよ……）"
+                                "(It's tough, but I can't rush ahead until I tell him what\nhappened...)"
                             ]
                         },
                         {
@@ -8985,14 +8978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なりそこない："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "フジュル……　フジュル……ル………"
+                                "Failed Creation: Fjur... Fjur... r..."
                             ]
                         },
                         {
@@ -9023,7 +9009,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（……………………………………………………）"
+                                "(...)"
                             ]
                         },
                         {
@@ -9098,14 +9084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なりそこない："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "フジュル……　フジュル……ル………"
+                                "Failed Creation: Fjur... Fjur... r..."
                             ]
                         },
                         {
@@ -9141,7 +9120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………………………………………"
+                                "..."
                             ]
                         },
                         {
@@ -9149,9 +9128,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[18]苦しむことの無いように楽にしてやる。\\C[0]",
-                                    "\\C[6]安易な考えであると思いとどまる。\\C[0]",
-                                    "もう少しだけ考える。"
+                                    "\\C[18]I'll make it easy for you so you won't suffer.\\C[0]",
+                                    "\\C[6]I reconsider, thinking it's a simplistic idea.\\C[0]",
+                                    "I'll think about it a little more."
                                 ],
                                 -1,
                                 -1,
@@ -9188,7 +9167,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（……………………………………………………）"
+                                "(...)"
                             ]
                         },
                         {
@@ -9205,7 +9184,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "せめてもう苦しむことの無いよう眠ってくれ。許せ……──"
+                                "At least may you sleep without suffering anymore. Forgive\nme...──"
                             ]
                         },
                         {
@@ -9375,7 +9354,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "くっ……　やはり、こんなことなど……間違っている……"
+                                "Tsk... As I thought, this is... wrong..."
                             ]
                         },
                         {
@@ -9392,7 +9371,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "もう一度だけ、彼と話してみよう……"
+                                "Just once more, I'll try talking to him..."
                             ]
                         },
                         {
@@ -9630,7 +9609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（辛いが、彼に事の顛末を話すまで先を急ぐことは出来ないよ……）"
+                                "(It's tough, but I can't rush ahead until I tell him the\nwhole story...)"
                             ]
                         },
                         {
@@ -9789,7 +9768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（辛いが、彼に事の顛末を話すまで先を急ぐことは出来ないよ……）"
+                                "(It's tough, but I can't rush ahead until I tell him the\nwhole story...)"
                             ]
                         },
                         {
@@ -10200,7 +10179,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "移動先を選択してください。"
+                                "Please select a destination."
                             ]
                         },
                         {
@@ -10208,10 +10187,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "洞窟入口へ",
-                                    "魔導研究所入口へ",
-                                    "個人研究室前へ",
-                                    "移動しない"
+                                    "To the cave entrance",
+                                    "To the entrance of the magical research institute",
+                                    "To the front of the private study",
+                                    "Do not move"
                                 ],
                                 2,
                                 0,

@@ -14710,7 +14710,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "開かない。扉が施錠してあるようだ。"
+                                "It won't open. It seems the door is locked."
                             ]
                         },
                         {
@@ -14809,7 +14809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「資料室」と書いてある。"
+                                "\"It says 'Archive Room'.\""
                             ]
                         },
                         {
@@ -14893,14 +14893,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "薬草がこんなに。見たところ使用に問題は無さそうだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この先何があるかわからない、悪いが少し使わせてもらうよ。"
+                                "There's so much medicinal herb here. It looks like there's\nno problem using it. We don't know what lies ahead, so\nsorry, but I'll use a bit of it."
                             ]
                         },
                         {
@@ -15692,14 +15685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究員："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴様、何者だッ！？"
+                                "Researcher: Who the hell are you?!"
                             ]
                         },
                         {
@@ -16067,7 +16053,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "何だこの施設は……"
+                                "What is this facility..."
                             ]
                         },
                         {
@@ -16084,7 +16070,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "こんな巨大なものが王都に程近い地下に作られていたというのか……"
+                                "So something this huge was built underground, so close to\nthe royal capital..."
                             ]
                         },
                         {
@@ -16470,7 +16456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "微細な遺灰を手に入れた！"
+                                "Gained Fine Ashes!"
                             ]
                         },
                         {

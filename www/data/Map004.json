@@ -2148,7 +2148,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "このシーンは一度閲覧済みです。スキップしてバトルを開始しますか？"
+                                "This scene has already been viewed. Would you like to skip\nand start the battle?"
                             ]
                         },
                         {
@@ -2156,8 +2156,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2461,7 +2461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こいつがこの洞窟のヌシのようだな。"
+                                "It seems this one is the master of the cave."
                             ]
                         },
                         {
@@ -2612,7 +2612,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おびただしい骸の数…　はたしてどれ程の者が犠牲になったというのか。"
+                                "The sheer number of corpses... How many have fallen victim\nhere?"
                             ]
                         },
                         {
@@ -2770,7 +2770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ようやく気付いたか痴れ者が。"
+                                "Finally noticed me, you fool?"
                             ]
                         },
                         {
@@ -2787,7 +2787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "罪無きものを喰い散らすだけに飽き足らず、私も殺して喰らうか？血に飢えた邪悪め。"
+                                "Not satisfied with just devouring the innocent, you aim to\nkill and eat me as well? You bloodthirsty evil."
                             ]
                         },
                         {
@@ -2825,14 +2825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私には私の使命があるのだがな、騎士である以上貴様のような存在を見過ごすことは許されん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "己が報い、受けてもらうぞ。"
+                                "I have my own mission, and as a knight, I cannot overlook an\nexistence like yours. You will receive your retribution."
                             ]
                         },
                         {
@@ -2889,7 +2882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{──死して償え、大喰らいッ！！"
+                                "──Die and atone, Glutton!"
                             ]
                         },
                         {
@@ -3240,14 +3233,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "魔物に喰われた亡骸たちを弔ってやりたいが今は時間が惜しい…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "このような場所に置き去りにするのは心苦しいが、もう少しだけ辛抱していてくれ…"
+                                "I wish to mourn for those devoured by the monster, but time\nis precious... It pains me to leave them in such a place,\nbut please bear with it a little longer..."
                             ]
                         },
                         {

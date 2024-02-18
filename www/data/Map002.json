@@ -8702,7 +8702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奥から魔物の唸り声が聞こえてくる。"
+                                "A growling sound of a monster can be heard from the depths."
                             ]
                         },
                         {
@@ -8726,7 +8726,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これは少し用心したほうが良いかもしれないな…"
+                                "We might need to be a bit cautious here..."
                             ]
                         },
                         {
@@ -8750,7 +8750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先に進みますか？"
+                                "Shall we proceed?"
                             ]
                         },
                         {
@@ -8758,8 +8758,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -9396,7 +9396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここが情報にあった洞窟か。"
+                                "So this is the cave mentioned in the information."
                             ]
                         },
                         {
@@ -9413,7 +9413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "噂が確かならば、最深部に探しているあるものが眠っているというが…"
+                                "If the rumors are true, something I'm searching for lies\nsleeping in its deepest part..."
                             ]
                         },
                         {
@@ -9460,7 +9460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかしこんな辺境の地にまで魔物が巣食っているというのか。嘆かわしいな。"
+                                "But to think that monsters have infested even such a remote\nplace. How lamentable."
                             ]
                         },
                         {
@@ -9507,14 +9507,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だがここで臆しては騎士の名折れというもの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "若き我が主のため。私は一時でも早く使命を果たさねばならんのだ。"
+                                "However, to falter here would be a disgrace to the name of a\nknight. For my young lord, I must fulfill my mission as\nswiftly as possible."
                             ]
                         },
                         {
@@ -9583,7 +9576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "雑魚どもを蹴散らして深部へと向かうぞ。"
+                                "I'll scatter these small fry and head towards the depths."
                             ]
                         },
                         {
@@ -12000,7 +11993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここまで来て臆するなぞあってはならん。我が目的のため奥まで駆けるぞ。"
+                                "We must not falter now that we've come this far. For our\npurpose, let's press on to the depths."
                             ]
                         },
                         {
@@ -12658,7 +12651,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポーションを手に入れた！"
+                                "Gained a Potion!"
                             ]
                         },
                         {
@@ -12905,7 +12898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポーションを手に入れた！"
+                                "Gained a Potion!"
                             ]
                         },
                         {
@@ -15218,7 +15211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マジックウォーターを手に入れた！"
+                                "Obtained Magic Water!"
                             ]
                         },
                         {

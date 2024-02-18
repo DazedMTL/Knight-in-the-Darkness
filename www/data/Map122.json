@@ -11082,7 +11082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　・BADEND 04　～『　騎士の時代の終わり。　』～"
+                                ".BADEND 04 - \"The End of the Knight's Era.\""
                             ]
                         },
                         {
@@ -11166,7 +11166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "進行状況をセーブしてやりなおしますか？"
+                                "Would you like to save your progress and try again?"
                             ]
                         },
                         {
@@ -11181,8 +11181,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

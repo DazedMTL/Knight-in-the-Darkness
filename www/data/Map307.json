@@ -4386,7 +4386,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "騎士といえば、こんな噂を知っているか？"
+                                "Speaking of knights, have you heard this rumor?"
                             ]
                         },
                         {
@@ -4403,14 +4403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "月の照らす夜の暗闇から領内各地にふらりと現れては、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔物を斬り捨てて再び暗闇へとその姿をくらますって騎士の噂だよ。"
+                                "They say there's a knight who appears from the darkness on\nmoonlit nights, slaying monsters and then vanishing back\ninto the dark."
                             ]
                         },
                         {
@@ -4427,14 +4420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "血に濡れた鎧は黒ずんで、その姿を見てしまった者は生きて帰ることはないって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今はもうその名も忘れ去られちまった一人の騎士の話さ。"
+                                "Their armor, stained with blood, has turned black, and those\nwho have seen them never return alive. It's the tale of a\nknight, now forgotten by time."
                             ]
                         },
                         {
@@ -4451,14 +4437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "生きて帰ったもんがいないなら、いったい誰がそんな噂を流したのだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さぁね、そんなの知ったこっちゃない。"
+                                "If no one who saw them lived to tell the tale, who started\nthe rumor? Who knows, it's not my concern."
                             ]
                         },
                         {
@@ -4482,7 +4461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それでもね──、"
+                                "But still──,"
                             ]
                         },
                         {
@@ -4499,7 +4478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それでもこんな月夜をみると想うのさ。"
+                                "But still, on nights like this, with the moon shining down,\nI can't help but wonder."
                             ]
                         },
                         {
@@ -4523,7 +4502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日もひとり孤独に草原を駆ける、この国最後の騎士の、その姿を……──"
+                                "About the lone figure racing across the plains, the last\nknight of this country...──"
                             ]
                         },
                         {
@@ -4679,7 +4658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　・NormalEND　～『　ナイトインザダークネス　』～"
+                                ".NormalEND～ \"Knight in the Darkness\"～"
                             ]
                         },
                         {

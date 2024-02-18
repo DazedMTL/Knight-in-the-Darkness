@@ -10102,14 +10102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これより戦闘訓練を開始する！！各員位置につけッ！！"
+                                "Commander: Combat training begins now!! Everyone, take your\npositions!!"
                             ]
                         },
                         {
@@ -10656,14 +10649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？？："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "……………………………………"
+                                "????: ..."
                             ]
                         },
                         {
@@ -10696,14 +10682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "粗暴な兵士："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日の訓練相手は、へぇ、こいつはツイてるぜ♪"
+                                "Brutish Soldier: Today's training partner is, heh, my lucky\nday♪"
                             ]
                         },
                         {
@@ -10720,21 +10699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "粗暴な兵士："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "モンスター共との訓練も悪くねぇが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "コイツは練習相手として負かすことが出来たら『好きに使っていい』からな。"
+                                "Brutish Soldier: Training with monsters ain't bad, but if\nyou can beat this one, you get to \"use her as you like\"."
                             ]
                         },
                         {
@@ -10758,21 +10723,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "目付きの悪い傭兵："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "足枷付けられて動きが鈍ってるとはいえ実践稽古の相手の中じゃ特に強ぇからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっくら気合を入れてかからせてもらうとするぜ。"
+                                "Menacing Mercenary: She might be shackled and slow, but\nshe's especially strong among our sparring partners. I'll\nhave to put some real effort into this."
                             ]
                         },
                         {
@@ -10789,21 +10740,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "目付きの悪い傭兵："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ま、それよりもこんな上玉の女を思い切りブン殴れる機会なんてそうないからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その意味でも、楽しませてもらうぜぇ…ゲヘヘ。"
+                                "Menacing Mercenary: Well, opportunities to beat the crap out\nof such a fine woman don't come often. In that sense, I'm\ngonna enjoy this... Hehehe."
                             ]
                         },
                         {
@@ -10858,21 +10795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "粗暴な兵士："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "新人さんも「戦闘中に気を失って目覚めたら何もかんも終わってた」じゃ勿体ねぇからよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いっちょ協力してこの戦闘人形退治といこうじゃないか…！"
+                                "Brutish Soldier: It'd be a waste for the newbie to \"pass out\nduring combat and wake up when it's all over\". How about we\ncooperate and take down this combat doll...!"
                             ]
                         },
                         {
@@ -10943,7 +10866,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………………………"
+                                "..."
                             ]
                         },
                         {
@@ -11014,14 +10937,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "各員、フォーメーションを乱すなよ。はじめるぞ。\\!\\{かかれッ──！！！"
+                                "Commander: Everyone, maintain formation. We're starting.\nCharge──!!!"
                             ]
                         },
                         {
@@ -11207,14 +11123,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "兵士長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そこまで──！！"
+                                "Commander: That's enough──!!"
                             ]
                         },
                         {
@@ -11304,21 +11213,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "兵士長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "以上をもって本日の戦闘訓練を終了する！本時刻以降は自由行動とする！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "次回の訓練ぬかりなく行えるよう各自備えておくように！それでは解散ッ！！"
+                                "Commander: With that, today's combat training is concluded!\nFrom this moment on, you are free to do as you please!\nPrepare yourselves so that you can perform flawlessly in the\nnext training! Dismissed!!"
                             ]
                         },
                         {
@@ -11445,14 +11340,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "兵士長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そこまで──！！"
+                                "Commander: That's enough──!!"
                             ]
                         },
                         {
@@ -11500,14 +11388,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "兵士長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "やり過ぎだ！戦闘人形めっ！！"
+                                "Commander: You've gone too far! Damn battle doll!!"
                             ]
                         },
                         {
@@ -11663,21 +11544,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "兵士長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "以上をもって本日の戦闘訓練を終了する！本時刻以降は自由行動とする！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "次回の訓練ぬかりなく行えるよう各自備えておくように！それでは解散ッ！！"
+                                "Commander: With that, today's combat training is concluded!\nFrom this moment on, you are free to do as you please!\nPrepare yourselves so that you can perform flawlessly in the\nnext training! Dismissed!!"
                             ]
                         },
                         {

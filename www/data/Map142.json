@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "幕間 -お金がすごく無い-",
+    "displayName": "Interlude -Desperately Broke-",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -10004,14 +10004,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁ～～～…　また今晩も野宿かぁ……"
+                                "Akane: Sigh... Looks like we're camping out again tonight..."
                             ]
                         },
                         {
@@ -10049,21 +10042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "街を見かけたはいいものの、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "食料を買うだけで手一杯、宿代まではとても手持ちじゃ足らんな…"
+                                "Reisha: We finally saw a town, but after buying food, we\nbarely have anything left, let alone enough for lodging..."
                             ]
                         },
                         {
@@ -10110,21 +10089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "採掘坑から脱出したはいいけど、考えりゃ一文無しで放り出されたわけだしな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今まともな服着て歩いてるだけでも私らたいしたもんだよ…"
+                                "Akane: We managed to escape from the mining pit, but when\nyou think about it, we were thrown out with not a penny to\nour names. It's quite something that we're even walking\naround in decent clothes..."
                             ]
                         },
                         {
@@ -10495,21 +10460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "王都まではまだ大分かかるだろうし、しばらくはここを拠点として金策を考えよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "明日になったらギルドにでも寄って冒険者でも受けられる仕事を探そう。"
+                                "Reisha: The royal capital is still a long way off, so let's\nuse this place as a base for now and think of ways to make\nmoney. Tomorrow, let's stop by the guild and look for some\nadventurer work we can take on."
                             ]
                         },
                         {
@@ -10563,14 +10514,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（………………………………………）"
+                                "Akane: (…)"
                             ]
                         },
                         {
@@ -10587,21 +10531,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな悠長に仕事をしてたらお前、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "王都に着くのがいつになるかちょっとは考えろ。急いでるんだろう？"
+                                "Akane: If you take your sweet time with jobs like that, have\nyou thought about when we'll ever get to the royal capital?\nWe're in a hurry, aren't we?"
                             ]
                         },
                         {
@@ -10639,14 +10569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうはいってもなぁ。我々は明日の飯にも困る身だぞ？"
+                                "Reisha: Even so... We're in a situation where we're worried\nabout tomorrow's meal, you know?"
                             ]
                         },
                         {
@@ -10693,14 +10616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（………………………………………）"
+                                "Akane: (…)"
                             ]
                         },
                         {
@@ -10738,21 +10654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "力仕事はどうだろうな。私は出来るがアカネでも行えるものとなると……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "金がある程度あれば馬も雇えるだろうから……"
+                                "Reisha: How about manual labor? I can handle it, but if it's\nsomething Akane can do too... If we had a decent amount of\nmoney, we could even hire a horse..."
                             ]
                         },
                         {
@@ -10799,14 +10701,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（………………………………………）"
+                                "Akane: (…)"
                             ]
                         },
                         {
@@ -10823,14 +10718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そもそもよぉ。"
+                                "Akane: First of all..."
                             ]
                         },
                         {
@@ -10868,14 +10756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ん？どうした？"
+                                "Reisha: Hm? What's wrong?"
                             ]
                         },
                         {
@@ -10922,14 +10803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今の会話の流れで、お前は疑問に思うことって、少しは無いわけ？"
+                                "Akane: Don't you have any questions about the way this\nconversation is going? Not even a little?"
                             ]
                         },
                         {
@@ -10967,21 +10841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "着の身着のまま脱出した我々は他の労働者と別れ王都へと向かっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そして今は路銀に困っている。それはそうだろうなとしか言いようがない。何が問題なんだ？"
+                                "Reisha: We escaped with nothing but the clothes on our backs\nand parted ways with the other workers to head for the royal\ncapital. And now we're strapped for cash. That's just how it\nis. What's the problem?"
                             ]
                         },
                         {
@@ -11147,21 +11007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{だったら何でお前はそんなにしっかり装備整えてんだよッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "って言いたいんだ私はッ！！"
+                                "Akane: Then why the hell are you so fully equipped?! That's\nwhat I wanna scream at you!!"
                             ]
                         },
                         {
@@ -11199,21 +11045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これか？これは騎士の嗜みだ。騎士たるもの常に徳高く洗練されてなければいかん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それは旅の途中でも変わらない。"
+                                "Reisha: This? This is a knight's pride. A knight must always\nbe virtuous and refined. That doesn't change even when\ntraveling."
                             ]
                         },
                         {
@@ -11282,21 +11114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{だから！今私らが金に困ってんのは、僅かばかり稼いだ金の大半を、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その装備を買うのに使っちまったからだろぉぉがああああ！！！"
+                                "Akane: That's what I'm saying! The reason we're strapped for\ncash now is because you spent most of the little money we\nearned on that gear!!!"
                             ]
                         },
                         {
@@ -11334,14 +11152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "声を荒げないでくれ。ちょっと怖いぞ。"
+                                "Reisha: Please don't raise your voice. It's a bit scary."
                             ]
                         },
                         {
@@ -11427,21 +11238,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それだけに飽き足らず炉端で困ってる奴を見かけたら「施しだ」なんて言って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少ない金を更に分け与えちまってる！だから肝心の私たちの腹がスッカスカなんだろうが！"
+                                "Akane: Not only that, but whenever you see someone\nstruggling by the hearth, you go 'It's charity' and give\naway even more of our scarce money! That's why our own\nstomachs are empty!"
                             ]
                         },
                         {
@@ -11479,21 +11276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "寛容さは騎士の美徳だ。多少切り崩しても余裕のある振る舞いは欠かせん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その分影で倹約すればいい。お前だってわかるだろう？"
+                                "Reisha: Generosity is a knightly virtue. Even if we have to\ncut back a bit, we must maintain a demeanor of abundance. We\ncan just be frugal in other ways. You understand, right?"
                             ]
                         },
                         {
@@ -11601,14 +11384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{\\{私は騎士じゃねぇーーーーッッッ！！！"
+                                "Akane: I'm not a knight----!!!"
                             ]
                         },
                         {
@@ -11657,21 +11433,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "金に困ってんなら盗ればいいじゃねぇかよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "持ってかれてもそいつが困らねぇもん見繕って、私がチョロッとやってきてやるって！"
+                                "Akane: If we're short on money, why don't we just steal it?!\nI'll pick out something that won't cause them trouble if\nit's gone, and I'll sneakily take care of it!"
                             ]
                         },
                         {
@@ -11709,14 +11471,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ギリッ……！）"
+                                "Reisha: (Gritting teeth...!)"
                             ]
                         },
                         {
@@ -11763,14 +11518,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じょ、冗談だって…ッ！そんなに睨むんじゃねぇ！！お前デケェから怖ぇんだよ！！"
+                                "Akane: Jo-, it was just a joke...! Don't glare at me like\nthat!! You're huge and it's scary!!"
                             ]
                         },
                         {
@@ -11808,14 +11556,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わかればいいさ。ついでに次はもっと笑える冗談を頼むぞ？"
+                                "Reisha: Good to know. Next time, try to come up with a joke\nthat's actually funny, alright?"
                             ]
                         },
                         {
@@ -11871,14 +11612,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だーっ！！もーーーーーっ！！！"
+                                "Akane: Da-!! Mo-----!!!"
                             ]
                         },
                         {
@@ -12183,21 +11917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "背に腹は変えらんねぇ。しゃーない、ちっと取り分が減っちまうが雇ってもらうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "衣装なんかの貸しもあるだろ！！！"
+                                "Akane: Can't swap my back for my belly. No choice then, I\nguess I'll have to accept less of a share and get hired.\nThey must have costumes for rent or something!!!"
                             ]
                         },
                         {
@@ -12235,14 +11955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうしたアカネ。街に行くのか？何かいい案でも浮かんだか？"
+                                "Reisha: What's up, Akane? Going into town? Did you come up\nwith a good idea?"
                             ]
                         },
                         {
@@ -12289,21 +12002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あぁあるさ。私たちみたいな女冒険者にはぴったりの上策がな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おい、レイシア。お前マッサージの経験くらいはあるか？"
+                                "Akane: Yeah, I've got one. There's a perfect plan for female\nadventurers like us. Hey, Reisha. Do you have any experience\nwith massages?"
                             ]
                         },
                         {
@@ -12341,14 +12040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "按摩かぁ！成る程それなら私にも心得があるよ。"
+                                "Reisha: Massage, huh! I see, I do have some knowledge in\nthat area."
                             ]
                         },
                         {
@@ -12365,21 +12057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "戦闘や訓練の合間の僅かな時間に部下たちと共に行うこともある。疲労回復に実に良いんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "グッと身体の筋を伸ばすとコリもほぐれるし気持ちも晴れる。"
+                                "Reisha: I've done it during the brief moments between combat\nand training with my subordinates. It's really good for\nrecovering from fatigue. Stretching out the muscles firmly\ncan relieve stiffness and clear the mind."
                             ]
                         },
                         {
@@ -12396,21 +12074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それだけじゃない。宮廷に客として招かれた際にも、もてなしとして施術を受けたこともある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの時は珍しい油や香草などを使ってもらったな。あれは格別だったよ、うんうん。"
+                                "Reisha: Not just that. When invited as a guest to the court,\nI've also received treatments as part of the hospitality.\nThey used rare oils and herbs then. That was exceptional\nindeed, yes indeed."
                             ]
                         },
                         {
@@ -12427,14 +12091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイシア："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "他人に行うのは久々だがうまくやれるさ。施術師か、うんいいじゃないか！"
+                                "Reisha: It's been a while since I've done it for someone\nelse, but I should be able to do it well. A masseuse, huh?\nYeah, that's not bad!"
                             ]
                         },
                         {
@@ -12481,21 +12138,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ん？そうなのか？意外っちゃ意外だが慣れてるに越したことはないさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それじゃあ行くか。ついでに風呂も貰おうぜ。"
+                                "Akane: Huh? Really? That's unexpected but better if you're\nused to it. Then let's go. And let's get a bath while we're\nat it."
                             ]
                         },
                         {

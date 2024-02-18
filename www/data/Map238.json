@@ -15406,7 +15406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（しまったな。想定していたよりも時間がかかってしまっている……）"
+                                "(Damn it. This is taking longer than I expected...)"
                             ]
                         },
                         {
@@ -15516,21 +15516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者A："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お、おい…！本当に出口ってこっちで合ってるのか！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつまで経っても見えてこないじゃねぇか！"
+                                "Worker A: Hey, hey...! Are you sure this is the way to the\nexit!? We've been walking forever and still can't see it!"
                             ]
                         },
                         {
@@ -15561,14 +15547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちらで間違いないはずなのだがな……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そう遠くないとは聞いている。もう少し辛抱してくれ。"
+                                "It should be the correct way... I've heard it's not too far.\nJust bear with it a little longer."
                             ]
                         },
                         {
@@ -15671,21 +15650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者B："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "他人に当たっても仕方ないだろ。オレ達はついていくだけさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなに心配なら尻尾まいて帰ったらいいだろう！"
+                                "Worker B: There's no point in taking it out on others. We\njust have to follow along. If you're that worried, why don't\nyou just tuck your tail and head back!"
                             ]
                         },
                         {
@@ -15882,21 +15847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者A："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな真っ暗な中を引き返すなんてそれこそ無理だろうが！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちったぁ頭使って物言えや！"
+                                "Worker A: As if we could just turn back in this pitch\ndarkness! Use your head before you speak, will you!"
                             ]
                         },
                         {
@@ -15929,14 +15880,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者B："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "んだとテメェ！！やろうってのか！？"
+                                "Worker B: What did you say to me!! You wanna go!?"
                             ]
                         },
                         {
@@ -15967,7 +15911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（先行しているアカネに出口への道を示す目印の用意のひとつでもさせておくべきだったな。）"
+                                "(I should have had Akane, who went ahead, prepare some kind\nof marker to show the way to the exit.)"
                             ]
                         },
                         {
@@ -15984,7 +15928,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（今は少しでも前に進む事を優先すべきだが、このような状態で先へ進んでも危険なだけだ…）"
+                                "(We need to prioritize moving forward for now, but\nproceeding in this state is just dangerous...)"
                             ]
                         },
                         {
@@ -16024,14 +15968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "疲れたなら少し休もうか。ここで揉めた所で問題は解消されない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大丈夫、私がきっと出口まで連れて行くと約束する。今は私を信じて着いてきて欲しい。"
+                                "If you're tired, shall we take a short break? Arguing here\nwon't solve anything. Don't worry, I promise I'll definitely\nlead you to the exit. For now, I just need you to trust me\nand follow."
                             ]
                         },
                         {
@@ -16062,14 +15999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そ、そうだよな。取り乱して悪かったよ…"
+                                "Worker: Yeah, you're right. Sorry for losing my cool..."
                             ]
                         },
                         {
@@ -16335,14 +16265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "身体は休まったか？道中の身の安全は私に任せ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君たちは慎重に付いてきてくれればいい。それでは先を急ぐぞ。"
+                                "Are you rested? Leave the safety of our journey to me, and\nyou just need to follow carefully. Let's hurry on ahead."
                             ]
                         },
                         {

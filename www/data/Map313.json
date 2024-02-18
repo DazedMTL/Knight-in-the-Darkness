@@ -8792,7 +8792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんな……ウソだ……"
+                                "No way... It can't be..."
                             ]
                         },
                         {
@@ -8809,7 +8809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "間に合わなかった……のか……"
+                                "Did I not make it in time...?"
                             ]
                         },
                         {
@@ -8849,7 +8849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くそぉ……"
+                                "Damn it..."
                             ]
                         },
                         {
@@ -8873,7 +8873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{くそおおおおおおおぉぉぉおおおッッ！！！！"
+                                "Damn it allllllllll!!!!"
                             ]
                         },
                         {
@@ -8904,14 +8904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゲホッ……カハッ……ッッ……"
+                                "Director: *cough*... *hack*...!"
                             ]
                         },
                         {
@@ -8944,7 +8937,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "生き、てる……？"
+                                "Is he... alive...?"
                             ]
                         },
                         {
@@ -8977,14 +8970,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ま、かなりギリギリだったけどな……"
+                                "Director: Well, it was a pretty close call..."
                             ]
                         },
                         {
@@ -9008,7 +8994,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "間に合った、のか……？"
+                                "Did we make it in time...?"
                             ]
                         },
                         {
@@ -9032,14 +9018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなとこでくたばってたまるかよ……"
+                                "Director: Like I'd kick the bucket in a place like this..."
                             ]
                         },
                         {
@@ -9063,7 +9042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うぅ……　ひぐっ……"
+                                "Ugh... *sob*..."
                             ]
                         },
                         {
@@ -9080,7 +9059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{うわああああああああぁぁぁん！！！"
+                                "Aaaaaaaahhhhhhhhh!!!"
                             ]
                         },
                         {
@@ -9113,14 +9092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ったくうるさいね……、おちおち眠っていられやしない……"
+                                "Director: Geez, you're loud... Can't even sleep in peace..."
                             ]
                         },
                         {
@@ -9144,14 +9116,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "──……ありがとよ、レイシア。"
+                                "Director: ...Thanks, Reisha."
                             ]
                         },
                         {
@@ -9293,28 +9258,7 @@
                             "code": 405,
                             "indent": 0,
                             "parameters": [
-                                "[制作ツール]"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "RPGツクールMV/RPG Maker MV"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "Copyright (C) 2015 KADOKAWA CORPORATION./YOJI OJIMA."
+                                "[Development Tool] RPG Maker MV/RPG Maker MVCopyright (C)\n2015 KADOKAWA CORPORATION./YOJI OJIMA."
                             ]
                         },
                         {

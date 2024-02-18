@@ -12340,7 +12340,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この転送陣は起動しないようだな……"
+                                "It seems this teleportation circle won't activate..."
                             ]
                         },
                         {
@@ -12364,7 +12364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここから先は足を使い地道に進む他ない、か。"
+                                "From here on, we have no choice but to proceed on foot, huh."
                             ]
                         },
                         {
@@ -12591,9 +12591,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "魔導研究所入口へ",
-                                    "個人研究室前へ",
-                                    "移動しない"
+                                    "To the entrance of the Magic Research Institute",
+                                    "To the front of the private research lab",
+                                    "Do not move"
                                 ],
                                 2,
                                 0,

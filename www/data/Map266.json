@@ -10542,14 +10542,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔導士風の男："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今月はこれだけか。"
+                                "Mage-like Man: Is this all for this month?"
                             ]
                         },
                         {
@@ -10573,21 +10566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "売人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "えぇ。これでも十分な量かと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これ以上をと言われますとこちらのネズミどもが皆まいっちまいます。"
+                                "Dealer: Yes. I believe this is a sufficient amount. If you\nask for more, all our little mice here will be gone."
                             ]
                         },
                         {
@@ -10611,21 +10590,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔導士風の男："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "十分かどうかはこちらが決めることだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前は注文通りに採れたものを用意することだけ考えろ。"
+                                "Mage-like Man: It's not for you to decide what's sufficient.\nJust make sure you prepare what's been ordered."
                             ]
                         },
                         {
@@ -10642,21 +10607,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔導士風の男："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "昨今の情勢はお前も知る所だろう。通常必要な分に加え兵器の生産。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "現場は多くの魔鉱晶石を必要としている。もっと大量のな。"
+                                "Mage-like Man: You're aware of the current situation. In\naddition to the usual needs, there's the production of\nweapons. The site requires a large amount of magic ore\ncrystals, even more than usual."
                             ]
                         },
                         {
@@ -10673,21 +10624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔導士風の男："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だと言うのに、お前の所からは今回の実験用のサンプルが少ないようだが？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どういうことだ。"
+                                "Mage-like Man: And yet, it seems the samples for this\nexperiment from your side are fewer than expected? What's\nthe meaning of this?"
                             ]
                         },
                         {
@@ -10720,21 +10657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "売人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それが最近、穴ぐらの方でちょいとしたクーデターがあったようでして、こちらも困ってるでさぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そういうことで今月はちと勘弁してもらうことは出来ないでしょうか？"
+                                "Dealer: Well, there's been a bit of a coup in the mines\nrecently, which has put us in a bind. With that said, could\nyou possibly give us a break just for this month?"
                             ]
                         },
                         {
@@ -10758,21 +10681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔導士風の男："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "チッ。キチンと管理しておけとあれほど言ってるだろう。いくら払っていると思っているんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "情報は外に漏れていないだろうな。報酬には口止め料も含まれているんだぞ。"
+                                "Mage-like Man: Tch. I've told you to manage things properly.\nHow much do you think we're paying you? I hope no\ninformation has leaked out. Remember, your payment includes\na fee for your silence."
                             ]
                         },
                         {
@@ -10789,14 +10698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "売人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わかってますよ。今後はさらに厳しいルールを課して、管理の野郎もとっちめて体制を……"
+                                "Dealer: I understand. From now on, we'll impose stricter\nrules and deal with the management... to tighten up the\nsystem."
                             ]
                         },
                         {
@@ -10820,14 +10722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔導士風の男："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まぁいい。定例取引は今まで通り、王都付近の……　でいいな……"
+                                "Mage-like Man: Well, fine. The regular transactions will\ncontinue as usual, near the royal capital..."
                             ]
                         },
                         {
@@ -10851,14 +10746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "売人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "勿論です。　では……月の……　の日に……"
+                                "Dealer: Of course. Then... on the day of... of the month..."
                             ]
                         },
                         {
@@ -11189,14 +11077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（まいったな。奴らも用心しているのか、声を落としはじめてしまった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　強行策はなるべく取りたくはないのだが、いっそ部屋に乗り込むか……？）"
+                                "(This is troublesome. Are they being cautious, lowering\ntheir voices like that? I'd prefer to avoid a direct\nconfrontation, but should I barge into the room...?)"
                             ]
                         },
                         {
@@ -11213,14 +11094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（しかし先程のように魔導兵器の準備があった場合、店側に多大な被害が及ぶことになる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　その結果どちらかにでも、こちらの思惑を知られそして取り逃すことになったなら水の泡だ。）"
+                                "(However, if they have preparations like magical weapons as\nbefore, it could cause significant damage to the\nestablishment. If either side learns of my intentions and I\nlet them slip away, it would all be for naught.)"
                             ]
                         },
                         {
@@ -11237,14 +11111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（片方は泳がせ取り押さえるのが容易な売人の方を狙うのがやはり得策か？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　う～ん、どうしたものか……）"
+                                "(Should I let one go and focus on the dealer who would be\neasier to catch? Hmm, what to do...)"
                             ]
                         },
                         {
@@ -11637,14 +11504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "半裸の男性客："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あれ？もう部屋にいるの？　気が早い子だなぁ♪"
+                                "Half-naked Male Customer: Huh? You're already in the room?\nYou're quite eager, aren't you?♪"
                             ]
                         },
                         {
@@ -11708,7 +11568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "！！！！！！！　い、いや私は…！"
+                                "!!!!!!!! No, I am...!"
                             ]
                         },
                         {
@@ -11737,7 +11597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（マズい！奴らの仲間に見つかったか？！）"
+                                "(Damn it! Have I been spotted by their accomplices?!)"
                             ]
                         },
                         {
@@ -11879,21 +11739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "半裸の男性客："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でもでもぉ、おじさん積極的な子は好きだな～。そんなにエッチなこと好きなのぉ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃあ隣に座らせてもらって、と。"
+                                "Half-naked Male Customer: But but, I like proactive girls.\nDo you like naughty things that much? Let me sit next to you\nthen."
                             ]
                         },
                         {
@@ -12026,7 +11872,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えぇ～～と、だから、私は、その…！"
+                                "Uh-um, so, I am, that...!"
                             ]
                         },
                         {
@@ -12043,14 +11889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（一瞬焦ったが、様子を見る限り単なるこの店の客のようだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　しかしそれでも、あと少しというところなのに！クソ！今は邪魔をするな…！）"
+                                "(I panicked for a moment, but it seems he's just a customer\nof this establishment. Still, not now when I'm so close!\nDamn it! Don't interfere...!)"
                             ]
                         },
                         {
@@ -12081,14 +11920,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "半裸の男性客："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ん？あれぇ？君なんか、受付の時に選んだ子と、顔違くなぁい？"
+                                "Half-naked Male Customer: Hm? Aren't you different from the\ngirl I chose at the reception?"
                             ]
                         },
                         {
@@ -12105,21 +11937,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "半裸の男性客："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうしよっかなぁ。こういうのって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お店の人を呼んだ方が良いのかなぁ。でも時間の内はたっぷりと遊びたいしなぁ。"
+                                "Half-naked Male Customer: What to do... In cases like\nthis... Should I call someone from the shop? But I want to\nenjoy my time fully while I'm here."
                             ]
                         },
                         {
@@ -12150,14 +11968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ぐ…、支配人には話を通してあるが、現在の行動に関しては独断で行っている…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今他の店の者を呼ばれ下手に騒ぎになってしまうと確実に振り出しに戻ってしまう！）"
+                                "(Grr... The manager is aware of my presence, but my current\nactions are my own decision... If he calls someone else from\nthe shop and causes a scene, I'll definitely be back to\nsquare one!)"
                             ]
                         },
                         {
@@ -12228,14 +12039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "御客人♪そんなことないぞ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君は私をちゃんと選んでくれたではないか…♪"
+                                "Dear Guest♪ That's not true at all? Didn't you choose me\nproperly...♪"
                             ]
                         },
                         {
@@ -12259,7 +12063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（とにかく今この場を離れるわけにはいかん。口裏を合わせてでもやり過ごさねば！！）"
+                                "(I can't leave this place now no matter what. I have to get\nthrough this by any means necessary!!)"
                             ]
                         },
                         {
@@ -12290,14 +12094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "半裸の男性客："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうかなぁ。たしかに薄暗かったし顔もちゃんと見たかっていわれると怪しいかもなぁ。"
+                                "Half-naked Male Customer: Is that so? It was dim and if you\nask me if I saw your face properly, it's doubtful."
                             ]
                         },
                         {
@@ -12314,21 +12111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "半裸の男性客："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でもまぁ、別人だったとしても、こんなカワイイ子とだったら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぐふ、ぐふふふふふ♪"
+                                "Half-naked Male Customer: But well, even if you're not the\none, if I can be with such a cute girl, gufu, gufufufufu♪"
                             ]
                         },
                         {
@@ -12406,14 +12189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（そんなに寄るな！身体も触るな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ウップ…こいつ相当酒を飲んでいるのかヒドイ臭いだぞ！）"
+                                "(Don't come any closer! Don't touch me! Ugh... This guy\nreeks of alcohol!)"
                             ]
                         },
                         {
@@ -12444,14 +12220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "半裸の男性客："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君あんまり見ない子だねぇ。どうなの？ここ入ったのは最近？"
+                                "Half-naked Male Customer: You're a girl I haven't seen\naround here much. What about it? Did you just start working\nhere recently?"
                             ]
                         },
                         {
@@ -12482,14 +12251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、あぁ、そうなのだ。だからあまり仕事に慣れていなくてな…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "不得手な部分は大目に見てもらえると助かるよ。"
+                                "Ah, yes, that's right. So I'm not quite used to the work\nyet... I'd appreciate it if you could overlook my\nshortcomings."
                             ]
                         },
                         {
@@ -12520,21 +12282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "半裸の男性客："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大変だねぇ。身体つきも出るとこ出てしっかりしてるし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大方農村部の方から出稼ぎに出されて来ちゃったってところなのかな？"
+                                "Half-naked Male Customer: It must be tough. You've got a\nsolid body where it counts; did you come here from the\ncountryside to earn some money?"
                             ]
                         },
                         {
@@ -12551,21 +12299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "半裸の男性客："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "王都で代替わりがあってからこの方、税収も厳しくなっちゃって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "グッと生活が苦しくなった上に軍備の拡張。お城の連中は人の心ってもんが無いのかね…"
+                                "Half-naked Male Customer: Ever since the change of rulers in\nthe royal capital, taxes have become stricter and life has\ngotten tougher on top of military expansion. Do those castle\nfolks have no heart at all..."
                             ]
                         },
                         {
@@ -12596,7 +12330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（…………………………………………）"
+                                "(...)"
                             ]
                         },
                         {
@@ -12613,7 +12347,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ま、まぁ…　概ね君の察するところだよ……"
+                                "Well... more or less as you've guessed..."
                             ]
                         },
                         {
@@ -12644,21 +12378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "半裸の男性客："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "健気でいい子だねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でもおじさんね、そういったエピソードを聞くと、逆にたまらなくなってくるんだよぉ…！"
+                                "Half-naked Male Customer: You're such a good and earnest\ngirl. But you know, when I hear such stories, it makes me\neven more excited...!"
                             ]
                         },
                         {
@@ -12675,21 +12395,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "半裸の男性客："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あぁもうダメダメ。金玉の中がアツくなってきた。今日はたっぷり可愛がってあげるからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さ、こっちにお尻向けておねだりしてみてごらん♪"
+                                "Half-naked Male Customer: Ahh, no more holding back. My\nballs are getting hot. I'm going to pamper you plenty today.\nNow turn your butt this way and beg for it♪"
                             ]
                         },
                         {
@@ -12878,7 +12584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こ、これで、いいか……？"
+                                "Is this... okay...?"
                             ]
                         },
                         {
@@ -12895,14 +12601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（くそっ、なんで私がこんなマネをせねばならん…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　だがここで機嫌を損ねさせるよりはさっさと事を済ませ出て行ってもらった方がいいだろうな…）"
+                                "(Damn it, why do I have to do something like this...! But\nit's better to get this over with quickly and have him leave\nthan to upset him now...)"
                             ]
                         },
                         {
@@ -12926,7 +12625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "引き締まった立派なお尻だなぁ♪"
+                                "Nice firm ass you've got there♪"
                             ]
                         },
                         {
@@ -12943,21 +12642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "じゃあハイ、言ってごらん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私はおじさんのカワイイペットのうさぎちゃんです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今日はこの大きいお尻をい～～ぱい可愛がってください♥」って。"
+                                "Now say it. \"I'm your cute little bunny pet. Please pamper\nthis big butt of mine lots today♥\""
                             ]
                         },
                         {
@@ -12981,7 +12666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふざけるなよ…、頼まれても言うかそんな戯言。"
+                                "Don't be ridiculous... I won't say such nonsense even if\nasked."
                             ]
                         },
                         {
@@ -13005,14 +12690,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "う～ん、言えないのかい？こっちもお金払ってきてるのになぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やっぱりお店の人呼んで人違いでしたってチェンジしてもらった方が良いのかなぁ？"
+                                "Hmm, can't say it? I'm paying good money here, you know.\nMaybe I should call someone from the shop and tell them\nthere's been a mistake and get a change?"
                             ]
                         },
                         {
@@ -13036,7 +12714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ぐっ……こいつめ……）"
+                                "(Grr... this guy...)"
                             ]
                         },
                         {
@@ -13053,14 +12731,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「わ、わたしはおじさんの、かわいい、ぺっとです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　今日はこの…大きいお尻をいっぱい、可愛がってください……」"
+                                "\"I-I am your cute, pet. Please pamper this... big butt of\nmine a lot today...\""
                             ]
                         },
                         {
@@ -13084,14 +12755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よく言えました♪それじゃあ後ろから動物みたいにたっぷり犯してあげるからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気持ち良かったら声出してもいいんだよ♪"
+                                "Well said♪ Then I'll ravish you from behind like an animal.\nFeel free to moan if it feels good♪"
                             ]
                         },
                         {
@@ -13115,7 +12779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "御託はいい。さっさと済ませろ…！"
+                                "Enough talk. Just get it over with...!"
                             ]
                         },
                         {
@@ -13151,7 +12815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それじゃちょっと勿体ないけどタイツを裂いて……遠慮なく、いただきまぁす…♪"
+                                "Then, although it's a bit of a waste to tear these tights...\nI'll help myself without reservation...♪"
                             ]
                         },
                         {
@@ -13220,7 +12884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んっ…　んんッ……！"
+                                "Nn... Nnn...!"
                             ]
                         },
                         {
@@ -13244,14 +12908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まだ先っぽ挿入れただけだけど…♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あったかい膣肉が程よく絡みながら押し返してきて、これは可愛がり甲斐がありそうだよ♪"
+                                "Just the tip is in, but...♪ Your warm vaginal walls are\nnicely clinging and pushing back, looks like you'll be fun\nto pamper♪"
                             ]
                         },
                         {
@@ -13275,14 +12932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "チィ…ッ！尻を撫でながらそんなこと聞かせようとするな…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いいからさっさと腰を振って済ませろっ！"
+                                "Tch...! Don't try to make me listen to such things while\ncaressing my ass...!! Just hurry up and move your hips and\nget it over with!"
                             ]
                         },
                         {
@@ -13306,14 +12956,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いいねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そういう強気な子をチンポで喘がせるのが好きなんだよねぇ。　こうやって……♪"
+                                "I like it. I love making strong-willed girls moan with my\ncock. Just like this...♪"
                             ]
                         },
                         {
@@ -13349,14 +12992,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んっ…　っ……　ぐぅ……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　入口で…ッ……！　つぽつぽと、遊ぶなぁ…！"
+                                "Nn... Ah... Guh...! At the entrance...! Stop teasing me...!"
                             ]
                         },
                         {
@@ -13373,7 +13009,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やさしくせずとも、私なら受け入れてやれるから…！　焦らさず挿入してくれ…！"
+                                "You don't need to be gentle, I can take it...! Don't tease\nme, just thrust in...!"
                             ]
                         },
                         {
@@ -13390,7 +13026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（こいつめ…こちらの態度を見て、あえて逆撫でして楽しむような真似を…！）"
+                                "(This bastard... He's deliberately going against my attitude\nto amuse himself...!)"
                             ]
                         },
                         {
@@ -13414,7 +13050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もうちょっと反応を楽しんでもいいけど…♪時間は限られてるからね。"
+                                "I could enjoy your reactions a bit more, but...♪ Time is\nlimited."
                             ]
                         },
                         {
@@ -13431,14 +13067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "根本まで咥え込ませて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのデカケツにお腹をバチンバチンって打ち付けてあげるからね♪　いくよ～…！！"
+                                "I'll bury it to the base and slam my belly against that big\nass of yours♪ Here I go...!!"
                             ]
                         },
                         {
@@ -13490,7 +13119,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んっ…んんんッ…　あっ…ぐ……"
+                                "Nn... Nnnn... Ah... Guh..."
                             ]
                         },
                         {
@@ -13514,14 +13143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おぉ…！コレはいい具合だ♪ どうだいおじさんのチンポは。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "中には挿入れただけで軽くイッちゃう娘もいるんだよぉ…♪"
+                                "Oh...! This is nice♪ How do you like my cock? Some girls\ncome just from it being inside them...♪"
                             ]
                         },
                         {
@@ -13557,14 +13179,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んっ…　く…　こんなもの…デカい…っぅ……だけだ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誇るような……っ…　ものじゃ、ない……！"
+                                "Nn... Kuh... Such a thing... It's just big... That's nothing\nto be proud of...!"
                             ]
                         },
                         {
@@ -13588,7 +13203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んっふっふ～♪　ホメてくれてありがっ……、と！！"
+                                "Nnffufu~♪ Thanks for the compli-, ment!!"
                             ]
                         },
                         {
@@ -13624,7 +13239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んぐ…あ゛ぁ…ッッ！！！"
+                                "Nguh... Aahh...!!!"
                             ]
                         },
                         {
@@ -13648,7 +13263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ～たまらん…♪ ちゃんと男を喜ばせるカワイイメス声も出るじゃないか。"
+                                "Ah~ irresistible...♪ You even make cute girly moans that\nplease a man."
                             ]
                         },
                         {
@@ -13665,14 +13280,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "蒸れっ蒸れの金玉に溜まりきったものをぶち撒けたくなってきたよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それじゃおじさんを楽しませてね♪"
+                                "I'm getting the urge to splatter everything that's been\nbuilding up in these sweaty balls. Now entertain me♪"
                             ]
                         },
                         {
@@ -13736,14 +13344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くふっ…　んっ…んぐっ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　ぐっ…　はぐ…ッ　あぁ…！！"
+                                "Kufu... Nn... Nguh... Guh... Hag... Aahh...!!"
                             ]
                         },
                         {
@@ -13767,14 +13368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほっ…　ほっ…　ほっ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "打ち付ける度にケツ肉がぶるんぶるん揺れて♪腰振り止まらないよ♪"
+                                "Hah... Hah... Hah...! With every thrust, your ass meat\njiggles♪ I can't stop thrusting♪"
                             ]
                         },
                         {
@@ -13810,14 +13404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んっ…　んっ…　んんっ…　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　あっ…　あっ…　あっ…！"
+                                "Nn... Nn... Nnnn... Ah... Ah... Ah...!"
                             ]
                         },
                         {
@@ -13841,7 +13428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "君のおマンコもぴちゃぴちゃとヨダレ垂れてきたよ。気持ちよくなってきたのかな？"
+                                "Your pussy is dripping wet too. Are you starting to feel\ngood?"
                             ]
                         },
                         {
@@ -13877,14 +13464,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ…　はぁ…　はぁ…はぁ…　んくぅ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　う、うるさい…！　はぁ…　あっ…　そんなこと、ある、わけ…、つぅ…！"
+                                "Haah... Haah... Haah... Haah... Nkuh...! Shut up...! Haah...\nAhh... There's no way that's true, uhh...!"
                             ]
                         },
                         {
@@ -13901,14 +13481,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（身を引けば腰を強く掴まれて、ガツガツを腹の中をえぐられる…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この男を適当に悦ばせ、帰らせればいい、だけなのに…！！　クソっ！）"
+                                "(If I pull away, he grips my waist tightly and plows deep\ninto my belly...! I just need to please this man enough to\nsend him home... Damn it!)"
                             ]
                         },
                         {
@@ -13960,14 +13533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふぅ…　ふぅ…　ふぅ…　ふぐっ…♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　ふぅー…　ふぅー…　"
+                                "Huu... Huu... Huu... Fuguu...♡ Huu-... Huu-..."
                             ]
                         },
                         {
@@ -13991,14 +13557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "強がってるけどおちんぽ引き抜く度におまんこ汁飛び散ってるよ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっきまでの威勢はどうしちゃったのかな？　おじさん寂しいな♪"
+                                "You're acting tough, but your pussy juice is splashing every\ntime I pull out my cock♪ What happened to all that bravado\nfrom before? I'm feeling lonely♪"
                             ]
                         },
                         {
@@ -14034,14 +13593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うっ、うるさいぞ…！　あっくっ……！　んっ…♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "反応が必要ならそう…、言えば、いいだろう…！多少は協力して…やっても、ぁっ…いいぞ…！"
+                                "Shut up, will you...! Ackk...! Nn...♡ If you need a\nresponse, then just say so...! I can cooperate a little if\nthat's what you want, ah...!"
                             ]
                         },
                         {
@@ -14058,14 +13610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（こ、こいつめ……遊び慣れていると自称するだけあって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　女を悦ばす箇所を、執拗に突いてくる……、んぐっ……♡）"
+                                "(This bastard... As he claims to be experienced in playing\naround, he persistently hits the spots that pleasure a\nwoman..., nghh...♡)"
                             ]
                         },
                         {
@@ -14089,14 +13634,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうそう♪強がってくれなきゃ堕とし甲斐がないからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それじゃ本気ピストンいくよ。ガクガクした腰に力入れてしっかり耐えてね♪"
+                                "That's right♪ If you weren't acting tough, there'd be no fun\nin breaking you. Now, here comes the real piston action.\nBrace yourself with all your might against my shaking hips♪"
                             ]
                         },
                         {
@@ -14158,7 +13696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んづっ…！！！うぅっ…！！"
+                                "Nndzuhh...!!! Uuhh...!!"
                             ]
                         },
                         {
@@ -14175,14 +13713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んっ…！　んっ…！　んっ…！　んっ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　あっ…！　あっ…！　あっ…！　ああ…ッ♡　くそぉ…っ♡♡"
+                                "Nn...! Nn...! Nn...! Nn...! Ahh...! Ahh...! Ahh...! Aaahh♡\nDamn it♡♡"
                             ]
                         },
                         {
@@ -14211,14 +13742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ダメだ…胎の奥を甘くねぶられる度に…頭がぐらぐら、する…　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ダメだ……　はぁ…♡はぁ…♡　力が抜ける…　腕一本では、身体を支えられない……！）"
+                                "(No good... Every time he sweetly probes deep inside me… my\nhead spins… No good… Haah…♡ Haah…♡ My strength is draining\naway… I can't support myself with just one arm…!)"
                             ]
                         },
                         {
@@ -14314,14 +13838,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ…っ♡　はぁ…っ♡　はぁ…っ♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　あっ…♡　あっ…♡　あんっ……♡"
+                                "Haah…♡ Haah…♡ Haah…♡ Ahh…♡ Ahh…♡ Ahnn…♡"
                             ]
                         },
                         {
@@ -14352,14 +13869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おっほ…！デカパイがピストンの度にぶるんぶるんと…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな隠し玉を残しているなんて…！あぁ…！"
+                                "Oohho…! Your big tits are bouncing with every piston…!! To\nthink you had such a hidden gem… Ahh…!"
                             ]
                         },
                         {
@@ -14395,7 +13905,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はっ…♡　はっ…♡　はっ…♡　んくっ…♡　お゛っ♡"
+                                "Hah…♡ Hah…♡ Hah…♡ Nkkuh…♡ Ogh♡"
                             ]
                         },
                         {
@@ -14412,14 +13922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふ、ふんッ…　キサマこそ…んぐっ…　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "随分、とぉ…♡ 余裕が…、んっ♡…なくなって、きたじゃない、か…はぁ…っ♡"
+                                "Hmph… You yourself seem to be losing your composure quite a\nbit now, aren’t you…? Haah…♡"
                             ]
                         },
                         {
@@ -14436,7 +13939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "も、もう限界では、はぁ…♡はぁ…♡　ない、のか…？　あ゛ぁ…♡"
+                                "I'm at my limit, haah...♡ haah...♡ isn't it...? Aah...♡"
                             ]
                         },
                         {
@@ -14453,14 +13956,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "っ…♡　っ…♡　んっ…♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　我慢せずに…さっさと、んぐっ…♡　出してしまえ…ッッ…！"
+                                "...♡ ...♡ Nn...♡ Don't hold back... just hurry up and,\nngh...♡ release it...!"
                             ]
                         },
                         {
@@ -14484,14 +13980,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "く、悔しいけど金玉の中身がせり上がってきたよ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今おまんこの一番奥に出してあげるからね…！"
+                                "It's frustrating, but I can feel the cum rising up in my\nballs!! I'm going to release it deep inside your pussy\nnow...!"
                             ]
                         },
                         {
@@ -14527,7 +14016,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ゛っ…♡　あ゛っ…♡　いいそ♡はやく出せッ…♡"
+                                "Ah...♡ Ah...♡ That's good♡ Hurry up and let it out...♡"
                             ]
                         },
                         {
@@ -14544,7 +14033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ゛っ…♡　あ゛っ…♡　あ゛あ゛っ…♡　私の腹に精液ぶちまけろ……♡♡"
+                                "Ah...♡ Ah...♡ Aah...♡ Splatter your semen inside my\nbelly...♡♡"
                             ]
                         },
                         {
@@ -14561,14 +14050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "出せッ♡　出せッ♡　出せッ♡　出してくれ…♡♡　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁっ…んっ♡　…………～～～～～～～～～～～っっっ♡♡♡♡♡♡♡"
+                                "Release it♡ Release it♡ Release it♡ Please let it out...♡♡\nHaah... Nn♡...～～～～～～～～～～～♡♡♡♡♡♡♡"
                             ]
                         },
                         {
@@ -14719,7 +14201,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んぐぅ…♡　んっ…はぁぁっっ…♡♡♡♡"
+                                "Nngh...♡ Nn... Haah...♡♡♡♡"
                             ]
                         },
                         {
@@ -14748,7 +14230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "う……ぁぁぁ……、ぃっくぅ…っ…♡♡♡♡"
+                                "Uh... aahh... I'm coming...! ♡♡♡♡"
                             ]
                         },
                         {
@@ -14765,7 +14247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（熱く…濃い…かたまりのような精液が…、胎に吐き出されて、いる……♡♡♡）"
+                                "(Hot... thick... clumps of semen are being released into my\nwomb...♡♡♡)"
                             ]
                         },
                         {
@@ -14782,14 +14264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ふぐっ…♡　ふぅー…♡　ふぅー……♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　ダメだ……ぃぐ…ぃぐ…♡　イカされて…しまう……♡♡♡）"
+                                "(Fugh...♡ Fuu-...♡ Fuu-...♡ It's no use... I'm going to be\nmade to come...♡♡♡)"
                             ]
                         },
                         {
@@ -14898,7 +14373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ～……♡　はぁ～……♡　はぁ～……♡　ふぐぅ……♡"
+                                "Haah~...♡ Haah~...♡ Haah~...♡ Fugh...♡"
                             ]
                         },
                         {
@@ -14927,14 +14402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっ…♡　はぁ…♡　はぁ…♡　はぁ……♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　どうやら…　はぁ…　満足…、したようだ…な…　はぁ…♡　はぁ……♡"
+                                "Ah...♡ Haah...♡ Haah...♡ Haah... It seems like you're\nsatisfied now, aren't you? Haah...♡ Haah...♡"
                             ]
                         },
                         {
@@ -14958,14 +14426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "す、すごいな…　いやぁ…こんなに出したのは久々だ……♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おまんこから溢れた精液がこんなに下に垂れてるよ。"
+                                "Wow, that's amazing... I haven't released this much in a\nlong time...♪ The semen overflowing from your pussy is\ndripping down like this."
                             ]
                         },
                         {
@@ -15001,14 +14462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んん…っ♡　くっ…♡　あ゛あっ……♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　名残惜しそうに…んくっ…♡　膣壁に…擦りつける…なぁ…っっ♡♡♡"
+                                "Nnnh...! Kuh...! Ahh...! It seems reluctant to leave,\nrubbing against the vaginal walls like this... Nnghh...! ♡♡♡"
                             ]
                         },
                         {
@@ -15032,14 +14486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんな極上おまんこずっと味わいたいけど、そろそろ時間だからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それじゃ引き抜いてあげるから♪"
+                                "I want to savor this superb pussy forever, but it's about\ntime. So, I'll pull out now, okay?♪"
                             ]
                         },
                         {
@@ -15105,14 +14552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっ…♡　あっ…♡　あっ…♡　ぃぃ…ッ♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　あ゛っ…♡　あ゛っ…♡　あ゛あ゛っ…♡っ…♡"
+                                "Ah...♡ Ah...♡ Ah...♡ That's good...! Ahh...♡ Ahh...♡\nAahh...! ♡"
                             ]
                         },
                         {
@@ -15136,14 +14576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おっおっ♪　これは……♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "媚び穴がびちびち精子吐き出しながら必死におちんぽに吸い付いてきてるよ♪"
+                                "Ohh♪ This is...♪ The slutty hole is desperately sucking on\nthe cock while spitting out semen♪"
                             ]
                         },
                         {
@@ -15172,14 +14605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ゛っ…♡あ゛っ…♡あ゛っ…♡　ダメだ♡今はよして、くれ…ッ♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "腹がヒクついて…♡　ダメだ…っ♡　ダメだダメだ…っ♡　あ゛あ゛あ゛っ……♡"
+                                "Ah...♡ Ah...♡ Ah...♡ No, stop it now, please...! ♡ My\nstomach is twitching… No good…! No good no good…! Aaahh…! ♡"
                             ]
                         },
                         {
@@ -15315,7 +14741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ひぅ…♡　ひぅ…♡　ひぅ……♡　んづ…♡　んんっ…っっ♡♡♡"
+                                "Hii…! ♡ Hii…! ♡ Hii…! ♡ Nngh…! Nnn…! ♡♡♡"
                             ]
                         },
                         {
@@ -15332,7 +14758,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ…♡　はぁ…♡　はぁ……♡　ふぐぅ……♡　はぁーー……♡♡"
+                                "Haah…! ♡ Haah…! ♡ Haah…! ♡ Fugh…! ♡ Haah--…! ♡♡"
                             ]
                         },
                         {
@@ -15356,14 +14782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふぃ～…♪　良かった良かった♪♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最初は手違いかもって焦ったけど、こりゃあ久々に当たりだったよ…♪"
+                                "Phew~♪ That was great, great♪♪ I was worried at first that\nthere might have been a mistake, but this turned out to be a\nhit after a long time…♪"
                             ]
                         },
                         {
@@ -15399,14 +14818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ…　はぁ…　はぁ……♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そ、そうか…　満足したなら、それは、良かった……ぞっ♡　はぁ…　はぁ…　はぁ……♡　"
+                                "Haah… haah… haah… ♡ So, so if you're satisfied, that's good\nto hear…! Haah… haah… haah… ♡"
                             ]
                         },
                         {
@@ -15430,14 +14842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "君なら少し腕を磨くだけできっとここいらじゃ誰にも負けないくらい客を取れるようになるよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんなら今後もおじさんが相手しながら教えてあげたいくらいだ！"
+                                "If you polish your skills a bit more, you'll surely become\nthe top earner around here without losing to anyone! If you\nwant, I'd like to keep teaching you while playing with you\nfrom now on!"
                             ]
                         },
                         {
@@ -15461,7 +14866,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ…　はぁ…　それも、いいかも、な…　ハハッ…♡"
+                                "Haah… haah… That might be nice too, haha… ♡"
                             ]
                         },
                         {
@@ -15485,7 +14890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それじゃ名残惜しいけど、急いで出ないと。それじゃあお疲れ様！"
+                                "Well then, as much as I hate to leave, I have to hurry. So,\nthanks for the hard work!"
                             ]
                         },
                         {
@@ -15509,7 +14914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ…　はぁ…　あぁ……、君こそ、なかなか悪くなかったぞ……♡"
+                                "Haah… haah… Ahh..., you weren't too bad yourself… ♡"
                             ]
                         },
                         {

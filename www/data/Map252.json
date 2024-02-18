@@ -10210,21 +10210,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "せめて、これ以上苦しむことの無いように……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ウゥッ……　兄貴を楽にしてやってくれ、たのむよぅ……うぅぅ……"
+                                "Henchman: At least... make it so he doesn't suffer\nanymore... Ugh... Please, ease my brother's pain, I beg\nyou... uuu..."
                             ]
                         },
                         {
@@ -10248,7 +10234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………………………………………"
+                                "..."
                             ]
                         },
                         {
@@ -10323,14 +10309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "嬢ちゃん……、兄貴は……？"
+                                "Henchman: Miss... what about the boss...?"
                             ]
                         },
                         {
@@ -10361,7 +10340,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私には、出来なかった……"
+                                "I couldn't do it..."
                             ]
                         },
                         {
@@ -10401,14 +10380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな……。"
+                                "Henchman: No way..."
                             ]
                         },
                         {
@@ -10439,7 +10411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たしかに君の言う通り、苦しむことの無いようにしてやるのも恩情かもしれない。"
+                                "Indeed, as you say, making sure he doesn't suffer might be a\nform of mercy."
                             ]
                         },
                         {
@@ -10463,7 +10435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だが、私にはそれを正しいと思うことは出来なかった……"
+                                "But I couldn't bring myself to believe that was the right\nthing to do..."
                             ]
                         },
                         {
@@ -10494,14 +10466,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんな姿になっちまった兄貴が、あんまりだ……"
+                                "Henchman: To see the boss in such a state, it's just too\nmuch..."
                             ]
                         },
                         {
@@ -10544,7 +10509,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たしかに彼に起こってしまった結果は、見るに堪えないものであるだろう。"
+                                "Indeed, the result that has befallen him is unbearable to\nwitness."
                             ]
                         },
                         {
@@ -10561,7 +10526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だが同様に希望だって捨ててはいけないはずだ。"
+                                "But just as much, we must not give up hope."
                             ]
                         },
                         {
@@ -10578,14 +10543,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔術の実験によりああなってしまったのならば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "同様に元の姿に戻る道もまた魔術の力を借りれば、あるいは可能なのではないだろうか？"
+                                "If magic experiments have caused this, then perhaps magic\ncould also be the key to restoring his original form, might\nit not?"
                             ]
                         },
                         {
@@ -10616,14 +10574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "で、でも……、その方法が見つかるまで兄貴はずっとあのままなんて！！"
+                                "Henchman: But... until we find a way, the boss will remain\nlike that?!"
                             ]
                         },
                         {
@@ -10654,7 +10605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "君が！君こそが彼を信じてやらなくてどうするのだ！！"
+                                "You! You must believe in him!!"
                             ]
                         },
                         {
@@ -10671,7 +10622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お前が心より信じる男はそんな軟弱な男だったか！？いいや違うだろう！！！"
+                                "Is the man you deeply believe in really such a weak man? No,\nthat can't be right!!!"
                             ]
                         },
                         {
@@ -10725,14 +10676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お前が大事に思うならばお前が信じるんだ！彼の強かさを！今まで生き抜いたしぶとさを！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そして、もう一度仲間として共に笑い合える未来をだっ！！"
+                                "If you care about him, then you must believe! Believe in his\nstrength! In his tenacity to survive until now!! And in a\nfuture where you can laugh together as comrades once more!!!"
                             ]
                         },
                         {
@@ -10763,14 +10707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ウッ！　ウゥゥゥゥゥ………ッッ！！"
+                                "Henchman: Ugh! Uuuuuh...!!"
                             ]
                         },
                         {
@@ -10801,14 +10738,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たしかに君たちは悪党かもしれない！でもこんなことは許されてはいけないんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "不幸に屈するな！安易に流されるな！汚くとも生き抜く道を選ぶんだ！"
+                                "It's true, you may be villains! But this should not be\nallowed! Do not succumb to misfortune! Do not go with the\neasy flow! Choose to live on, no matter how dirty the path!"
                             ]
                         },
                         {
@@ -10825,7 +10755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "君が今まで、彼と共に生き抜いてきたように！"
+                                "Just as you have lived through everything with him until\nnow!"
                             ]
                         },
                         {
@@ -10856,21 +10786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ウゥゥ…ッッ！！そうだ…！兄貴は誰よりも生き汚くてしぶとくて……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それなのに、オレはなんてことを………！！"
+                                "Henchman: Uuuuh...!! That's right...! The boss was dirtier\nand more stubborn than anyone...! And yet, what was I\nthinking...!!"
                             ]
                         },
                         {
@@ -10901,7 +10817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "君は悪くない。君が彼を思う気持ちがあまりに強かった、それだけさ。"
+                                "You're not at fault. Your feelings for him were just too\nstrong, that's all."
                             ]
                         },
                         {
@@ -10932,14 +10848,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "で、でも、兄貴を元に戻す方法なんて、どうしたらいいのか……"
+                                "Henchman: But... how do we find a way to turn the boss back\nto normal..."
                             ]
                         },
                         {
@@ -10970,14 +10879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大丈夫さ。私を誰だと思っている。王都ニアレイクの騎士レイシアだぞ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私が力を貸してやるさ。王都中を駆け回れば、いやそれがダメなら国の外を探すまでさ。"
+                                "Don't worry. Who do you think I am? I am Reisha, a knight\nfrom the royal capital Near Lake. I will lend you my\nstrength. If we scour the entire capital and that's not\nenough, then we'll search beyond our borders."
                             ]
                         },
                         {
@@ -10994,14 +10896,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "彼の件が解決したその後は、君たちはきちんと罪を償うんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "禊ぎを終えればその時は私を再び頼れ。共にこの国を良くしていこうじゃないか！"
+                                "Once his case is resolved, you all will properly atone for\nyour crimes. Once your atonement is complete, then you can\nrely on me again. Let's work together to make this country\nbetter!"
                             ]
                         },
                         {
@@ -11032,21 +10927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うぐぅぅ！　すまねぇ…！すまねぇ……！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ウウッッ！！　ウウウゥゥゥゥゥッッ……！！"
+                                "Henchman: Ughuuu! I'm sorry...! So sorry...!! Uuugh!!\nUuuuuuh...!!"
                             ]
                         },
                         {
@@ -11140,14 +11021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "悪かったな嬢ちゃん。あんたには励まされちまったよ。"
+                                "Henchman: My bad, miss. You've given me encouragement."
                             ]
                         },
                         {
@@ -11171,14 +11045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なりそこない兄貴："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふしゅる…　ふしゅふしゅ……"
+                                "Failed Boss: Fushuru... fushufushu..."
                             ]
                         },
                         {
@@ -11233,21 +11100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "兄貴もここに連れてきてくれてありがとうな。扉の隙間をスルリと通って来てくれたぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな扉抜け見た事ねぇや。この身体になっても多少は悪くねぇこともあるんだな！"
+                                "Henchman: Thanks for bringing the boss here too. He slipped\nright through the gap in the door. Never seen a door pass\nlike that. Even with this body, there are some perks after\nall!"
                             ]
                         },
                         {
@@ -11278,7 +11131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ！流石だな、君の兄貴は！"
+                                "Ah! As expected of your boss!"
                             ]
                         },
                         {
@@ -11387,14 +11240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "せめてもの礼だ。こいつは俺たちのとっておきだったがあんたに受け取って欲しい！"
+                                "Henchman: This is the least we can do to thank you. This was\nour prized possession, but we want you to have it!"
                             ]
                         },
                         {
@@ -11444,14 +11290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『防塵除け』を受け取った。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『エリクシールティアーズ』を受け取った。"
+                                "Received \"Dust Repellent.\" Received \"Elixir of Tiares.\""
                             ]
                         },
                         {
@@ -11482,14 +11321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "感謝する。この施設の、この禍つ事の元凶は私が断つ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もうこれ以上の犠牲を出さぬよう最善を尽くすと約束するよ。"
+                                "I am grateful. I will put an end to the source of this\ncalamity in this facility. I promise to do my best to\nprevent any further sacrifices."
                             ]
                         },
                         {
@@ -11506,7 +11338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "他のものに見つからないように、君たちはもう少しだけここで辛抱していてくれ。"
+                                "Please bear with it here just a little longer so that no one\nelse finds you."
                             ]
                         },
                         {
@@ -11537,21 +11369,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あぁ、そうさせてもらうよ。ここを出たらその時は世話になる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全てが解決した時は、またもう少しだけ世話になる。その時は兄貴も一緒にさ。"
+                                "Henchman: Yeah, we'll do that. We'll be in your care when we\nget out. When everything is resolved, we'll need your help\nagain for just a bit longer. And next time, the boss will be\nwith us too."
                             ]
                         },
                         {
@@ -11568,21 +11386,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "嬢ちゃんが何のためにここにいるかは聞かねぇが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんたの想いが遂げられるよう、ここで無事を祈ってるよ……！！"
+                                "Henchman: I won't ask what you're doing here, miss, but I'll\nbe praying for your safety and for your wishes to come\ntrue...!!"
                             ]
                         },
                         {
@@ -11694,14 +11498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "辛いことを、あんたに頼んじまって済まなかったな……"
+                                "Henchman: Sorry for making you do the tough stuff..."
                             ]
                         },
                         {
@@ -11782,14 +11579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなものしかやれねぇが、せめてもの礼だ。受け取ってくれ。"
+                                "Henchman: It's not much, but it's a token of my gratitude.\nPlease take it."
                             ]
                         },
                         {
@@ -11829,7 +11619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『防塵除け』を受け取った。"
+                                "Received \"Dust Repellent.\""
                             ]
                         },
                         {
@@ -11860,14 +11650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……この施設の、この禍つ事の元凶は私が断つ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もうこれ以上の犠牲を出さぬよう最善を尽くすと約束するよ。"
+                                "...I will put an end to the source of this facility's\ncalamity. I promise to do my best to prevent any more\nvictims."
                             ]
                         },
                         {
@@ -11884,14 +11667,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "悪党にはこの場が相応しいというつもりは無い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、もう少しだけここで大人しくしていてくれ。"
+                                "I don't believe villains belong here, but please, just stay\nquiet here for a little while longer."
                             ]
                         },
                         {
@@ -11922,14 +11698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あぁ、そうさせてもらう。ここを出たら罪も償う。その時は世話になる。"
+                                "Henchman: Yeah, I'll do that. Once I'm out, I'll atone for\nmy sins. I'll be in your care then."
                             ]
                         },
                         {
@@ -11946,21 +11715,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "嬢ちゃんが何のためにここにいるかは聞かねぇが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "せめて嬢ちゃんの想いだけは遂げられるよう、ここでもう少しだけ無事を祈ってるよ……"
+                                "Henchman: I won't ask what you're here for, miss, but I'll\npray for your safety here... hoping at least your wishes\ncome true..."
                             ]
                         },
                         {
@@ -12234,21 +11989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "せめて、これ以上苦しむことの無いように……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ウゥッ……　兄貴を楽にしてやってくれ、たのむよぅ……うぅぅ……"
+                                "Henchman: At least... make it so he doesn't suffer\nanymore... Ugh... Please, put my boss out of his misery, I\nbeg you... uuu..."
                             ]
                         },
                         {
@@ -12272,7 +12013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………………………………………"
+                                "..."
                             ]
                         },
                         {
@@ -12347,14 +12088,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "嬢ちゃん……、兄貴は……？"
+                                "Henchman: Miss... what about the boss...?"
                             ]
                         },
                         {
@@ -12385,7 +12119,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私には、出来なかった……"
+                                "I couldn't do it..."
                             ]
                         },
                         {
@@ -12425,14 +12159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな……。"
+                                "Henchman: No way..."
                             ]
                         },
                         {
@@ -12463,7 +12190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たしかに君の言う通り、苦しむことの無いようにしてやるのも恩情かもしれない。"
+                                "Indeed, as you say, ensuring he doesn't suffer might be a\nform of mercy."
                             ]
                         },
                         {
@@ -12487,7 +12214,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だが、私にはそれを正しいと思うことは出来なかった……"
+                                "But I couldn't bring myself to believe that was the right\nthing to do..."
                             ]
                         },
                         {
@@ -12518,14 +12245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんな姿になっちまった兄貴が、あんまりだ……"
+                                "Henchman: For the boss to end up like that... it's just too\nmuch..."
                             ]
                         },
                         {
@@ -12568,7 +12288,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たしかに彼に起こってしまった結果は、見るに堪えないものであるだろう。"
+                                "Indeed, the result of what happened to him is unbearable to\nwitness."
                             ]
                         },
                         {
@@ -12585,7 +12305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だが同様に希望だって捨ててはいけないはずだ。"
+                                "But just as much, we mustn't give up hope."
                             ]
                         },
                         {
@@ -12602,14 +12322,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔術の実験によりああなってしまったのならば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "同様に元の姿に戻る道もまた魔術の力を借りれば、あるいは可能なのではないだろうか？"
+                                "If magic experiments have caused this, then perhaps magic\ncould also be the key to restoring his original form, don't\nyou think?"
                             ]
                         },
                         {
@@ -12640,14 +12353,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "で、でも……、その方法が見つかるまで兄貴はずっとあのままなんて！！"
+                                "Henchman: But... until we find a way, the boss will remain\nlike that?!"
                             ]
                         },
                         {
@@ -12678,7 +12384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "君が！君こそが彼を信じてやらなくてどうするのだ！！"
+                                "You! You must believe in him!!"
                             ]
                         },
                         {
@@ -12695,7 +12401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お前が心より信じる男はそんな軟弱な男だったか！？いいや違うだろう！！！"
+                                "Is the man you deeply believe in such a weakling?! No,\nthat's not right!!!"
                             ]
                         },
                         {
@@ -12749,14 +12455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お前が大事に思うならばお前が信じるんだ！彼の強かさを！今まで生き抜いたしぶとさを！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そして、もう一度仲間として共に笑い合える未来をだっ！！"
+                                "If you care about him, then you must believe! In his\nstrength! In his tenacity to survive until now!! And in a\nfuture where you can laugh together again as comrades!!!"
                             ]
                         },
                         {
@@ -12787,14 +12486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ウッ！　ウゥゥゥゥゥ………ッッ！！"
+                                "Henchman: Ugh! Uuuuuh...!!"
                             ]
                         },
                         {
@@ -12825,14 +12517,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たしかに君たちは悪党かもしれない！でもこんなことは許されてはいけないんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "不幸に屈するな！安易に流されるな！汚くとも生き抜く道を選ぶんだ！"
+                                "It's true you may be villains! But this should not be\nallowed! Don't succumb to misfortune! Don't go with the easy\nflow! Choose to live on, no matter how dirty it gets!"
                             ]
                         },
                         {
@@ -12849,7 +12534,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "君が今まで、彼と共に生き抜いてきたように！"
+                                "Just as you have lived through everything with him until\nnow!"
                             ]
                         },
                         {
@@ -12880,21 +12565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ウゥゥ…ッッ！！そうだ…！兄貴は誰よりも生き汚くてしぶとくて……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それなのに、オレはなんてことを………！！"
+                                "Henchman: Uuuuh...!! That's right...! The boss was always\nthe dirtiest and most tenacious of us all...! And yet, what\nwas I thinking...!!"
                             ]
                         },
                         {
@@ -12925,7 +12596,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "君は悪くない。君が彼を思う気持ちがあまりに強かった、それだけさ。"
+                                "You're not at fault. Your feelings for him were just too\nstrong, that's all."
                             ]
                         },
                         {
@@ -12956,14 +12627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "で、でも、兄貴を元に戻す方法なんて、どうしたらいいのか……"
+                                "Henchman: But... how do we find a way to turn the boss back\nto normal..."
                             ]
                         },
                         {
@@ -12994,14 +12658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大丈夫さ。私を誰だと思っている。王都ニアレイクの騎士レイシアだぞ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私が力を貸してやるさ。王都中を駆け回れば、いやそれがダメなら国の外を探すまでさ。"
+                                "Don't worry. Who do you think I am? I am Reisha, a knight\nfrom the royal capital Near Lake. I will lend you my\nstrength. If we scour the entire capital, or even if that\nfails, search beyond our borders..."
                             ]
                         },
                         {
@@ -13018,14 +12675,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "彼の件が解決したその後は、君たちはきちんと罪を償うんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "禊ぎを終えればその時は私を再び頼れ。共にこの国を良くしていこうじゃないか！"
+                                "Once his case is resolved, you all will properly atone for\nyour crimes. Once your atonement is complete, come seek me\nagain. Let's work together to make this country better!"
                             ]
                         },
                         {
@@ -13056,21 +12706,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うぐぅぅ！　すまねぇ…！すまねぇ……！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ウウッッ！！　ウウウゥゥゥゥゥッッ……！！"
+                                "Henchman: Ughh! I'm sorry...! So sorry...!! Uuughh!!\nUuuuuuh...!!"
                             ]
                         },
                         {
@@ -13164,14 +12800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "悪かったな嬢ちゃん。あんたには励まされちまったよ。"
+                                "Henchman: My bad, miss. You've given me encouragement."
                             ]
                         },
                         {
@@ -13195,14 +12824,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なりそこない兄貴："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふしゅる…　ふしゅふしゅ……"
+                                "Failed Boss: Fshuru... fshu fshu..."
                             ]
                         },
                         {
@@ -13257,21 +12879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "兄貴もここに連れてきてくれてありがとうな。扉の隙間をスルリと通って来てくれたぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな扉抜け見た事ねぇや。この身体になっても多少は悪くねぇこともあるんだな！"
+                                "Henchman: Thanks for bringing the boss here too. He slipped\nright through the gap in the door. Never seen anything like\nit. Even with this body, there are some perks, huh?!"
                             ]
                         },
                         {
@@ -13302,7 +12910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ！流石だな、君の兄貴は！"
+                                "Ah! As expected of your boss!"
                             ]
                         },
                         {
@@ -13383,14 +12991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "せめてもの礼だ。こいつは俺たちのとっておきだったがあんたに受け取って欲しい！"
+                                "Henchman: It's the least we can do. This was our prized\npossession, but we want you to have it!"
                             ]
                         },
                         {
@@ -13440,14 +13041,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『防塵除け』を受け取った。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『エリクシールティアーズ』を受け取った。"
+                                "Received \"Dust Repellent.\" Received \"Elixir-Tiara-Z.\""
                             ]
                         },
                         {
@@ -13478,14 +13072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "感謝する。この施設の、この禍つ事の元凶は私が断つ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もうこれ以上の犠牲を出さぬよう最善を尽くすと約束するよ。"
+                                "I'm grateful. I will put an end to the source of this\ncalamity in this facility. I promise to do my best to\nprevent any further sacrifices."
                             ]
                         },
                         {
@@ -13502,7 +13089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "他のものに見つからないように、君たちはもう少しだけここで辛抱していてくれ。"
+                                "To avoid being found by others, please bear with staying\nhere just a little longer."
                             ]
                         },
                         {
@@ -13533,21 +13120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あぁ、そうさせてもらうよ。ここを出たらその時は世話になる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全てが解決した時は、またもう少しだけ世話になる。その時は兄貴も一緒にさ。"
+                                "Henchman: Yeah, we'll do that. We'll be in your care when we\nget out of here. And once everything is resolved, we'll need\nyour help again for just a bit longer. The boss will be with\nus then too."
                             ]
                         },
                         {
@@ -13564,21 +13137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "嬢ちゃんが何のためにここにいるかは聞かねぇが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんたの想いが遂げられるよう、ここで無事を祈ってるよ……！！"
+                                "Henchman: I won't ask why you're here, miss, but I'll be\npraying for your safety and for your wishes to come\ntrue...!!"
                             ]
                         },
                         {
@@ -13699,14 +13258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "辛いことを、あんたに頼んじまって済まなかったな……"
+                                "Henchman: Sorry for making you do the tough stuff..."
                             ]
                         },
                         {
@@ -13773,14 +13325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなものしかやれねぇが、せめてもの礼だ。受け取ってくれ。"
+                                "Henchman: This ain't much, but it's a token of my gratitude.\nPlease take it."
                             ]
                         },
                         {
@@ -13820,7 +13365,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『防塵除け』を受け取った。"
+                                "Received \"Dust Repellent.\""
                             ]
                         },
                         {
@@ -13851,14 +13396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……この施設の、この禍つ事の元凶は私が断つ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もうこれ以上の犠牲を出さぬよう最善を尽くすと約束するよ。"
+                                "...I will put an end to the source of this calamity in the\nfacility. I promise to do my best to prevent any more\nvictims."
                             ]
                         },
                         {
@@ -13875,14 +13413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "悪党にはこの場が相応しいというつもりは無い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、もう少しだけここで大人しくしていてくれ。"
+                                "I don't think villains belong here, but please, just stay\nquiet here for a little longer."
                             ]
                         },
                         {
@@ -13913,14 +13444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あぁ、そうさせてもらう。ここを出たら罪も償う。その時は世話になる。"
+                                "Henchman: Yeah, I'll do that. Once I'm out, I'll atone for\nmy sins. I'll be in your care then."
                             ]
                         },
                         {
@@ -13937,21 +13461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "嬢ちゃんが何のためにここにいるかは聞かねぇが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "せめて嬢ちゃんの想いだけは遂げられるよう、ここでもう少しだけ無事を祈ってるよ……"
+                                "Henchman: I won't ask what you're here for, miss, but I'll\npray just a bit longer for your wishes to come true..."
                             ]
                         },
                         {
@@ -14302,14 +13812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうだ嬢ちゃん！？兄貴は、兄貴は助かったのか…っ！？"
+                                "Henchman: How is it, miss?! Did big bro, did big bro make\nit...?!"
                             ]
                         },
                         {
@@ -14340,7 +13843,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………………………"
+                                "..."
                             ]
                         },
                         {
@@ -14357,7 +13860,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すまない。一足遅く、彼はもう、人の姿では……。"
+                                "I'm sorry. I was too late, he's no longer... human..."
                             ]
                         },
                         {
@@ -14453,14 +13956,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな……"
+                                "Henchman: No way..."
                             ]
                         },
                         {
@@ -14486,14 +13982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうか……実験が失敗して、他の奴らと同じように、なりそこないになっちまったのか……"
+                                "Henchman: I see... The experiment failed and he ended up a\nfailed creation like the others..."
                             ]
                         },
                         {
@@ -14524,7 +14013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "悪かった。私の力が及ばないばかりに……"
+                                "My apologies. It's all because my power wasn't enough..."
                             ]
                         },
                         {
@@ -14593,21 +14082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いいのさ。気にしないでくれ。遅かれ早かれこうなる運命だったのさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺たちみてぇなごろつきにふさわしい悪事の報いさ。"
+                                "Henchman: It's alright. Don't worry about it. Sooner or\nlater, this was bound to happen. It's the fitting\nretribution for scoundrels like us."
                             ]
                         },
                         {
@@ -14631,21 +14106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なぁ嬢ちゃん。ついでにもうひとつ頼みを聞いちゃくれねぇか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな身分でもねぇのは百も承知だ。でも小悪党の最後の頼みと思って聞いてくれ。"
+                                "Henchman: Hey, miss. Could you do me one more favor? I know\nI'm in no position to ask, but please hear out a petty\nvillain's last request."
                             ]
                         },
                         {
@@ -14671,14 +14132,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんたの手で、兄貴に、とどめを指してやってくれ……"
+                                "Henchman: With your own hands, please... give big bro the\nfinishing blow..."
                             ]
                         },
                         {
@@ -14735,21 +14189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "せめて、これ以上苦しむことの無いように……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ウゥッ……　兄貴を楽にしてやってくれ、たのむよぅ……うぅぅ……"
+                                "Henchman: At least so he won't suffer any longer... Ugh...\nPlease put big bro out of his misery, I beg you... uuu..."
                             ]
                         },
                         {
@@ -14780,7 +14220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………………………………………"
+                                "..."
                             ]
                         },
                         {
@@ -15242,14 +14682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうだ嬢ちゃん！？兄貴は、兄貴は助かったのか…っ！？"
+                                "Henchman: How is it, miss?! Did big bro, did big bro make\nit...?!"
                             ]
                         },
                         {
@@ -15280,7 +14713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………………………"
+                                "..."
                             ]
                         },
                         {
@@ -15297,7 +14730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すまない。一足遅く、彼はもう、人の姿では……。"
+                                "I'm sorry. I was too late, he's no longer... human."
                             ]
                         },
                         {
@@ -15393,14 +14826,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな……"
+                                "Henchman: No way..."
                             ]
                         },
                         {
@@ -15426,14 +14852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうか……実験が失敗して、他の奴らと同じように、なりそこないになっちまったのか……"
+                                "Henchman: I see... The experiment failed, and he ended up a\nfailed creation like the others..."
                             ]
                         },
                         {
@@ -15464,7 +14883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "悪かった。私の力が及ばないばかりに……"
+                                "My apologies. It's all because my power wasn't enough..."
                             ]
                         },
                         {
@@ -15533,21 +14952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いいのさ。気にしないでくれ。遅かれ早かれこうなる運命だったのさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺たちみてぇなごろつきにふさわしい悪事の報いさ。"
+                                "Henchman: It's alright. Don't worry about it. Sooner or\nlater, this was bound to happen. It's a fitting retribution\nfor scoundrels like us."
                             ]
                         },
                         {
@@ -15571,21 +14976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なぁ嬢ちゃん。ついでにもうひとつ頼みを聞いちゃくれねぇか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな身分でもねぇのは百も承知だ。でも小悪党の最後の頼みと思って聞いてくれ。"
+                                "Henchman: Hey, miss. Could you do me one more favor? I know\nI'm in no position to ask, but please hear out a petty\nvillain's last request."
                             ]
                         },
                         {
@@ -15611,14 +15002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんたの手で、兄貴に、とどめを指してやってくれ……"
+                                "Henchman: Please, with your own hands, give big bro the\nfinishing blow..."
                             ]
                         },
                         {
@@ -15675,21 +15059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "せめて、これ以上苦しむことの無いように……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ウゥッ……　兄貴を楽にしてやってくれ、たのむよぅ……うぅぅ……"
+                                "Henchman: At least so he won't suffer any longer... Ugh...\nPlease put big bro out of his misery, I beg you... uuu..."
                             ]
                         },
                         {
@@ -15720,7 +15090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………………………………………"
+                                "..."
                             ]
                         },
                         {
@@ -16011,14 +15381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうだ嬢ちゃん！？兄貴は、兄貴は助かったのか…っ！？"
+                                "Thug Henchman: How is it, miss?! Is the boss, is the boss\nsaved...?!"
                             ]
                         },
                         {
@@ -16049,7 +15412,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………………………"
+                                "..."
                             ]
                         },
                         {
@@ -16066,7 +15429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すまない。一足遅く、彼はもう、人の姿では……。"
+                                "I'm sorry. I was too late, he's no longer... human."
                             ]
                         },
                         {
@@ -16162,14 +15525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな……"
+                                "Thug Henchman: No way..."
                             ]
                         },
                         {
@@ -16195,14 +15551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうか……実験が失敗して、他の奴らと同じように、なりそこないになっちまったのか……"
+                                "Thug Henchman: I see... The experiment failed, and he ended\nup a failed creation like the others..."
                             ]
                         },
                         {
@@ -16233,7 +15582,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "悪かった。私の力が及ばないばかりに……"
+                                "My apologies. It's all because my power wasn't enough..."
                             ]
                         },
                         {
@@ -16302,21 +15651,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いいのさ。気にしないでくれ。遅かれ早かれこうなる運命だったのさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺たちみてぇなごろつきにふさわしい悪事の報いさ。"
+                                "Thug Henchman: It's alright. Don't worry about it. Sooner or\nlater, this was bound to happen. It's a fitting retribution\nfor scoundrels like us."
                             ]
                         },
                         {
@@ -16340,21 +15675,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なぁ嬢ちゃん。ついでにもうひとつ頼みを聞いちゃくれねぇか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな身分でもねぇのは百も承知だ。でも小悪党の最後の頼みと思って聞いてくれ。"
+                                "Thug Henchman: Hey, miss. Could you do me one more favor? I\nknow I'm in no position to ask, but please hear out a petty\nvillain's last request."
                             ]
                         },
                         {
@@ -16380,14 +15701,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんたの手で、兄貴に、とどめを指してやってくれ……"
+                                "Thug Henchman: Could you, with your own hands, give the boss\nthe finishing blow..."
                             ]
                         },
                         {
@@ -16444,21 +15758,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "せめて、これ以上苦しむことの無いように……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ウゥッ……　兄貴を楽にしてやってくれ、たのむよぅ……うぅぅ……"
+                                "Thug Henchman: At least so he won't suffer any longer...\nUgh... Please put the boss out of his misery, I beg you...\nuhh..."
                             ]
                         },
                         {
@@ -16489,7 +15789,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………………………………………"
+                                "..."
                             ]
                         },
                         {
@@ -17488,14 +16788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お、おい！あんたは！！"
+                                "Thug Minion: Hey, you there!!"
                             ]
                         },
                         {
@@ -17609,7 +16902,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "貴様は、復興地区で店を襲ったごろつき連中の一人か！？お前が何故こんな所に……！？"
+                                "Are you one of the thugs who attacked the shops in the\nreconstruction district?! Why are you here...?!"
                             ]
                         },
                         {
@@ -17645,14 +16938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "詳しい話は後でする！兄貴が！ここの研究員共に実験室に連れて行かれちまった！！"
+                                "Thug Minion: I'll explain later! It's the boss! He's been\ntaken to the lab by these researchers!!"
                             ]
                         },
                         {
@@ -17683,7 +16969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんだって！？"
+                                "What did you say?!?"
                             ]
                         },
                         {
@@ -17714,14 +17000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お願いだ！あの時の事は謝る！こんなこと頼めた義理じゃねぇことはわかってる！"
+                                "Thug Minion: Please! I apologize for what happened before! I\nknow I have no right to ask this of you!"
                             ]
                         },
                         {
@@ -17738,14 +17017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも今はあんたにしか頼めねぇ！お願いだ！！兄貴を助けてやってくれ！！"
+                                "Thug Minion: But right now, you're the only one I can turn\nto! Please!! Save my boss!!"
                             ]
                         },
                         {
@@ -17762,21 +17034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仲間も一人、あいつらの実験材料にされちまった！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの部屋に連れてかれた連中は誰も戻ってこないんだ！！"
+                                "Thug Minion: One of our guys has already been turned into\nexperimental material! No one who's taken to that room ever\ncomes back!!"
                             ]
                         },
                         {
@@ -17793,14 +17051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頼む！兄貴を助けてやってくれ……！！頼むッッ！！"
+                                "Thug Minion: I'm begging you! Please save my boss...!!\nPlease!!"
                             ]
                         },
                         {
@@ -17831,7 +17082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ッッッ！！その場所は何処だ！早く言え！"
+                                "Damn it!! Where is that place? Tell me quickly!"
                             ]
                         },
                         {
@@ -17900,14 +17151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この道を行ってすぐの場所だと思う！！"
+                                "Thug Minion: I think it's just down this road!!"
                             ]
                         },
                         {
@@ -17938,7 +17182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "任された！"
+                                "I'm on it!"
                             ]
                         },
                         {
@@ -18084,14 +17328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頼む！兄貴を助けてくれ！！"
+                                "Thug Minion: Please! Help my boss!!"
                             ]
                         },
                         {
@@ -18168,14 +17405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頼む！兄貴を助けてくれ！！"
+                                "Thug Minion: Please! Help my boss!!"
                             ]
                         },
                         {
@@ -18272,14 +17502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お、おい！あんたは！！"
+                                "Thug Minion: Hey, you there!!"
                             ]
                         },
                         {
@@ -18407,7 +17630,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "貴様は、復興地区で店を襲ったごろつき連中の一人か！？お前が何故こんな所に……！？"
+                                "Are you one of those thugs who attacked the shops in the\nreconstruction district?! Why are you here...?!"
                             ]
                         },
                         {
@@ -18443,14 +17666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "詳しい話は後でする！兄貴が！ここの研究員共に実験室に連れて行かれちまった！！"
+                                "Thug Minion: We'll talk details later! It's the boss! He's\nbeen taken to the lab by these damn researchers!!"
                             ]
                         },
                         {
@@ -18481,7 +17697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんだって！？"
+                                "What did you say?!?"
                             ]
                         },
                         {
@@ -18512,14 +17728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お願いだ！あの時の事は謝る！こんなこと頼めた義理じゃねぇことはわかってる！"
+                                "Thug Minion: Please! I apologize for what happened before! I\nknow I have no right to ask this of you!"
                             ]
                         },
                         {
@@ -18536,14 +17745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも今はあんたにしか頼めねぇ！お願いだ！！兄貴を助けてやってくれ！！"
+                                "Thug Minion: But right now, you're the only one I can turn\nto! Please!! Save my boss!!"
                             ]
                         },
                         {
@@ -18560,21 +17762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仲間も一人、あいつらの実験材料にされちまった！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの部屋に連れてかれた連中は誰も戻ってこないんだ！！"
+                                "Thug Minion: One of our guys has already been turned into\nexperimental material by them! No one who's been taken to\nthat room has ever come back!!"
                             ]
                         },
                         {
@@ -18591,14 +17779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頼む！兄貴を助けてやってくれ……！！頼むッッ！！"
+                                "Thug Minion: I'm begging you! Please save my boss...!!\nPlease!!"
                             ]
                         },
                         {
@@ -18629,7 +17810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ッッッ！！その場所は何処だ！早く言え！"
+                                "Damn it!! Where is that place? Tell me quickly!"
                             ]
                         },
                         {
@@ -18698,14 +17879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この道を行ってすぐの場所だと思う！！"
+                                "Thug Minion: I think it's just down this road!!"
                             ]
                         },
                         {
@@ -18736,7 +17910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "任された！"
+                                "I'm on it!"
                             ]
                         },
                         {
@@ -18902,14 +18076,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お、おい！あんたは！！"
+                                "Thug Minion: H-hey! You are!!"
                             ]
                         },
                         {
@@ -19051,7 +18218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "貴様は、復興地区で店を襲ったごろつき連中の一人か！？お前が何故こんな所に……！？"
+                                "Are you one of the thugs who attacked the shops in the\nreconstruction district?! Why are you here...?!"
                             ]
                         },
                         {
@@ -19087,14 +18254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "詳しい話は後でする！兄貴が！ここの研究員共に実験室に連れて行かれちまった！！"
+                                "Thug Minion: We'll talk details later! It's the boss! He's\nbeen taken to the lab by these damn researchers!!"
                             ]
                         },
                         {
@@ -19125,7 +18285,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんだって！？"
+                                "What did you say?!?"
                             ]
                         },
                         {
@@ -19156,14 +18316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お願いだ！あの時の事は謝る！こんなこと頼めた義理じゃねぇことはわかってる！"
+                                "Thug Minion: Please! I apologize for what happened before! I\nknow I have no right to ask this of you!"
                             ]
                         },
                         {
@@ -19180,14 +18333,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも今はあんたにしか頼めねぇ！お願いだ！！兄貴を助けてやってくれ！！"
+                                "Thug Minion: But right now, you're the only one I can turn\nto! Please!! Save my boss!!"
                             ]
                         },
                         {
@@ -19204,21 +18350,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仲間も一人、あいつらの実験材料にされちまった！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの部屋に連れてかれた連中は誰も戻ってこないんだ！！"
+                                "Thug Minion: One of our guys has been turned into an\nexperiment for them too! No one who's been taken to that\nroom has ever come back!!"
                             ]
                         },
                         {
@@ -19235,14 +18367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頼む！兄貴を助けてやってくれ……！！頼むッッ！！"
+                                "Thug Minion: I'm begging you! Please save my boss...!!\nPlease!!"
                             ]
                         },
                         {
@@ -19273,7 +18398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ッッッ！！その場所は何処だ！早く言え！"
+                                "Damn it!! Where is that place? Speak up, quick!"
                             ]
                         },
                         {
@@ -19342,14 +18467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごろつき子分："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この道を行ってすぐの場所だと思う！！"
+                                "Thug Minion: I think it's just down this road!!"
                             ]
                         },
                         {
@@ -19380,7 +18498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "任された！"
+                                "I'm on it!"
                             ]
                         },
                         {

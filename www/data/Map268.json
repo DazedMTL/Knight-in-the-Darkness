@@ -6134,14 +6134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "採掘坑で掘り出されたであろう鉱石類。労働者に使っていたであろう拘束具、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そして打ち捨てられた此処に辿り着くまでに「もたなかった」者の骸……"
+                                "Ores likely excavated from the mine. Restraints that must\nhave been used on the workers, and the remains of those who\n'didn't make it' here..."
                             ]
                         },
                         {
@@ -6158,7 +6151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここに運ばれているのは嘘では無いようだな。"
+                                "It seems that what's being brought here is no lie."
                             ]
                         },
                         {
@@ -6198,7 +6191,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……転送陣か。このような高度な魔術装置、塵芥の悪党が用意できるわけがない。"
+                                "...A teleportation circle? Such an advanced magical device,\nthere's no way mere scum could prepare something like this."
                             ]
                         },
                         {
@@ -6238,7 +6231,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "採掘坑より運ばれた石や労働者達も、おそらくこの先に連れて行かれるか……"
+                                "The stones and workers brought from the mining pit are\nprobably taken further ahead..."
                             ]
                         },
                         {

@@ -7527,7 +7527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "仕事中のようだが、申し訳ない。"
+                                "It seems you're busy, my apologies."
                             ]
                         },
                         {
@@ -7544,7 +7544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少し尋ねたいことがあるのだがよろしいだろうか？"
+                                "There's something I'd like to ask, if that's alright?"
                             ]
                         },
                         {
@@ -7639,14 +7639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "山小屋の住人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あぁ、あんたはたしか…"
+                                "Cabin Dweller: Ah, you must be..."
                             ]
                         },
                         {
@@ -7663,14 +7656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "山小屋の住人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いいよ。ちょっと待ってな。"
+                                "Cabin Dweller: Sure, just wait a moment."
                             ]
                         },
                         {
@@ -7801,7 +7787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先日話を聞かせてもらった例の洞窟の件なのだがな。"
+                                "About that cave we discussed the other day."
                             ]
                         },
                         {
@@ -7818,14 +7804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "内部を調査したところ確かに貴重な品はあったのだが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "残念ながらこちらが求めていたものではなかった。"
+                                "Upon investigation, I indeed found valuable items, but\nunfortunately, they were not what I was seeking."
                             ]
                         },
                         {
@@ -7856,14 +7835,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "山小屋の住人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの洞窟の中に入ったのかい！？"
+                                "Cabin Dweller: You went inside that cave!?"
                             ]
                         },
                         {
@@ -7894,7 +7866,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁ、多少の魔物は巣食っていたがそれは覚悟の上だったよ。"
+                                "Yes, there were some monsters nesting there, but I was\nprepared for that."
                             ]
                         },
                         {
@@ -7911,14 +7883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "心配せずとも中に住みついた人喰らいは蹴散らしておいた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "安心しろ、これからは怯えて暮らさずとも良いのだ。"
+                                "Don't worry, I've scattered the man-eating creatures that\nlived inside. Rest assured, you can live without fear from\nnow on."
                             ]
                         },
                         {
@@ -7951,14 +7916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "山小屋の住人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そ、そいつはすげぇや……"
+                                "Cabin Dweller: Th-that's amazing..."
                             ]
                         },
                         {
@@ -7989,7 +7947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うむ。しかし私の探し求めるものはまだ見つかっておらんのだ。"
+                                "Indeed. However, I have yet to find what I am searching for."
                             ]
                         },
                         {
@@ -8006,14 +7964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この地の噂にあった洞窟とは別の洞窟だったと信じたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こちらも徒手で戻るわけにはいかんのでな。"
+                                "I'd like to believe it's a different cave than the one\nrumored about in these parts. I can't just return empty-\nhanded."
                             ]
                         },
                         {
@@ -8030,14 +7981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私はこの辺境の地の事情に詳しくないのだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何か他に『輝きの剣』に心当たりのある噂や伝承など知ってはいないだろうか？"
+                                "I'm not familiar with the local lore. Do you know of any\nrumors or legends about the \"Sword of Light\" that might\nhelp?"
                             ]
                         },
                         {
@@ -8054,7 +7998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "些細なことでいい、少しでも浮かぶものがあれば教えてもらえると助かるのだが。"
+                                "Even the slightest detail would be helpful, anything that\ncomes to mind."
                             ]
                         },
                         {
@@ -8085,14 +8029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "山小屋の住人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうだなぁ…"
+                                "Cabin Dweller: Let's see..."
                             ]
                         },
                         {
@@ -8118,21 +8055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "山小屋の住人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まぁ立ち話もなんだ。せっかく魔物を退治してくれたんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "中に入ってまずはゆっくりしていってくれよ。"
+                                "Cabin Dweller: Well, it's not good to talk standing up.\nYou've gone to the trouble of defeating those monsters. Come\nin and relax first."
                             ]
                         },
                         {
@@ -8149,14 +8072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "山小屋の住人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お茶の一杯くらい出すからさ。"
+                                "Cabin Dweller: I'll make you a cup of tea at least."
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 80
     },
     "disableDashing": false,
-    "displayName": "魔研_最終決戦",
+    "displayName": "Demon Research_Final Battle",
     "encounterList": [],
     "encounterStep": 30,
     "height": 50,
@@ -18079,7 +18079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "強敵と再戦しますか？ - 『囚われの王女』"
+                                "Would you like to rematch the formidable enemy? - \"Captive\nPrincess\""
                             ]
                         },
                         {
@@ -18087,8 +18087,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -18237,7 +18237,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "敗北イベントを見ますか？"
+                                "Would you like to view the defeat event?"
                             ]
                         },
                         {
@@ -18245,8 +18245,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -18447,7 +18447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "強敵と再戦しますか？ - 『宰相：1戦目』"
+                                "Would you like to rematch the formidable enemy? -\n\"Chancellor: First Battle\""
                             ]
                         },
                         {
@@ -18455,8 +18455,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -18605,7 +18605,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "敗北イベントを見ますか？"
+                                "Would you like to view the defeat event?"
                             ]
                         },
                         {
@@ -18613,8 +18613,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -19067,7 +19067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "強敵と再戦しますか？ - 『赤月の宰相』"
+                                "Would you like to rematch the formidable enemy? - \"The\nChancellor of the Crimson Moon\""
                             ]
                         },
                         {
@@ -19075,8 +19075,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -19194,7 +19194,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "エンドクレジットに移動しますか？[現在の状態：グッドエンド]"
+                                "Would you like to move to the end credits? [Current status:\nGood End]"
                             ]
                         },
                         {
@@ -19202,8 +19202,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -19398,7 +19398,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "エンドクレジットに移動しますか？[現在の状態：トゥルーエンド]"
+                                "Would you like to move to the end credits? [Current status:\nTrue End]"
                             ]
                         },
                         {
@@ -19406,8 +19406,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -19636,7 +19636,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "敗北イベントを見ますか？"
+                                "Would you like to view the defeat event?"
                             ]
                         },
                         {
@@ -19644,8 +19644,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

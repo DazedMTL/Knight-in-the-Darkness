@@ -18979,7 +18979,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（演奏の邪魔になるだろう。話しかけるのはよしておこう）"
+                                "(I'd probably disturb the performance. I should refrain from\nspeaking to her.)"
                             ]
                         },
                         {
@@ -19056,14 +19056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガードマン："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "休憩の時間はまだだぞ。油を売ってないで仕事に戻れ。"
+                                "Guardman: Break time isn't here yet. Stop slacking off and\nget back to work."
                             ]
                         },
                         {
@@ -19140,14 +19133,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガードマン："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "休憩の時間はまだだぞ。油を売ってないで仕事に戻れ。"
+                                "Guardman: Break time isn't here yet. Stop slacking off and\nget back to work."
                             ]
                         },
                         {
@@ -20124,7 +20110,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バーテン："
+                                "Bartender:"
                             ]
                         },
                         {
@@ -23811,7 +23797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "待たせたな。こいつが注文のお飲み物になる。"
+                                "Sorry to keep you waiting. Here's the drink you ordered."
                             ]
                         },
                         {
@@ -23873,14 +23859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性客："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お、サンキュー！"
+                                "Male Customer: Oh, thank you!"
                             ]
                         },
                         {
@@ -23935,14 +23914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性客："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ハイ、これ。一緒に飲も！"
+                                "Male Customer: Here, take this. Let's drink together!"
                             ]
                         },
                         {
@@ -24006,14 +23978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バニー："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ありがと♡　お兄さんってば優しいのね♡"
+                                "Bunny: Thank you♡ You're so kind, big brother♡"
                             ]
                         },
                         {
@@ -24030,14 +23995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バニー："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それじゃ～…、"
+                                "Bunny: Well then...,"
                             ]
                         },
                         {
@@ -24066,7 +24024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{「「　カンパ～イ！！　」」"
+                                "\"Cheers!!\""
                             ]
                         },
                         {
@@ -24139,14 +24097,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性客："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ん？どうしたまだ用？飲み物も受け取ったしもうどっか行っていいよ？"
+                                "Male Customer: Hm? What's up, you still need something?\nYou've got your drink, so feel free to go somewhere else\nnow, okay?"
                             ]
                         },
                         {
@@ -24177,7 +24128,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そ、そうか。ではゆっくり楽しんでいってくれ。"
+                                "Oh, is that so. Then please enjoy yourself at your leisure."
                             ]
                         },
                         {
@@ -24499,14 +24450,14 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "注文の飲み物の正解は複数用意されている。"
+                                "There are multiple correct answers for the ordered drink"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "どちらでも正解であるがなるべく合計注文が高いほうが良い。"
+                                "Either choice is correct, but it's better to aim for the\nhigher total order"
                             ]
                         },
                         {
@@ -24520,35 +24471,35 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "フリーフォール（辛い・強い）"
+                                "Freefall (Painful & Strong)"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "スタンダードカクテル（女性向け・甘い）"
+                                "Standard Cocktail (Sweet, for Women)"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "ロイヤルカクテル（甘い）"
+                                "Royal Cocktail (Sweet)"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "ビール（爽やか）"
+                                "Beer (Refreshing)"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "ウイスキー（男性向け・強い）"
+                                "Whiskey (For Men・Strong)"
                             ]
                         },
                         {
@@ -25669,7 +25620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{しかし、だからってコレはないコレはッ！！"
+                                "But still, this is just too much!!"
                             ]
                         },
                         {
@@ -25833,21 +25784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お～っす！！どしたよ？怒ってるとツキが逃げてくぞ～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "せっかくサマになってんのに～！"
+                                "Akane: Hey there!! What's up? Getting angry will just chase\nyour luck away~♪ You're finally looking the part too~!"
                             ]
                         },
                         {
@@ -25925,7 +25862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おいアカネ！どういうことだこれは！！"
+                                "Hey Akane! What the hell is this all about?!"
                             ]
                         },
                         {
@@ -25972,21 +25909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いや、どういうことって？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "色々と情報が欲しいっていってたじゃん？だから連れてきたのさ。"
+                                "Akane: What do you mean, what's this about? You said you\nwanted various information, right? That's why I brought you\nhere."
                             ]
                         },
                         {
@@ -26168,14 +26091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{何で私が給仕のマネ事をしなければならんのだと聞いている！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\|しかも、\\.こ、\\.こ、\\.こんなッ！恥ずかしい格好までしてッ！"
+                                "Why must I pretend to be a waitress?! And on top of that, in\nsuch an... embarrassing outfit!"
                             ]
                         },
                         {
@@ -26229,21 +26145,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "普段のあんたからするとその恥じらいは順当にポイント高いけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "客受け狙うならもうちょい背筋伸ばしたほうが良いよ。折角似合ってるんだし。"
+                                "Akane: Your shyness is scoring high points considering your\nusual self, but if you're aiming to please the customers,\nyou should straighten your back a bit more. It really suits\nyou after all."
                             ]
                         },
                         {
@@ -26413,7 +26315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぐらかさないでくれ。たしかに王都の情報を集めたいとは言ったのはこっちだが……"
+                                "Don't dodge the question. It's true that I said I wanted to\ngather information about the royal capital, but..."
                             ]
                         },
                         {
@@ -26430,14 +26332,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ならこのようなことをせずとも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "地道に多く人の集まる場所で聞き込んでいけばいいではないか。"
+                                "Then we could have done so without this, by diligently\nasking around in places where many people gather."
                             ]
                         },
                         {
@@ -26484,14 +26379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ま、ちょっと落ち着きなよ。"
+                                "Akane: Come on, calm down a bit."
                             ]
                         },
                         {
@@ -26508,21 +26396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まず口開けてれば勝手に欲しい情報が入ってくることを期待して言ってんだったら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなことはこの街じゃありえないと返しとくよ。"
+                                "Akane: If you're expecting that just opening your mouth will\nget you the information you want, let me tell you that's not\nhow things work in this town."
                             ]
                         },
                         {
@@ -26562,7 +26436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それはそうなのだが、わざわざこんなことをしなくてもと私は言っているんだ……"
+                                "That may be true, but I'm saying there's no need to go to\nsuch lengths..."
                             ]
                         },
                         {
@@ -26609,14 +26483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "続けるよ。"
+                                "Akane: Let me continue."
                             ]
                         },
                         {
@@ -26633,21 +26500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "王都があんな厳戒態勢なのに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その辺で手あたり次第に聞き回って得られる情報なんて、きっとたかが知れてるわけ。"
+                                "Akane: With the royal capital on such high alert, the\ninformation you could get by randomly asking around would be\nlimited at best."
                             ]
                         },
                         {
@@ -26664,21 +26517,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "闇雲に時間だけかけて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "結果噂話に毛が生えた程度の情報に振り回されるのが望みならそうすればいいよ。"
+                                "Akane: If you're happy being led around by barely improved\ngossip after spending all that time, then go ahead."
                             ]
                         },
                         {
@@ -26716,14 +26555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "急に正しいことを言うな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このような行為にいかにも必然性があると説こうというのか！？"
+                                "Don't suddenly start making sense! Are you trying to say\nthere's a necessity for this kind of behavior?!"
                             ]
                         },
                         {
@@ -26770,14 +26602,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "落ち着いて回りの客の顔を見渡してみな。"
+                                "Akane: Take a deep breath and look at the faces of the\ncustomers around us."
                             ]
                         },
                         {
@@ -26862,14 +26687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いくつか見知った顔があることに気付くんじゃないか？"
+                                "Akane: You might notice a few familiar faces, don't you\nthink?"
                             ]
                         },
                         {
@@ -26902,14 +26720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何が言いたいかっていうと、ここの店には王都で稼いだ連中が多くやってくるのさ。"
+                                "Akane: What I'm trying to say is, this place is frequented\nby people who've made their money in the royal capital."
                             ]
                         },
                         {
@@ -26926,21 +26737,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "商人や傭兵、中にはお城務めの役人なんかもよく通ってる。しかもそれなりの立場の奴もな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まぁ堅物のあんたは知らない世界だったろうけどさ。"
+                                "Akane: Merchants, mercenaries, and even some officials who\nwork at the castle come here often. And some of them are\nquite high-ranking. Though it's a world you wouldn't know\nmuch about, being so straight-laced and all."
                             ]
                         },
                         {
@@ -26957,21 +26754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "内部の人間しか知らないような情報を知りたいのならここはうってつけだってわけ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今のあんたの欲しい物を考えれば、多少我慢をしてもお釣りがくると思うけどね私は。"
+                                "Akane: If you want information that only insiders would\nknow, then this is the perfect place. Considering what\nyou're after right now, a little patience could pay off big\ntime, at least that's what I think."
                             ]
                         },
                         {
@@ -26988,14 +26771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうよ？違う？"
+                                "Akane: How about it? Am I wrong?"
                             ]
                         },
                         {
@@ -27252,14 +27028,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{「どうよ？違う？」じゃない！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "違わないのなら尚の事悪いのだろう！！"
+                                "No 'How about it? Am I wrong?'! If you're not wrong, then\nthat makes it even worse!!"
                             ]
                         },
                         {
@@ -27297,7 +27066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私は、多少王都で顔が知られてしまっている！見回しただけで軽く面識のある輩もいる！！"
+                                "I am somewhat known in the royal capital! Just looking\naround I can see a few people I've met before!!"
                             ]
                         },
                         {
@@ -27314,14 +27083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんな所で！こんな格好をして！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな事をしていることを知られてしまったら私はどうしたらよいのだッ！！"
+                                "If they find out I'm here! Dressed like this! Doing this\nkind of thing! What am I supposed to do then?!"
                             ]
                         },
                         {
@@ -27368,14 +27130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ～ま～…、ここは薄暗いし客は酒に酔ってるし心配することないってば。"
+                                "Akane: Oh come on... This place is dimly lit and the\ncustomers are drunk. There's no need to worry."
                             ]
                         },
                         {
@@ -27392,21 +27147,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それにちょっと逆の立場になって考えてみなって？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "領地持ちの騎士様がこんなとこでエッチな格好して客に尻尾振ってるなんて誰が思うよ？"
+                                "Akane: Besides, think about it from the opposite\nperspective. Who would imagine a knight with land holdings\nwould be wagging their tail in a place like this, dressed\nall sexy?"
                             ]
                         },
                         {
@@ -27444,7 +27185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "尻尾を振ってるって、お前なぁ。もうちょっと言い方があるだろう……"
+                                "Wagging their tail, you say... Could you not phrase it like\nthat..."
                             ]
                         },
                         {
@@ -27461,14 +27202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どう客観視すればいいのか困るが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まるで私が幼稚なことで腹を立てているように思えてきてしまうじゃないか……"
+                                "It's hard to see it objectively, but now it feels like I'm\ngetting upset over something childish..."
                             ]
                         },
                         {
@@ -27515,21 +27249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "情報収集のついでに給金だってちゃんと出る。そこそこね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前にゃ珍しい経験だって積める！こんなうまい話なかなかないと思うけどなぁ！"
+                                "Akane: You'll get paid for gathering information, and it's a\ndecent amount too. It's a rare experience for someone like\nyou! Opportunities like this don't come around often, you\nknow!"
                             ]
                         },
                         {
@@ -27546,21 +27266,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まぁ嫌だったらいいよ別に。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "せっかく直々に紹介した私のメンツがちと潰れちまうだけだからさ♪"
+                                "Akane: Well, if you don't like it, that's fine too. It's\njust my reputation that'll take a hit since I personally\nrecommended you♪"
                             ]
                         },
                         {
@@ -27598,7 +27304,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネよ、私の逃げ道を一個一個潰して遊んでいるのなら勘弁してくれ。"
+                                "Akane, if you're just closing off my escape routes for fun,\nplease spare me."
                             ]
                         },
                         {
@@ -27647,21 +27353,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "酒をグラスの底まで飲み干せば人は必ず息を吐く。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのついでに胸の内をもらすなんてここじゃ日常茶飯事で、それを気にする奴なんていないのさ。"
+                                "Akane: When people drink their glass to the bottom, they\nalways exhale. And while they're at it, they often spill\ntheir secrets. That's an everyday occurrence here and nobody\nminds it."
                             ]
                         },
                         {
@@ -27678,14 +27370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "首尾よくやりなよ。大丈夫。あんたならきっとうまくやれる。"
+                                "Akane: Do your best. You'll be fine. I'm sure you can handle\nit."
                             ]
                         },
                         {
@@ -27702,14 +27387,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その格好もよく似合ってる。どっからどう見ても立派なバニーガールだ。"
+                                "Akane: That outfit really suits you. No matter how you look\nat it, you're a splendid bunny girl."
                             ]
                         },
                         {
@@ -27756,14 +27434,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うんうん立派立派、ホントよく似合ってるよ…！　ﾌﾟﾌﾟﾌﾟﾌﾟ…♪"
+                                "Akane: Yep yep, splendid indeed, it really suits you...!\nPffft...♪"
                             ]
                         },
                         {
@@ -27895,14 +27566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バーテンダー："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おーい！そんなところで油売ってないでさっさと仕事に戻ってくれ！"
+                                "Bartender: Hey! Stop slacking off and get back to work!"
                             ]
                         },
                         {
@@ -28247,14 +27911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "んじゃ私はこの辺りで。あとは自分で頑張りな！"
+                                "Akane: Well then, I'll leave you to it. Keep up the good\nwork!"
                             ]
                         },
                         {
@@ -28292,7 +27949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう行ってしまうのか、少し寂しいな。"
+                                "I'm going to miss having you around, even if it was just for\na little while."
                             ]
                         },
                         {
@@ -28339,14 +27996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しみったれるなよ、私には私のやる事があんの。縁があったらきっとまた会えるさ。"
+                                "Akane: Don't be so gloomy. I've got my own things to do. If\nfate allows it, we'll surely meet again."
                             ]
                         },
                         {
@@ -28384,7 +28034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少しの間だったが君には助けられっぱなしだった。感謝するよ。"
+                                "It was only for a short time, but I was completely reliant\non your help. Thank you."
                             ]
                         },
                         {
@@ -28464,14 +28114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この子の売上から私に仲介料入るからちゃんと計算しといてね♪"
+                                "Akane: Make sure you calculate my commission from her sales\nproperly, okay? ♪"
                             ]
                         },
                         {
@@ -28535,14 +28178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんじゃバイビ～♪"
+                                "Akane: Well then, bye-bye~♪"
                             ]
                         },
                         {

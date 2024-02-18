@@ -18331,14 +18331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メニューを開きます。戦闘準備を行ってください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(回想部屋への移動は制限されています。)"
+                                "Opening the menu. Please prepare for battle. (Access to the\nMemory Room is restricted.)"
                             ]
                         },
                         {
@@ -18414,7 +18407,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "戦闘を開始しますか？"
+                                "Would you like to start the battle?"
                             ]
                         },
                         {
@@ -18422,8 +18415,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 -1,
@@ -18509,7 +18502,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『滝音の剣』が装備されていません。それでも戦闘を開始しますか？"
+                                "\"Takioto's Sword\" is not equipped. Would you still like to\nstart the battle?"
                             ]
                         },
                         {
@@ -18517,8 +18510,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 -1,
@@ -18800,14 +18793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{それじゃここからが第二ラウンドだ！足を引っ張るなよ！"
+                                "Akane: Then this is the second round! Don't hold me back!"
                             ]
                         },
                         {
@@ -18862,7 +18848,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{ああ！君の方こそッ！！！"
+                                "Yeah! You better not hold me back either!!!"
                             ]
                         },
                         {
@@ -19057,7 +19043,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "戦闘を開始しますか？"
+                                "Shall we start the battle?"
                             ]
                         },
                         {
@@ -19065,8 +19051,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 -1,
@@ -19181,7 +19167,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『滝音の剣』が装備されていません。それでも戦闘を開始しますか？"
+                                "\"Sword of Waterfall Sound\" is not equipped. Do you still\nwish to start the battle?"
                             ]
                         },
                         {
@@ -19189,8 +19175,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 -1,
@@ -19501,14 +19487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{それじゃここからが第二ラウンドだ！足を引っ張るなよ！"
+                                "Akane: Then this is the second round! Don't hold me back!"
                             ]
                         },
                         {
@@ -19563,7 +19542,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{ああ！君の方こそッ！！！"
+                                "Yeah! You better not hold me back either!!!"
                             ]
                         },
                         {
@@ -20254,7 +20233,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "戦闘を開始しますか？"
+                                "Shall we start the battle?"
                             ]
                         },
                         {
@@ -20262,8 +20241,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 -1,
@@ -20378,7 +20357,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『滝音の剣』が装備されていません。それでも戦闘を開始しますか？"
+                                "\"Sword of Waterfall Sound\" is not equipped. Do you still\nwant to start the battle?"
                             ]
                         },
                         {
@@ -20386,8 +20365,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 -1,
@@ -20743,14 +20722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{それじゃここからが第二ラウンドだ！足を引っ張るなよ！"
+                                "Akane: Then this is the second round! Don't hold me back!"
                             ]
                         },
                         {
@@ -20805,7 +20777,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{ああ！君の方こそッ！！！"
+                                "Yeah! You better not hold me back either!!!"
                             ]
                         },
                         {
@@ -21026,14 +20998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "準備はもう済んだか？"
+                                "Akane: Are you ready yet?"
                             ]
                         },
                         {
@@ -21066,14 +21031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大丈夫さ。私達ならきっと勝てる。助けてやれる。頼むぜ相棒！"
+                                "Akane: Don't worry. We can definitely win. We can save them.\nI'm counting on you, partner!"
                             ]
                         },
                         {

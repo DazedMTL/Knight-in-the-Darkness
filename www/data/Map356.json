@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "魔研_保管庫",
+    "displayName": "Magic Research Storage Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -6829,14 +6829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "意識が虚ろの男性："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "う……。　あぁ……。"
+                                "Man with a vacant consciousness: Ugh... Ahh..."
                             ]
                         },
                         {
@@ -6860,7 +6853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（…………………………………）"
+                                "(...)"
                             ]
                         },
                         {
@@ -6877,7 +6870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………ここは危険だ、せめて外へ。"
+                                "...This place is dangerous, at least get outside."
                             ]
                         },
                         {
@@ -7019,7 +7012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（息はあるようだが反応が虚ろだ……。だがあまりに、これは……。）"
+                                "(She seems to be breathing, but her response is vacant...\nHowever, this is too much...)"
                             ]
                         },
                         {
@@ -7110,7 +7103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（息はあるようだが反応が虚ろだ……。だがあまりに、これは……。）"
+                                "(She seems to be breathing, but her response is vacant...\nHowever, this is too much...)"
                             ]
                         },
                         {
@@ -7201,7 +7194,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（息はあるようだが反応が虚ろだ……。だがあまりに、これは……。）"
+                                "(She seems to be breathing, but her response is vacant...\nHowever, this is too much...)"
                             ]
                         },
                         {
@@ -7292,7 +7285,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（息はあるようだが反応が虚ろだ……。だがあまりに、これは……。）"
+                                "(She seems to be breathing, but her response is vacant...\nHowever, this is too much...)"
                             ]
                         },
                         {
@@ -7383,7 +7376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（息はあるようだが反応が虚ろだ……。だがあまりに、これは……。）"
+                                "(She seems to be breathing, but her response is vacant...\nHowever, this is too much...)"
                             ]
                         },
                         {
@@ -7474,7 +7467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（息はあるようだが反応が虚ろだ……。だがあまりに、これは……。）"
+                                "She seems to be breathing, but her response is vacant...\nHowever, this is too much..."
                             ]
                         },
                         {
@@ -7565,7 +7558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（息はあるようだが反応が虚ろだ……。だがあまりに、これは……。）"
+                                "(She seems to be breathing, but her response is vacant...\nHowever, this is too much...)"
                             ]
                         },
                         {
@@ -7740,7 +7733,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（息はあるようだが反応が虚ろだ……。だがあまりに、これは……。）"
+                                "(She seems to be breathing, but her response is vacant...\nHowever, this is too much...)"
                             ]
                         },
                         {
@@ -7831,7 +7824,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（息はあるようだが反応が虚ろだ……。だがあまりに、これは……。）"
+                                "(She seems to be breathing, but her response is vacant...\nHowever, this is too much...)"
                             ]
                         },
                         {
@@ -7922,7 +7915,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（息はあるようだが反応が虚ろだ……。だがあまりに、これは……。）"
+                                "(She seems to be breathing, but her response is vacant...\nHowever, this is too much...)"
                             ]
                         },
                         {
@@ -8013,7 +8006,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（息はあるようだが反応が虚ろだ……。だがあまりに、これは……。）"
+                                "(She seems to be breathing, but her response is vacant...\nHowever, this is too much...)"
                             ]
                         },
                         {
@@ -8104,7 +8097,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（おそらく採掘坑や他所より連れて来られた者だろう……。生きてはいるようだが……。）"
+                                "(They're probably people brought here from the mines or\nsomewhere else... They seem to be alive, but...)"
                             ]
                         },
                         {
@@ -8195,7 +8188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（おそらく採掘坑や他所より連れて来られた者だろう……。生きてはいるようだが……。）"
+                                "(They're probably brought here from a mining pit or\nsomewhere else... They seem to be alive, but...)"
                             ]
                         },
                         {
@@ -8286,7 +8279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（おそらく採掘坑や他所より連れて来られた者だろう……。生きてはいるようだが……。）"
+                                "(They're probably brought here from a mining pit or\nsomewhere else... They seem to be alive, but...)"
                             ]
                         },
                         {
@@ -8377,7 +8370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（おそらく採掘坑や他所より連れて来られた者だろう……。生きてはいるようだが……。）"
+                                "(They're probably people brought here from the mines or\nsomewhere else... They seem to be alive, but...)"
                             ]
                         },
                         {
@@ -8468,7 +8461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（おそらく採掘坑や他所より連れて来られた者だろう……。生きてはいるようだが……。）"
+                                "(They're probably brought here from a mining pit or\nsomewhere else... They seem to be alive, but...)"
                             ]
                         },
                         {
@@ -8559,7 +8552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（おそらく採掘坑や他所より連れて来られた者だろう……。生きてはいるようだが……。）"
+                                "(They're probably brought here from a mining pit or\nsomewhere else... They seem to be alive, but...)"
                             ]
                         },
                         {
@@ -8650,7 +8643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（おそらく採掘坑や他所より連れて来られた者だろう……。生きてはいるようだが……。）"
+                                "(They're probably people brought here from the mines or\nsomewhere else... They seem to be alive, but...)"
                             ]
                         },
                         {
@@ -8741,7 +8734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（おそらく採掘坑や他所より連れて来られた者だろう……。生きてはいるようだが……。）"
+                                "(They're probably brought here from a mining pit or\nsomewhere else... They seem to be alive, but...)"
                             ]
                         },
                         {
@@ -8832,7 +8825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（おそらく採掘坑や他所より連れて来られた者だろう……。生きてはいるようだが……。）"
+                                "(They're probably brought here from a mining pit or\nsomewhere else... They seem to be alive, but...)"
                             ]
                         },
                         {
@@ -8923,7 +8916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（おそらく採掘坑や他所より連れて来られた者だろう……。生きてはいるようだが……。）"
+                                "(They're probably brought here from a mining pit or\nsomewhere else... They seem to be alive, but...)"
                             ]
                         },
                         {
@@ -9014,7 +9007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（おそらく採掘坑や他所より連れて来られた者だろう……。生きてはいるようだが……。）"
+                                "(They're probably brought here from a mining pit or\nsomewhere else... They seem to be alive, but...)"
                             ]
                         },
                         {
@@ -9355,7 +9348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "生体試料保管室"
+                                "Biological Specimen Storage Room"
                             ]
                         },
                         {
@@ -9432,7 +9425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "生体試料保管室"
+                                "Biological Specimen Storage Room"
                             ]
                         },
                         {

@@ -7624,14 +7624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "騎士よ。前へ。"
+                                "Chancellor: Knight, step forward."
                             ]
                         },
                         {
@@ -7648,7 +7641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はっ！"
+                                "Yes, sir!"
                             ]
                         },
                         {
@@ -7665,21 +7658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "現在、西方への大規模な魔物討伐の遠征計画が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "我が国で進められているのは貴校も知るところであろう。"
+                                "Chancellor: As you may know, our kingdom is currently\nplanning a large-scale expedition to subdue monsters in the\nwest."
                             ]
                         },
                         {
@@ -7696,21 +7675,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この度、その遠征計画に先代の王から王位を引き継いだ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "我が女王も同行していただく運びとなった。"
+                                "Chancellor: This time, our queen, who has succeeded the\nthrone from the previous king, will also accompany the\nexpedition."
                             ]
                         },
                         {
@@ -7727,7 +7692,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それはなんと…！"
+                                "That is quite...!"
                             ]
                         },
                         {
@@ -7744,14 +7709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "話を続けるぞ。"
+                                "Chancellor: Let me continue."
                             ]
                         },
                         {
@@ -7768,28 +7726,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もちろん前線へ赴き戦っていただくわけではない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし過酷な行軍になることは想像に難くない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "予想されるのは兵たちの士気の低下による戦力の減衰である。"
+                                "Chancellor: Of course, she will not be going to the front\nlines to fight. However, it is not hard to imagine that the\nmarch will be arduous. What we expect is a decrease in\nmorale among the troops, leading to a reduction in combat\neffectiveness."
                             ]
                         },
                         {
@@ -7806,21 +7743,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし王自らが出向き鼓舞することで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "兵たちの精神的支柱となり必ずや士気向上を果たすでしょう。"
+                                "Chancellor: However, by having the queen herself present to\ninspire them, she will become a pillar of mental support for\nthe soldiers and will surely boost their morale."
                             ]
                         },
                         {
@@ -7837,14 +7760,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その象徴としての役割をつとめていただくこと、このたび女王自らご決断なされたのだ。"
+                                "Chancellor: She has decided to fulfill this symbolic role\nherself this time."
                             ]
                         },
                         {
@@ -7861,7 +7777,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "誠に立派にてございます、女王さま。"
+                                "Indeed, Her Majesty is most noble."
                             ]
                         },
                         {
@@ -7878,14 +7794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし問題もある。"
+                                "Chancellor: However, there is a problem."
                             ]
                         },
                         {
@@ -7902,21 +7811,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それは先代王の戦死から、現行王への王位の引き継ぎが急務で行われ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そしてまだ間もないという点である。"
+                                "Chancellor: It is that the succession of the throne from the\nlate king to the current queen was an urgent affair due to\nhis death in battle, and it has not been long since then."
                             ]
                         },
                         {
@@ -7933,21 +7828,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "遠征の準備を進めているが、残念ながら兵の中には"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "真にその命捧げるに値する主君かと未だ迷っている者も多く見受けられる。"
+                                "Chancellor: While we are preparing for the expedition,\nunfortunately, there are still many among the troops who are\nhesitant about whether she is truly a sovereign worthy of\ntheir lives."
                             ]
                         },
                         {
@@ -7964,7 +7845,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんと無礼なことを…ッ！！"
+                                "How utterly disrespectful...!"
                             ]
                         },
                         {
@@ -7981,14 +7862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女王："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の力が及ばぬのが原因だ。仕える者たちを悪く思わないでくれ。"
+                                "Queen: It is my lack of power that is to blame. Do not think\nill of those who serve."
                             ]
                         },
                         {
@@ -8005,14 +7879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王がそのようなことを仰るべきではない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私共にもっとお支えする力があれば、このようなことは決して許さないのですが…"
+                                "The queen should not say such things. If only we had more\nstrength to support you, such disrespect would never be\ntolerated..."
                             ]
                         },
                         {
@@ -8181,14 +8048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "嘆くばかりが能ではない。見方を変えれば、解決する問題点が絞れているとも言える。"
+                                "Chancellor: Mere lamentation is not a talent. If we change\nour perspective, we can say that the issues needing\nresolution have been narrowed down."
                             ]
                         },
                         {
@@ -8304,14 +8164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "象徴を象徴たらしめるには相応の意匠が必要である、とな。"
+                                "Chancellor: A symbol must be made fitting through\nappropriate design, indeed."
                             ]
                         },
                         {
@@ -8342,21 +8195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこで貴公には、王女が行軍の際に携えていただく神聖な御旗となる宝剣の探索。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これを命じたく今日この場に呼んだのだ。"
+                                "Chancellor: Therefore, I have summoned you here today to\ncommand you to search for the sacred banner and treasure\nsword to be carried by the princess during her military\ncampaigns."
                             ]
                         },
                         {
@@ -8418,21 +8257,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その刀身の輝きは夜明けの光を宿したものだと王家の伝承のうちにある一等の至宝。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『あかつきの宝剣』、これを探索し持ち帰ってきてもらいたいのだ。"
+                                "Chancellor: The blade's radiance is said to house the light\nof dawn, a supreme treasure within the royal family's\nlegends. \"The Sword of Dawn,\" I want you to search for it\nand bring it back."
                             ]
                         },
                         {
@@ -8465,7 +8290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "──…！！　あ、あかつきの宝剣、ですか…！？"
+                                "──...!! The Sword of Dawn, you say...!?"
                             ]
                         },
                         {
@@ -8534,14 +8359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうした？不満でもあるのか？"
+                                "Chancellor: What's the matter? Do you have a complaint?"
                             ]
                         },
                         {
@@ -8574,7 +8392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "い、いえ！そのようなことは…"
+                                "No, not at all! It's just that..."
                             ]
                         },
                         {
@@ -8598,7 +8416,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "身に余る重要な使命、是非持ち帰ってみせましょう…！"
+                                "An exceedingly important mission, I shall certainly bring it\nback...!"
                             ]
                         },
                         {
@@ -8695,14 +8513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "焦るな、何も無理難題を押し付けようというものではない。"
+                                "Chancellor: Do not rush, I am not imposing an impossible\ntask on you."
                             ]
                         },
                         {
@@ -8726,14 +8537,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴公も知っての通り、宝剣は遠い昔の代の混乱の中で紛失し、今は行方が知れなくなっている。"
+                                "Chancellor: As you well know, the treasure sword was lost\namidst the chaos of a distant past, and its whereabouts are\nnow unknown."
                             ]
                         },
                         {
@@ -8795,14 +8599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "伝承の中のみに存在するものを持ち帰れと命じるほど、そなたの忠節を見誤ってはいない。"
+                                "Chancellor: I am not mistaken in your loyalty to command you\nto bring back something that exists only in legend."
                             ]
                         },
                         {
@@ -8895,14 +8692,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "むしろ王の信に厚い貴公であればこそ、今回は頼みたいということだ。"
+                                "Chancellor: Rather, it is precisely because you are a person\nof deep trust with the king that I wish to entrust this task\nto you this time."
                             ]
                         },
                         {
@@ -8919,14 +8709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その意味、わかるな？"
+                                "Chancellor: You understand what I mean?"
                             ]
                         },
                         {
@@ -8997,14 +8780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先刻王都で捕らえた者が珍しく辺境の出身とのことであった。"
+                                "Chancellor: Just now, someone captured in the capital turned\nout to be from a rare frontier origin."
                             ]
                         },
                         {
@@ -9021,21 +8797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "多く耳に届かぬ土地の事情を何か伺い知れるのではないかと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少しばかり話を聞いてみたところ、その中に少し気になる情報があった。"
+                                "Chancellor: I thought perhaps we could learn something of\nthe circumstances of lands seldom heard from, so I took the\nopportunity to listen to his story, and there was some\ninformation that caught my attention."
                             ]
                         },
                         {
@@ -9090,21 +8852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "辺境の地の人喰い洞窟の最奥、ある日ふらりと流れ着き、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その地にて今も眠るという世にまたと無い『輝きの剣』の噂である。"
+                                "Chancellor: In the depths of the frontier's man-eating cave,\nthere lies a \"Sword of Radiance\" that one day drifted there\nand still sleeps in that place, a sword without equal in\nthis world."
                             ]
                         },
                         {
@@ -9135,7 +8883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "──……！！"
+                                "──...!!"
                             ]
                         },
                         {
@@ -9166,21 +8914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "失われたはずの王家の至宝がその手の内にあるならば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それが信に足る王であることを誰が疑うことだろうか。"
+                                "Chancellor: If the lost royal treasure were to be in our\nhands, who would doubt that we have a king worthy of trust?"
                             ]
                         },
                         {
@@ -9204,21 +8938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まずは彼の地に赴き周辺での情報収集、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "真偽を確かめ可能であれば速やかに宝剣を回収すること。"
+                                "Chancellor: First, travel to that land for information\ngathering, verify the truth, and if possible, swiftly\nrecover the treasure sword."
                             ]
                         },
                         {
@@ -9235,14 +8955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これは火急の命であり、また秘密裏にて行ってもらいたい。　頼めるな？"
+                                "Chancellor: This is an urgent command and one that I want\nyou to carry out in secrecy. Can I count on you?"
                             ]
                         },
                         {
@@ -9396,14 +9109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王女："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "辛い立場を背負わせてしまうこと、承知の上で頼みます。"
+                                "Princess: I am aware that I am asking you to take on a\ndifficult position, but I ask you nonetheless."
                             ]
                         },
                         {
@@ -9481,21 +9187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王女："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "宝剣の輝きは国を暁へと導くとされる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の力至らず混乱の宵闇にある今こそ、その光はこの国に必要なものなのです。"
+                                "Princess: The radiance of the treasure sword is said to lead\nthe country to dawn. Now more than ever, as my power falls\nshort and we are in the darkness of chaos, that light is\nneeded for our country."
                             ]
                         },
                         {
@@ -9638,14 +9330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王女："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "騎士レイシアよ。その武勇、期待していますよ。"
+                                "Princess: Knight Reisha. I am counting on your valor."
                             ]
                         },
                         {
@@ -9683,7 +9368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はっ…！！"
+                                "Yes...!!"
                             ]
                         },
                         {
@@ -9707,14 +9392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "冒険こそ騎士の誉れ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "騎士レイシア、この身にかけて見事期待に沿うことを誓ってみせましょう！！"
+                                "The adventure is a knight's honor! Knight Reisha, I swear\nupon my life to live up to your expectations splendidly!!"
                             ]
                         },
                         {
@@ -9968,14 +9646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王女："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頼みましたよ、私の騎士……"
+                                "Princess: I am counting on you, my knight..."
                             ]
                         },
                         {

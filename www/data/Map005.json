@@ -16430,7 +16430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここからイベントシーンが続きます（所要時間：10分程）"
+                                "The event scene will continue from here (Estimated time:\nabout 10 minutes)."
                             ]
                         },
                         {
@@ -16447,21 +16447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "簡易的なあらすじのみを表示し自由行動区間までイベントをスキップしますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（スキップしたシーンは回想部屋から再度見ることが可能です。）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "※初回プレイ時はなるべくイベントをご覧いただくことを推奨します。"
+                                "Would you like to skip the event and display only a brief\nsummary until the free action segment? (Skipped scenes can\nbe viewed again in the reminiscence room.) *It is\nrecommended to watch the events during your first\nplaythrough."
                             ]
                         },
                         {
@@ -16469,8 +16455,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 -1,
@@ -16672,7 +16658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………"
+                                "..."
                             ]
                         },
                         {
@@ -16699,7 +16685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "──…………！"
+                                "──...!"
                             ]
                         },
                         {
@@ -16959,7 +16945,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは……？"
+                                "Where is this...?"
                             ]
                         },
                         {
@@ -16997,7 +16983,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私は…、\\!たしか……"
+                                "I am... surely..."
                             ]
                         },
                         {
@@ -17125,7 +17111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うっ……！"
+                                "Ugh...!"
                             ]
                         },
                         {
@@ -17163,7 +17149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おごぇ……、ッッ！！"
+                                "*gag*... *cough*!!"
                             ]
                         },
                         {
@@ -17320,14 +17306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奴隷労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "随分ヒドい目にあったみたいだな。"
+                                "Slave Laborer: Looks like you've been through quite a rough\ntime."
                             ]
                         },
                         {
@@ -17351,21 +17330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奴隷労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんた傷だらけでここに放り込まれてから、何日もずっと気を失っていたんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見事なうなされっぷりだったよ。"
+                                "Slave Laborer: You were dumped here covered in wounds, and\nyou've been unconscious for days. You were tossing and\nturning in a pretty bad way."
                             ]
                         },
                         {
@@ -17382,14 +17347,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奴隷労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まぁ元から身体がケガに慣れてんのか、すぐに傷はふさがったようだがね。"
+                                "Slave Laborer: Well, maybe your body is used to injuries,\nbecause the wounds seemed to heal up quickly enough."
                             ]
                         },
                         {
@@ -17420,7 +17378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……………"
+                                "..."
                             ]
                         },
                         {
@@ -17628,7 +17586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうやら手間をかけさせてしまったようだな。"
+                                "It seems I've caused you some trouble."
                             ]
                         },
                         {
@@ -17659,14 +17617,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奴隷労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よしな、そんなんじゃないよ。"
+                                "Slave Laborer: Nah, it's nothing like that."
                             ]
                         },
                         {
@@ -17683,21 +17634,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奴隷労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そういう役目だからだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "新人が使いもんにならなきゃドヤされるのは私だから。"
+                                "Slave Laborer: It's my role, after all. If the newbie isn't\nuseful, I'm the one who gets beaten."
                             ]
                         },
                         {
@@ -17961,14 +17898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奴隷労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほれ、こんなもんでよけりゃ飲みな。"
+                                "Slave Laborer: Here, drink this if it's good enough for you."
                             ]
                         },
                         {
@@ -17999,7 +17929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "す、すまない…"
+                                "I'm sorry..."
                             ]
                         },
                         {
@@ -18037,7 +17967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……うっ！"
+                                "...Ugh!"
                             ]
                         },
                         {
@@ -18087,14 +18017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奴隷労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "不味い水だろ。でも私達に与えられるのは「こんなもん」なんだ。"
+                                "Slave Laborer: Tastes like bad water, right? But that's \"all\nwe get\" around here."
                             ]
                         },
                         {
@@ -18111,14 +18034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奴隷労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここで少しでも長く生きたいならさっさと慣れるこったね。"
+                                "Slave Laborer: If you want to live even a little longer\nhere, you'd better get used to it quickly."
                             ]
                         },
                         {
@@ -18142,14 +18058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奴隷労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "看病だって、たかが知れてるさ。傷もあんたの身体が勝手に治したようなもんだ。"
+                                "Slave Laborer: As for nursing you back to health, it was\nnothing much. It's more like your body healed itself on its\nown."
                             ]
                         },
                         {
@@ -18220,21 +18129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奴隷労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだ自分が連れてこられた場所がどういうとこかわかってないだろうけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これだけは覚えとくんだね。"
+                                "Slave Laborer: You might not yet understand what kind of\nplace you've been brought to, but remember this at least."
                             ]
                         },
                         {
@@ -18251,14 +18146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奴隷労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いいかい、ここでは自分のことを第一に考えるんだ。"
+                                "Slave Laborer: Listen, here you have to think of yourself\nfirst."
                             ]
                         },
                         {
@@ -18282,21 +18170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奴隷労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "くれぐれも肝に銘じておきな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんたみたいな世間知らずでバカ真面目っぽい奴は特にね。"
+                                "Slave Laborer: Make sure you engrave that in your mind,\nespecially someone naive and earnest like you seem to be."
                             ]
                         },
                         {
@@ -18365,7 +18239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふん。介抱は感謝するが、貴様が私の何を知ってるというんだ。"
+                                "Hmph. I appreciate the care, but what do you know about me?"
                             ]
                         },
                         {
@@ -18389,7 +18263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これでも腕は立つ。貴様なんぞにそこまで言われずとも自分のことは自分で守れる。"
+                                "I'm skilled enough. I can protect myself without being\nlectured by the likes of you."
                             ]
                         },
                         {
@@ -18406,14 +18280,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "痛い目は確かに見た。だが騎士の作法の外側にある戦い方はもう学んだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "不覚さえとらなければ次こそは遅れを取ることはない。"
+                                "I certainly suffered a painful experience. But I've already\nlearned fighting techniques beyond the knight's code. As\nlong as I'm not caught off guard, I won't fall behind next\ntime."
                             ]
                         },
                         {
@@ -18444,14 +18311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奴隷労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "寝起きでそれだけ威勢張れりゃもう大丈夫だね。"
+                                "Slave Laborer: If you can talk big like that right after\nwaking up, then you must be fine."
                             ]
                         },
                         {
@@ -18468,14 +18328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奴隷労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほれ、そろそろ時間だ。"
+                                "Slave Laborer: Come on, it's about time."
                             ]
                         },
                         {
@@ -18492,14 +18345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奴隷労働者："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "聞きたいことは多いだろうが、詳しいことはこれから手を動かしながらだ。"
+                                "Slave Laborer: You probably have a lot of questions, but\nwe'll talk while we work."
                             ]
                         },
                         {
@@ -18764,14 +18610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄役人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オラァ、お前らさっさと出ろッ！！"
+                                "Prison Officer: Hey! Get out here, quick!!"
                             ]
                         },
                         {
@@ -18788,14 +18627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄役人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぶっ叩かれたくなきゃ1秒でもはやく持ち場に付け！！"
+                                "Prison Officer: If you don't want to get beaten, get to your\nstation in less than a second!!"
                             ]
                         },
                         {
@@ -20319,21 +20151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄役人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前目を覚ましたようだな。ここじゃ新入りでも関係ェねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すぐに仕事に入ってもらうぜ。"
+                                "Prison Officer: Looks like you've woken up. Doesn't matter\nif you're new here; get to work immediately."
                             ]
                         },
                         {
@@ -20402,14 +20220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄役人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おいっ！テメェがここの室長だったよな。"
+                                "Prison Officer: Hey! You were the room chief here, right?"
                             ]
                         },
                         {
@@ -20433,14 +20244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はい。そうです。"
+                                "Room Chief: Yes, that's correct."
                             ]
                         },
                         {
@@ -20464,14 +20268,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄役人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こいつにクソする場所からクセェ飯を食う場所まできっちり叩き込んどけッ！！"
+                                "Prison Officer: Drill into this guy everything from where to\ntake a shit to where to eat the stinking food!!"
                             ]
                         },
                         {
@@ -20488,21 +20285,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄役人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "テメェら見てぇなドブネズミでもそんくらいは出来るだろう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一日でも早く使いもんにしろ、わかったな！？"
+                                "Prison Officer: Even rats like you should be able to do that\nmuch! Make him useful as soon as possible, got it?!?"
                             ]
                         },
                         {
@@ -20614,7 +20397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まるで家畜に向けるような物言いを…！貴様、同じ人間だぞ…！！"
+                                "Talking to us as if we're livestock...! You bastard, we're\nhuman beings...!!"
                             ]
                         },
                         {
@@ -20692,14 +20475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おい新人、ここでは口の聞き方に気をつけろ。"
+                                "Room Chief: Hey newbie, watch how you speak here."
                             ]
                         },
                         {
@@ -20808,14 +20584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "失礼しました。こいつは私が責任持って躾けておきますので…"
+                                "Room Chief: My apologies. I'll take responsibility and train\nthis one properly..."
                             ]
                         },
                         {
@@ -20935,14 +20704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ホラ！とっとと行くよ…！！"
+                                "Room Chief: Come on! Let's get going...!!"
                             ]
                         },
                         {
@@ -20973,7 +20735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お、おい…"
+                                "Hey, hey..."
                             ]
                         },
                         {

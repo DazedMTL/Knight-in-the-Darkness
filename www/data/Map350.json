@@ -16,7 +16,7 @@
         "volume": 80
     },
     "disableDashing": false,
-    "displayName": "資料室",
+    "displayName": "Archive Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -4119,7 +4119,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "資料-『魔導ゴーレムについて』、を手に入れた。"
+                                "You've obtained the document \"About the Magic Golems\"."
                             ]
                         },
                         {
@@ -4253,7 +4253,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "資料-『魔鉱晶石について』、を手に入れた。"
+                                "Obtained the document \"About Magic Ore Crystals\"."
                             ]
                         },
                         {
@@ -4387,7 +4387,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "資料-『魔導研究員の手記01』、を手に入れた。"
+                                "Acquired the document - \"Mage Researcher's Notes 01\"."
                             ]
                         },
                         {
@@ -4521,7 +4521,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "資料-『魔導研究員の手記02』、を手に入れた。"
+                                "Obtained the document - \"Mage Researcher's Notes 02\"."
                             ]
                         },
                         {

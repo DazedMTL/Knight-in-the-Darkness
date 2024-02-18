@@ -45079,7 +45079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先は看守共の部屋だろう。用もないのに下手に入るべきではない。"
+                                "The room ahead must be where the guards are. We shouldn't\ncarelessly enter without a reason."
                             ]
                         },
                         {
@@ -48085,7 +48085,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネの情報が確かなら、ここは現場労働者に比べて看守の数が少ない。"
+                                "If Akane's information is accurate, then there are fewer\nguards here compared to the number of workers on site."
                             ]
                         },
                         {
@@ -48102,14 +48102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だから数的有利による反乱を防ぐ目的もあり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "基本的には看守共の就寝時間はここでの作業もストップする。"
+                                "Therefore, to prevent a numerically advantageous rebellion,\nthe guards' sleeping hours are basically when the work here\nalso stops."
                             ]
                         },
                         {
@@ -48126,14 +48119,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかし完全にというわけではない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少人数の監視役でも制御できる程度の人数は夜間も作業をさせられている。"
+                                "However, it's not completely halted. A small number of\npeople are still made to work at night, within the capacity\nthat a few guards can control."
                             ]
                         },
                         {
@@ -48150,14 +48136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここから出口までの距離や構造は正確にはわからない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただ晶石の取り引き役が姿を見せたことを考えると出口はそれ程遠くはないと予測はたつ。"
+                                "The exact distance and structure from here to the exit is\nunknown. But considering that the crystal traders have shown\nup, it's predicted that the exit isn't too far away."
                             ]
                         },
                         {
@@ -48174,14 +48153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "厳重な鉄格子で閉じ込めているのも、仮に脱走した場合、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あるいは距離的に辿り着けてしまう、という可能性を考えての策とも考えられる。"
+                                "The strict iron bars could also be a strategy considering\nthe possibility that someone could escape or reach the\ndistance."
                             ]
                         },
                         {
@@ -48198,7 +48170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "とはいえ何処かで監視役の目を強引に突破しなければならないのは想像に難くない。"
+                                "Still, it's not hard to imagine that we'll have to\nforcefully break through the guards' surveillance at some\npoint."
                             ]
                         },
                         {
@@ -48215,14 +48187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "哨戒役も手薄。看守の目は作業員に向いている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ならば闇の中より不意を突き一撃のもと口を封じることは不可能ではないだろう。"
+                                "The patrol is thin. The guards' eyes are on the workers.\nTherefore, it wouldn't be impossible to surprise them in the\ndark and silence them with a single blow."
                             ]
                         },
                         {
@@ -48239,7 +48204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "露払いは私が引き受ける。アカネは元より扉の解錠にだけ集中してくれればいい。"
+                                "I'll take on the role of clearing the way. Akane, you just\nneed to focus solely on unlocking the door as usual."
                             ]
                         },
                         {
@@ -48425,14 +48390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "作戦ってほどじゃないが大体はわかったよ。"
+                                "Akane: It's not much of a strategy, but I've got the gist of\nit."
                             ]
                         },
                         {
@@ -48465,14 +48423,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうとわかればこんなとこさっさとおさらばしようじゃないか！"
+                                "Akane: Now that we know, let's say goodbye to this place\nquickly!"
                             ]
                         },
                         {
@@ -48782,14 +48733,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっとあんた！？　まさか、バカなこと考えてんじゃないだろうねッ！？"
+                                "Akane: Hey you! You're not thinking of doing something\nstupid, are you?!"
                             ]
                         },
                         {
@@ -48827,7 +48771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                "..."
                             ]
                         },
                         {
@@ -48874,14 +48818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふざけんじゃないっての！！"
+                                "Akane: Don't mess with me!!"
                             ]
                         },
                         {
@@ -48898,14 +48835,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここに居る奴らの為に牢の鍵を開けて回るのに一体どのくらい時間がかかると思ってんだよ！"
+                                "Akane: How long do you think it will take to unlock all the\ncells for these guys?!"
                             ]
                         },
                         {
@@ -48922,14 +48852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それに開放した所で腑抜けた彼奴等に一緒に脱走する気概があると思ってんのかよ！？"
+                                "Akane: And after freeing them, do you really think those\nspineless fools have the guts to escape with us?!"
                             ]
                         },
                         {
@@ -48946,21 +48869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "看守に反乱する気力も体力もない足手まといをぞろぞろ率いて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここから脱出なんて出来っこない！お前いい加減にしろよ！？"
+                                "Akane: Leading a bunch of useless deadweights who don't have\nthe energy or strength to rebel against the guards, there's\nno way we can escape from here! Get a grip, will you?!"
                             ]
                         },
                         {
@@ -48998,7 +48907,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                "..."
                             ]
                         },
                         {
@@ -49045,21 +48954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "放っておけないなら私たち二人で脱出できた後、また戻ってきて助けりゃいいだろ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それまでは、まぁ…ちょっと辛い日々を過ごすかもだけど……"
+                                "Akane: If you can't leave them behind, then after the two of\nus escape, we can come back and help them! Until then,\nwell... they might have to endure some tough days..."
                             ]
                         },
                         {
@@ -49076,21 +48971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だけど、どんな危険があるかわからない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんたの勝手な理想の脱出ごっこに付き合わされる奴の身になってちっとは考えろ！"
+                                "Akane: But think about the people who'd be dragged into your\nreckless ideal of an escape without knowing what dangers lie\nahead!"
                             ]
                         },
                         {
@@ -49128,7 +49009,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………………"
+                                "..."
                             ]
                         },
                         {
@@ -49177,14 +49058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おいっ！　聞いてんのかッ！？"
+                                "Akane: Hey! Are you listening to me?!?"
                             ]
                         },
                         {
@@ -49258,14 +49132,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これだけは覚えとくんだ。"
+                                "Manager: Remember this one thing."
                             ]
                         },
                         {
@@ -49289,14 +49156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここでは自分のことを、自分のことだけを第一に考えるんだ。"
+                                "Manager: Here, you think about yourself, only yourself,\nfirst and foremost."
                             ]
                         },
                         {
@@ -49351,14 +49211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それが自分のためにも、相手のためにもなる。"
+                                "Manager: That's for your own good, and for the good of\nothers too."
                             ]
                         },
                         {
@@ -49375,21 +49228,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "くれぐれも肝に銘じておくんだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんたみたいな世間知らずでバカ真面目な奴は、特にね。"
+                                "Manager: Make sure you engrave this in your mind, especially\nsomeone naive and overly serious like you."
                             ]
                         },
                         {
@@ -49570,7 +49409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（自分のことだけを考えろと言うのならば……）"
+                                "(If I were to only think of myself...)"
                             ]
                         },
                         {
@@ -49587,14 +49426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（崩落事故の責任を、押し付けることだって出来たはずだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　入ってきたばかりで右も左もわからない『世間知らずのバカ真面目』ひとりに……）"
+                                "(I could have pushed the responsibility for the collapse\naccident onto just one \"naive and overly serious\" person who\nhad just arrived and didn't know left from right...)"
                             ]
                         },
                         {
@@ -49632,7 +49464,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（なのに、私は今、ここにこうして立っている……）"
+                                "(And yet, here I am, standing like this...)"
                             ]
                         },
                         {
@@ -49672,14 +49504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "勿論アカネの考えは正しい。私がバカなことを言っているのはわかっていて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そしてこれは君に付き合ってもらわなくては成立しないことも承知している。"
+                                "Of course, Akane's thinking is correct. I know I'm being\nfoolish, and I'm aware that this can't happen without your\ncooperation."
                             ]
                         },
                         {
@@ -49726,14 +49551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マジかコイツ…"
+                                "Akane: Seriously, this guy..."
                             ]
                         },
                         {
@@ -49773,14 +49591,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私たちだけで脱出に成功しても、きっと看守どもは逃がした責任を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "労働者たちに押し付けるはずだ。その結果、行われるであろうことも……"
+                                "Even if we manage to escape on our own, the guards will\nsurely pin the blame for letting us escape on the workers.\nAnd what will likely happen to them as a result..."
                             ]
                         },
                         {
@@ -49797,7 +49608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ならば、せめて彼ら自身に選ばせたい。共に出たいという者を募りたい。"
+                                "Therefore, I at least want to give them a choice. I want to\ngather those who wish to escape with us."
                             ]
                         },
                         {
@@ -49814,7 +49625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いや、そんなのは詭弁かな。"
+                                "No, maybe that's just sophistry."
                             ]
                         },
                         {
@@ -49831,14 +49642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これは私の我が侭なんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "嘘だけは付きたくないんだ、自分の想いに。"
+                                "This is my selfishness. I just don't want to lie, not about\nmy own feelings."
                             ]
                         },
                         {
@@ -49855,7 +49659,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "迷惑をかける。それでも頼みたいのだ…"
+                                "I'll be a nuisance. But still, I want to ask..."
                             ]
                         },
                         {
@@ -49902,14 +49706,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぐぅ…"
+                                "Akane: Grr..."
                             ]
                         },
                         {
@@ -49958,14 +49755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ～も～！考え直すつもりは本当にないワケ！？"
+                                "Akane: Ahh, come on! You really have no intention of\nreconsidering, do you!?"
                             ]
                         },
                         {
@@ -50003,7 +49793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……………"
+                                "..."
                             ]
                         },
                         {
@@ -50020,7 +49810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……………すまない。"
+                                "...I'm sorry."
                             ]
                         },
                         {
@@ -50254,14 +50044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わかった！わかったよ！クソッ！"
+                                "Akane: Alright! Alright! Damn it!"
                             ]
                         },
                         {
@@ -50618,14 +50401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "乗りかかった船だ！どうせならとことん付き合ってやるさ！！"
+                                "Akane: I'm already on this ship! If I'm going to do it, I\nmight as well go all the way!!"
                             ]
                         },
                         {
@@ -50729,21 +50505,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただし仲間との脱出ごっこはお前だけでやれ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "連中引き連れて鍵開けなんて目立って出来ない、私は先行して出口へと向かうからな！"
+                                "Akane: But you're on your own with this escape game with\nyour friends! I can't stand out by unlocking doors with a\nbunch of people in tow, so I'll head to the exit first!"
                             ]
                         },
                         {
@@ -50948,7 +50710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すまない。恩に着る。"
+                                "I'm sorry. I owe you one."
                             ]
                         },
                         {
@@ -50995,21 +50757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふん！こっちだってここの看守にはヒドイ思いを散々させられたんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少しくらい泡吹かせてもバチは当たらないと思っただけさ！"
+                                "Akane: Hmph! I've been through enough hell with the guards\nhere myself. I think it's only fair to make them foam at the\nmouth a little!"
                             ]
                         },
                         {
@@ -51042,21 +50790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカネ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただし我が侭に付き合ってやるんだ。何かあったら私の命はお前が死んでも守れよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "王都へ着いたら報酬はたっぷりと用意してもらう！そこは約束しろよな！！"
+                                "Akane: But since I'm going along with your selfishness, you\nbetter protect my life even if it kills you! Once we reach\nthe royal capital, you better prepare a hefty reward! That's\na promise, got it!!?"
                             ]
                         },
                         {
@@ -51094,7 +50828,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ！我が騎士道に従い、約束を守ると誓うよ！"
+                                "Yes! I swear to uphold my chivalric code and keep that\npromise!"
                             ]
                         },
                         {

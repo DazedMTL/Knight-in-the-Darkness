@@ -6642,7 +6642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふ～～～……！飲んだ飲んだ！こんな夜は久々だよ！"
+                                "Phew...! That was some drinking! It's been a while since\nwe've had a night like this!"
                             ]
                         },
                         {
@@ -6659,14 +6659,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁ、そうだな。最近じゃ夜は出歩くなってお触れが出てるが、たまの息抜きさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっと飲んですぐに帰ればお咎めなんて無しさ！"
+                                "Ah, that's true. Lately, there's been a decree against\nwandering at night, but it's just a little breather. If we\ndrink quickly and head back, there'll be no reprimand!"
                             ]
                         },
                         {
@@ -6690,7 +6683,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相殿が実質的に王都の指揮を取るようになってから、どれ程の月日が経ったろうか。"
+                                "I wonder how much time has passed since the chancellor\neffectively took command of the royal capital."
                             ]
                         },
                         {
@@ -6707,14 +6700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この所、ニアレイクは領土拡大の一途だ。誉れ高いよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "前線には新型火器や一般兵でも使える魔導武器も配備されてるっていうじゃないか。"
+                                "Lately, Near Lake has been on a path of relentless\nterritorial expansion. It's quite the honor. They say the\nfront lines are even equipped with new firearms and magical\nweapons that even regular soldiers can use."
                             ]
                         },
                         {
@@ -6731,14 +6717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王都にいる限り安全が保証されたまま生活は良くなっていく。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しばらく前の王位の引き継ぎ時の混乱期を考えるとウソみたいさ。"
+                                "As long as you're in the royal capital, your safety is\nguaranteed and life keeps getting better. It's hard to\nbelieve when you think about the chaos during the transition\nof the throne not too long ago."
                             ]
                         },
                         {
@@ -6755,14 +6734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まったく宰相殿が羨ましいよ。あの王女に見初められ王家の契りを結んだんだからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今じゃ血筋なんてただの飾りだが、あの王女の美貌を毎夜好きにしていると思うとたまらないな。"
+                                "I'm really envious of the chancellor. To be favored by that\nprincess and to have tied the knot with the royal family.\nBloodlines are just for show now, but to think he can do as\nhe pleases with the princess's beauty every night... it's\nunbearable."
                             ]
                         },
                         {
@@ -6786,14 +6758,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ただここいら中心地区は概ね平和だが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "周辺国から手に入れた土地の秩序体制はというとあまり良い噂は聞かないね。"
+                                "While the central district here is mostly peaceful, I don't\nhear good things about the order in the lands acquired from\nneighboring countries."
                             ]
                         },
                         {
@@ -6810,14 +6775,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "軍は魔物の巣の掃討より、領土獲得のための進軍に力を入れている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仕方ないとはいえ領土が拡がれば手薄になった地域の魔物の増加は続くわけだからな。"
+                                "The army is more focused on advancing to acquire territory\nthan on exterminating monster dens. It can't be helped, but\nas territory expands, the increase in monsters in\nunderstaffed areas continues."
                             ]
                         },
                         {
@@ -6834,14 +6792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そのせいか日が落ちてからの外出はある程度制限されちまってる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "以前よりずっと夜が長く感じちまって何だか不気味だよ。"
+                                "Maybe that's why there are certain restrictions on going out\nafter dark. The nights feel much longer than before and it's\nsomewhat eerie."
                             ]
                         },
                         {
@@ -6858,14 +6809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うちの田舎んとこにも魔物の被害が出始めたらしく心配さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このあたりは、騎士が各々の領地を管理していた前体制のが良かった唯一の点だな。"
+                                "Even my hometown in the countryside seems to have started\nsuffering from monster attacks. The one good thing about the\nprevious system was that knights managed their own\nterritories."
                             ]
                         },
                         {
@@ -6889,7 +6833,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "騎士といえばお前、こんな噂を知っているか？"
+                                "Speaking of knights, have you heard this rumor?"
                             ]
                         },
                         {
@@ -6906,14 +6850,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "月照らす夜の暗闇から領内各地にふらりと現れては、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔物を斬り捨て再び夜の暗闇に戻っていくって放浪騎士のウワサをよ。"
+                                "There's talk of a wandering knight who appears out of the\ndarkness on moonlit nights, slays monsters in various\nplaces, and then vanishes back into the night."
                             ]
                         },
                         {
@@ -6930,14 +6867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "知ってるぜ。魔物だけじゃなく新型魔導兵器だろうと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "強化兵士だろうと見つければ斬って捨てちまうって狂った亡我の騎士だろ？"
+                                "I know about it. The mad knight who would cut down anything,\nbe it monsters, new magical weapons, or enhanced soldiers,\nif he found them, right?"
                             ]
                         },
                         {
@@ -6954,14 +6884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "血に濡れた鎧は漆黒のように黒ずんで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その姿を見てしまった者はけして生きて帰ることはないってもっぱらの話だぜ。"
+                                "The rumor has it that his armor, drenched in blood, is as\nblack as pitch, and those who see him never live to return."
                             ]
                         },
                         {
@@ -6978,14 +6901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハハハ！生きて帰ったもんがいねぇなら、それじゃあ誰が噂を流したんだよ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "夜に出歩く者を減らすために作られたガキしか怖がらねぇ噂だよそんなもんは！"
+                                "Ha ha ha! If no one lives to return, then who's spreading\nthe rumor?!! It's just a tale made up to scare kids and keep\npeople from wandering at night!"
                             ]
                         },
                         {
@@ -7002,7 +6918,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "違ぇねぇな！ハハハハハッッ！！"
+                                "No kidding! Hahahaha!!"
                             ]
                         },
                         {

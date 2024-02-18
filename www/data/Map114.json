@@ -10579,14 +10579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "準備は整ったか？それでは戦闘訓練を開始する。"
+                                "Commander: Is everything ready? Then let's begin the combat\ntraining."
                             ]
                         },
                         {
@@ -10594,8 +10587,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 -1,
@@ -10625,14 +10618,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "兵士長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "よしッ！皆アリーナへ集まれ！戦闘訓練を開始するぞッ！！"
+                                "Commander: Alright! Everyone gather at the arena! We're\nstarting the combat training!!"
                             ]
                         },
                         {
@@ -10729,14 +10715,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "兵士長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "詰め所の衛生箱に治療薬がいくつかある。不安ならば携帯していけ。"
+                                "Commander: There are some medical supplies in the\ninfirmary's first aid kit. If you're worried, take them with\nyou."
                             ]
                         },
                         {
@@ -10763,14 +10742,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "兵士長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "何ださっさと済ませろ。"
+                                "Commander: What's the holdup? Hurry up and get it over with."
                             ]
                         },
                         {
@@ -11262,14 +11234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "訓練の日程が書かれている。今日は戦闘訓練のようだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "準備が整ったら上官の元へ行こう。"
+                                "The training schedule is written here. It seems today is for\ncombat training. Once I'm ready, I should head to my\nsuperior's location."
                             ]
                         },
                         {
@@ -11346,14 +11311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "王女様が宰相殿と王家の契りを結ばれてからもう半年か。"
+                                "Soldier: It's already been half a year since Princess-sama\nformed a royal pact with the chancellor."
                             ]
                         },
                         {
@@ -11370,14 +11328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うちの国も随分と遠方まで進軍しているようだ。代が変わってからこの方快進撃が続くね。"
+                                "Soldier: Our country seems to have advanced its troops quite\nfar into distant lands. Ever since the change in leadership,\nour rapid progress continues."
                             ]
                         },
                         {
@@ -11454,21 +11405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "粗暴な兵士："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "テメェは新兵か？　どうだ一杯。かまいやしねぇさ。ハハハ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "前線張ってるやつなんてレベルが違ぇ。オレら一般兵は訓練にかこつけて塩漬けなんだからよ！"
+                                "Rough Soldier: You a new recruit? How 'bout a drink? I don't\nmind at all. Hahaha! The guys on the front lines are on a\nwhole different level. Us regular soldiers are just pickled\nin training, that's all!"
                             ]
                         },
                         {
@@ -11545,21 +11482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "目付きの悪い傭兵："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オレたち見てぇなゴロツキも兵士として召し抱えてくださるたぁ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この国も気前が良くなったもんだ。もっとも毎日訓練ばっかしだけどな。"
+                                "Scowling Mercenary: \"Even thugs like us getting hired as\nsoldiers, this country has really become generous. Though\nit's nothing but training every day.\""
                             ]
                         },
                         {
@@ -11636,14 +11559,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "フンッ！ハッ！まだまだ！"
+                                "Soldier: \"Hmph! Ha! Not even close!\""
                             ]
                         },
                         {
@@ -11720,14 +11636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "セイ！ハッ！エエエエイ！！！"
+                                "Soldier: \"Sei! Ha! Eeeei!!!\""
                             ]
                         },
                         {
@@ -11804,14 +11713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はやく実力をつけて私も国ために戦うんだ…！"
+                                "Soldier: \"I must quickly improve my skills to fight for my\ncountry...!\""
                             ]
                         },
                         {
@@ -11888,21 +11790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "宰相殿が指揮をとるようになった隣国との一戦以来、王都は領土拡大の一途だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただ未だに魔物による被害は多く、地方では人さらいも多いと聞くがな。"
+                                "Soldier: Ever since the chancellor took command in the\nbattle against our neighboring country, the royal capital\nhas been on a path of territorial expansion. However, I hear\nthere's still a lot of harm caused by monsters, and there\nare many kidnappers in the provinces."
                             ]
                         },
                         {
@@ -11979,21 +11867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もともと夕方が長いこのニアレイクだが、最近どうも夜が長くなってきている気がするんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何かの予兆でないといいんだけどね。ま、心配しても仕方ないか。"
+                                "Soldier: Near Lake has always had long evenings, but lately,\nit feels like the nights are getting longer. I hope it's not\na sign of something. Well, no use worrying about it, I\nguess."
                             ]
                         },
                         {
@@ -12070,14 +11944,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "薬師："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ケガはないですか？"
+                                "Healer: Are you injured?"
                             ]
                         },
                         {
@@ -12111,14 +11978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "薬師："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無事に帰ってきてくださいね。"
+                                "Healer: Please come back safely."
                             ]
                         },
                         {
@@ -12195,7 +12055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今こちらへは用がない。"
+                                "I have no business here right now."
                             ]
                         },
                         {
@@ -12303,7 +12163,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今こちらへは用がない。"
+                                "I have no business here right now."
                             ]
                         },
                         {
@@ -12411,7 +12271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今こちらへは用がない。"
+                                "I have no business here right now."
                             ]
                         },
                         {
@@ -12550,14 +12410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こらこら、私を無視するな。"
+                                "Captain: Hey, hey, don't ignore me."
                             ]
                         },
                         {
@@ -12741,14 +12594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こらこら、私を無視するな。"
+                                "Captain: \"Hey, hey, don't ignore me.\""
                             ]
                         },
                         {
@@ -12901,14 +12747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうだ？訓練前に準備運動がてら軽く汗を流すってのは？"
+                                "Soldier: How about it? How about breaking a light sweat as a\nwarm-up before training?"
                             ]
                         },
                         {
@@ -12916,8 +12755,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 -1,
@@ -12947,14 +12786,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "兵士："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それではいくぞッ！"
+                                "Soldier: Then, let's go!"
                             ]
                         },
                         {
@@ -13007,14 +12839,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "兵士："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "グガッ！　なかなかやるじゃないか…！"
+                                "Soldier: Gugh! You're quite good...!"
                             ]
                         },
                         {
@@ -13031,21 +12856,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "兵士："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "少しムキになってしまったが、身体もほぐれてきたようだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "傷が出来たのなら部屋の奥の薬師に見てもらうといい。ではお互い良い訓練にしよう。"
+                                "Soldier: I might have gotten a bit carried away, but it\nseems my body is loosening up. If you've got any injuries,\nyou should see the medic in the back of the room. Let's both\nhave a good training session."
                             ]
                         },
                         {
@@ -13081,14 +12892,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "兵士："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "おお、悪い悪い…！　だが君もなかなかやるじゃないか…！"
+                                "Soldier: Oh, my bad, my bad...! But you're pretty impressive\ntoo...!"
                             ]
                         },
                         {
@@ -13105,21 +12909,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "兵士："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "少しムキになってしまったが、身体もほぐれてきたようだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "傷が出来たのなら部屋の奥の薬師に見てもらうといい。ではお互い良い訓練にしよう。"
+                                "Soldier: I might have gotten a bit carried away, but it\nseems my body is loosening up. If you've got any injuries,\nyou should see the medic in the back of the room. Let's both\nhave a good training session."
                             ]
                         },
                         {
@@ -13159,14 +12949,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "兵士："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それもいいだろう。準備は怠るなよ。"
+                                "Soldier: That sounds good too. Don't skimp on the\npreparations."
                             ]
                         },
                         {
@@ -13385,7 +13168,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "箱に入った治療薬をいくつか手持ちに加えた。"
+                                "I added several boxed medicines to my inventory."
                             ]
                         },
                         {
@@ -13484,7 +13267,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "手持ちに加えた数で十分だろう。他の訓練生のためにいくつか残しておこう。"
+                                "The number we've added to our inventory should be enough.\nLet's leave some for the other trainees."
                             ]
                         },
                         {

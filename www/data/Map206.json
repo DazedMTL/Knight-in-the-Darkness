@@ -8516,7 +8516,7 @@
                             "code": 405,
                             "indent": 0,
                             "parameters": [
-                                "『ナイトインザダークネス ～薄暮れの国の女騎士レイシア～ 』 fin."
+                                "\"Knight in the Darkness ~Twilight of the Kingdom's Female\nKnight Reisha~\" fin."
                             ]
                         },
                         {
@@ -8600,7 +8600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・グッドエンド：[旅路の果て。]"
+                                "Good End: [End of the Journey.]"
                             ]
                         },
                         {
@@ -8661,14 +8661,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本編クリアデータをセーブします。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(本編には戻れなくなるのでスロットを分けてセーブすることを推奨。)"
+                                "You can save the main story clear data. (As you cannot\nreturn to the main story, it is recommended to save in a\nseparate slot.)"
                             ]
                         },
                         {

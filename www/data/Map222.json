@@ -2887,7 +2887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セーブしてゲームを続けますか？（最終イベント開始前からリスタートします。）"
+                                "Would you like to save and continue the game? (You will\nrestart from before the final event begins.)"
                             ]
                         },
                         {
@@ -2895,8 +2895,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

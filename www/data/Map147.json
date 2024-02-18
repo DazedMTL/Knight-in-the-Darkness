@@ -9856,7 +9856,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ここから先は地形の様子が変わっている。少し用心した方が良いかもしれないな……"
+                                "The terrain seems to change beyond this point. It might be\nwise to proceed with caution..."
                             ]
                         },
                         {
@@ -9873,7 +9873,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "先へ進みますか？"
+                                "Shall we move forward?"
                             ]
                         },
                         {
@@ -9881,8 +9881,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

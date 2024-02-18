@@ -6050,7 +6050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こいつは復興地区で戦った魔導ゴーレム……！！"
+                                "This is the same magical golem we fought in the\nreconstruction district...!!"
                             ]
                         },
                         {
@@ -6174,7 +6174,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "望まぬ来客を追い返すのが役割か！だがこいつとの戦い方は心得ている……！"
+                                "Its role must be to repel unwanted visitors! But I know how\nto fight this thing...!"
                             ]
                         },
                         {
@@ -6224,7 +6224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "時間が惜しいのでな。邪魔をするなら退いてもらうぞ岩石人形……！！"
+                                "We're short on time. If you're going to get in the way, step\naside, rock puppet...!!"
                             ]
                         },
                         {
@@ -6466,7 +6466,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "守衛ご苦労！だが今回はそこで眠っていろッ！！"
+                                "Thanks for your hard work, guard! But this time, just sleep\nright there!!"
                             ]
                         },
                         {
@@ -6890,14 +6890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（量産される魔導兵器、採掘坑より運ばれる特殊鉱石や労働者。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　王都の混乱の影で何かが起きている。あるいはそれらは繋がっているのだろうか。）"
+                                "(Mass-produced magical weapons, special ores and workers\ncarried from the mines. Something is happening in the shadow\nof the capital's chaos. Could all these be connected?)"
                             ]
                         },
                         {
@@ -6914,7 +6907,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（道が細く延びている。進めばさて……）"
+                                "(The path narrows and stretches ahead. If we proceed,\nthen...)"
                             ]
                         },
                         {
@@ -7146,7 +7139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何が待つのだろうな……！"
+                                "I wonder what awaits us...!"
                             ]
                         },
                         {
@@ -7813,7 +7806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔力のパスが切られたのか、もう起動はしないようだ。"
+                                "It seems the magic path has been severed; it won't activate\nanymore."
                             ]
                         },
                         {

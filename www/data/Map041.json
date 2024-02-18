@@ -13679,14 +13679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "……大丈夫か？"
+                                "Section Chief: ...Are you alright?"
                             ]
                         },
                         {
@@ -13898,7 +13891,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁ、なんとか…"
+                                "Yeah, somehow..."
                             ]
                         },
                         {
@@ -13974,7 +13967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だが……"
+                                "But..."
                             ]
                         },
                         {
@@ -14052,14 +14045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何さ…、あんな石っころのために……"
+                                "Section Chief: What the... for such a pebble..."
                             ]
                         },
                         {
@@ -14456,14 +14442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄役人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おい、何の騒ぎだ！"
+                                "Prison Officer: Hey, what's the commotion!"
                             ]
                         },
                         {
@@ -14489,14 +14468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄役人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どういうことだこれは！！"
+                                "Prison Officer: What the hell is this about!!"
                             ]
                         },
                         {
@@ -14591,14 +14563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄役人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何とか言え！！"
+                                "Prison Officer: Say something!!"
                             ]
                         },
                         {
@@ -14622,14 +14587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "申し訳ありません…　私の監督不行き届きで作業中に崩落…"
+                                "Section Chief: I apologize... It was my lack of supervision\nthat caused the collapse during work..."
                             ]
                         },
                         {
@@ -14646,14 +14604,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "採掘作業中の作業員一名が土砂の下敷きになり、おそらく……"
+                                "Section Chief: One of the miners was buried under the rubble\nduring the excavation, and probably..."
                             ]
                         },
                         {
@@ -14677,14 +14628,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄役人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうじゃねぇ！！掘った鉱石や晶石はどうなったんだ…！！"
+                                "Prison Officer: That's not it!! What happened to the mined\nore and crystals...!!"
                             ]
                         },
                         {
@@ -14708,14 +14652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "──…………"
+                                "Section Chief: ──..."
                             ]
                         },
                         {
@@ -14739,14 +14676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "突然の出来事だったので持ち出すことは出来ず、土砂の下敷きになったものと…"
+                                "Section Chief: It was so sudden that we couldn't take them\nout, they must be buried under the rubble as well..."
                             ]
                         },
                         {
@@ -15056,14 +14986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄役人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あぁん！？コラてめこら！！"
+                                "Prison Officer: Aaah!? Hey you bastard!!"
                             ]
                         },
                         {
@@ -15080,21 +15003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄役人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前たちが何のためにいると思ってんだよ！？石掘りだすためだろ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それが何だ！？石を守らねぇで自分だけ助かったのかよ！？"
+                                "Prison Officer: What do you think you're here for!? To dig\nup stones, right!? And what's this!? You saved yourself but\ndidn't protect the stones!?"
                             ]
                         },
                         {
@@ -15120,21 +15029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄役人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "死んでも石を守るんだろが！？それだけがお前らの存在価値だろ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前らの代わりなんていくらでもいるんだよ！！"
+                                "Prison Officer: You're supposed to protect the stones even\nif it kills you!? That's your only value! There are plenty\nof others to replace you!!"
                             ]
                         },
                         {
@@ -15169,14 +15064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あぐぅ…！　うぅ……！！"
+                                "Section Chief: Aguu...! Ugh...!!"
                             ]
                         },
                         {
@@ -15221,14 +15109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄役人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "チッ！役立たずめ…！！"
+                                "Prison Officer: Tch! Useless trash...!!"
                             ]
                         },
                         {
@@ -15485,14 +15366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄役人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おいクズ共！！採掘した石を運び出さずにただ見ていたお前らも連帯責任だからな！！"
+                                "Prison Officer: Hey you scum!! You're also responsible for\njust watching and not moving the mined stones!!"
                             ]
                         },
                         {
@@ -15509,14 +15383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄役人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "数ばっかいるくせにただ指くわえて見てただけかよ！！まともに仕事が出来る奴はいねぇのか！！"
+                                "Prison Officer: There are so many of you, yet all you did\nwas stand there with your thumbs in your mouths! Is there no\none who can do their job properly!!"
                             ]
                         },
                         {
@@ -15533,21 +15400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄役人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{お前ら全員だ！全員、然るべき処罰を与えてやるからな！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "せいぜい楽しみにしておけよぉッッ！！"
+                                "Prison Officer: All of you! Every single one of you will be\ngiven the appropriate punishment!! Look forward to it!!"
                             ]
                         },
                         {
@@ -15647,7 +15500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "貴様らぁ！！　労働者の命を一体何だと思ってるんだ……ッッ！！"
+                                "You bastards!! What do you think a worker's life is\nworth...!!"
                             ]
                         },
                         {
@@ -15764,14 +15617,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゲホ……　ま、待って、ください…"
+                                "Section Chief: Cough... Please, wait..."
                             ]
                         },
                         {
@@ -15795,14 +15641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当に…、申し訳ありません。"
+                                "Section Chief: I truly... am sorry."
                             ]
                         },
                         {
@@ -15819,14 +15658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかしこれは、指導役である私の…、私だけの、責任です…"
+                                "Section Chief: But this is... the responsibility of me, the\nsupervisor... my sole responsibility..."
                             ]
                         },
                         {
@@ -15843,14 +15675,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私はどんな罰も受けますので、どうか…　他の者達には…　彼らは何の罪もありません…"
+                                "Section Chief: I will accept any punishment, so please...\nspare the others... they are innocent..."
                             ]
                         },
                         {
@@ -15914,7 +15739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おい…お前…！！"
+                                "Hey... you...!!"
                             ]
                         },
                         {
@@ -15945,21 +15770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いいんだ…他の奴らは何の関係ない。アタシが原因なんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ムキになって口論なんてしちまったのが運の尽きさ。悪いのはアタシだけなんだよ。"
+                                "Section Chief: It's alright... The others have nothing to do\nwith this. I'm the cause. Getting heated and arguing was my\ndownfall. I'm the only one at fault here."
                             ]
                         },
                         {
@@ -15976,14 +15787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当に、どうか、どうか…　お願いします……"
+                                "Section Chief: Truly, please, I beg of you..."
                             ]
                         },
                         {
@@ -16009,14 +15813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄役人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "──……………、\\!そうかいそうかい。ご立派なこった。"
+                                "Prison Officer: ──... Is that so. How noble of you."
                             ]
                         },
                         {
@@ -16078,14 +15875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄役人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だとよ。助かったなお前ら。"
+                                "Prison Officer: That's right. You guys are lucky."
                             ]
                         },
                         {
@@ -16102,14 +15892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄役人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やさしいやさしい室長がお前らのために酷い目にあってくれるってよ！"
+                                "Prison Officer: The kind and gentle Section Chief is going\nto suffer for all of you!"
                             ]
                         },
                         {
@@ -16222,14 +16005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄役人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "フヘヘヘヘ…！！"
+                                "Prison Officer: Fufufufufu...!!"
                             ]
                         },
                         {
@@ -16246,14 +16022,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄役人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょうど前まで使ってたオモチャを壊しちまったところだからなぁ。丁度いいぜ。"
+                                "Prison Officer: I just happened to break the toy I was using\nbefore. This is perfect."
                             ]
                         },
                         {
@@ -16277,14 +16046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "………………………………………"
+                                "Section Chief: ..."
                             ]
                         },
                         {
@@ -16387,7 +16149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おい…！お前自分が何を言ってるのかわかってるのか！？"
+                                "Hey...! Do you realize what you're saying!?"
                             ]
                         },
                         {
@@ -16418,14 +16180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "……………"
+                                "Section Chief: ..."
                             ]
                         },
                         {
@@ -16456,7 +16211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おいッ！！！何とか言え…！！"
+                                "Hey!!! Say something...!!"
                             ]
                         },
                         {
@@ -16565,14 +16320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄役人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うるせぇんだよ！！"
+                                "Prison Officer: Shut up already!!"
                             ]
                         },
                         {
@@ -16982,14 +16730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄役人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ドブネズミが！そこで寝てろッ！！"
+                                "Prison Officer: You sewer rat! Just lie there and sleep!!"
                             ]
                         },
                         {
@@ -17062,14 +16803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄役人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オイッ！気が変わらねぇうちにさっさと連れてけ！！"
+                                "Prison Officer: Hey! Take her away before I change my mind!!"
                             ]
                         },
                         {
@@ -17893,14 +17627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄役人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おいクズ共！！ぼすっとするなよ！！すぐに仕事に戻れ！！"
+                                "Prison Officer: Hey, you scum!! Don't just stand there!! Get\nback to work immediately!!"
                             ]
                         },
                         {
@@ -17917,14 +17644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄役人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "遅れた分の作業が終わるまで飯にありつけると思うな！わかったな！？！"
+                                "Prison Officer: Don't even think about getting food until\nyou make up for the time you've wasted! Got it?!?"
                             ]
                         },
                         {
@@ -18579,7 +18299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ま、待ってくれ！"
+                                "Wait, please!"
                             ]
                         },
                         {
@@ -18641,14 +18361,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄役人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ？"
+                                "Prison Officer: Huh?"
                             ]
                         },
                         {
@@ -18810,14 +18523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さっき彼女はああ言ったが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この件に関しては同作業班である私にも事故の原因の一端はあるんだ！"
+                                "She said what she said earlier, but as someone in the same\nwork group, I also share some responsibility for the\naccident!"
                             ]
                         },
                         {
@@ -18834,14 +18540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "彼女だけに責任を負わせるわけにはいかない！私にも同じく処罰を受ける義務があるはずだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私も罰を受ける！だから、彼女を…！"
+                                "I can't let her take all the blame! I have an obligation to\nbe punished as well! I will accept punishment! So,\nplease...!"
                             ]
                         },
                         {
@@ -18872,14 +18571,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄役人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁ？"
+                                "Prison Officer: Hah?"
                             ]
                         },
                         {
@@ -18910,14 +18602,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "彼女にも彼女の覚悟があるのはわかる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかしだからと言って他人を犠牲にして自分が守られるなぞ、私は我慢できん。"
+                                "I understand she has her own resolve. But I cannot stand by\nwhile someone else is sacrificed so that I can be protected."
                             ]
                         },
                         {
@@ -18934,14 +18619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "虫のいいことを言っていることは自覚している！！私も罰を受ける！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だから、少しでも彼女の刑罰を軽くしてやることは、お願いできないだろうか？"
+                                "I'm aware that I'm asking for too much!! But I will accept\npunishment! So, is there any way you could lighten her\nsentence, even just a little?"
                             ]
                         },
                         {
@@ -18972,14 +18650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄役人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "てめぇせっかく庇ってもらってんだから大人しくしてりゃいいのに。バカか？"
+                                "Prison Officer: You're getting shielded and you should just\nkeep quiet. Are you stupid?"
                             ]
                         },
                         {
@@ -18996,14 +18667,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄役人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それにテメェが俺に指図できる立場か？寝言はねて言えやネズミが。"
+                                "Prison Officer: Besides, do you think you're in any position\nto give me orders? Save your sleep talk for when you're\nasleep, rat."
                             ]
                         },
                         {
@@ -19034,7 +18698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "気を悪くさせたなら謝ろう。しかし…、しかしだ！"
+                                "If I've offended you, I apologize. However... but still!"
                             ]
                         },
                         {
@@ -19051,14 +18715,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お願いだ！本当に、短い間ではあったが彼女には世話になった！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "傷の手当をされてなければ今頃私はここに…いやそれどころか命さえも…"
+                                "Please! Truly, even though it was for a short time, she took\ncare of me! If she hadn't treated my wounds, by now I\nwouldn't be here... no, I might not even be alive..."
                             ]
                         },
                         {
@@ -19075,7 +18732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "騎士として、いや人として返さねばならない恩がある！"
+                                "As a knight, no, as a person, I owe her a debt of gratitude\nthat must be repaid!"
                             ]
                         },
                         {
@@ -19092,14 +18749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何でもする！\\!処罰も代わりに受ける！\\!どんな責め苦でもかまわない！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!どうか、どうか助けてやることは出来ないか？"
+                                "I'll do anything! I'll take the punishment in her place! I\ndon't care what kind of torture it is! Please, is there any\nway you can help her?"
                             ]
                         },
                         {
@@ -19139,14 +18789,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄役人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふ～ん、そうだなぁ…　お前がそこまで言うなら考えてやらなくもないなぁ…"
+                                "Prison Officer: Hmm, well... if you say so, I might consider\ntalking to the boss about it..."
                             ]
                         },
                         {
@@ -19186,7 +18829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほ、本当かッ！？"
+                                "Really?!"
                             ]
                         },
                         {
@@ -19217,21 +18860,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄役人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただ事故は起きたし隠すことは出来ない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "罰は受けてもらわないとこっちも仕事してる身として上に示しがつかねぇ。"
+                                "Prison Officer: But an accident happened and we can't hide\nit. You'll have to be punished because we need to show the\nhigher-ups that we're doing our job."
                             ]
                         },
                         {
@@ -19262,7 +18891,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "う、うぅ…　たしかにそうだな…"
+                                "Ugh... that's true..."
                             ]
                         },
                         {
@@ -19293,21 +18922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄役人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、そこまでいうんならこっちからボスに少しだけかけあってやってもいいぜ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボスが直々に指示するなら、こっちも処罰を軽くしなきゃならねぇ。"
+                                "Prison Officer: However, if you insist that much, I might\njust talk to the boss for you. If the boss gives a direct\norder, then we might have to lighten the punishment."
                             ]
                         },
                         {
@@ -19324,21 +18939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄役人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうなりゃいくらここの規律が厳しいとは言え、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あいつの命まで取られることもないかもしれないなぁ？多分。"
+                                "Prison Officer: If that happens, even with the strict rules\nhere, her life might not be taken. Maybe."
                             ]
                         },
                         {
@@ -19369,7 +18970,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "頼むお願いだ！そうしてもらえると助かる！"
+                                "Please, I beg you! It would help a lot if you could do that!"
                             ]
                         },
                         {
@@ -19409,21 +19010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄役人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前は身体はなかなか悪くないが、オレは痩せ細った暗いネズミを痛めつけるのが趣味でね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だからオレの好みじゃねぇ。ただボスはお前みたいのは気に入ってくれると思うぜ。"
+                                "Prison Officer: You've got a pretty good body, but I prefer\ntorturing skinny, gloomy rats. You're not my type. But I\nthink the boss might like someone like you."
                             ]
                         },
                         {
@@ -19440,21 +19027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄役人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こっちもボスの点数稼ぎ出来るならそれでいい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あとはお前が懇願するなり尻でも舐めるなり好きにやりな。こっちの知ったこっちゃねぇぜ。"
+                                "Prison Officer: If it helps me score points with the boss,\nthen that's fine by me. The rest is up to you whether you\nbeg or lick ass or whatever. It's none of my business."
                             ]
                         },
                         {
@@ -19485,7 +19058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そ、それで彼女は助けてもらえるんだな！？"
+                                "So, that means she'll be saved?!"
                             ]
                         },
                         {
@@ -19516,14 +19089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄役人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ん～？　そこはボスの機嫌次第だろうから、約束は出来ねぇよ。"
+                                "Prison Officer: Hmm? That depends on the boss's mood, so I\ncan't make any promises."
                             ]
                         },
                         {
@@ -19540,14 +19106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄役人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まぁいい、着いてこい。"
+                                "Prison Officer: Well, whatever, follow me."
                             ]
                         },
                         {
@@ -19609,14 +19168,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監獄役人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おらぁ！テメェらは黙って掘り続けてろ！！サボったらぶっ殺すからな！！"
+                                "Prison Officer: Oi! You lot keep digging in silence!! If you\nslack off, I'll kill you!!"
                             ]
                         },
                         {

@@ -10652,14 +10652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ここも施錠は施されているようだな。）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　"
+                                "(It seems this place is locked as well.)"
                             ]
                         },
                         {
@@ -10676,7 +10669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（しかし見た所さほど頑丈な素材で作られてはいないようだ。）"
+                                "(But at a glance, it doesn't look like it's made of very\nsturdy material.)"
                             ]
                         },
                         {
@@ -10693,7 +10686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（それならば……）"
+                                "(If that's the case...)"
                             ]
                         },
                         {
@@ -10783,7 +10776,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この程度ッ……！！"
+                                "This is nothing...!!"
                             ]
                         },
                         {
@@ -10961,7 +10954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "悪く思うなよ。さて、中を探らせてもらおうか。"
+                                "Don't take it personally. Now, let's see what's inside."
                             ]
                         },
                         {
@@ -11140,7 +11133,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「書斎」と書いてある。"
+                                "It says \"Study\"."
                             ]
                         },
                         {
@@ -11489,7 +11482,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『最上階の鍵』を使った。"
+                                "Used the \"Key to the Top Floor.\""
                             ]
                         },
                         {
@@ -11768,7 +11761,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "厳重に施錠されているようで開けることが出来ないようだ。"
+                                "It seems to be securely locked and cannot be opened."
                             ]
                         },
                         {
@@ -11792,7 +11785,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（仕方ない。まだ行っていない箇所などあったら足を運ぶ他ないか……）"
+                                "(Can't be helped. I guess I have no choice but to visit\nplaces I haven't been to yet...)"
                             ]
                         },
                         {
@@ -12115,7 +12108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「個人研究室」と書かれている。"
+                                "\"Private Research Lab\" is written here."
                             ]
                         },
                         {

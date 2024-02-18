@@ -4200,7 +4200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリクシールを手に入れた。"
+                                "Gained an Elixir."
                             ]
                         },
                         {
@@ -4459,7 +4459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリクシールを手に入れた。"
+                                "Gained an Elixir."
                             ]
                         },
                         {
@@ -4718,7 +4718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリクシールを手に入れた。"
+                                "Gained an Elixir."
                             ]
                         },
                         {
@@ -4868,7 +4868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "資料-『魔導ゴーレムについて』、を手に入れた。"
+                                "Acquired the document \"About the Magic Golem\"."
                             ]
                         },
                         {
@@ -5026,7 +5026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "資料-『魔鉱晶石について』、を手に入れた。"
+                                "Gained the document - \"About Magic Ore Crystals\"."
                             ]
                         },
                         {
@@ -5184,7 +5184,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "資料-『魔導研究員の手記01』、を手に入れた。"
+                                "Obtained the document - \"Mage Researcher's Notes 01\"."
                             ]
                         },
                         {
@@ -5342,7 +5342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "資料-『魔導研究員の手記02』、を手に入れた。"
+                                "Obtained the document - \"Mage Researcher's Notes 02\"."
                             ]
                         },
                         {
