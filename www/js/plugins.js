@@ -368,7 +368,7 @@ var $plugins = [
     status: true,
     description: "メインメニューにコモンイベント実行用のコマンドを追加します。",
     parameters: {
-      command1: '{"name":"回想部屋へ","commonEventId":"28"}',
+      command1: '{"name":"Recollection","commonEventId":"28"}',
       command2: '{"name":"","commonEventId":"0"}',
       command3: '{"name":"","commonEventId":"0"}',
       command4: '{"name":"","commonEventId":"0"}',
@@ -571,6 +571,6 @@ var $plugins = [
     name: "LoadComSim",
     status: true,
     description: "ver1.00 メニューコマンドにロードを追加します。",
-    parameters: { loadtext: "ロード" },
+    parameters: { loadtext: "Load" },
   },
 ];
