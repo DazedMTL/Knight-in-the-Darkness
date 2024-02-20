@@ -8933,7 +8933,7 @@
                                 50,
                                 0,
                                 4,
-                                "'女性向けカクテル (\\x1bC[1]弱\\x1bC[0])(\\x1bC[27]甘\\x1bC[0])'"
+                                "\"Cocktail for Ladies (\\x1bC[1]Weak\\x1bC[0])(\\x\\n1bC[27]Sweet\\x1bC[0])\""
                             ]
                         },
                         {
@@ -8944,7 +8944,7 @@
                                 51,
                                 0,
                                 4,
-                                "'高級女性向けカクテル (\\x1bC[2]強\\x1bC[0])'"
+                                "\"High-Class Ladies' Cocktail\\n(\\x1bC[2]Strong\\x1bC[0])\""
                             ]
                         },
                         {
@@ -8955,7 +8955,7 @@
                                 52,
                                 0,
                                 4,
-                                "'男性向けカクテル (\\x1bC[1]弱\\x1bC[0])'"
+                                "\"Cocktail for Men (\\x1bC[1]Weak\\x1bC[0])\""
                             ]
                         },
                         {
@@ -8966,7 +8966,7 @@
                                 53,
                                 0,
                                 4,
-                                "'高級男性向けカクテル (\\x1bC[18]辛\\x1bC[0])(\\x1bC[6]大\\x1bC[0])'"
+                                "\"Premium Cocktail for Men (\\x1bC[18]Spicy\\x1bC\\n[0])(\\x1bC[6]Large\\x1bC[0])\""
                             ]
                         },
                         {
@@ -8977,7 +8977,7 @@
                                 54,
                                 0,
                                 4,
-                                "'ストロングタイガー (\\x1bC[2]強\\x1bC[0])(\\x1bC[27]甘\\x1bC[0])'"
+                                "\"Strong Tiger (\\x1bC[2]Strong\\x1bC[0])(\\x1bC[2\\n7]Sweet\\x1bC[0])\""
                             ]
                         },
                         {
@@ -8988,7 +8988,7 @@
                                 55,
                                 0,
                                 4,
-                                "'ストロングドラゴン (\\x1bC[2]強\\x1bC[0])(\\x1bC[18]辛\\x1bC[0])'"
+                                "\"Strong Dragon (\\x1bC[2]Strong\\x1bC[0])(\\x1bC[\\n18]Spicy\\x1bC[0])\""
                             ]
                         },
                         {
@@ -8999,7 +8999,7 @@
                                 56,
                                 0,
                                 4,
-                                "'トワイライトティアーズ (\\x1bC[18]辛\\x1bC[0])'"
+                                "\"Twilight Tears (\\x1bC[18]Spicy\\x1bC[0])\""
                             ]
                         },
                         {
@@ -9010,7 +9010,7 @@
                                 57,
                                 0,
                                 4,
-                                "'しゅわしゅわあわわ (\\x1bC[1]弱\\x1bC[0])(\\x1bC[27]甘\\x1bC[0])(\\x1bC[6]大\\x1bC[0])'"
+                                "\"Fizzy bubbly (\\x1bC[1]weak\\x1bC[0])(\\x1bC[27]\\nsweet\\x1bC[0])(\\x1bC[6]big\\x1bC[0])\""
                             ]
                         },
                         {
